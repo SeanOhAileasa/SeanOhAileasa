@@ -951,7 +951,7 @@
             - { ["**abs**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-abs.ipynb) : &#x1F530; }
             { ["**bin**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-bin.ipynb) : &#x1F530; }
             { ["**chr**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-chr.ipynb) : &#x1F530; }
-            { ["**dir**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-dir.ipynb) : &#x1F4CC; 09022020_60 } <!-- &#x1F530; -->
+            { ["**dir**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-dir.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
             { ["**format**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-format.ipynb) : &#x1F530; }
             { ["**id**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-id.ipynb) : &#x1F530; }
             { ["**isinstance**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-isinstance.ipynb) : &#x1F530; }
@@ -974,20 +974,25 @@
                         - { ["**float**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-float.ipynb) : &#x1F530; }
 
                             - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-float-method-intentionally-blank.ipynb) : &#x26AA; }
+
                                 - { ["**.as-integer-ratio**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-float-method-as-integer-ratio.ipynb) : &#x1F530; }
 
                         - { ["**complex**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex.ipynb) : &#x1F530; }
 
                             - { ["**attribute**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex-intentionally-blank.ipynb) : &#x26AA; }
+
                                 - { ["**.real**" : &#x1F530;} {"**.imag**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex-attribute-real-imag.ipynb) : &#x1F530; }
 
                             - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex-method-intentionally-blank.ipynb) : &#x26AA; }
+
                                 - { ["**.conjugate**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex-method-conjugate.ipynb) : &#x1F530; }
 
                         - { ["**str**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str.ipynb) : &#x1F530; }
 
                             - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-intentionally-blank.ipynb) : &#x26AA; }
+
                                 - { ["**.format**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-format.ipynb) : &#x1F530; }
+
                                 - { ["**.isupper**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-isupper.ipynb) : &#x1F530; }
 
                         - { ["**{bool**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-bool.ipynb) : &#x1F530; }
@@ -997,7 +1002,9 @@
                         - { ["**list**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list.ipynb) : &#x1F530; }
 
                             - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-method-intentionally-blank.ipynb) : &#x26AA; }
+
                                 - { ["**.append**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-method-append.ipynb) : &#x1F530; }
+
                                 - { ["**.sort**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-method-sort.ipynb) : &#x1F530; }
 
                             - { ["**indexing**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-indexing.ipynb) : &#x1F530; }
@@ -1023,17 +1030,19 @@
                         - { ["**dict**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-dict.ipynb) : &#x1F530; }
 
                             - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-dict-method-intentionally-blank.ipynb): &#x26AA; }
+
                                 - { ["**.values**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-dict-method-values.ipynb) : &#x1F530; }
 
                         - { ["**set**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set.ipynb) : &#x1F530; }
 
                             - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-intentionally-blank.ipynb) : &#x26AA; }
+
                                 - { ["**.union**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-union.ipynb) : &#x1F530; }
                                 { ["**.intersection**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-intersection.ipynb) : &#x1F530; }
                                 { ["**.difference**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-difference.ipynb) : &#x1F530; }
                                 { ["**.symmetric_difference**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-symmetric_difference.ipynb) : &#x1F530; }
 
-    - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module.ipynb) : &#x1F4CC; 09022020_120, 09032020_120 } <!-- &#x1F530; -->
+    - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
 
         - { ["**built-in**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-intentionally-blank.ipynb) : &#x26AA; }
         
@@ -1041,11 +1050,13 @@
 
                 - { ["**name**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-intentionally-blank.ipynb) : &#x26AA; }
 
-                    - { ["**path**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path.ipynb) : &#x1F4CC; 09022020_60 } <!-- &#x1F530; -->
-                    
-                        - { ["**modify-sys.path-src-pro-par-pyt-py**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/modify-sys.path-src-pro-par-pyt-py.ipynb) : &#x00A9; 09062020_10 }
+                    - { ["**path**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
 
-    - { ["**package**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package.ipynb) : &#x1F4CC; 09022020_120, 09032020_120, 09042020_300, 09052020_330, 09062020_150 } <!-- &#x1F530; -->
+                        - { ["**append-mode-r**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path-append-mode-r-intentionally-blank.ipynb): &#x26AA; }
+
+                            - { ["**py**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path-append-mode-r-py.ipynb) : &#x00A9; }
+
+    - { ["**package**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
 
     - { ["**errors-exceptions**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
     { ["**try-except**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
