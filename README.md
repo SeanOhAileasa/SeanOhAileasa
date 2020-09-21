@@ -1053,17 +1053,27 @@
                     - { ["**path**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
 
                         - { ["**append-mode-r**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path-append-mode-r-intentionally-blank.ipynb): &#x26AA; }
+                        
+                            - { ["**py-module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path-append-mode-r-py-module.ipynb) : &#x00A9; }
 
-                            - { ["**py**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path-append-mode-r-py.ipynb) : &#x00A9; }
+                    - { ["**modules**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-modules.ipynb) : &#x1F7E1; } <!-- &#x1F530; -->
 
     - { ["**package**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
+
+        - { ["**standard-library**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-intentionally-blank.ipynb) : &#x26AA; }
+
+            - { ["**importlib**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-importlib.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
+
+                - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-importlib-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**reload**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-importlib-function-reload.ipynb) : &#x1F7E1; } <!-- &#x1F530; -->
 
     - { ["**errors-exceptions**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
     { ["**try-except**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
     { ["**raise**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-raise.ipynb) : &#x1F530; }
 
-    - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
-
+    - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F4CC; }
+    <!-- &#x1F534; pending &#x1F7E1; revert &#x26AA; blank &#x1F4CC; review &#x00A9; code -->
     &#x23F9;
 
     ***
