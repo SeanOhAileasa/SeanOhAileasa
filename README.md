@@ -1070,6 +1070,8 @@
 
         - { ["**third-party**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-intentionally-blank.ipynb) : &#x26AA; }
 
+            - { ["**matplotlib**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib.ipynb) : &#x1F4CC; }
+
             - { ["**numpy**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb) : &#x1F4CC; }
 
             - { ["**pandas**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F4CC; }
