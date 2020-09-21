@@ -1076,6 +1076,8 @@
 
             - { ["**pandas**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F4CC; }
 
+            - { ["**scikit-learn**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scikit-learn.ipynb) : &#x1F4CC; }
+            
     - { ["**errors-exceptions**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
     { ["**try-except**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
     { ["**raise**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-raise.ipynb) : &#x1F530; }
