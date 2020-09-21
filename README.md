@@ -749,88 +749,6 @@
 
                     - { [&#x00A9; "**python-3.py**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-walk-through-python-3.ipynb) : &#x1F530; }
 
-- { ["**module**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module.ipynb) : &#x1F530; }
-
-    - { ["**package**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package.ipynb) : &#x1F530; }
-
-        - { ["**PyMySQL**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL.ipynb) : &#x1F530; }
-
-            - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-intentionally-blank.ipynb) : &#x26AA; }   
-                - { ["**connect**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect.ipynb) : &#x1F530; }
-
-                    - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-intentionally-blank.ipynb) : &#x26AA; } 
-
-                        - { ["**cursor**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor.ipynb) : &#x1F530; }
-
-                            - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-intentionally-blank.ipynb) : &#x26AA; }
-
-                                - { ["**execute**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-execute.ipynb) : &#x1F530; }
-
-                                - { ["**fetchone**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-fetchone.ipynb) : &#x1F530; }
-
-                                - { ["**fetchmany**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-fetchmany.ipynb) : &#x1F530; }
-
-                                - { ["**fetchall**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-fetchall.ipynb) : &#x1F530; }
-
-                        - { ["**commit**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-commit.ipynb) : &#x1F530; }
-
-                        - { ["**rollback**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-rollback.ipynb) : &#x1F530; }
-
-                            - { ["**C_R_UD-read-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-intentionally-blank.ipynb) :
-                            &#x26AA; }
-
-                                - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-process.ipynb) : &#x1F530; }
-
-                                    - { ["**walk-through**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-process-walk-through-intentionally-blank.ipynb) : &#x26AA; } 
-
-                                        - { [&#x00A9; "**python-mysql-0.py**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-process-walk-through-python-mysql-0.ipynb) : &#x1F530; }
-
-                            - { ["**CR_U_D-update-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CR_U_D-update-command-intentionally-blank.ipynb) :
-                            &#x26AA; }
-
-                                - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CR_U_D-read-command-process.ipynb) : &#x1F530; }
-
-                                    - { ["**walk-through**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CR_U_D-read-command-process-walk-through-intentionally-blank.ipynb) : &#x26AA; } 
-
-                                        - { [&#x00A9; "**python-mysql-1.py**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CR_U_D-read-command-process-walk-through-python-mysql-1.ipynb) : &#x1F530; }
-
-                            - { ["**CRU_D_-delete-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CRU_D_-delete-command-intentionally-blank.ipynb) :
-                            &#x26AA; }
-
-                                - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CRU_D_-read-command-process.ipynb) : &#x1F530; }
-
-- { ["**package**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-intentionally-blank.ipynb) : &#x26AA; }
-
-    - { [&#x00A9; "**PyMongo**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo.ipynb) : &#x1F530; }
-
-        - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-intentionally-blank.ipynb) : &#x26AA; }  
-
-            - { [&#x00A9; "**mongo_client**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-mongo_client.ipynb) : &#x1F530; }
-
-                - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-mongo_client-class-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { [&#x00A9; "**MongoClient**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-mongo_client-class-MongoClient.ipynb) : &#x1F530; }
-
-            - { [&#x00A9; "**database**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-database.ipynb) : &#x1F530; }
-
-                - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-database-class-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { [&#x00A9; "**Database**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-database-class-Database.ipynb) : &#x26AA; }
-
-                        - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-database-class-Database-method-intentionally-blank.ipynb) : &#x26AA; } 
-
-                            - { [&#x00A9; "**list_collection_names**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-database-class-Database-method-list_collection_names.ipynb) : &#x1F530; }
-
-            - { [&#x00A9; "**collection**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-collection.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**class**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-collection-class-intentionally-blank.ipynb) : &#x1F530; }
-
-                    - { [&#x1F534; "**Collection**" &#x1F534;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-collection-class-Collection.ipynb) : &#x1F530; }
-
-                        - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-collection-class-Collection-method-intentionally-blank.ipynb) : &#x1F530; }
-
-                            - { [&#x00A9; "**find**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-collection-class-Collection-method-find.ipynb) : &#x1F530; }
-
 </details>
 
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
@@ -1070,14 +988,90 @@
 
         - { ["**third-party**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-intentionally-blank.ipynb) : &#x26AA; }
 
-            - { ["**matplotlib**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib.ipynb) : &#x1F4CC; }
+            - [&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796; "**matplotlib**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib.ipynb)
 
-            - { ["**numpy**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb) : &#x1F4CC; }
+            - [&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796; "**numpy**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb)
 
-            - { ["**pandas**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F4CC; }
+            - [&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796; "**pandas**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb)
 
-            - { ["**scikit-learn**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scikit-learn.ipynb) : &#x1F4CC; }
-            
+            - [&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796; "**pymongo**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo.ipynb)
+
+                - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-intentionally-blank.ipynb) : &#x26AA; }  
+
+                    - { ["**mongo_client**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-mongo_client.ipynb) : &#x1F530; }
+
+                        - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-mongo_client-class-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**MongoClient**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-mongo_client-class-MongoClient.ipynb) : &#x1F530; }
+
+                    - { ["**database**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-database.ipynb) : &#x1F530; }
+
+                        - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-database-class-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**Database**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-database-class-Database.ipynb) : &#x26AA; }
+
+                                - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-database-class-Database-method-intentionally-blank.ipynb) : &#x26AA; } 
+
+                                    - { ["**list_collection_names**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-database-class-Database-method-list_collection_names.ipynb) : &#x1F530; }
+
+                    - { ["**collection**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-collection.ipynb) : &#x1F530; }
+
+                        - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-collection-class-intentionally-blank.ipynb) : &#x1F530; }
+
+                            - { ["**Collection**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-collection-class-Collection.ipynb) : &#x1F530; }
+
+                                - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-collection-class-Collection-method-intentionally-blank.ipynb) : &#x1F530; }
+
+                                    - { ["**find**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-collection-class-Collection-method-find.ipynb) : &#x1F530; }
+
+            - [&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796; "**pymysql**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL.ipynb)
+
+                - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-intentionally-blank.ipynb) : &#x26AA; }   
+                    - { ["**connect**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect.ipynb) : &#x1F530; }
+
+                        - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-intentionally-blank.ipynb) : &#x26AA; } 
+
+                            - { ["**cursor**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor.ipynb) : &#x1F530; }
+
+                                - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                                    - { ["**execute**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-execute.ipynb) : &#x1F530; }
+
+                                    - { ["**fetchone**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-fetchone.ipynb) : &#x1F530; }
+
+                                    - { ["**fetchmany**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-fetchmany.ipynb) : &#x1F530; }
+
+                                    - { ["**fetchall**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-cursor-method-fetchall.ipynb) : &#x1F530; }
+
+                            - { ["**commit**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-commit.ipynb) : &#x1F530; }
+
+                            - { ["**rollback**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect-method-rollback.ipynb) : &#x1F530; }
+
+                                - { ["**C_R_UD-read-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-intentionally-blank.ipynb) :
+                                &#x26AA; }
+
+                                    - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-process.ipynb) : &#x1F530; }
+
+                                        - { ["**walk-through**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-process-walk-through-intentionally-blank.ipynb) : &#x26AA; } 
+
+                                            - { [&#x00A9; "**python-mysql-0.py**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-C_R_UD-read-command-process-walk-through-python-mysql-0.ipynb) : &#x1F530; }
+
+                                - { ["**CR_U_D-update-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CR_U_D-update-command-intentionally-blank.ipynb) :
+                                &#x26AA; }
+
+                                    - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CR_U_D-read-command-process.ipynb) : &#x1F530; }
+
+                                        - { ["**walk-through**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CR_U_D-read-command-process-walk-through-intentionally-blank.ipynb) : &#x26AA; } 
+
+                                            - { [&#x00A9; "**python-mysql-1.py**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CR_U_D-read-command-process-walk-through-python-mysql-1.ipynb) : &#x1F530; }
+
+                                - { ["**CRU_D_-delete-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CRU_D_-delete-command-intentionally-blank.ipynb) :
+                                &#x26AA; }
+
+                                    - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CRU_D_-read-command-process.ipynb) : &#x1F530; }
+
+            - [&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796; "**scikit-learn**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scikit-learn.ipynb)
+
     - { ["**errors-exceptions**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
     { ["**try-except**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
     { ["**raise**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-raise.ipynb) : &#x1F530; }
