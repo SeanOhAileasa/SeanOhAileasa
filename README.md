@@ -988,13 +988,17 @@
 
         - { ["**third-party**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-intentionally-blank.ipynb) : &#x26AA; }
 
-            - [&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796; "**matplotlib**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib.ipynb)
+            - { ["**matplotlib**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib.ipynb) : &#x1F4CC; }
 
-            - [&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796; "**numpy**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb)
+            - { ["**numpy**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb) : &#x1F4CC; }
 
-            - [&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796; "**pandas**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb)
+                - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-subpackage-intentionally-blank.ipynb) : &#x26AA; }
 
-            - [&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796; "**pymongo**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo.ipynb)
+                    - { ["**random**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-subpackage-random.ipynb) : &#x1F4CC; }
+
+            - { ["**pandas**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F4CC; }
+
+            - { ["**pymongo**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo.ipynb) : &#x1F4CC; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-intentionally-blank.ipynb) : &#x26AA; }  
 
@@ -1024,7 +1028,7 @@
 
                                     - { ["**find**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-collection-class-Collection-method-find.ipynb) : &#x1F530; }
 
-            - [&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796; "**pymysql**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL.ipynb)
+            - { ["**pymysql**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL.ipynb) : &#x1F4CC; }
 
                 - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-intentionally-blank.ipynb) : &#x26AA; }   
                     - { ["**connect**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect.ipynb) : &#x1F530; }
@@ -1070,7 +1074,7 @@
 
                                     - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CRU_D_-read-command-process.ipynb) : &#x1F530; }
 
-            - [&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796;&#x2796; "**scikit-learn**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scikit-learn.ipynb)
+            - { ["**scikit-learn**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scikit-learn.ipynb) : &#x1F4CC; }
 
     - { ["**errors-exceptions**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
     { ["**try-except**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
