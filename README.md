@@ -1,3 +1,15 @@
+## Hi there, I'm a Data Analytics Student</br>Working/Studying in Co. Kerry, Ireland &#x1F4CC;
+
+### Graduate of Business Computing at University of Wales</br>BSc (Hons) Grade 2.1.
+
+##### Studying for Higher Diploma in Computing (Data Analytics), GMIT (NFQ 8).</br> Seeking Work Placement early 2021 as part of the programme.
+
+###### 🔭 I’m currently studying (23rd September, 2020) modules:</br>- Programming for Data Analysis (10 Credits) - Mandatory</br>- Fundamentals of Data Analysis (5 Credits) - Mandatory</br>- Machine Learning and Statistics (5 Credits) - Elective</br>- Multi-Paradigm Programming (5 Credits) - Elective</br>- Data Representation and Querying (5 Credits) - Elective
+
+###### ⚡ I'm using Github to document my progress.
+
+###### 🥅 2020 Goals:</br>- Complete 30 of maining 35 credits of the Higher Diploma.</br>- Obtain Work Placement for January 2021 start.
+
 ***
 
 <details open>
@@ -793,7 +805,7 @@
 > { ["**paradigm**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm.ipynb) : &#x1F530; }
 
 <!-- ( ./pro/par/ ) -->
-- { [&#x2623; "**imperative**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative.ipynb) : &#x1F530; }
+- { [&#x2623; "**imperative**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative.ipynb) : &#x2623; }
     
     <!-- ( ./pro/par/ ) -->
     > { ["**procedural**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-procedural.ipynb) : &#x1F530; }
@@ -980,7 +992,7 @@
 
         - { ["**standard-library**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-intentionally-blank.ipynb) : &#x26AA; }
 
-            - { ["**importlib**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-importlib.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
+            - { [&#x2623; "**importlib**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-importlib.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
 
                 - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-importlib-function-intentionally-blank.ipynb) : &#x26AA; }
 
@@ -988,17 +1000,27 @@
 
         - { ["**third-party**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-intentionally-blank.ipynb) : &#x26AA; }
 
-            - { ["**matplotlib**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib.ipynb) : &#x1F4CC; }
+            - { [&#x2623; "**matplotlib**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib.ipynb) : &#x1F4CC; }
 
-            - { ["**numpy**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb) : &#x1F4CC; }
+                - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__.ipynb) : &#x1F534; }
+
+                        - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**RcParams**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams.ipynb) : &#x1F534; }
+
+                    - { ["**pyplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot.ipynb) : &#x1F534; }
+
+            - { [&#x2623; "**numpy**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb) : &#x1F4CC; }
 
                 - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-subpackage-intentionally-blank.ipynb) : &#x26AA; }
 
-                    - { ["**random**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-subpackage-random.ipynb) : &#x1F4CC; }
+                    - { ["**random**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random.ipynb) : &#x1F4CC; }
 
-            - { ["**pandas**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F4CC; }
+            - { [&#x2623; "**pandas**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F4CC; }
 
-            - { ["**pymongo**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo.ipynb) : &#x1F4CC; }
+            - { [&#x2623; "**pymongo**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo.ipynb) : &#x1F4CC; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-intentionally-blank.ipynb) : &#x26AA; }  
 
@@ -1028,7 +1050,7 @@
 
                                     - { ["**find**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/package-PyMongo-module-collection-class-Collection-method-find.ipynb) : &#x1F530; }
 
-            - { ["**pymysql**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL.ipynb) : &#x1F4CC; }
+            - { [&#x2623; "**pymysql**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL.ipynb) : &#x1F4CC; }
 
                 - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-intentionally-blank.ipynb) : &#x26AA; }   
                     - { ["**connect**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-module-package-PyMySQL-class-connect.ipynb) : &#x1F530; }
@@ -1074,7 +1096,15 @@
 
                                     - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database-CRU_D_-read-command-process.ipynb) : &#x1F530; }
 
-            - { ["**scikit-learn**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scikit-learn.ipynb) : &#x1F4CC; }
+            - { [&#x2623; "**scikit-learn**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scikit-learn.ipynb) : &#x1F4CC; }
+
+            - { [&#x2623; "**scipy**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy.ipynb) : &#x1F534; }
+
+                - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-subpackage-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**stats**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats.ipynb) : &#x1F534; }
+
+            - { [&#x2623; "**seaborn**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn.ipynb) : &#x1F534; }
 
     - { ["**errors-exceptions**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
     { ["**try-except**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
@@ -1094,7 +1124,7 @@
     > { ["**parallel-processing**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-parallel-processing.ipynb) : &#x1F530; }
 
 <!-- ( ./pro/par/ ) -->
-- { [&#x2623; "**declarative**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-declarative.ipynb) : &#x1F530; }
+- { [&#x2623; "**declarative**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-declarative.ipynb) : &#x2623; }
 
     <!-- ( ./pro/par/ ) -->
     > { ["**logic**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-declarative-logic.ipynb) : &#x1F530; }
