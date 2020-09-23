@@ -31,6 +31,19 @@
 
 ***
 
+<details open>
+    <summary>Machine Learning and Statistics</summary>
+
+[//]: # (====================================================================)
+[//]: # ( ./hdp/mls )
+[//]: # (====================================================================)
+
+***
+
+> { ["**stochasticism**"](https://github.com/E6985/L8733/blob/master/src/hdp/mls/stochasticism.ipynb) : &#x1F530; }
+
+</details>
+
 <details close>
     <summary>Computational Thinking with Algorithms</summary>
 
