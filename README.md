@@ -1,14 +1,20 @@
 ## Hi there, I'm a Data Analytics Student</br>Working/Studying in Co. Kerry, Ireland &#x1F4CC;
 
-### Graduate of Business Computing at University of Wales</br>BSc (Hons) Grade 2.1.
+### Graduate of BSc (Hons) Business Computing 🎓</br>University of Wales - Award Classification 2.1
 
-##### Studying for Higher Diploma in Computing (Data Analytics), GMIT (NFQ 8).</br> Seeking Work Placement early 2021 as part of the programme.
+##### Studying for the GMIT Higher Diploma in Data Analytics - NFQ 8.</br>Seeking Work Placement January 2021 as part of programme.
 
-###### 🔭 I’m currently studying (23rd September, 2020) modules:</br>- Programming for Data Analysis (10 Credits) - Mandatory</br>- Fundamentals of Data Analysis (5 Credits) - Mandatory</br>- Machine Learning and Statistics (5 Credits) - Elective</br>- Multi-Paradigm Programming (5 Credits) - Elective</br>- Data Representation and Querying (5 Credits) - Elective
+###### ⚡ Completed 25 of the required 75 credits for the Higher Diploma.</br>- Work Placement accounts for 15 credits.
 
-###### ⚡ I'm using Github to document my progress.
+###### 🔭 I’m studying this Autumn Semester (Sept-Dec, 2020) - modules:</br>- Programming for Data Analysis (10 Credits) - Mandatory</br>- Fundamentals of Data Analysis (5 Credits) - Mandatory</br>- Data Representation and Querying (5 Credits) - Elective</br>- Machine Learning and Statistics (5 Credits) - Elective</br>- Multi-Paradigm Programming (5 Credits) - Elective
 
-###### 🥅 2020 Goals:</br>- Complete 30 of maining 35 credits of the Higher Diploma.</br>- Obtain Work Placement for January 2021 start.
+###### ⚡ I'm using Github to document my progress thus create portfolio.</br>- Supplement/Enable further study by building onto this material.
+
+###### 🥅 2020 Goals: Complete 30 of remaining 35 credits of the Diploma.
+
+###### 🥅 2021 Goals: Obtain Work Placement for early January 2021 start.</br>- Complete final 5 credit module in tandem with Work Placement.
+
+###### 🎓 Graduate Summer 2021 with Higher Diploma in Data Analytics.
 
 ***
 
