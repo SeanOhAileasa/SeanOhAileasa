@@ -1028,10 +1028,8 @@
                         - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-intentionally-blank.ipynb) : &#x26AA; }
 
                             - { ["**RcParams**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams.ipynb) : &#x1F4CC; }
-
-                                - { ["**instance**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams-instance-intentionally-blank.ipynb) : &#x26AA; }
-
-                                    - { ["**rcParams**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams-instance-rcParams.ipynb) : &#x1F4CC; }
+                            { ["**instance**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams-instance-intentionally-blank.ipynb) : &#x26AA; }
+                            { ["**rcParams**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams-instance-rcParams.ipynb) : &#x1F4CC; }
 
                     - { ["**pyplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot.ipynb) : &#x1F4CC; }
 
@@ -1154,6 +1152,14 @@
                         - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-intentionally-blank.ipynb) : &#x26AA; }
 
                             - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-__init__.ipynb) : &#x1F4CC; }
+                        
+                            - { ["**\_distn\_infrastructure**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure.ipynb) : &#x1F4CC; }
+
+                                - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-intentionally-blank.ipynb) : &#x26AA; }
+                                
+                                    - { ["**rv\_discrete**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete.ipynb) : &#x1F4CC; }
+                                    { ["**instance**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-intentionally-blank.ipynb) : &#x26AA; }
+                                    { ["**binom**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-binom.ipynb) : &#x1F4CC; }
 
             - { [&#x2623; "**seaborn**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn.ipynb) : &#x1F4CC; }
 
