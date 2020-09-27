@@ -925,14 +925,18 @@
     
     ***
 
-    - { ["**environment-variable**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/environment-variable.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
+    - { ["**environment-variable**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/environment-variable.ipynb) : &#x1F4CC; }
 
-        - { ["**PYTHONPATH**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/environment-variable-PYTHONPATH.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
+        - { ["**PYTHONPATH**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/environment-variable-PYTHONPATH.ipynb) : &#x1F4CC; }
 
-    - { ["**object**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/object.ipynb) : &#x1F530; }
-    { ["**distinction**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/object-distinction.ipynb) : &#x1F530; }
-    { ["**variable**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/object-variable.ipynb) : &#x1F530; }
-                
+    - { ["**object**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/object.ipynb) : &#x1F4CC; }
+
+        - { ["**im\_m\_utable**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/object-im_m_utable.ipynb) : &#x1F4CC; }
+    
+            - { ["**im\_integer**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/object-im_integer.ipynb) : &#x1F4CC; }
+
+            - { ["**m\_list**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/object-m_list.ipynb) : &#x1F4CC; } 
+
         - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/object-class.ipynb) : &#x1F530; }
         { ["**instantiation**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/object-class-instantiation.ipynb) : &#x1F530; }
             
@@ -1112,10 +1116,9 @@
                     - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__.ipynb) : &#x1F4CC; }
 
                         - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["**RcParams**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams.ipynb) : &#x1F4CC; }
-                            { ["**instance**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams-instance-intentionally-blank.ipynb) : &#x26AA; }
-                            { ["**rcParams**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams-instance-rcParams.ipynb) : &#x1F4CC; }
+                        { ["**RcParams**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams.ipynb) : &#x1F4CC; }
+                        { ["**instance**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams-instance-intentionally-blank.ipynb) : &#x26AA; }
+                        { ["**rcParams**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams-instance-rcParams.ipynb) : &#x1F4CC; }
 
                     - { ["**pyplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot.ipynb) : &#x1F4CC; }
 
