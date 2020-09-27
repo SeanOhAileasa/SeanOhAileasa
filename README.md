@@ -1081,21 +1081,29 @@
                                 { ["**.difference**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-difference.ipynb) : &#x1F530; }
                                 { ["**.symmetric_difference**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-symmetric_difference.ipynb) : &#x1F530; }
 
-    - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
+    - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module.ipynb) : &#x1F4CC; }
 
-        - { ["**built-in**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-intentionally-blank.ipynb) : &#x26AA; }
+        - { ["**data-types**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types.ipynb) : &#x26AA; }
+
+            - { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array.ipynb) : &#x1F4CC; }
+
+                - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-array.ipynb) : &#x1F4CC; }
+
+        - { ["**python-runtime-services**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services.ipynb) : &#x26AA; }
         
-            - { ["**sys**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
+            - { ["**sys**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys.ipynb) : &#x1F4CC; }
 
-                - { ["**name**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-intentionally-blank.ipynb) : &#x26AA; }
+                - { ["**name**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-intentionally-blank.ipynb) : &#x26AA; }
 
-                    - { ["**path**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
+                    - { ["**path**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-path.ipynb) : &#x1F4CC; }
 
-                        - { ["**append-mode-r**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path-append-mode-r-intentionally-blank.ipynb): &#x26AA; }
+                        - { ["**append-mode-r**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-path-append-mode-r-intentionally-blank.ipynb): &#x26AA; }
                         
-                            - { ["**py-module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-path-append-mode-r-py-module.ipynb) : &#x00A9; }
+                            - { ["**py-module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-path-append-mode-r-py-module.ipynb) : &#x00A9; }
 
-                    - { ["**modules**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-built-in-sys-name-modules.ipynb) : &#x1F7E1; } <!-- &#x1F530; -->
+                    - { ["**modules**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-modules.ipynb) : &#x1F7E1; }
 
     - { ["**package**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
 
