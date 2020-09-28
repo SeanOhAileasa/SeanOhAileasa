@@ -1136,6 +1136,10 @@
 
                     - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-module-__init__.ipynb) : &#x1F4CC; }
 
+                - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-function-array.ipynb) : &#x1F4CC; }
+
                 - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-subpackage-intentionally-blank.ipynb) : &#x26AA; }
 
                     - { ["**random**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random.ipynb) : &#x1F4CC; }
