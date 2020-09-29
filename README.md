@@ -32,6 +32,29 @@
 ***
 
 <details open>
+    <summary>Fundamentals of Data Analysis</summary>
+
+[//]: # (====================================================================)
+[//]: # ( ./hdp/mls )
+[//]: # (====================================================================)
+
+***
+
+> { ["**data**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data.ipynb) : &#x1F530; }
+
+- { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
+
+    &#x23F9;
+
+***
+
+[//]: # (====================================================================)
+[//]: # ( Fundamentals of Data Analysis - END )
+[//]: # (====================================================================)
+
+</details>
+
+<details open>
     <summary>Machine Learning and Statistics</summary>
 
 [//]: # (====================================================================)
@@ -1193,6 +1216,12 @@
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-intentionally-blank.ipynb) : &#x26AA; }
 
                     - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-__init__.ipynb) : &#x1F4CC; }
+
+                    - { ["**distributions**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions.ipynb) : &#x1F4CC; }
+
+                        - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**distplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions-function-distplot.ipynb) : &#x1F4CC; }
 
     - { ["**errors-exceptions**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
     { ["**try-except**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
