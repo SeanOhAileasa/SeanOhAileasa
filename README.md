@@ -938,6 +938,61 @@
     <!-- ( ./pro/par/ ) -->
     > { ["**procedural**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-procedural.ipynb) : &#x1F530; }
 
+    <details open>
+        <summary>&#x1F4CC; C &#x26AA;</summary> 
+    
+    <!-- ( ./pro/par/c/ ) -->
+    
+    ***
+
+    - { ["**statement**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/statement.ipynb) : &#x1F4CC; }
+
+    - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { ["**main**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-main.ipynb) : &#x1F4CC; }
+
+    - { ["**preprocessor**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor.ipynb) : &#x1F4CC; }
+
+        - { ["**directive**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-intentionally-blank.ipynb) : &#x26AA; }
+
+            - { ["**hash-include**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include.ipynb) : &#x1F4CC; }
+
+                - { ["**header**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header.ipynb) : &#x1F4CC; }
+
+                    - { ["**stdio**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio.ipynb) : &#x1F4CC; }
+
+                        - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**puts**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-puts.ipynb) : &#x1F4CC; }
+
+                            - { ["**scanf**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-scanf.ipynb) : &#x1F4CC; }
+
+                            - { ["**printf**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-printf.ipynb) : &#x1F4CC; }
+                    
+                    - { ["**limits**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-limits.ipynb) : &#x1F4CC; }
+
+                        - { ["**constants**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-limits-constants.ipynb) : &#x1F4CC; }
+
+                    - { ["**float**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-float.ipynb) : &#x1F4CC; }
+
+                        - { ["**constants**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-float-constants.ipynb) : &#x1F4CC; }
+
+    - { ["**data-types**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { ["**int**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-int.ipynb) : &#x1F4CC; }
+
+        - { ["**char**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-char.ipynb) : &#x1F4CC; }
+
+        - { ["**float**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-float.ipynb) : &#x1F4CC; }
+
+    &#x23F9;
+
+    ***
+
+    <!-- ( C - END ) -->
+
+    </details>
+
     <!-- ( ./pro/par/ ) -->
     > { ["**object-oriented**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-object-oriented.ipynb) : &#x1F530; }
 
@@ -1228,7 +1283,7 @@
     { ["**raise**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-raise.ipynb) : &#x1F530; }
 
     - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F4CC; }
-    <!-- &#x1F534; pending &#x1F7E1; revert &#x26AA; blank &#x1F4CC; review &#x00A9; code -->
+
     &#x23F9;
 
     ***
