@@ -947,7 +947,29 @@
 
     - { ["**statement**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/statement.ipynb) : &#x1F4CC; }
 
-    - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-intentionally-blank.ipynb) : &#x26AA; }
+    - { ["**data-types**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { ["**int**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-int.ipynb) : &#x1F4CC; }
+            
+            - { ["**enum**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-int-enum.ipynb) : &#x1F4CC; }
+
+        - { ["**char**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-char.ipynb) : &#x1F4CC; }
+
+        - { ["**float**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-float.ipynb) : &#x1F4CC; }
+
+        - { ["**variable**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-variable-intentionally-blank.ipynb) : &#x26AA; }
+
+            - { ["**literals**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-variable-literals.ipynb) : &#x1F4CC; }
+                
+                - { ["**const**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-variable-literals-const.ipynb) : &#x1F4CC; }
+
+        - { ["**typedef**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-typedef.ipynb) : &#x1F4CC; }
+    
+    - { ["**operators**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { ["**assignment**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-assignment.ipynb) : &#x1F4CC; }
+
+    - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-intentionally-blank.ipynb) : &#x1F4CC; }
 
         - { ["**main**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-main.ipynb) : &#x1F4CC; }
 
@@ -977,13 +999,7 @@
 
                         - { ["**constants**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-float-constants.ipynb) : &#x1F4CC; }
 
-    - { ["**data-types**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-intentionally-blank.ipynb) : &#x26AA; }
-
-        - { ["**int**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-int.ipynb) : &#x1F4CC; }
-
-        - { ["**char**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-char.ipynb) : &#x1F4CC; }
-
-        - { ["**float**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-float.ipynb) : &#x1F4CC; }
+            - { ["**hash-define**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-define.ipynb) : &#x1F4CC; }
 
     &#x23F9;
 
