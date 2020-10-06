@@ -42,7 +42,7 @@
 
 > { ["**data**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data.ipynb) : &#x1F530; }
 
-- { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
+- { ["**types**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/types.ipynb) : &#x1F530; }
 
     &#x23F9;
 
@@ -1176,6 +1176,16 @@
                                 { ["**.symmetric_difference**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-symmetric_difference.ipynb) : &#x1F530; }
 
     - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module.ipynb) : &#x1F4CC; }
+
+        - { ["**binary-data-services**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services.ipynb) : &#x26AA; }
+
+            - { ["**struct**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services-struct.ipynb) : &#x1F4CC; }
+
+                - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services-struct-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**pack**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services-struct-function-pack.ipynb) : &#x1F4CC; }
+
+                    - { ["**unpack**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services-struct-function-unpack.ipynb) : &#x1F4CC; }
 
         - { ["**data-types**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types.ipynb) : &#x26AA; }
 
