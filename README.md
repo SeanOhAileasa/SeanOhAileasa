@@ -46,6 +46,8 @@
 
     - { ["**counting**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-types-counting.ipynb) : &#x1F530; }
 
+    - { ["**measuring**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-types-measuring.ipynb) : &#x1F530; }
+
     &#x23F9;
 
 ***
