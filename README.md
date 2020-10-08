@@ -971,7 +971,19 @@
     
     - { ["**operators**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-intentionally-blank.ipynb) : &#x26AA; }
 
-        - { ["**assignment**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-assignment.ipynb) : &#x1F4CC; }
+        - { ["**binary**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-binary.ipynb) : &#x1F4CC; }
+        
+            - { ["**assignment**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-binary-assignment.ipynb) : &#x1F4CC; }
+
+            - { ["**relational**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-binary-relational.ipynb) : &#x1F4CC; }
+
+                - { ["**ternary**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-binary-relational-ternary.ipynb) : &#x1F4CC; }
+
+            - { ["**logical**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-binary-logical.ipynb) : &#x1F4CC; }
+
+            - { ["**bitwise**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-binary-bitwise.ipynb) : &#x1F4CC; }
+
+        - { ["**unary**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-unary.ipynb) : &#x1F4CC; }
 
     - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-intentionally-blank.ipynb) : &#x1F4CC; }
 
