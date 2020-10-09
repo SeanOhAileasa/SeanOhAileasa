@@ -31,7 +31,7 @@
 
 ***
 
-<details open>
+<details close>
     <summary>Fundamentals of Data Analysis</summary>
 
 [//]: # (====================================================================)
@@ -58,7 +58,7 @@
 
 </details>
 
-<details open>
+<details close>
     <summary>Machine Learning and Statistics</summary>
 
 [//]: # (====================================================================)
@@ -476,317 +476,6 @@
 </details>
 
 <details close>
-    <summary>relational</summary>
-
-> { ["**relational**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational.ipynb) : &#x1F530; }
-
-- { ["**table**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb) : &#x1F530; }
-
-    - { ["**column**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb) : &#x1F530; }
-
-    - { ["**row**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb) : &#x1F530; }
-
-- { ["**spreadsheets**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) : &#x1F530; }
-
-- { ["**language**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-intentionally-blank.ipynb) :
-&#x26AA; }
-
-    - { ["**SQL**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) : &#x1F530; }
-
-        - { ["**MySQL**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb) : &#x1F530; }
-
-            - { ["**MongoDB**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb) : &#x1F530; }
-
-            - { ["**data-types**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb) : &#x1F530; }
-
-            - { ["**command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-intentionally-blank.ipynb) :
-            &#x26AA; }
-
-                - { [&#x00A9; "**create-database**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**show-databases**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**use**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**CREATE-TABLE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**DESCRIBE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**SHOW-CREATE-TABLE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb) : &#x1F530; }
-
-        - { ["**C_R_UD-read-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-intentionally-blank.ipynb) :
-        &#x26AA; }
-
-            - { [&#x00A9; "**SELECT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**alias**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**INNER-JOIN**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**LEFT-JOIN**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**WHERE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) : &#x1F530; }
-
-                    - { [&#x00A9; "**operator**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**AND-OR**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**BETWEEN**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**LIKE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**IN**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**LIMIT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**DISTINCT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**ORDER-BY**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**process**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb) : &#x1F530; }
-
-                    - { [&#x00A9; "**subquery**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) : &#x1F530; }
-
-        - { ["**\_C_RUD-create-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-intentionally-blank.ipynb) :
-        &#x26AA; }
-
-            - { [&#x00A9; "**INSERT-INTO**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) : &#x1F530; }
-
-        - { ["**CR_U_D-update-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-intentionally-blank.ipynb) :
-        &#x26AA; }
-
-            - { [&#x00A9; "**UPDATE-SET**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) : &#x1F530; }
-
-        - { ["**CRU_D_-delete-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-intentionally-blank.ipynb) :
-        &#x26AA; }
-
-            - { [&#x00A9; "**DELETE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb) : &#x1F530; }
-
-                - { ["**foreign-key**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-intentionally-blank.ipynb) :
-                &#x26AA; }
-
-                    - { [&#x00A9; "**ON-DELETE-RESTRICT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb) : &#x1F530; }
-
-                    - { [&#x00A9; "**ON-DELETE-CASCADE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb) : &#x1F530; }
-
-                    - { [&#x00A9; "**ON-DELETE-SET-NULL**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb) : &#x1F530; }
-
-    - { [&#x00A9; "**primary-key**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb) : &#x1F530; }
-
-    - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) : &#x1F530; }
-
-        - { ["**built-in**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb) : &#x1F530; }
-
-            - { ["**string**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-intentionally-blank.ipynb) :
-            &#x26AA; }
-
-                - { [&#x00A9; "**UPPER**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**STRCMP**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**ASCII**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**REPLACE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**SUBSTR**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**CONCAT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb) : &#x1F530; }
-
-            - { ["**numeric**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-intentionally-blank.ipynb) :
-            &#x26AA; }
-
-                - { [&#x00A9; "**SQRT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**ROUND**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb) : &#x1F530; }
-
-            - { ["**date**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-intentionally-blank.ipynb) :
-            &#x26AA; }
-
-                - { [&#x00A9; "**DATEDIFF**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**DATE_FORMAT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb) : &#x1F530; }
-
-            - { [&#x00A9; "**aggregate**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**AVG**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**COUNT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb) : &#x1F530; }
-
-            - { ["**clause**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-intentionally-blank.ipynb) :
-            &#x26AA; }
-
-                - { [&#x00A9; "**GROUP-BY**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY.ipynb) : &#x1F530; }
-
-                    - { [&#x00A9; "**HAVING**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) : &#x1F530; }
-
-            - { ["**information**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-intentionally-blank.ipynb) :
-            &#x26AA; }
-
-                - { [&#x00A9; "**DATABASE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**USER**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb) : &#x1F530; }
-
-            - { ["**control-flow**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**conditional**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**CASE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb) : &#x1F530; }
-
-        - { [&#x00A9; "**stored-routine**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) : &#x1F530; }
-
-            - { [&#x00A9; "**CREATE-FUNCTION**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) : &#x1F530; }
-
-            - { [&#x00A9; "**information_schema**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb) : &#x1F530; }
-
-            - { ["**command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-intentionally-blank.ipynb) : &#x26AA; }
-
-                - { [&#x00A9; "**SHOW-CREATE-FUNCTION**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**DROP**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb) : &#x1F530; }
-
-            - { ["**stored-procedure**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedure.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**CREATE-PROCEDURE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**information_schema**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb) : &#x1F530; }
-
-                - [{command](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-intentionally-blank.ipynb) :
-                &#x26AA; }
-
-                    - { [&#x00A9; "**SHOW-CREATE-PROCEDURE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb) : &#x1F530; }
-
-                    - { [&#x00A9; "**DROP**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb) : &#x1F530; }
-
-</details>
-
-<details close>
-    <summary>non-relational</summary>
-
-> { ["**non-relational**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb) : &#x1F530; }
-
-- { [&#x00A9; "**collection**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb) : &#x1F530; }
-
-- { ["**scalability**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) : &#x1F530; }
-
-    - { ["**transaction**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb) : &#x1F530; }
-
-- { ["**NoSQL**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-intentionally-blank.ipynb) :
-&#x26AA; }
-
-    - { [&#x00A9; "**MongoDB**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) : &#x1F530; }
-
-        - { ["**MySQL**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb) : &#x1F530; }
-
-        - { ["**JSON**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb) : &#x1F530; }
-
-            - { ["**use**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb) : &#x1F530; }
-
-            - { ["**data-types**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-intentionally-blank.ipynb) :
-            &#x26AA; }
-
-                - { [&#x00A9; "**number**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**string**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**boolean**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**array**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**object**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb) : &#x1F530; }
-
-            - { ["**BSON**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**document**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb) : &#x1F530; }
-
-                    - { [&#x00A9; "**rules**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb) : &#x1F530; }
-
-                    - { ["**attribute**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-intentionally-blank.ipynb) :
-                    &#x26AA; }
-
-                        - { [&#x00A9; "**\_id**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) : &#x1F530; }
-
-                    - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-intentionally-blank.ipynb) : &#x26AA; }
-
-                        - { [&#x00A9; "**save**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**find**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) : &#x1F530; }
-
-                            - { [&#x00A9; "**projection**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**findone**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**pretty**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-pretty.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**sort**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**insert**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**update**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) : &#x1F530; };
-
-                        - { [&#x00A9; "**deleteOne**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**deleteMany**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb) : &#x1F530; }
-
-                        - { ["**aggregate**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb) : &#x1F530; }
-
-                            - [{"**pipeline**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-intentionally-blank.ipynb) :
-                            &#x26AA; }
-
-                                - { [&#x00A9; "**$group**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) : &#x1F530; }
-
-                                - { [&#x00A9; "**$sort**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) : &#x1F530; }
-
-                            - { ["**operator**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-intentionally-blank.ipynb) :
-                            &#x26AA; }
-
-                                - { ["**$avg**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb) : &#x1F530; }
-
-                                - { ["**$max**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-max.ipynb) : &#x1F530; }
-
-                    - { [&#x00A9; "**indexing**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) : &#x1F530; }
-
-                        - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-intentionally-blank.ipynb) :
-                        &#x26AA; }
-
-                            - { [&#x00A9; "**createIndex**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb) : &#x1F530; }
-
-                            - { [&#x00A9; "**getIndexes**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb) : &#x1F530; }
-
-                            - { [&#x00A9; "**dropIndex**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb) : &#x1F530; }
-
-                    - { ["**operator**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb) : &#x1F530; }
-
-                        - { ["**query-logical**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-intentionally-blank.ipynb) :
-                        &#x26AA; }
-
-                            - { ["**$and**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb) : &#x1F530; }
-
-                            - { ["**$or**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb) : &#x1F530; }
-
-                        - [{query-comparison](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-intentionally-blank.ipynb) :
-                        &#x26AA; }
-
-                            - { ["**$in**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb) : &#x1F530; }
-
-                            - { ["**$gt**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-gt.ipynb) : &#x1F530; }
-
-                            - { ["**$lt**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb) : &#x1F530; }
-
-                        - { ["**query-element**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-intentionally-blank.ipynb) :
-                        &#x26AA; }
-
-                            - { ["**$set**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb) : &#x1F530; }
-
-                        - { ["**update-field**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-intentionally-blank.ipynb) :
-                        &#x26AA; }
-
-                            - { ["**$exists**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb) : &#x1F530; }
-
-    - { ["**lab**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-nosql-mongodb-lab.ipynb) : &#x1F530; }
-
-</details>
-
-<details close>
     <summary>python</summary>
 
 > { ["**database**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/python-database.ipynb) : &#x1F530; }
@@ -924,17 +613,374 @@
 
 ***
 
-<details open>
-    <summary>Programming</summary>
-
-[//]: # (====================================================================)
-[//]: # ( Programming )
-[//]: # (====================================================================)
-
-***
-
 <!-- ( ./pro/par/ ) -->
 > { ["**paradigm**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm.ipynb) : &#x1F530; }
+
+<!-- ( ./pro/par/ ) -->
+- { [&#x2623; "**declarative**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-declarative.ipynb) : &#x2623; }
+
+    <!-- ( ./pro/par/ ) -->
+    > { ["**database-processing**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-declarative-database-processing.ipynb) : &#x1F530; }
+
+    <details close>
+        <summary>&#x1F4CC; SQL (Relational) &#x26AA;</summary>
+
+    <!-- ( ./hdp/adb/ ) -->
+    
+    ***
+
+    - { ["**relational**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational.ipynb) : &#x1F530; }
+
+        - { ["**table**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb) : &#x1F530; }
+
+            - { ["**column**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb) : &#x1F530; }
+
+            - { ["**row**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb) : &#x1F530; }
+
+        - { ["**spreadsheets**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) : &#x1F530; }
+
+        - { ["**language**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-intentionally-blank.ipynb) :
+        &#x26AA; }
+
+            - { ["**SQL**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) : &#x1F530; }
+
+                - { ["**MySQL**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb) : &#x1F530; }
+
+                    - { ["**MongoDB**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb) : &#x1F530; }
+
+                    - { ["**data-types**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb) : &#x1F530; }
+
+                    - { ["**command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-intentionally-blank.ipynb) :
+                    &#x26AA; }
+
+                        - { [&#x00A9; "**create-database**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**show-databases**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**use**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**CREATE-TABLE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**DESCRIBE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**SHOW-CREATE-TABLE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb) : &#x1F530; }
+
+                - { ["**C_R_UD-read-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-intentionally-blank.ipynb) :
+                &#x26AA; }
+
+                    - { [&#x00A9; "**SELECT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**alias**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**INNER-JOIN**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**LEFT-JOIN**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**WHERE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) : &#x1F530; }
+
+                            - { [&#x00A9; "**operator**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb) : &#x1F530; }
+
+                                - { [&#x00A9; "**AND-OR**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb) : &#x1F530; }
+
+                                - { [&#x00A9; "**BETWEEN**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb) : &#x1F530; }
+
+                                - { [&#x00A9; "**LIKE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb) : &#x1F530; }
+
+                                - { [&#x00A9; "**IN**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**LIMIT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**DISTINCT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**ORDER-BY**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**process**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb) : &#x1F530; }
+
+                            - { [&#x00A9; "**subquery**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) : &#x1F530; }
+
+                - { ["**\_C_RUD-create-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-intentionally-blank.ipynb) :
+                &#x26AA; }
+
+                    - { [&#x00A9; "**INSERT-INTO**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) : &#x1F530; }
+
+                - { ["**CR_U_D-update-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-intentionally-blank.ipynb) :
+                &#x26AA; }
+
+                    - { [&#x00A9; "**UPDATE-SET**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) : &#x1F530; }
+
+                - { ["**CRU_D_-delete-command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-intentionally-blank.ipynb) :
+                &#x26AA; }
+
+                    - { [&#x00A9; "**DELETE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb) : &#x1F530; }
+
+                        - { ["**foreign-key**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-intentionally-blank.ipynb) :
+                        &#x26AA; }
+
+                            - { [&#x00A9; "**ON-DELETE-RESTRICT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb) : &#x1F530; }
+
+                            - { [&#x00A9; "**ON-DELETE-CASCADE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb) : &#x1F530; }
+
+                            - { [&#x00A9; "**ON-DELETE-SET-NULL**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb) : &#x1F530; }
+
+            - { [&#x00A9; "**primary-key**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb) : &#x1F530; }
+
+            - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) : &#x1F530; }
+
+                - { ["**built-in**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb) : &#x1F530; }
+
+                    - { ["**string**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-intentionally-blank.ipynb) :
+                    &#x26AA; }
+
+                        - { [&#x00A9; "**UPPER**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**STRCMP**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**ASCII**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**REPLACE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**SUBSTR**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**CONCAT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb) : &#x1F530; }
+
+                    - { ["**numeric**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-intentionally-blank.ipynb) :
+                    &#x26AA; }
+
+                        - { [&#x00A9; "**SQRT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**ROUND**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb) : &#x1F530; }
+
+                    - { ["**date**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-intentionally-blank.ipynb) :
+                    &#x26AA; }
+
+                        - { [&#x00A9; "**DATEDIFF**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**DATE_FORMAT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**aggregate**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**AVG**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**COUNT**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb) : &#x1F530; }
+
+                    - { ["**clause**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-intentionally-blank.ipynb) :
+                    &#x26AA; }
+
+                        - { [&#x00A9; "**GROUP-BY**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY.ipynb) : &#x1F530; }
+
+                            - { [&#x00A9; "**HAVING**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) : &#x1F530; }
+
+                    - { ["**information**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-intentionally-blank.ipynb) :
+                    &#x26AA; }
+
+                        - { [&#x00A9; "**DATABASE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**USER**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb) : &#x1F530; }
+
+                    - { ["**control-flow**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**conditional**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**CASE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb) : &#x1F530; }
+
+                - { [&#x00A9; "**stored-routine**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**CREATE-FUNCTION**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**information_schema**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb) : &#x1F530; }
+
+                    - { ["**command**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { [&#x00A9; "**SHOW-CREATE-FUNCTION**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**DROP**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb) : &#x1F530; }
+
+                    - { ["**stored-procedure**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedure.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**CREATE-PROCEDURE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**information_schema**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb) : &#x1F530; }
+
+                        - [{command](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-intentionally-blank.ipynb) :
+                        &#x26AA; }
+
+                            - { [&#x00A9; "**SHOW-CREATE-PROCEDURE**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb) : &#x1F530; }
+
+                            - { [&#x00A9; "**DROP**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb) : &#x1F530; }
+
+    &#x23F9;
+
+    ***
+
+    <!-- ( SQL (Relational) - END ) -->
+
+    </details>
+
+    <details close>
+        <summary>&#x1F4CC; MongoDB (Non-Relational) &#x26AA;</summary>
+
+    <!-- ( ./hdp/adb/ ) -->
+    
+    ***
+
+    - { ["**non-relational**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb) : &#x1F530; }
+
+        - { [&#x00A9; "**collection**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb) : &#x1F530; }
+
+        - { ["**scalability**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) : &#x1F530; }
+
+            - { ["**transaction**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb) : &#x1F530; }
+
+        - { ["**NoSQL**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-intentionally-blank.ipynb) :
+        &#x26AA; }
+
+            - { [&#x00A9; "**MongoDB**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) : &#x1F530; }
+
+                - { ["**MySQL**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb) : &#x1F530; }
+
+                - { ["**JSON**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb) : &#x1F530; }
+
+                    - { ["**use**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb) : &#x1F530; }
+
+                    - { ["**data-types**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-intentionally-blank.ipynb) :
+                    &#x26AA; }
+
+                        - { [&#x00A9; "**number**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**string**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**boolean**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**array**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**object**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb) : &#x1F530; }
+
+                    - { ["**BSON**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**document**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb) : &#x1F530; }
+
+                            - { [&#x00A9; "**rules**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb) : &#x1F530; }
+
+                            - { ["**attribute**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-intentionally-blank.ipynb) :
+                            &#x26AA; }
+
+                                - { [&#x00A9; "**\_id**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) : &#x1F530; }
+
+                            - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                                - { [&#x00A9; "**save**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) : &#x1F530; }
+
+                                - { [&#x00A9; "**find**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) : &#x1F530; }
+
+                                    - { [&#x00A9; "**projection**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) : &#x1F530; }
+
+                                - { [&#x00A9; "**findone**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb) : &#x1F530; }
+
+                                - { [&#x00A9; "**pretty**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-pretty.ipynb) : &#x1F530; }
+
+                                - { [&#x00A9; "**sort**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb) : &#x1F530; }
+
+                                - { [&#x00A9; "**insert**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) : &#x1F530; }
+
+                                - { [&#x00A9; "**update**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) : &#x1F530; };
+
+                                - { [&#x00A9; "**deleteOne**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb) : &#x1F530; }
+
+                                - { [&#x00A9; "**deleteMany**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb) : &#x1F530; }
+
+                                - { ["**aggregate**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb) : &#x1F530; }
+
+                                    - [{"**pipeline**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-intentionally-blank.ipynb) :
+                                    &#x26AA; }
+
+                                        - { [&#x00A9; "**$group**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) : &#x1F530; }
+
+                                        - { [&#x00A9; "**$sort**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) : &#x1F530; }
+
+                                    - { ["**operator**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-intentionally-blank.ipynb) :
+                                    &#x26AA; }
+
+                                        - { ["**$avg**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb) : &#x1F530; }
+
+                                        - { ["**$max**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-max.ipynb) : &#x1F530; }
+
+                            - { [&#x00A9; "**indexing**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) : &#x1F530; }
+
+                                - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-intentionally-blank.ipynb) :
+                                &#x26AA; }
+
+                                    - { [&#x00A9; "**createIndex**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb) : &#x1F530; }
+
+                                    - { [&#x00A9; "**getIndexes**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb) : &#x1F530; }
+
+                                    - { [&#x00A9; "**dropIndex**" &#x00A9;](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb) : &#x1F530; }
+
+                            - { ["**operator**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb) : &#x1F530; }
+
+                                - { ["**query-logical**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-intentionally-blank.ipynb) :
+                                &#x26AA; }
+
+                                    - { ["**$and**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb) : &#x1F530; }
+
+                                    - { ["**$or**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb) : &#x1F530; }
+
+                                - [{query-comparison](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-intentionally-blank.ipynb) :
+                                &#x26AA; }
+
+                                    - { ["**$in**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb) : &#x1F530; }
+
+                                    - { ["**$gt**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-gt.ipynb) : &#x1F530; }
+
+                                    - { ["**$lt**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb) : &#x1F530; }
+
+                                - { ["**query-element**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-intentionally-blank.ipynb) :
+                                &#x26AA; }
+
+                                    - { ["**$set**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb) : &#x1F530; }
+
+                                - { ["**update-field**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-intentionally-blank.ipynb) :
+                                &#x26AA; }
+
+                                    - { ["**$exists**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb) : &#x1F530; }
+
+            - { ["**lab**"](https://github.com/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-nosql-mongodb-lab.ipynb) : &#x1F530; }
+
+    &#x23F9;
+
+    ***
+
+    <!-- ( MongoDB (Non-Relational) - END ) -->
+
+    </details>
+
+    <!-- ( ./pro/par/ ) -->
+    > { ["**functional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-declarative-functional.ipynb) : &#x1F530; }
+
+    <!-- ( ./pro/par/ ) -->
+    > { ["**logic**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-declarative-logic.ipynb) : &#x1F530; }
+
+<!-- ( ./pro/par/ ) -->
+- { [&#x2623; "**event-driven**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-event-driven.ipynb) : &#x2623; }
+
+    <!-- ( ./pro/par/ ) -->
+    > { ["**web-application**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-event-driven-web-application.ipynb) : &#x1F530; }
+
+    <details close>
+        <summary>&#x1F4CC; JavaScript &#x26AA;</summary> 
+    
+    <!-- ( ./pro/par/js/ ) -->
+    
+    ***
+
+    - { ["**JavaScript**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/web-application-javascript.ipynb) : &#x1F4CC; }
+
+    &#x23F9;
+
+    ***
+
+    <!-- ( JavaScript - END ) -->
+
+    </details>
 
 <!-- ( ./pro/par/ ) -->
 - { [&#x2623; "**imperative**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative.ipynb) : &#x2623; }
@@ -942,7 +988,7 @@
     <!-- ( ./pro/par/ ) -->
     > { ["**procedural**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-procedural.ipynb) : &#x1F530; }
 
-    <details open>
+    <details close>
         <summary>&#x1F4CC; C &#x26AA;</summary> 
     
     <!-- ( ./pro/par/c/ ) -->
@@ -1028,7 +1074,7 @@
     <!-- ( ./pro/par/ ) -->
     > { ["**object-oriented**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-object-oriented.ipynb) : &#x1F530; }
 
-    <details open>
+    <details close>
         <summary>&#x1F4CC; Python &#x26AA;</summary> 
     
     <!-- ( ./pro/par/pyt/ ) -->
@@ -1338,26 +1384,69 @@
     > { ["**parallel-processing**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-parallel-processing.ipynb) : &#x1F530; }
 
 <!-- ( ./pro/par/ ) -->
-- { [&#x2623; "**declarative**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-declarative.ipynb) : &#x2623; }
+- { [&#x2623; "**language-oriented**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-language-oriented.ipynb) : &#x2623; }
 
     <!-- ( ./pro/par/ ) -->
-    > { ["**logic**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-declarative-logic.ipynb) : &#x1F530; }
+    > { ["**domain-specific**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-language-oriented-domain-specific.ipynb) : &#x1F530; }
+
+    <details close>
+        <summary>&#x1F4CC; API &#x26AA;</summary> 
     
-    <!-- ( ./pro/par/ ) -->
-    > { ["**functional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-declarative-functional.ipynb) : &#x1F530; }
+    <!-- ( ./pro/par/api/ ) -->
     
-    <!-- ( ./pro/par/ ) -->
-    > { ["**database-processing**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-declarative-database-processing.ipynb) : &#x1F530; }
+    ***
+
+    - { ["**DOM**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/document-object-module.ipynb) : &#x1F4CC; }
+    
+    &#x23F9;
+
+    ***
+
+    <!-- ( API - END ) -->
+
+    </details>
+
+    <details close>
+        <summary>&#x1F4CC; HTML &#x26AA;</summary> 
+    
+    <!-- ( ./pro/par/html/ ) -->
+    
+    ***
+
+    - { ["**HTML**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/html.ipynb) : &#x1F4CC; }
+
+        - { ["**carviewer**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/html-carviewer.ipynb) : &#x1F4CC; }
+
+            - { ["**carviewer.html**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/carviewer.html) : &#x1F4CC; }
+
+    &#x23F9;
+
+    ***
+
+    <!-- ( HTML - END ) -->
+
+    </details>
+
+    <details close>
+        <summary>&#x1F4CC; XML &#x26AA;</summary> 
+    
+    <!-- ( ./pro/par/xml/ ) -->
+    
+    ***
+
+    - { ["**XML**"](https://github.com/E6985/L8733/blob/master/src/pro/par/xml/xml.ipynb) : &#x1F4CC; }
+    
+    &#x23F9;
+
+    ***
+
+    <!-- ( XML - END ) -->
+
+    </details>
 
 &#x23CF;
 
 ***
-
-[//]: # (====================================================================)
-[//]: # ( Programming - END )
-[//]: # (====================================================================)
-
-</details>
 
 [//]: # (====================================================================)
 [//]: # (====================================================================)
