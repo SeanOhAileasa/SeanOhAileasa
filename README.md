@@ -972,7 +972,11 @@
     
     ***
 
-    - { ["**JavaScript**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/web-application-javascript.ipynb) : &#x1F4CC; }
+    - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/function-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { ["**user-defined**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/function-user-defined.ipynb) : &#x1F4CC; }
+            
+            - { ["**standalone**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/standalone-function-user-defined.ipynb) : &#x00A9; }  
 
     &#x23F9;
 
@@ -1396,13 +1400,48 @@
     
     ***
 
-    - { ["**DOM**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/document-object-module.ipynb) : &#x1F4CC; }
+    - { ["**DOM**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom.ipynb) : &#x1F4CC; }
     
+        - { ["**object**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-intentionally-blank.ipynb) : &#x26AA; }
+
+            - { ["**console**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-console.ipynb) : &#x1F4CC; }
+
+                - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-console-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**log**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-console-method-log.ipynb) : &#x1F4CC; }                     
+                        
+                        - { ["**standalone**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/standalone-console-log.ipynb) : &#x00A9; }  
+
+            - { ["**document**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document.ipynb) : &#x1F4CC; }
+
+                - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**getElementById**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-getElementById.ipynb) : &#x1F4CC; }
+
     &#x23F9;
 
     ***
 
     <!-- ( API - END ) -->
+
+    </details>
+
+    <details close>
+        <summary>&#x1F4CC; CSS &#x26AA;</summary> 
+    
+    <!-- ( ./pro/par/css/ ) -->
+
+    - { ["**property**"](https://github.com/E6985/L8733/blob/master/src/pro/par/css/property-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { ["**display**"](https://github.com/E6985/L8733/blob/master/src/pro/par/css/property-display.ipynb) : &#x1F4CC; }
+
+    ***
+
+    &#x23F9;
+
+    ***
+
+    <!-- ( CSS - END ) -->
 
     </details>
 
@@ -1415,9 +1454,19 @@
 
     - { ["**HTML**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/html.ipynb) : &#x1F4CC; }
 
+        - { ["**tag**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-intentionally-blank.ipynb) : &#x26AA; }
+
+            - { ["**script**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-script.ipynb) : &#x1F4CC; }
+
+        - { ["**attribute**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/attribute-intentionally-blank.ipynb) : &#x26AA; }
+
+            - { ["**id**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/attribute-id.ipynb) : &#x1F4CC; }
+
+            - { ["**onclick**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/attribute-onclick.ipynb) : &#x1F4CC; }
+
         - { ["**carviewer**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/html-carviewer.ipynb) : &#x1F4CC; }
 
-            - { ["**carviewer.html**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/carviewer.html) : &#x1F4CC; }
+            - { ["**standalone**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/carviewer.html) : &#x00A9; }
 
     &#x23F9;
 
