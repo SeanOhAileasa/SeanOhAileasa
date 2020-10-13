@@ -1048,6 +1048,8 @@
 
         - { ["**typedef**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/data-types-typedef.ipynb) : &#x1F4CC; }
     
+    - { ["**struct**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/struct.ipynb) : &#x1F4CC; }
+
     - { ["**operators**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-intentionally-blank.ipynb) : &#x26AA; }
 
         - { ["**binary**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-binary.ipynb) : &#x1F4CC; }
@@ -1093,6 +1095,8 @@
                     - { ["**float**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-float.ipynb) : &#x1F4CC; }
 
                         - { ["**constants**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-float-constants.ipynb) : &#x1F4CC; }
+
+                    - { ["**string**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-string.ipynb) : &#x1F3C1; }
 
             - { ["**hash-define**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-define.ipynb) : &#x1F4CC; }
 
