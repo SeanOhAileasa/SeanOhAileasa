@@ -1068,6 +1068,10 @@
 
         - { ["**unary**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-unary.ipynb) : &#x1F4CC; }
 
+    - { ["**control-flow**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-intentionally-blank.ipynb) : &#x26AA; }    
+
+        - { ["**conditional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-conditional.ipynb) : &#x1F4CC; }           
+
     - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-intentionally-blank.ipynb) : &#x1F4CC; }
 
         - { ["**main**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-main.ipynb) : &#x1F4CC; }
