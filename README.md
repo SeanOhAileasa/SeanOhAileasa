@@ -1073,7 +1073,8 @@
     { ["**switch**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-switch.ipynb) : &#x1F4CC; }  
 
         - { ["**loop**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-intentionally-blank.ipynb) : &#x26AA; }
-        { ["**while**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-while.ipynb) : &#x1F4CC; }  
+        { ["**while**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-while.ipynb) : &#x1F4CC; }
+        { ["**do-while**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-do-while.ipynb) : &#x1F4CC; } 
 
     - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-intentionally-blank.ipynb) : &#x1F4CC; }
 
