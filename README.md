@@ -1072,6 +1072,8 @@
 
         - { ["**conditional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-conditional.ipynb) : &#x1F4CC; }           
 
+        - { ["**switch**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-switch.ipynb) : &#x1F4CC; }  
+
     - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-intentionally-blank.ipynb) : &#x1F4CC; }
 
         - { ["**main**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-main.ipynb) : &#x1F4CC; }
