@@ -1068,11 +1068,12 @@
 
         - { ["**unary**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/operators-unary.ipynb) : &#x1F4CC; }
 
-    - { ["**control-flow**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-intentionally-blank.ipynb) : &#x26AA; }    
+    - { ["**control-flow**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-intentionally-blank.ipynb) : &#x26AA; }
+    { ["**conditional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-conditional.ipynb) : &#x1F4CC; }
+    { ["**switch**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-switch.ipynb) : &#x1F4CC; }  
 
-        - { ["**conditional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-conditional.ipynb) : &#x1F4CC; }           
-
-        - { ["**switch**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-switch.ipynb) : &#x1F4CC; }  
+        - { ["**loop**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-intentionally-blank.ipynb) : &#x26AA; }
+        { ["**while**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-while.ipynb) : &#x1F4CC; }  
 
     - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-intentionally-blank.ipynb) : &#x1F4CC; }
 
@@ -1162,9 +1163,8 @@
     - { ["**control-flow**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/control-flow.ipynb) : &#x1F530; }
     { ["**conditional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/control-flow-conditional.ipynb) : &#x1F530; }
 
-    - { ["**loop**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/loop-intentionally-blank.ipynb) : &#x26AA; }
-
-        - { ["**for**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/control-flow-loop-for.ipynb) : &#x1F530; }
+        - { ["**loop**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/loop-intentionally-blank.ipynb) : &#x26AA; }
+        { ["**for**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/control-flow-loop-for.ipynb) : &#x1F530; }
         { ["**while**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/control-flow-loop-while.ipynb) : &#x1F530; }
 
     - { ["**iterator**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/iterator.ipynb) : &#x1F530; }
