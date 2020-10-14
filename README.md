@@ -1072,6 +1072,8 @@
 
         - { ["**main**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-main.ipynb) : &#x1F4CC; }
 
+            - { ["**cli-args**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/function-main-cli-args.ipynb) : &#x1F4CC; }
+
     - { ["**preprocessor**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor.ipynb) : &#x1F4CC; }
 
         - { ["**directive**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-intentionally-blank.ipynb) : &#x26AA; }
