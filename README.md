@@ -1480,7 +1480,7 @@
 
     </details>
 
-    <details close>
+    <details open>
         <summary>&#x1F4CC; CSS &#x26AA;</summary> 
     
     <!-- ( ./pro/par/css/ ) -->
@@ -1488,6 +1488,8 @@
     - { ["**property**"](https://github.com/E6985/L8733/blob/master/src/pro/par/css/property-intentionally-blank.ipynb) : &#x26AA; }
 
         - { ["**display**"](https://github.com/E6985/L8733/blob/master/src/pro/par/css/property-display.ipynb) : &#x1F4CC; }
+
+            - { ["**JS-process**"](https://github.com/E6985/L8733/blob/master/src/pro/par/css/property-display-JS-process.ipynb) : &#x00A9; }
 
     ***
 
