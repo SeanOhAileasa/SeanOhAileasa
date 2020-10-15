@@ -1512,6 +1512,8 @@
 
         - { ["**tag**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-intentionally-blank.ipynb) : &#x26AA; }
 
+            - { ["**button**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-button.ipynb) : &#x1F4CC; }
+
             - { ["**script**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-script.ipynb) : &#x1F4CC; }
 
         - { ["**attribute**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/attribute-intentionally-blank.ipynb) : &#x26AA; }
