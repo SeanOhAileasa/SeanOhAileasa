@@ -1007,6 +1007,10 @@
 
             - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable-primitive-process.ipynb) : &#x00A9; }
 
+        - { ["**object**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable-object.ipynb) : &#x1F4CC; }
+
+            - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable-object-process.ipynb) : &#x00A9; }
+
     - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/function-intentionally-blank.ipynb) : &#x26AA; }
 
         - { ["**user-defined**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/function-user-defined.ipynb) : &#x1F4CC; }
