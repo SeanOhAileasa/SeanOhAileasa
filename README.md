@@ -994,12 +994,18 @@
     <!-- ( ./pro/par/ ) -->
     > { ["**web-application**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-event-driven-web-application.ipynb) : &#x1F530; }
 
-    <details close>
+    <details open>
         <summary>&#x1F4CC; JavaScript &#x26AA;</summary> 
     
     <!-- ( ./pro/par/js/ ) -->
     
     ***
+
+    - { ["**variable**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable.ipynb) : &#x1F4CC; }
+
+        - { ["**primitive**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable-primitive.ipynb) : &#x1F4CC; }
+
+            - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable-primitive-process.ipynb) : &#x00A9; }
 
     - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/function-intentionally-blank.ipynb) : &#x26AA; }
 
