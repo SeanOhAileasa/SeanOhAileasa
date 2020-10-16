@@ -1521,6 +1521,12 @@
 
             - { ["**button**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-button.ipynb) : &#x1F4CC; }
 
+            - { ["**input**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input.ipynb) : &#x1F4CC; }
+
+                - { ["**Javascript**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**c-conditional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-c-conditional.ipynb) : &#x00A9; }
+
             - { ["**script**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-script.ipynb) : &#x1F4CC; }
 
                 - { ["**JavaScript**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-script-JavaScript-intentionally-blank.ipynb) : &#x26AA; }
