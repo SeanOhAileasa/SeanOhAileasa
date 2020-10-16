@@ -1005,11 +1005,13 @@
 
         - { ["**primitive**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable-primitive.ipynb) : &#x1F4CC; }
 
-            - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable-primitive-process.ipynb) : &#x00A9; }
-
         - { ["**object**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable-object.ipynb) : &#x1F4CC; }
 
-            - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable-object-process.ipynb) : &#x00A9; }
+            - { ["**Date**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable-object-Date.ipynb) : &#x1F4CC; }
+            
+                - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable-object-Date-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**getHours**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/variable-object-Date-method-getHours.ipynb) : &#x1F4CC; }
 
     - { ["**control-flow**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/control-flow-intentionally-blank.ipynb) : &#x26AA; }
     { ["**conditional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/control-flow-conditional.ipynb) : &#x1F4CC; }
@@ -1518,6 +1520,12 @@
             - { ["**button**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-button.ipynb) : &#x1F4CC; }
 
             - { ["**script**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-script.ipynb) : &#x1F4CC; }
+
+                - { ["**JavaScript**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-script-JavaScript-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**v-primitive**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-script-JavaScript-v-primitive.ipynb) : &#x00A9; }
+
+                    - { ["**v-object**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-script-JavaScript-v-object.ipynb) : &#x00A9; }
 
         - { ["**attribute**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/attribute-intentionally-blank.ipynb) : &#x26AA; }
 
