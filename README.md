@@ -1524,6 +1524,8 @@
 
             - { ["**button**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-button.ipynb) : &#x1F4CC; }
 
+            - { ["**div**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-div.ipynb) : &#x1F4CC; }
+
             - { ["**input**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input.ipynb) : &#x1F4CC; }
 
                 - { ["**Javascript**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-intentionally-blank.ipynb) : &#x26AA; }
