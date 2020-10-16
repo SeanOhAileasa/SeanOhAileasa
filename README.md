@@ -1016,6 +1016,9 @@
     - { ["**control-flow**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/control-flow-intentionally-blank.ipynb) : &#x26AA; }
     { ["**conditional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/control-flow-conditional.ipynb) : &#x1F4CC; }
 
+        - { ["**loop**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/control-flow-loop-intentionally-blank.ipynb) : &#x26AA; }
+        { ["**for**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/control-flow-loop-for.ipynb) : &#x1F4CC; }   
+
     - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/function-intentionally-blank.ipynb) : &#x26AA; }
 
         - { ["**user-defined**"](https://github.com/E6985/L8733/blob/master/src/pro/par/js/function-user-defined.ipynb) : &#x1F4CC; }
