@@ -1506,7 +1506,7 @@
 
     </details>
 
-    <details close>
+    <details open>
         <summary>&#x1F4CC; HTML &#x26AA;</summary> 
     
     <!-- ( ./pro/par/html/ ) -->
@@ -1530,6 +1530,8 @@
         - { ["**attribute**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/attribute-intentionally-blank.ipynb) : &#x26AA; }
 
             - { ["**id**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/attribute-id.ipynb) : &#x1F4CC; }
+
+            - { ["**onchange**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/attribute-onchange.ipynb) : &#x1F4CC; }
 
             - { ["**onclick**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/attribute-onclick.ipynb) : &#x1F4CC; }
 
