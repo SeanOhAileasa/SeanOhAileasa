@@ -1482,6 +1482,8 @@
 
                     - { ["**getElementById**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-getElementById.ipynb) : &#x1F4CC; }
 
+                    - { ["**querySelector**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-querySelector.ipynb) : &#x1F4CC; }
+
     &#x23F9;
 
     ***
