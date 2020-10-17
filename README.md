@@ -52,6 +52,7 @@
 
 - { ["**functions**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions.ipynb) : &#x1F530; }
 
+    - { ["**map**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-map.ipynb) : &#x1F530; }
 
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
