@@ -1501,7 +1501,7 @@
 
         - { ["**display**"](https://github.com/E6985/L8733/blob/master/src/pro/par/css/property-display.ipynb) : &#x1F4CC; }
 
-            - { ["**JS-process**"](https://github.com/E6985/L8733/blob/master/src/pro/par/css/property-display-JS-process.ipynb) : &#x00A9; }
+            - { ["**querySelector**"](https://github.com/E6985/L8733/blob/master/src/pro/par/css/property-display-JS-process.ipynb) : &#x00A9; }
 
     ***
 
@@ -1537,6 +1537,8 @@
                 - { ["**Javascript**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-intentionally-blank.ipynb) : &#x26AA; }
 
                     - { ["**c-conditional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-c-conditional.ipynb) : &#x00A9; }
+
+                    - { ["**querySelector**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-querySelector.ipynb) : &#x00A9; }
 
             - { ["**script**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-script.ipynb) : &#x1F4CC; }
 
