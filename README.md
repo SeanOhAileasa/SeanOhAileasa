@@ -1467,40 +1467,16 @@
     <!-- ( ./pro/par/api/ ) -->
     
     ***
-
-    - { ["**DOM**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom.ipynb) : &#x1F4CC; }
-
-        - { ["**tree**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-tree-intentionally-blank.ipynb) : &#x1F4CC; }
-
-            - { ["**child**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-tree-child.ipynb) : &#x1F4CC; }
-
-            - { ["**parent**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-tree-parent.ipynb) : &#x1F4CC; }
-
-        - { ["**property**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-tree-property-intentionally-blank.ipynb) : &#x26AA; }
-
-            - { ["**parentNode**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-tree-property-parentNode.ipynb) : &#x26AA; }
     
-        - { ["**object**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-intentionally-blank.ipynb) : &#x26AA; }
+    - { ["**object**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/api-object-intentionally-blank.ipynb) : &#x26AA; }
 
-            - { ["**console**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-console.ipynb) : &#x1F4CC; }
+        - { ["**console**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/api-object-console.ipynb) : &#x1F4CC; }
 
-                - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-console-method-intentionally-blank.ipynb) : &#x26AA; }
+            - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/api-object-console-method-intentionally-blank.ipynb) : &#x26AA; }
 
-                    - { ["**log**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-console-method-log.ipynb) : &#x1F4CC; }                     
-                        
-                        - { ["**standalone**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/standalone-console-log.ipynb) : &#x00A9; }  
-
-            - { ["**document**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document.ipynb) : &#x1F4CC; }
-
-                - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["createElement"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-createElement.ipynb) : &#x2623; }
-
-                    - { ["createTextNode"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-createTextNode.ipynb) : &#x2623; }
-
-                    - { ["**getElementById**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-getElementById.ipynb) : &#x1F4CC; }
-
-                    - { ["**querySelector**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-querySelector.ipynb) : &#x1F4CC; }
+                - { ["**log**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/api-object-console-method-log.ipynb) : &#x1F4CC; }                     
+                    
+                    - { ["**standalone**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/standalone-console-log.ipynb) : &#x00A9; }
 
     &#x23F9;
 
@@ -1521,8 +1497,6 @@
 
             - { ["**querySelector**"](https://github.com/E6985/L8733/blob/master/src/pro/par/css/property-display-JS-process.ipynb) : &#x00A9; }
 
-    ***
-
     &#x23F9;
 
     ***
@@ -1530,6 +1504,45 @@
     <!-- ( CSS - END ) -->
 
     </details>
+
+    <details open>
+        <summary>&#x1F4CC; DOM &#x26AA;</summary> 
+    
+    <!-- ( ./pro/par/dom/ ) -->
+    
+    ***
+
+    - { ["**DOM**"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom.ipynb) : &#x1F4CC; }
+
+        - { ["**tree**"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-intentionally-blank.ipynb) : &#x1F4CC; }
+
+            - { ["**child**"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-child.ipynb) : &#x1F4CC; }
+
+            - { ["**parent**"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-parent.ipynb) : &#x1F4CC; }
+
+        - { ["**property**"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-property-intentionally-blank.ipynb) : &#x26AA; }
+
+            - { ["**parentNode**"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-property-parentNode.ipynb) : &#x26AA; }
+    
+        - { ["**object**"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-object-intentionally-blank.ipynb) : &#x26AA; }
+
+            - { ["**document**"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document.ipynb) : &#x1F4CC; }
+
+                - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["createElement"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-createElement.ipynb) : &#x2623; }
+
+                    - { ["createTextNode"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-createTextNode.ipynb) : &#x2623; }
+
+                    - { ["**getElementById**"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-getElementById.ipynb) : &#x1F4CC; }
+
+                    - { ["**querySelector**"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-querySelector.ipynb) : &#x1F4CC; }
+
+    &#x23F9;
+
+    ***
+
+    <!-- ( DOM - END ) -->
 
     <details close>
         <summary>&#x1F4CC; HTML &#x26AA;</summary> 
@@ -1557,6 +1570,12 @@
                     - { ["**c-conditional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-c-conditional.ipynb) : &#x00A9; }
 
                     - { ["**querySelector**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-querySelector.ipynb) : &#x00A9; }
+
+            - { ["**table**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-table-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["insertRow"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-insertRow.ipynb) : &#x2623; }
 
             - { ["**script**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-script.ipynb) : &#x1F4CC; }
 
