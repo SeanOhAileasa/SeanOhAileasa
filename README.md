@@ -1565,13 +1565,13 @@
 
             - { ["**div**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-div.ipynb) : &#x1F4CC; }
 
-                - { ["**Javascript**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-div-JavaScript-intentionally-blank.ipynb) : &#x1F4CC; }
+                - { ["**JavaScript**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-div-JavaScript-intentionally-blank.ipynb) : &#x1F4CC; }
 
                     - { ["**l-for**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-div-JavaScript-l-for.ipynb) : &#x1F4CC; }
 
             - { ["**input**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input.ipynb) : &#x1F4CC; }
 
-                - { ["**Javascript**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-intentionally-blank.ipynb) : &#x26AA; }
+                - { ["**JavaScript**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-intentionally-blank.ipynb) : &#x26AA; }
 
                     - { ["**c-conditional**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-c-conditional.ipynb) : &#x00A9; }
 
@@ -1584,6 +1584,10 @@
                     - { ["insertCell"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-insertCell.ipynb) : &#x2623; }
 
                     - { ["insertRow"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-insertRow.ipynb) : &#x2623; }
+
+                - { ["**JavaScript**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-table-JavaScript-intentionally-blank.ipynb) : &#x26AA; }                
+
+                    - { ["insertCell"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-table-JavaScript-insertCell.ipynb) : &#x2623; }
 
             - { ["**script**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-script.ipynb) : &#x1F4CC; }
 
