@@ -1147,7 +1147,7 @@
     <!-- ( ./pro/par/ ) -->
     > { ["**object-oriented**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-object-oriented.ipynb) : &#x1F530; }
 
-    <details close>
+    <details open>
         <summary>&#x1F4CC; Python &#x26AA;</summary> 
     
     <!-- ( ./pro/par/pyt/ ) -->
@@ -1309,6 +1309,10 @@
                                 { ["**.difference**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-difference.ipynb) : &#x1F530; }
                                 { ["**.symmetric_difference**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-symmetric_difference.ipynb) : &#x1F530; }
 
+    - { ["**errors-exceptions**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
+    { ["**try-except**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
+    { ["**raise**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-raise.ipynb) : &#x1F530; }
+
     - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module.ipynb) : &#x1F4CC; }
 
         - { ["**binary-data-services**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services.ipynb) : &#x26AA; }
@@ -1396,6 +1400,8 @@
 
                     - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-module-__init__.ipynb) : &#x1F4CC; }
 
+            - { [&#x2623; "**requests**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests.ipynb) : &#x1F4CC; }
+
             - { [&#x2623; "**sklearn**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn.ipynb) : &#x1F4CC; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-module-intentionally-blank.ipynb) : &#x26AA; }
@@ -1438,10 +1444,6 @@
 
                             - { ["**distplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions-function-distplot.ipynb) : &#x1F4CC; } &#x1F3C1;
 
-    - { ["**errors-exceptions**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
-    { ["**try-except**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
-    { ["**raise**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-raise.ipynb) : &#x1F530; }
-
     - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F4CC; }
 
     &#x23F9;
@@ -1461,7 +1463,7 @@
     <!-- ( ./pro/par/ ) -->
     > { ["**domain-specific**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-language-oriented-domain-specific.ipynb) : &#x1F530; }
 
-    <details open>
+    <details close>
         <summary>&#x1F4CC; API &#x26AA;</summary> 
     
     <!-- ( ./pro/par/api/ ) -->
@@ -1505,7 +1507,7 @@
 
     </details>
 
-    <details open>
+    <details close>
         <summary>&#x1F4CC; DOM &#x26AA;</summary> 
     
     <!-- ( ./pro/par/dom/ ) -->
