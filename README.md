@@ -1494,6 +1494,8 @@
 
                 - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-intentionally-blank.ipynb) : &#x26AA; }
 
+                    - { ["createElement"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-createElement.ipynb) : &#x2623; }
+
                     - { ["**getElementById**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-getElementById.ipynb) : &#x1F4CC; }
 
                     - { ["**querySelector**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-querySelector.ipynb) : &#x1F4CC; }
