@@ -1575,6 +1575,8 @@
 
                 - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-intentionally-blank.ipynb) : &#x26AA; }
 
+                    - { ["insertCell"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-insertCell.ipynb) : &#x2623; }
+
                     - { ["insertRow"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-insertRow.ipynb) : &#x2623; }
 
             - { ["**script**"](https://github.com/E6985/L8733/blob/master/src/pro/par/html/tag-script.ipynb) : &#x1F4CC; }
