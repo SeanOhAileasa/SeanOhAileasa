@@ -1365,6 +1365,10 @@
 
                     - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-__init__.ipynb) : &#x1F4CC; }
 
+                        - { ["**\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-__init__-_-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**soup**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-__init__-_-soup.ipynb) : &#x1F4CC; }
+
             - { [&#x2623; "**matplotlib**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib.ipynb) : &#x1F4CC; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-intentionally-blank.ipynb) : &#x26AA; }
