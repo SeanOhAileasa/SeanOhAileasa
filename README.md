@@ -1538,6 +1538,12 @@
 
                     - { ["**querySelector**"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-querySelector.ipynb) : &#x1F4CC; }
 
+            - { ["element"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-object-element.ipynb) : &#x2623; }
+
+                - { ["method"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-object-element-method-intentionally-blank.ipynb) : &#x2623; }
+
+                    - { ["setAttribute"](https://github.com/E6985/L8733/blob/master/src/pro/par/dom/dom-object-element-method-setAttribute.ipynb) : &#x2623; }
+
     &#x23F9;
 
     ***
