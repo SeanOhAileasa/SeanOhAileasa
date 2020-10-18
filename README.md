@@ -998,7 +998,7 @@
     <!-- ( ./pro/par/ ) -->
     > { ["**web-application**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-event-driven-web-application.ipynb) : &#x1F530; }
 
-    <details open>
+    <details close>
         <summary>&#x1F4CC; JavaScript &#x26AA;</summary> 
     
     <!-- ( ./pro/par/js/ ) -->
@@ -1461,7 +1461,7 @@
     <!-- ( ./pro/par/ ) -->
     > { ["**domain-specific**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-language-oriented-domain-specific.ipynb) : &#x1F530; }
 
-    <details close>
+    <details open>
         <summary>&#x1F4CC; API &#x26AA;</summary> 
     
     <!-- ( ./pro/par/api/ ) -->
@@ -1496,6 +1496,8 @@
 
                     - { ["createElement"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-createElement.ipynb) : &#x2623; }
 
+                    - { ["createTextNode"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-createTextNode.ipynb) : &#x2623; }
+
                     - { ["**getElementById**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-getElementById.ipynb) : &#x1F4CC; }
 
                     - { ["**querySelector**"](https://github.com/E6985/L8733/blob/master/src/pro/par/api/dom-object-document-method-querySelector.ipynb) : &#x1F4CC; }
@@ -1508,7 +1510,7 @@
 
     </details>
 
-    <details open>
+    <details close>
         <summary>&#x1F4CC; CSS &#x26AA;</summary> 
     
     <!-- ( ./pro/par/css/ ) -->
@@ -1529,7 +1531,7 @@
 
     </details>
 
-    <details open>
+    <details close>
         <summary>&#x1F4CC; HTML &#x26AA;</summary> 
     
     <!-- ( ./pro/par/html/ ) -->
