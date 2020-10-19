@@ -1424,6 +1424,13 @@
 
                             - { ["**get**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-api-function-get.ipynb) : &#x1F4CC; }
 
+                    - { ["**models**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models.ipynb) : &#x1F4CC; }
+
+                        - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models-class-intentionally-blank.ipynb) : &#x26AA; }
+                        { ["**Response**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models-class-Response.ipynb) : &#x1F4CC; }
+                        { ["**@property**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models-class-Response-property-intentionally-blank.ipynb) : &#x26AA; }
+                        { ["**content**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models-class-Response-property-content.ipynb) : &#x2623; }
+
             - { [&#x2623; "**sklearn**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn.ipynb) : &#x1F4CC; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-module-intentionally-blank.ipynb) : &#x26AA; }
