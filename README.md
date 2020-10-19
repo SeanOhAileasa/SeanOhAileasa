@@ -1371,7 +1371,7 @@
 
                         - { ["**\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-__init__-_-intentionally-blank.ipynb) : &#x26AA; }
 
-                            - { ["**soup**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-__init__-_-soup.ipynb) : &#x1F4CC; }
+                            - { ["**soup**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-__init__-_-soup.ipynb) : &#x1F3C1; }
 
             - { [&#x2623; "**matplotlib**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib.ipynb) : &#x1F4CC; }
 
