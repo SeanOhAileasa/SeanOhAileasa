@@ -1416,6 +1416,14 @@
 
             - { [&#x2623; "**requests**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests.ipynb) : &#x1F4CC; }
 
+                - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**api**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-api.ipynb) : &#x1F4CC; }
+
+                        - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-api-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**get**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-api-function-get.ipynb) : &#x1F4CC; }
+
             - { [&#x2623; "**sklearn**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn.ipynb) : &#x1F4CC; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-module-intentionally-blank.ipynb) : &#x26AA; }
