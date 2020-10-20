@@ -78,6 +78,31 @@
 
 </details>
 
+<details open>
+    <summary>Machine Learning and Statistics</summary>
+
+[//]: # (====================================================================)
+[//]: # ( ./hdp/mls )
+[//]: # (====================================================================)
+
+***
+
+> { ["**stochasticism**"](https://github.com/E6985/L8733/blob/master/src/hdp/mls/stochasticism.ipynb) : &#x1F530; }
+
+- { ["model"](https://github.com/E6985/L8733/blob/master/src/hdp/mls/stochasticism-model.ipynb) : &#x2623; }
+
+- { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
+
+    &#x23F9;
+
+***
+
+[//]: # (====================================================================)
+[//]: # ( Machine Learning and Statistics - END )
+[//]: # (====================================================================)
+
+</details>
+
 <details close>
     <summary>Multi-Paradigm Programming</summary>
 
@@ -99,29 +124,6 @@
 
 [//]: # (====================================================================)
 [//]: # ( Multi-Paradigm Programming - END )
-[//]: # (====================================================================)
-
-</details>
-
-<details close>
-    <summary>Machine Learning and Statistics</summary>
-
-[//]: # (====================================================================)
-[//]: # ( ./hdp/mls )
-[//]: # (====================================================================)
-
-***
-
-> { ["**stochasticism**"](https://github.com/E6985/L8733/blob/master/src/hdp/mls/stochasticism.ipynb) : &#x1F530; }
-
-- { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
-
-    &#x23F9;
-
-***
-
-[//]: # (====================================================================)
-[//]: # ( Machine Learning and Statistics - END )
 [//]: # (====================================================================)
 
 </details>
