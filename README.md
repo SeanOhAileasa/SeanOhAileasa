@@ -91,6 +91,8 @@
 
 - { ["model"](https://github.com/E6985/L8733/blob/master/src/hdp/mls/stochasticism-model.ipynb) : &#x2623; }
 
+    - { ["analysis"](https://github.com/E6985/L8733/blob/master/src/hdp/mls/stochasticism-model-analysis.ipynb) : &#x2623; }
+
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
     &#x23F9;
