@@ -56,6 +56,8 @@
 
         - { ["turing"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing.ipynb) : &#x2623; }
 
+            - { ["church"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing-church.ipynb) : &#x2623; }
+
         - { ["mapreduce"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-intentionlly-blank.ipynb) : &#x26AA; }
 
             - { ["**map**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-map.ipynb) : &#x1F530; }
