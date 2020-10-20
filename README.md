@@ -31,7 +31,7 @@
 
 ***
 
-<details close>
+<details open>
     <summary>Fundamentals of Data Analysis</summary>
 
 [//]: # (====================================================================)
@@ -53,6 +53,8 @@
 - { ["**functions**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions.ipynb) : &#x1F530; }
 
     - { ["**map**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-map.ipynb) : &#x1F530; }
+
+        - { ["reduce"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-map.ipynb) : &#x2623; }
 
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
@@ -1147,7 +1149,7 @@
     <!-- ( ./pro/par/ ) -->
     > { ["**object-oriented**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-object-oriented.ipynb) : &#x1F530; }
 
-    <details open>
+    <details close>
         <summary>&#x1F4CC; Python &#x26AA;</summary> 
     
     <!-- ( ./pro/par/pyt/ ) -->
