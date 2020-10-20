@@ -52,9 +52,11 @@
 
 - { ["**functions**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions.ipynb) : &#x1F530; }
 
-    - { ["**map**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-map.ipynb) : &#x1F530; }
+    - { ["data"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data.ipynb) : &#x2623; }
 
-        - { ["reduce"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-map.ipynb) : &#x2623; }
+        - { ["**map**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-map.ipynb) : &#x1F530; }
+
+        - { ["reduce"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-reduce.ipynb) : &#x2623; }
 
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
