@@ -122,6 +122,10 @@
 
     - { ["**process**"](https://github.com/E6985/L8733/blob/master/src/hdp/mpp/c-v-python-process.ipynb) : &#x1F530; }
 
+- { ["**simulation**"](https://github.com/E6985/L8733/blob/master/src/hdp/mpp/simulation-intentionally-blank.ipynb) : &#x26AA; }
+
+    - { ["shop"](https://github.com/E6985/L8733/blob/master/src/hdp/mpp/simulation-shop.ipynb) : &#x2623; }
+
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
     &#x23F9;
