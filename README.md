@@ -10,11 +10,9 @@
 
 ###### ⚡ I'm using Github to document my progress thus create portfolio.</br>- Supplement/Enable further study by building upon this material.
 
-###### 🥅 2020 Goals: Complete 30 of remaining 35 credits of the Diploma.
+###### 🥅 2021 Goals: Obtain Work Placement for early January 2021 start.</br>- Work Placement accounts for 15 credits of the 75 credits required.
 
-###### 🥅 2021 Goals: Obtain Work Placement for early January 2021 start.</br>- Work Placement accounts for 15 credits of the 75 credits required.</br>- Complete final 5 credit module in tandem with Work Placement.
-
-###### 🎓 Graduate Summer 2021 with Higher Diploma in Data Analytics.
+###### 🎓 Graduate Autumn 2021 with Higher Diploma in Data Analytics.
 
 ***
 
@@ -30,6 +28,8 @@
 [//]: # (====================================================================)
 
 ***
+
+###### Mandatory
 
 <details close>
     <summary>Fundamentals of Data Analysis</summary>
@@ -78,6 +78,35 @@
 
 </details>
 
+<details open>
+    <summary>Programming for Data Analysis</summary>
+
+[//]: # (====================================================================)
+[//]: # ( ./hdp/pda )
+[//]: # (====================================================================)
+
+***
+
+> { ["**plot**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/plot-intentionally-blank.ipynb) : &#x26AA; }
+
+- { ["**histogram**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/plot-histogram.ipynb) : &#x1F530; }
+
+- { ["**scatter**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/plot-scatter.ipynb) : &#x1F530; }
+
+- { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
+
+    &#x23F9;
+
+***
+
+[//]: # (====================================================================)
+[//]: # ( Programming for Data Analysis - END )
+[//]: # (====================================================================)
+
+</details>
+
+###### Electives
+
 <details close>
     <summary>Machine Learning and Statistics</summary>
 
@@ -107,7 +136,7 @@
 
 </details>
 
-<details open>
+<details close>
     <summary>Multi-Paradigm Programming</summary>
 
 [//]: # (====================================================================)
@@ -137,6 +166,29 @@
 [//]: # (====================================================================)
 
 </details>
+
+<details close>
+    <summary>Data Representation</summary>
+
+[//]: # (====================================================================)
+[//]: # ( ./hdp/drp )
+[//]: # (====================================================================)
+
+***
+
+- { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
+
+    &#x23F9;
+
+***
+
+[//]: # (====================================================================)
+[//]: # ( Data Representation - END )
+[//]: # (====================================================================)
+
+</details>
+
+###### TBC
 
 <details close>
     <summary>Computational Thinking with Algorithms</summary>
@@ -446,6 +498,8 @@
 [//]: # (====================================================================)
 
 </details>
+
+###### Completed - Grade 80%
 
 <details close>
     <summary>Applied Databases</summary>
@@ -1069,7 +1123,7 @@
     <!-- ( ./pro/par/ ) -->
     > { ["**procedural**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-procedural.ipynb) : &#x1F530; }
 
-    <details open>
+    <details close>
         <summary>&#x1F4CC; C &#x26AA;</summary> 
     
     <!-- ( ./pro/par/c/ ) -->
@@ -1190,7 +1244,7 @@
     <!-- ( ./pro/par/ ) -->
     > { ["**object-oriented**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-object-oriented.ipynb) : &#x1F530; }
 
-    <details close>
+    <details open>
         <summary>&#x1F4CC; Python &#x26AA;</summary> 
     
     <!-- ( ./pro/par/pyt/ ) -->
@@ -1437,17 +1491,33 @@
 
                     - { ["**pyplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot.ipynb) : &#x1F4CC; }
 
+                - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**style**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style.ipynb) : &#x1F4CC; }
+
+                        - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-__init__.ipynb) : &#x1F4CC; }
+
+                            - { ["**core**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core.ipynb) : &#x1F4CC; }
+
+                                - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core-function-intentionally-blank.ipynb) : &#x26AA; }        
+
+                                    - { ["**use**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core-function-use.ipynb) : &#x1F4CC; } 
+
             - { [&#x2623; "**numpy**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb) : &#x1F4CC; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-module-intentionally-blank.ipynb) : &#x26AA; }
 
                     - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-module-__init__.ipynb) : &#x1F4CC; }
 
-                - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-function-intentionally-blank.ipynb) : &#x26AA; }
+                - { ["**C-extension**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-C-extension-intentionally-blank.ipynb) : &#x26AA; }
 
-                    - { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-function-array.ipynb) : &#x1F4CC; }
+                    - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-C-extension-function-intentionally-blank.ipynb) : &#x26AA; }
 
-                - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-subpackage-intentionally-blank.ipynb) : &#x26AA; }
+                        - { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-C-extension-function-array.ipynb) : &#x1F4CC; }
+
+                - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-intentionally-blank.ipynb) : &#x26AA; }
 
                     - { ["**random**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random.ipynb) : &#x1F4CC; }
 
@@ -1455,9 +1525,11 @@
 
                             - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-module-__init__.ipynb) : &#x1F4CC; }
 
-                        - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-function-intentionally-blank.ipynb) : &#x26AA; }
+                        - { ["**C-extension**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-intentionally-blank.ipynb) : &#x26AA; }
+                            
+                            - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-intentionally-blank.ipynb) : &#x26AA; }
 
-                            - { ["**binomial**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-function-binomial.ipynb) : &#x1F4CC; }
+                                - { ["**binomial**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-binomial.ipynb) : &#x1F4CC; }
 
             - { [&#x2623; "**pandas**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F4CC; }
 
@@ -1494,7 +1566,7 @@
 
                     - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-module-__init__.ipynb) : &#x1F4CC; }
 
-                - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-subpackage-intentionally-blank.ipynb) : &#x26AA; }
+                - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-intentionally-blank.ipynb) : &#x26AA; }
 
                     - { ["**stats**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats.ipynb) : &#x1F4CC; }
 
