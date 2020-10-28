@@ -1493,6 +1493,8 @@
 
                         - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-intentionally-blank.ipynb) : &#x26AA; }
 
+                            - { ["**legend**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-legend.ipynb) : &#x1F4CC; }
+
                             - { ["**plot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-plot.ipynb) : &#x1F4CC; }
 
                             - { ["**show**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-show.ipynb) : &#x1F4CC;}
