@@ -1543,6 +1543,8 @@
 
                                 - { ["**binomial**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-binomial.ipynb) : &#x1F4CC; }
 
+                                - { ["**normal**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-normal.ipynb) : &#x1F4CC; }
+
             - { [&#x2623; "**pandas**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F4CC; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-module-intentionally-blank.ipynb) : &#x26AA; }
