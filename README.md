@@ -1525,6 +1525,8 @@
 
                     - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-C-extension-function-intentionally-blank.ipynb) : &#x26AA; }
 
+                        - { ["**arange**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-C-extension-function-arange.ipynb) : &#x1F4CC; }
+                        
                         - { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-C-extension-function-array.ipynb) : &#x1F4CC; }
 
                 - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-intentionally-blank.ipynb) : &#x26AA; }
