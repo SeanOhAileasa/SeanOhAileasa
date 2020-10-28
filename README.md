@@ -1497,6 +1497,8 @@
 
                             - { ["**show**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-show.ipynb) : &#x1F4CC;}
 
+                            - { ["**title**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-title.ipynb) : &#x1F4CC;}
+
                             - { ["**xlabel**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-xlabel.ipynb) : &#x1F4CC; }
 
                             - { ["**ylabel**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-ylabel.ipynb) : &#x1F4CC; } 
