@@ -1491,6 +1491,10 @@
 
                     - { ["**pyplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot.ipynb) : &#x1F4CC; }
 
+                        - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**plot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-plot.ipynb) : &#x1F4CC; }
+
                 - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-intentionally-blank.ipynb) : &#x26AA; }
 
                     - { ["**style**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style.ipynb) : &#x1F4CC; }
