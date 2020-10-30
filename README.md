@@ -1501,9 +1501,9 @@
 
                             - { ["**show**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-show.ipynb) : &#x1F4CC; }
 
-                            - { ["**subplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-subplot.ipynb) : &#x1F4CC; }
+                            - { ["**scatter**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-scatter.ipynb) : &#x1F4CC; }
 
-                            - { ["**scatter**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-scatter.ipynb) : &#x1F4CC;&#x1F4CC; }
+                            - { ["**subplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-subplot.ipynb) : &#x1F4CC; }
 
                             - { ["**title**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-title.ipynb) : &#x1F4CC; }
 
@@ -1526,6 +1526,10 @@
                                     - { ["**use**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core-function-use.ipynb) : &#x1F4CC; } 
 
             - { [&#x2623; "**numpy**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb) : &#x1F4CC; }
+
+                - { ["**constants**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-constants-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**pi**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-constants-pi.ipynb) : &#x1F4CC; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-module-intentionally-blank.ipynb) : &#x26AA; }
 
