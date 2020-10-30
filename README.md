@@ -1553,6 +1553,8 @@
 
                                 - { ["**normal**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-normal.ipynb) : &#x1F4CC; }
 
+                                - { ["**randint**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-randint.ipynb) : &#x1F4CC; }
+
                                 - { ["**uniform**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-uniform.ipynb) : &#x1F4CC; }
 
             - { [&#x2623; "**pandas**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F4CC; }
@@ -1618,7 +1620,7 @@
 
                         - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions-function-intentionally-blank.ipynb) : &#x26AA; }
 
-                            - { ["**distplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions-function-distplot.ipynb) : &#x1F4CC; } &#x1F3C1;
+                            - { ["**distplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions-function-distplot.ipynb) : &#x1F4CC; }
 
     - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F4CC; }
 
