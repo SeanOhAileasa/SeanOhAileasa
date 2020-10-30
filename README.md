@@ -1501,6 +1501,8 @@
 
                             - { ["**show**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-show.ipynb) : &#x1F4CC;}
 
+                            - { ["**subplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-subplot.ipynb) : &#x1F4CC;}
+
                             - { ["**title**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-title.ipynb) : &#x1F4CC;}
 
                             - { ["**xlabel**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-xlabel.ipynb) : &#x1F4CC; }
@@ -1550,6 +1552,8 @@
                                 - { ["**binomial**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-binomial.ipynb) : &#x1F4CC; }
 
                                 - { ["**normal**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-normal.ipynb) : &#x1F4CC; }
+
+                                - { ["**uniform**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-uniform.ipynb) : &#x1F4CC; }
 
             - { [&#x2623; "**pandas**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F4CC; }
 
