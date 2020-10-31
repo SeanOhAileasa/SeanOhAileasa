@@ -1434,6 +1434,18 @@
 
             - { ["**csv**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-file-formats-csv.ipynb) : &#x1F4CC; }
 
+        - { ["**numeric-mathematical**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical.ipynb) : &#x26AA; }
+
+            - { ["**decimal**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal.ipynb) : &#x1F4CC; }
+
+                - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**Decimal**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-Decimal.ipynb) : &#x1F4CC; }
+
+                - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**getcontext**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-function-getcontext.ipynb) : &#x1F4CC; } 
+
         - { ["**python-runtime-services**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services.ipynb) : &#x26AA; }
         
             - { ["**sys**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys.ipynb) : &#x1F4CC; }
