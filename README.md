@@ -1446,6 +1446,12 @@
 
                     - { ["**getcontext**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-function-getcontext.ipynb) : &#x1F4CC; } 
 
+            - { ["**math**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-math.ipynb) : &#x1F4CC; }
+
+                - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-math-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**getcontext**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-math-function-sqrt.ipynb) : &#x1F4CC; }
+
         - { ["**python-runtime-services**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services.ipynb) : &#x26AA; }
         
             - { ["**sys**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys.ipynb) : &#x1F4CC; }
