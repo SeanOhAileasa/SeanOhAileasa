@@ -1430,6 +1430,12 @@
 
                     - { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-array.ipynb) : &#x1F4CC; }
 
+            - { ["**collections**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-collections.ipynb) : &#x1F4CC; }
+
+                - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-collections-class-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**Counter**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-collections-class-Counter.ipynb) : &#x1F4CC; }
+
         - { ["**file-formats**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-file-formats.ipynb) : &#x26AA; }
 
             - { ["**csv**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-file-formats-csv.ipynb) : &#x1F4CC; }
