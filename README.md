@@ -1554,27 +1554,31 @@
 
             - { [&#x2623; "**~~numpy~~**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb) : &#x1F6A7; }
 
-                - { ["**constants**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-constants-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**pi**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-constants-pi.ipynb) : &#x1F4CC; }
-
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-module-intentionally-blank.ipynb) : &#x26AA; }
 
                     - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-module-__init__.ipynb) : &#x1F4CC; }
 
-                - { ["**C-extension**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-C-extension-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-C-extension-function-intentionally-blank.ipynb) : &#x26AA; }
-
-                        - { ["**arange**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-C-extension-function-arange.ipynb) : &#x1F4CC; }
-                        
-                        - { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-C-extension-function-array.ipynb) : &#x1F4CC; }
-
-                        - { ["**cos**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-C-extension-function-cos.ipynb) : &#x1F4CC; }
-                        
-                        - { ["**sin**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-C-extension-function-sin.ipynb) : &#x1F4CC; }
-
                 - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { ["**core**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core.ipynb) : &#x1F4CC; }
+
+                        - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-__init__.ipynb) : &#x1F4CC; }
+
+                        - { ["**C-extension**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**pi**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-pi.ipynb) : &#x1F4CC; }
+
+                            - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                                - { ["**arange**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-arange.ipynb) : &#x1F4CC; }
+                                
+                                - { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-array.ipynb) : &#x1F4CC; }
+
+                                - { ["**cos**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-cos.ipynb) : &#x1F4CC; }
+                                
+                                - { ["**sin**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-sin.ipynb) : &#x1F4CC; }
 
                     - { ["**random**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random.ipynb) : &#x1F4CC; }
                     { ["**~~documentation~~**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-documentation.ipynb) : &#x1F6A7; }
@@ -1584,8 +1588,22 @@
                             - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-module-__init__.ipynb) : &#x1F4CC; }
 
                         - { ["**C-extension**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-intentionally-blank.ipynb) : &#x26AA; }
-                            
-                            - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-intentionally-blank.ipynb) : &#x26AA; } 
+
+                                - { ["**mersenne-twister**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-mersenne-twister.ipynb) : &#x1F4CC; } 
+
+                                - { ["**permuted-congruential-generator**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-permuted-congruential-generator.ipynb) : &#x1F4CC; } 
+
+                                - { ["**SeedSequence**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-SeedSequence.ipynb) : &#x1F4CC; } 
+
+                            - { ["**parent**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-intentionally-blank.ipynb) : &#x26AA; }
+
+                                - { ["**BitGenerator**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator.ipynb) : &#x1F4CC; }
+
+                                    - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-intentionally-blank.ipynb) : &#x26AA; }
+
+                                        - { ["**Generator**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator.ipynb) : &#x1F4CC; }
 
                                 - { ["**binomial**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-binomial.ipynb) : &#x1F4CC; }
 
