@@ -1552,7 +1552,7 @@
 
                                     - { ["**use**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core-function-use.ipynb) : &#x1F4CC; } 
 
-            - { [&#x2623; "**~~numpy~~**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb) : &#x1F6A7; }
+            - { [&#x2623; "**numpy**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb) : &#x1F6A7; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-module-intentionally-blank.ipynb) : &#x26AA; }
 
@@ -1581,7 +1581,7 @@
                                 - { ["**sin**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-sin.ipynb) : &#x1F4CC; }
 
                     - { ["**random**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random.ipynb) : &#x1F4CC; }
-                    { ["**~~documentation~~**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-documentation.ipynb) : &#x1F6A7; }
+                    { ["**documentation**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-documentation.ipynb) : &#x1F6A7; }
 
                         - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-module-intentionally-blank.ipynb) : &#x26AA; }
 
@@ -1606,8 +1606,10 @@
                                         - { ["**Generator**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator.ipynb) : &#x1F4CC; }
 
                                             - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-method-intentionally-blank.ipynb) : &#x26AA; }
+                                            { ["**default_rng**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-method-default_rng.ipynb) : &#x1F4CC; }
 
-                                                - { ["**default_rng**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-method-default_rng.ipynb) : &#x1F4CC; }
+                                            - { ["**simple-random**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-simple-random-intentionally-blank.ipynb) : &#x26AA; }
+                                            { ["**integers**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-simple-random-integers.ipynb) : &#x1F6A7; }
 
                                 - { ["**binomial**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-binomial.ipynb) : &#x1F4CC; }
 
