@@ -1597,7 +1597,11 @@
 
                                 - { ["**permuted-congruential-generator**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-permuted-congruential-generator.ipynb) : &#x1F4CC; } 
 
-                                - { ["**SeedSequence**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-SeedSequence.ipynb) : &#x1F4CC; } 
+                                - { ["**SeedSequence**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-SeedSequence.ipynb) : &#x1F4CC; }
+
+                            - { ["**legacy**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-intentionally-blank.ipynb) : &#x26AA; }
+
+                                - { ["**RandomState**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-RandomState.ipynb) : &#x1F4CC; }
 
                             - { ["**parent**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-intentionally-blank.ipynb) : &#x26AA; }
 
@@ -1607,19 +1611,17 @@
 
                                         - { ["**Generator**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator.ipynb) : &#x1F4CC; }
 
-                                            - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-method-intentionally-blank.ipynb) : &#x26AA; }</br>
+                                            - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-method-intentionally-blank.ipynb) : &#x26AA; }
                                             { ["**default_rng**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-method-default_rng.ipynb) : &#x1F4CC; }
 
-                                            - { ["**simple-random**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-simple-random-intentionally-blank.ipynb) : &#x26AA; }</br>
+                                            - { ["**simple-random**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-simple-random-intentionally-blank.ipynb) : &#x26AA; }
                                             { ["**integers**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-simple-random-integers.ipynb) : &#x1F6A7; }
                                             
-                                            - { ["**permutations**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-intentionally-blank.ipynb) : &#x26AA; }</br>
-                                            { ["**shuffle**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-shuffle.ipynb) : &#x1F4CC; }</br>
+                                            - { ["**permutations**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-intentionally-blank.ipynb) : &#x26AA; }
+                                            { ["**shuffle**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-shuffle.ipynb) : &#x1F4CC; }
                                             { ["**permutation**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-permutation.ipynb) : &#x1F4CC; }
 
                                 - { ["**binomial**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-binomial.ipynb) : &#x1F4CC; }
-
-                                - { ["**normal**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-normal.ipynb) : &#x1F4CC; }
 
                                 - { ["**randint**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-randint.ipynb) : &#x1F4CC; }
 
