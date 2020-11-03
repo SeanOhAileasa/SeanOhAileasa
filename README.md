@@ -1578,6 +1578,8 @@
 
                                 - { ["**cos**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-cos.ipynb) : &#x1F4CC; }
                                 
+                                - { ["**reshape**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-reshape.ipynb) : &#x1F4CC; }
+
                                 - { ["**sin**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-sin.ipynb) : &#x1F4CC; }
 
                     - { ["**random**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random.ipynb) : &#x1F4CC; }
