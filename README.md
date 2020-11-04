@@ -1548,7 +1548,7 @@
 
                             - { ["**core**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core.ipynb) : &#x1F4CC; }
 
-                                - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core-function-intentionally-blank.ipynb) : &#x26AA; }        
+                                - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core-function-intentionally-blank.ipynb) : &#x26AA; }
 
                                     - { ["**use**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core-function-use.ipynb) : &#x1F4CC; } 
 
@@ -1628,11 +1628,25 @@
 
                                 - { ["**uniform**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-uniform.ipynb) : &#x1F4CC; }
 
-            - { [&#x2623; "**pandas**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F4CC; }
+            - { [&#x2623; "**pandas**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F6A7; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-module-intentionally-blank.ipynb) : &#x26AA; }
 
                     - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-module-__init__.ipynb) : &#x1F4CC; }
+
+                - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-intentionally-blank.ipynb) : &#x26AA; }
+                
+                    - { ["**io**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io.ipynb) : &#x1F4CC; }
+
+                        - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-__init__.ipynb) : &#x1F4CC; }
+
+                            - { ["**parsers**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers.ipynb) : &#x1F4CC; }
+
+                                - { ["**\_make\_parser_function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers-_make_parser_function-intentionally-blank.ipynb) : &#x26AA; }
+
+                                    - { ["**read_csv**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers-_make_parser_function-read_csv.ipynb) : &#x1F4CC; }
 
             - { [&#x2623; "**requests**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests.ipynb) : &#x1F4CC; }
 
