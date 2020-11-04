@@ -1635,7 +1635,22 @@
                     - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-module-__init__.ipynb) : &#x1F4CC; }
 
                 - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-intentionally-blank.ipynb) : &#x26AA; }
-                
+
+                    - { ["**core**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core.ipynb) : &#x1F4CC; }
+
+                        - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-__init__.ipynb) : &#x1F4CC; }
+
+                            - { ["**indexing**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing.ipynb) : &#x1F4CC; }
+
+                                - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-intentionally-blank.ipynb) : &#x26AA; }
+
+                                    - { ["**IndexingMixin**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin.ipynb) : &#x1F4CC; }
+
+                                        - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-intentionally-blank.ipynb) : &#x26AA; }
+                                        { ["**iloc**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-iloc.ipynb) : &#x1F4CC; }
+
                     - { ["**io**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io.ipynb) : &#x1F4CC; }
 
                         - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-intentionally-blank.ipynb) : &#x26AA; }
