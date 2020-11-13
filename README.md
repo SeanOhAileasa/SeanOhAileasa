@@ -93,6 +93,10 @@
 
 - { ["**scatter**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/plot-scatter.ipynb) : &#x1F530; }
 
+> { ["**scikit-learn**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/scikit-learn-intentionally-blank.ipynb) : &#x26AA; }
+
+- { ["**classification**"](https://github.com/E6985/pda-scikit-learn-iris/blob/main/scikit-learn-iris-dataset-classification.ipynb) : &#x1F530; }
+
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
     &#x23F9;
@@ -1207,9 +1211,9 @@
 
                         - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-intentionally-blank.ipynb) : &#x26AA; }
 
-                            - { ["fgets"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-fgets.ipynb) : &#x1F3C1; }
+                            - { ["~~fgets~~"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-fgets.ipynb) : &#x1F3C1; }
 
-                            - { ["gets"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-gets.ipynb) : &#x1F3C1; }
+                            - { ["~~gets~~"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-gets.ipynb) : &#x1F3C1; }
 
                             - { ["**puts**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-puts.ipynb) : &#x1F4CC; }
 
@@ -1219,17 +1223,17 @@
 
                             - { ["**printf**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-printf.ipynb) : &#x1F4CC; }
 
-                    - { ["stdlib"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdlib.ipynb) : &#x1F3C1; }
+                    - { ["~~stdlib~~"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdlib.ipynb) : &#x1F3C1; }
 
                         - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdlib-function-intentionally-blank.ipynb) : &#x26AA; }
                             
-                            - { ["malloc"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdlib-function-malloc.ipynb) : &#x1F3C1; }
+                            - { ["~~malloc~~"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdlib-function-malloc.ipynb) : &#x1F3C1; }
 
-                    - { ["string"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-string.ipynb) : &#x1F3C1; }
+                    - { ["~~string~~"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-string.ipynb) : &#x1F3C1; }
 
                         - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-string-function-intentionally-blank.ipynb) : &#x26AA; }
 
-                            - { ["strcmp"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-string-function-strcmp.ipynb) : &#x1F3C1; }
+                            - { ["~~strcmp~~"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-string-function-strcmp.ipynb) : &#x1F3C1; }
 
             - { ["**hash-define**"](https://github.com/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-define.ipynb) : &#x1F4CC; }
 
@@ -1359,6 +1363,10 @@
 
                                 - { ["**.isupper**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-isupper.ipynb) : &#x1F530; }
 
+                                - { ["~~.join~~"](#) : &#x1F3C1; } <!-- - { ["**.join**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-join.ipynb) : &#x1F4CC; } ...https://docs.python.org/3/library/stdtypes.html?highlight=join#str.join -->
+
+                                - { ["~~.split~~"](#) : &#x1F3C1; } <!-- - { ["**.split**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-split.ipynb) : &#x1F4CC; } ...https://docs.python.org/3/library/stdtypes.html?highlight=join#str.split -->
+
                         - { ["**{bool**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-bool.ipynb) : &#x1F530; }
 
                     - { ["**compound**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound.ipynb) : &#x1F530; }
@@ -1427,8 +1435,10 @@
             - { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array.ipynb) : &#x1F4CC; }
 
                 - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-intentionally-blank.ipynb) : &#x26AA; }
+                { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-array.ipynb) : &#x1F4CC; }
 
-                    - { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-array.ipynb) : &#x1F4CC; }
+                    - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-array-method-intentionally-blank.ipynb) : &#x26AA; } -->
+                    { ["~~.count~~"](#) : &#x1F3C1; } <!-- - { ["**count**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-array-method-count.ipynb) : &#x1F4CC; } -->
 
             - { ["**collections**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-collections.ipynb) : &#x1F4CC; }
 
@@ -1449,7 +1459,7 @@
                     - { ["**Decimal**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-Decimal.ipynb) : &#x1F4CC; }
 
                         - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-Decimal-method-intentionally-blank.ipynb) : &#x26AA; }
-                        { ["**sqrt**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-Decimal-method-sqrt.ipynb) : &#x1F4CC; }
+                        { ["**.sqrt**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-Decimal-method-sqrt.ipynb) : &#x1F4CC; }
 
                 - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-function-intentionally-blank.ipynb) : &#x26AA; }
 
@@ -1474,6 +1484,12 @@
                             - { ["**py-module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-path-append-mode-r-py-module.ipynb) : &#x00A9; }
 
                     - { ["**modules**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-modules.ipynb) : &#x1F7E1; }
+
+            - { ["~~inspect~~"](#) : &#x1F3C1; } <!-- - { ["**inspect**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-inspeat.ipynb) : &#x1F4CC; } -->
+
+                - { ["~~function~~"](#) : &#x26AA; } <!-- - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-inspeat-function-intentionally-blank.ipynb) : &#x26AA; } -->
+
+                    - { ["~~getmodule~~"](#) : &#x1F3C1; } <!-- - { ["**getmodule**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-inspeat-function-getmodule.ipynb) : &#x1F4CC; } -->
 
     - { ["**package**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
 
@@ -1503,7 +1519,7 @@
                         { ["**Tag**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element-class-Tag.ipynb) : &#x1F4CC; }
 
                             - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element-class-Tag-method-intentionally-blank.ipynb) : &#x26AA; }
-                            { ["**Tag.prettify**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element-class-Tag-method-prettify.ipynb) : &#x1F4CC; }
+                            { ["**.prettify**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element-class-Tag-method-prettify.ipynb) : &#x1F4CC; }
 
             - { [&#x2623; "**matplotlib**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib.ipynb) : &#x1F4CC; }
 
@@ -1600,7 +1616,7 @@
                             { ["**RandomState**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-RandomState.ipynb) : &#x1F4CC; }
 
                                 - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-RandomState-method-intentionally-blank.ipynb) : &#x26AA; }
-                                { ["**randint**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-RandomState-method-randint.ipynb) : &#x1F4CC; }
+                                { ["**.randint**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-RandomState-method-randint.ipynb) : &#x1F4CC; }
 
                             - { ["**class-parent**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-intentionally-blank.ipynb) : &#x26AA; }
                             { ["**BitGenerator**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator.ipynb) : &#x1F4CC; }
@@ -1611,10 +1627,10 @@
                                     { ["**default_rng**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-method-default_rng.ipynb) : &#x1F4CC; }
 
                                     - { ["**method-simple-random**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-simple-random-intentionally-blank.ipynb) : &#x26AA; }
-                                    { ["**integers**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-simple-random-integers.ipynb) : &#x1F6A7; }
+                                    { ["**.integers**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-simple-random-integers.ipynb) : &#x1F6A7; }
                                     
                                     - { ["**method-permutations**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-intentionally-blank.ipynb) : &#x26AA; }
-                                    { ["**shuffle**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-shuffle.ipynb) : &#x1F4CC; }
+                                    { ["**.shuffle**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-shuffle.ipynb) : &#x1F4CC; }
                                     { ["**permutation**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-permutation.ipynb) : &#x1F4CC; }
 
                                 - { ["**binomial**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-binomial.ipynb) : &#x1F4CC; }
@@ -1637,14 +1653,48 @@
 
                             - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-__init__.ipynb) : &#x1F4CC; }
 
+                            - { ["~~frame~~"](#) : &#x1F3C1; } <!-- { ["**franme**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame.ipynb) : &#x1F4CC; } -->
+
+                                - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-intentionally-blank.ipynb) : &#x26AA; } -->
+                                { ["~~DataFrame~"](#) : &#x1F3C1; } <!-- - { ["**DataFrame(NDFrame)**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame.ipynb) : &#x1F4CC; } -->
+                                    
+                                    - > NDFrame
+
+                                    - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-method-intentionally-blank.ipynb) : &#x26AA; } -->
+                                    { ["~~count~~"](#) : &#x1F3C1; } <!-- - { ["**count**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-method-count.ipynb) : &#x1F4CC; } -->
+
+                                    - { ["~~name~~"](#) : &#x26AA; } <!-- - { ["**name**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-name-intentionally-blank.ipynb) : &#x26AA; } -->
+                                    { ["~~sum~~"](#) : &#x1F3C1; } <!-- - { ["**sum**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-name-sum.ipynb) : &#x1F4CC; } -->
+
+                            - { ["~~generic~~"](#) : &#x1F3C1; } <!-- - { ["**generic**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic.ipynb) : &#x1F4CC; } -->
+
+                                - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-intentionally-blank.ipynb) : &#x26AA; } -->
+                                { ["~~NDFrame~~"](#) : &#x1F3C1; } <!-- - { ["**NDFrame(PandasObject,SelectionMixin,indexing.IndexingMixin**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame.ipynb) : &#x1F4CC; } -->
+                                    - > PandasObject
+                                    - > SelectionMixin
+                                    - > indexing.IndexingMixin
+
+                                    - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-intentionally-blank.ipynb) : &#x26AA; } -->
+                                    { ["~~.describe~~"](#) : &#x1F3C1; } <!-- - { ["**.describe**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-describe.ipynb) : &#x1F4CC; } -->
+                                    { ["~~.head~~"](#) : &#x1F3C1; } <!-- - { ["**.head**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-head.ipynb) : &#x1F4CC; } -->
+                                    { ["~~.tail~~"](#) : &#x1F3C1; } <!-- - { ["**.tail**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-tail.ipynb) : &#x1F4CC; } -->
+
                             - { ["**indexing**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing.ipynb) : &#x1F4CC; }
 
                                 - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-intentionally-blank.ipynb) : &#x26AA; }
                                 { ["**IndexingMixin**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin.ipynb) : &#x1F4CC; }
 
                                     - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-intentionally-blank.ipynb) : &#x26AA; }
-                                    { ["**iloc**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-iloc.ipynb) : &#x1F4CC; }
-                                    { ["**loc**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-loc.ipynb) : &#x1F4CC; }
+                                    { ["~~.at~~"](#) : &#x1F3C1; } <!-- { ["**.at**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-at.ipynb) : &#x1F4CC; } ...~/pda-pandas-iris/panda-iris-dataset.ipynb -->
+                                    { ["**.iloc**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-iloc.ipynb) : &#x1F4CC; }
+                                    { ["**.loc**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-loc.ipynb) : &#x1F4CC; }
+
+                            - { ["~~series~~"](#) : &#x1F3C1; } <!-- - { ["**series**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-series.ipynb) : &#x1F4CC; } -->
+
+                                - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-series-class-intentionally-blank.ipynb) : &#x26AA; } -->
+                                { ["~~Series~~"](#) : &#x1F3C1; } <!-- - { ["**Series**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-Series.ipynb) : &#x1F4CC; } -->
+                                    - > base.IndexOpsMixin
+                                    - > generic.NDFrame
 
                     - { ["**io**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io.ipynb) : &#x1F4CC; }
 
@@ -1654,9 +1704,9 @@
 
                             - { ["**parsers**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers.ipynb) : &#x1F4CC; }
 
-                                - { ["**\_make\_parser_function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers-_make_parser_function-intentionally-blank.ipynb) : &#x26AA; }
+                                - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers-function-intentionally-blank.ipynb) : &#x26AA; }
 
-                                    - { ["**read_csv**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers-_make_parser_function-read_csv.ipynb) : &#x1F4CC; }
+                                    - { ["**read_csv**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers-function-read_csv.ipynb) : &#x1F4CC; }
 
             - { [&#x2623; "**requests**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests.ipynb) : &#x1F4CC; }
 
@@ -1681,6 +1731,31 @@
 
                     - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-module-__init__.ipynb) : &#x1F4CC; }
 
+                - { ["~~subpackage~~"](#) : &#x26AA; } <!-- - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-intentionally-blank.ipynb) : &#x26AA; } -->
+
+                    - { ["~~neighbors~~"](#) : &#x1F3C1; } <!-- - { ["**neighbors**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors.ipynb) : &#x1F4CC; } -->
+
+                        - { ["~~module~~"](#) : &#x26AA; } <!-- - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-intentionally-blank.ipynb) : &#x26AA; } -->
+
+                            - { ["~~\_\_init\_\_~~"](#) : &#x1F3C1; } <!-- - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-__init__.ipynb) : &#x1F4CC; } -->
+
+                            - { ["~~\_classification~~"](#) : &#x1F3C1; } <!-- - { ["**\_classification**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_classification.ipynb) : &#x1F4CC; } -->
+
+                                - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_classification-class-intentionally-blank.ipynb) : &#x26AA; } -->
+                                { ["~~KNeighborsClassifier~~"](#) : &#x1F3C1; } <!-- - { ["**KNeighborsClassifier**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_classification-class-KNeighborsClassifier-inherits-NeighborsBase-KNeighborsMixin-SupervisedIntegerMixin-ClassifierMixin.ipynb) : &#x1F4CC; } -->
+                                    - > NeighborsBase 
+                                    - > KNeighborsMixin 
+                                    - > SupervisedIntegerMixin 
+                                    - > ClassifierMixin
+
+                            - { ["~~\_base~~"](#) : &#x1F3C1; } <!-- - { ["**\_base**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base.ipynb) : &#x1F4CC; } -->
+
+                                - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base-class-intentionally-blank.ipynb) : &#x26AA; } -->
+                                { ["~~SupervisedIntegerMixin~~"](#) : &#x1F3C1; } <!-- - { ["**SupervisedIntegerMixin**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base-class-SupervisedIntegerMixin.ipynb) : &#x1F4CC; } -->
+
+                                    - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base-class-SupervisedIntegerMixin-method-intentionally-blank.ipynb) : &#x26AA; } -->
+                                    { ["~~.fit~~"](#) : &#x1F3C1; } <!-- - { ["**head**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base-class-SupervisedIntegerMixin-method-fit.ipynb) : &#x1F4CC; } -->
+
             - { [&#x2623; "**scipy**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy.ipynb) : &#x1F4CC; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-module-intentionally-blank.ipynb) : &#x26AA; }
@@ -1703,13 +1778,19 @@
                                 { ["**binom**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-binom.ipynb) : &#x1F4CC; }
 
                                     - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-binom-method-intentionally-blank.ipynb) : &#x26AA; }
-                                    { ["**binom.pmf**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-binom-method-pmf.ipynb) : &#x1F4CC; }
+                                    { ["**.pmf**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-binom-method-pmf.ipynb) : &#x1F4CC; }
 
             - { [&#x2623; "**seaborn**" &#x2623;](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn.ipynb) : &#x1F4CC; }
 
                 - { ["**module**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-intentionally-blank.ipynb) : &#x26AA; }
 
                     - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-__init__.ipynb) : &#x1F4CC; }
+
+                    - { ["~~axisgrid~~"](#) : &#x1F3C1; } <!-- - { ["**axisgrid**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-axisgrid.ipynb) : &#x1F4CC; } -->
+
+                        - { ["~~function~~"](#) : &#x26AA; } <!-- - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-axisgrid-function-intentionally-blank.ipynb) : &#x26AA; } -->
+
+                            - { ["~~pairplot~~"](#) : &#x1F3C1; } <!-- - { ["**pairplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-axisgrid-function-pairplot.ipynb) : &#x1F4CC; } -->
 
                     - { ["**distributions**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions.ipynb) : &#x1F4CC; }
 
