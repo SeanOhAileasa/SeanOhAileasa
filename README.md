@@ -66,6 +66,10 @@
 
             - { ["reduce"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-reduce.ipynb) : &#x2623; }
 
+> { ["**numpy**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/numpy-intentionally-blank.ipynb) : &#x26AA; }
+
+- { ["**regression**"](https://github.com/E6985/fda-numpy-regression/blob/main/numpy-simple-linear-regression.ipynb) : &#x1F530; }
+
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
     &#x23F9;
@@ -1552,7 +1556,11 @@
 
                             - { ["**xlabel**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-xlabel.ipynb) : &#x1F4CC; }
 
+                            - { ["~~xlim~~"](#) : &#x1F3C1; } <!-- { ["**xlim**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-xlim.ipynb) : &#x1F4CC; } -->
+
                             - { ["**ylabel**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-ylabel.ipynb) : &#x1F4CC; } 
+
+                            - { ["~~ylim~~"](#) : &#x1F3C1; } <!-- { ["**ylim**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-ylim.ipynb) : &#x1F4CC; } -->
 
                 - { ["**subpackage**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-intentionally-blank.ipynb) : &#x26AA; }
 
@@ -1653,7 +1661,7 @@
 
                             - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-__init__.ipynb) : &#x1F4CC; }
 
-                            - { ["~~frame~~"](#) : &#x1F3C1; } <!-- { ["**franme**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame.ipynb) : &#x1F4CC; } -->
+                            - { ["~~frame~~"](#) : &#x1F3C1; } <!-- { ["**frame**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame.ipynb) : &#x1F4CC; } -->
 
                                 - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-intentionally-blank.ipynb) : &#x26AA; } -->
                                 { ["~~DataFrame~"](#) : &#x1F3C1; } <!-- - { ["**DataFrame(NDFrame)**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame.ipynb) : &#x1F4CC; } -->
