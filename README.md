@@ -31,7 +31,7 @@
 
 ###### Mandatory
 
-<details close>
+<details open>
     <summary>Fundamentals of Data Analysis</summary>
 
 [//]: # (====================================================================)
@@ -69,6 +69,16 @@
 > { ["**numpy**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/numpy-intentionally-blank.ipynb) : &#x26AA; }
 
 - { ["**regression**"](https://github.com/E6985/fda-numpy-regression/blob/main/numpy-simple-linear-regression.ipynb) : &#x1F530; }
+    - > matplotlib.\_\_init\_\_.RcParams
+    - > matplotlib.pyplot.legend
+    - > matplotlib.pyplot.plot
+    - > matplotlib.pyplot.xlabel
+    - > matplotlib.pyplot.xlim
+    - > matplotlib.pyplot.ylabel
+    - > matplotlib.pyplot.ylim
+    - > matplotlib.style.core.use
+    - > numpy.core.arange
+    - > numpy.random.Generator.normal
 
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
@@ -1590,6 +1600,15 @@
 
                             - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-__init__.ipynb) : &#x1F4CC; }
 
+                            - { ["~~getlimits~~"](#) : &#x1F3C1; } <!-- { ["**getlimits**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits.ipynb) : &#x1F4CC; } -->
+
+                                - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-intentionally-blank.ipynb) : &#x26AA; } -->
+                                { ["~~finfo~"](#) : &#x1F3C1; } <!-- - { ["**finfo**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-finfo.ipynb) : &#x1F4CC; } -->
+
+                                    - { ["~~attribute~~"](#) : &#x26AA; } <!-- - { ["**attribute**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-finfo-attribute-intentionally-blank.ipynb) : &#x26AA; } -->
+                                    { ["~~.min~"](#) : &#x1F3C1; } <!-- - { ["**min**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-finfo-attribute-min.ipynb) : &#x1F4CC; } -->
+                                    { ["~~.max~"](#) : &#x1F3C1; } <!-- - { ["**max**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-finfo-attribute-max.ipynb) : &#x1F4CC; } -->
+
                         - { ["**C-extension**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-intentionally-blank.ipynb) : &#x26AA; }
 
                             - { ["**pi**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-pi.ipynb) : &#x1F4CC; }
@@ -1664,7 +1683,7 @@
                             - { ["~~frame~~"](#) : &#x1F3C1; } <!-- { ["**frame**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame.ipynb) : &#x1F4CC; } -->
 
                                 - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-intentionally-blank.ipynb) : &#x26AA; } -->
-                                { ["~~DataFrame~"](#) : &#x1F3C1; } <!-- - { ["**DataFrame(NDFrame)**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame.ipynb) : &#x1F4CC; } -->
+                                { ["~~DataFrame~"](#) : &#x1F3C1; } <!-- - { ["**DataFrame*"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame.ipynb) : &#x1F4CC; } -->
                                     
                                     - > NDFrame
 
