@@ -50,25 +50,27 @@
 
             - { ["**numbers**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-types-measuring-numbers.ipynb) : &#x1F530; }
 
-- { ["**functions**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions.ipynb) : &#x1F530; }
+- { ["**functions**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions.ipynb) : &#x1F6A7; }
 
-    - { ["data"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data.ipynb) : &#x2623; }
+    - { ["**data**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data.ipynb) : &#x2623; }
 
-        - { ["turing"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing.ipynb) : &#x2623; }
+        - { ["**turing**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing.ipynb) : &#x2623; }
 
-            - { ["church"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing-church.ipynb) : &#x2623; }
+            - { ["**church**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing-church.ipynb) : &#x2623; }
 
-                - { ["world"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing-church-world.ipynb) : &#x2623; }
+                - { ["**world**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing-church-world.ipynb) : &#x2623; }
 
-        - { ["mapreduce"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-intentionlly-blank.ipynb) : &#x26AA; }
+        - { ["**mapreduce**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-intentionlly-blank.ipynb) : &#x26AA; }
 
             - { ["**map**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-map.ipynb) : &#x1F530; }
 
-            - { ["reduce"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-reduce.ipynb) : &#x2623; }
+            - { ["**reduce**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-reduce.ipynb) : &#x2623; }
+
+- { ["**datasets**"](https://github.com/E6985/fda-datasets-simulation/blob/main/datasets-simulation.ipynb) : &#x1F6A7; }
 
 > { ["**numpy**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/numpy-intentionally-blank.ipynb) : &#x26AA; }
 
-- { ["**regression**"](https://github.com/E6985/fda-numpy-regression/blob/main/numpy-simple-linear-regression.ipynb) : &#x1F530; }
+- { ["**regression**"](https://github.com/E6985/fda-numpy-regression/blob/main/numpy-simple-linear-regression.ipynb) : &#x1F6A7; }
     - > matplotlib.\_\_init\_\_.RcParams
     - > matplotlib.pyplot.legend
     - > matplotlib.pyplot.plot
