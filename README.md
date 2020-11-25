@@ -67,20 +67,24 @@
             - { ["**reduce**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-reduce.ipynb) : &#x2623; }
 
 - { ["**datasets**"](https://github.com/E6985/fda-datasets-simulation/blob/main/datasets-simulation.ipynb) : &#x1F6A7; }
+    - > pandas.io.parsers.read_csv
+        - > matplotlib.style.core
+            - > seaborn.axisgrid.pairplot
+                - > seaborn.distributions.distplot
 
 > { ["**numpy**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/numpy-intentionally-blank.ipynb) : &#x26AA; }
 
 - { ["**regression**"](https://github.com/E6985/fda-numpy-regression/blob/main/numpy-simple-linear-regression.ipynb) : &#x1F6A7; }
     - > matplotlib.\_\_init\_\_.RcParams
-    - > matplotlib.pyplot.legend
-    - > matplotlib.pyplot.plot
-    - > matplotlib.pyplot.xlabel
-    - > matplotlib.pyplot.xlim
-    - > matplotlib.pyplot.ylabel
-    - > matplotlib.pyplot.ylim
-    - > matplotlib.style.core.use
-    - > numpy.core.arange
-    - > numpy.random.Generator.normal
+        - > matplotlib.pyplot.legend
+            - > matplotlib.pyplot.plot
+                - > matplotlib.pyplot.xlabel
+                    - > matplotlib.pyplot.xlim
+                        - > matplotlib.pyplot.ylabel
+                    - > matplotlib.pyplot.ylim
+                - > matplotlib.style.core.use
+            - > numpy.core.arange
+        - > numpy.random.Generator.normal
 
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
