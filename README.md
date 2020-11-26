@@ -71,6 +71,10 @@
         - > matplotlib.style.core
             - > seaborn.axisgrid.pairplot
                 - > seaborn.distributions.distplot
+                    - > pandas.core.generic.DataFrame.to_csv
+                        - > numpy.core.function_base.linspace
+                    - > pandas.core.frame.DataFrame
+                - > seaborn.relational.scatterplot
 
 > { ["**numpy**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/numpy-intentionally-blank.ipynb) : &#x26AA; }
 
@@ -1606,6 +1610,12 @@
 
                             - { ["**\_\_init\_\_**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-__init__.ipynb) : &#x1F4CC; }
 
+                            - { ["~~function_base~~"](#) : &#x1F3C1; } <!-- { ["**function_base**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-function_base.ipynb) : &#x1F4CC; } -->
+                                
+                                - { ["~~function~~"](#) : &#x26AA; } <!-- { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-function_base-function-intentionally-blank.ipynb) : &#x26AA; } -->
+
+                                    - { ["~~linspace~~"](#) : &#x1F3C1; } <!-- { ["**function_base**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-function_base-function-linspace.ipynb) : &#x1F4CC; } -->
+
                             - { ["~~getlimits~~"](#) : &#x1F3C1; } <!-- { ["**getlimits**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits.ipynb) : &#x1F4CC; } -->
 
                                 - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-intentionally-blank.ipynb) : &#x26AA; } -->
@@ -1626,7 +1636,7 @@
                                 - { ["**array**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-array.ipynb) : &#x1F4CC; }
 
                                 - { ["**cos**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-cos.ipynb) : &#x1F4CC; }
-                                
+
                                 - { ["**reshape**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-reshape.ipynb) : &#x1F4CC; }
 
                                 - { ["**sin**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-sin.ipynb) : &#x1F4CC; }
@@ -1690,7 +1700,6 @@
 
                                 - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-intentionally-blank.ipynb) : &#x26AA; } -->
                                 { ["~~DataFrame~"](#) : &#x1F3C1; } <!-- - { ["**DataFrame*"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame.ipynb) : &#x1F4CC; } -->
-                                    
                                     - > NDFrame
 
                                     - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-method-intentionally-blank.ipynb) : &#x26AA; } -->
@@ -1704,13 +1713,14 @@
                                 - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-intentionally-blank.ipynb) : &#x26AA; } -->
                                 { ["~~NDFrame~~"](#) : &#x1F3C1; } <!-- - { ["**NDFrame(PandasObject,SelectionMixin,indexing.IndexingMixin**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame.ipynb) : &#x1F4CC; } -->
                                     - > PandasObject
-                                    - > SelectionMixin
-                                    - > indexing.IndexingMixin
+                                        - > SelectionMixin
+                                            - > indexing.IndexingMixin
 
                                     - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-intentionally-blank.ipynb) : &#x26AA; } -->
                                     { ["~~.describe~~"](#) : &#x1F3C1; } <!-- - { ["**.describe**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-describe.ipynb) : &#x1F4CC; } -->
                                     { ["~~.head~~"](#) : &#x1F3C1; } <!-- - { ["**.head**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-head.ipynb) : &#x1F4CC; } -->
                                     { ["~~.tail~~"](#) : &#x1F3C1; } <!-- - { ["**.tail**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-tail.ipynb) : &#x1F4CC; } -->
+                                    { ["~~.to_csv~~"](#) : &#x1F3C1; } <!-- - { ["**.to_csv**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-to_csv.ipynb) : &#x1F4CC; } -->
 
                             - { ["**indexing**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing.ipynb) : &#x1F4CC; }
 
@@ -1727,7 +1737,7 @@
                                 - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-series-class-intentionally-blank.ipynb) : &#x26AA; } -->
                                 { ["~~Series~~"](#) : &#x1F3C1; } <!-- - { ["**Series**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-Series.ipynb) : &#x1F4CC; } -->
                                     - > base.IndexOpsMixin
-                                    - > generic.NDFrame
+                                        - > generic.NDFrame
 
                     - { ["**io**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io.ipynb) : &#x1F4CC; }
 
@@ -1777,9 +1787,9 @@
                                 - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_classification-class-intentionally-blank.ipynb) : &#x26AA; } -->
                                 { ["~~KNeighborsClassifier~~"](#) : &#x1F3C1; } <!-- - { ["**KNeighborsClassifier**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_classification-class-KNeighborsClassifier-inherits-NeighborsBase-KNeighborsMixin-SupervisedIntegerMixin-ClassifierMixin.ipynb) : &#x1F4CC; } -->
                                     - > NeighborsBase 
-                                    - > KNeighborsMixin 
-                                    - > SupervisedIntegerMixin 
-                                    - > ClassifierMixin
+                                        - > KNeighborsMixin 
+                                            - > SupervisedIntegerMixin 
+                                                - > ClassifierMixin
 
                             - { ["~~\_base~~"](#) : &#x1F3C1; } <!-- - { ["**\_base**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base.ipynb) : &#x1F4CC; } -->
 
@@ -1830,6 +1840,12 @@
                         - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions-function-intentionally-blank.ipynb) : &#x26AA; }
 
                             - { ["**distplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions-function-distplot.ipynb) : &#x1F4CC; }
+
+                    - { ["~~relational~~"](#) : &#x1F3C1; } <!-- - { ["**relational**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-relational.ipynb) : &#x1F4CC; } -->
+
+                        - { ["~~function~~"](#) : &#x26AA; } <!-- - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-relational-function-intentionally-blank.ipynb) : &#x26AA; } -->
+
+                            - { ["~~scatterplot~~"](#) : &#x1F3C1; } <!-- - { ["**scatterplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-relational-function-scatterplot.ipynb) : &#x1F4CC; } -->
 
     - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F4CC; }
 
