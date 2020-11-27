@@ -89,6 +89,7 @@
                 - > matplotlib.style.core.use
             - > numpy.core.arange
         - > numpy.random.Generator.normal
+            - > &#x1F6A7;
 
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
