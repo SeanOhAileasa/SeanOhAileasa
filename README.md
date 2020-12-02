@@ -118,6 +118,14 @@
 
 - { ["**scatter**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/plot-scatter.ipynb) : &#x1F530; }
 
+> { ["**pandas**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/pandas-intentionally-blank.ipynb) : &#x26AA; }
+
+- { ["**iris**"](https://github.com/E6985/pda-pandas-iris/blob/main/panda-iris-dataset.ipynb) : &#x1F530; }
+{ ["~~.read_csv~~"](#) : &#x26AA; }
+{ ["~~.loc~~"](#) : &#x26AA; }
+{ ["~~.iloc~~"](#) : &#x26AA; }
+{ ["~~.at~~"](#) : &#x26AA; }
+
 > { ["**scikit-learn**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/scikit-learn-intentionally-blank.ipynb) : &#x26AA; }
 
 - { ["**classification**"](https://github.com/E6985/pda-scikit-learn-iris/blob/main/scikit-learn-iris-dataset-classification.ipynb) : &#x1F530; }
@@ -1560,6 +1568,8 @@
                     - { ["**pyplot**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot.ipynb) : &#x1F4CC; }
 
                         - { ["**function**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["~~bar~~"](#) : &#x1F3C1; } <!-- { ["**bar**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-bar.ipynb) : &#x1F4CC; } -->
 
                             - { ["**hist**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-hist.ipynb) : &#x1F4CC; }
 
