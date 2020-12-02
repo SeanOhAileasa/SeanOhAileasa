@@ -118,9 +118,13 @@
 
 - { ["**scatter**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/plot-scatter.ipynb) : &#x1F530; }
 
+> { ["**numpy**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/numpy-intentionally-blank.ipynb) : &#x26AA; }
+
+- { ["**random**"](https://github.com/E6985/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : &#x1F6A7; }
+
 > { ["**pandas**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/pandas-intentionally-blank.ipynb) : &#x26AA; }
 
-- { ["**iris**"](https://github.com/E6985/pda-pandas-iris/blob/main/panda-iris-dataset.ipynb) : &#x1F530; }
+- { ["**iris**"](https://github.com/E6985/pda-pandas-iris/blob/main/panda-iris-dataset.ipynb) : &#x1F6A7; }
 { ["~~df.read_csv~~"] }
 { ["~~df.loc~~"] }
 { ["~~df.iloc~~"] }
