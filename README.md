@@ -67,29 +67,29 @@
             - { ["**reduce**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-reduce.ipynb) : &#x2623; }
 
 - { ["**datasets**"](https://github.com/E6985/fda-datasets-simulation/blob/main/datasets-simulation.ipynb) : &#x1F6A7; }
-    - > pandas.io.parsers.read_csv
-        - > matplotlib.style.core
-            - > seaborn.axisgrid.pairplot
-                - > seaborn.distributions.distplot
-                    - > pandas.core.generic.DataFrame.to_csv
-                        - > numpy.core.function_base.linspace
-                    - > pandas.core.frame.DataFrame
-                - > seaborn.relational.scatterplot
+{ ["~~pandas.io.parsers.read_csv~~"] }
+{ ["~~matplotlib.style.core~~"] }
+{ ["~~seaborn.axisgrid.pairplot~~"] }
+{ ["~~seaborn.distributions.distplot~~"] }
+{ ["~~pandas.core.generic.DataFrame.to_csv~~"] }
+{ ["~~numpy.core.function_base.linspace~~"] }
+{ ["~~pandas.core.frame.DataFrame~~"] }
+{ ["~~seaborn.relational.scatterplot~~"] }
 
 > { ["**numpy**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/numpy-intentionally-blank.ipynb) : &#x26AA; }
 
 - { ["**regression**"](https://github.com/E6985/fda-numpy-regression/blob/main/numpy-simple-linear-regression.ipynb) : &#x1F6A7; }
-    - > matplotlib.\_\_init\_\_.RcParams
-        - > matplotlib.pyplot.legend
-            - > matplotlib.pyplot.plot
-                - > matplotlib.pyplot.xlabel
-                    - > matplotlib.pyplot.xlim
-                        - > matplotlib.pyplot.ylabel
-                    - > matplotlib.pyplot.ylim
-                - > matplotlib.style.core.use
-            - > numpy.core.arange
-        - > numpy.random.Generator.normal
-            - > &#x1F6A7;
+{ ["~~matplotlib.\_\_init\_\_.RcParams~~"] }
+{ ["~~matplotlib.pyplot.legend~~"] }
+{ ["~~matplotlib.pyplot.plot~~"] }
+{ ["~~matplotlib.pyplot.xlabel~~"] }
+{ ["~~matplotlib.pyplot.xlim~~"] }
+{ ["~~matplotlib.pyplot.ylabel~~"] }
+{ ["~~matplotlib.pyplot.ylim~~"] }
+{ ["~~matplotlib.style.core.use~~"] }
+{ ["~~numpy.core.arange~~"] }
+{ ["~~numpy.random.Generator.normal~~"] }
+{ [&#x1F6A7; : &#x1F6A7;] }
 
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
@@ -121,10 +121,15 @@
 > { ["**pandas**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/pandas-intentionally-blank.ipynb) : &#x26AA; }
 
 - { ["**iris**"](https://github.com/E6985/pda-pandas-iris/blob/main/panda-iris-dataset.ipynb) : &#x1F530; }
-{ ["~~.read_csv~~"](#) : &#x26AA; }
-{ ["~~.loc~~"](#) : &#x26AA; }
-{ ["~~.iloc~~"](#) : &#x26AA; }
-{ ["~~.at~~"](#) : &#x26AA; }
+{ ["~~df.read_csv~~"] }
+{ ["~~df.loc~~"] }
+{ ["~~df.iloc~~"] }
+{ ["~~df.at~~"] }
+{ ["~~df.head~~"] }
+{ ["~~df.tail~~"] }
+{ ["~~df.describe~~"] }
+{ ["~~df.mean~~"] : &#x1F6A7; }
+{ ["~~sns.pairplot~~"] }
 
 > { ["**scikit-learn**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/scikit-learn-intentionally-blank.ipynb) : &#x26AA; }
 
