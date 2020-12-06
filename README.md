@@ -135,6 +135,8 @@
 { ["~~df.mean~~"] : &#x1F6A7; }
 { ["~~sns.pairplot~~"] }
 
+- { ["**time-series**"](https://github.com/E6985/pda-time-series/blob/main/time-series.ipynb) : &#x1F6A7; }
+
 > { ["**scikit-learn**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/scikit-learn-intentionally-blank.ipynb) : &#x26AA; }
 
 - { ["**classification**"](https://github.com/E6985/pda-scikit-learn-iris/blob/main/scikit-learn-iris-dataset-classification.ipynb) : &#x1F530; }
