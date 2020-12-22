@@ -6,13 +6,13 @@
 
 ###### ⚡ Earned: 25 Credits - Total Credits Required: 75 - Stage GPA: 78.0</br>- Computer Architecture and Technology Convergence (5 Credits)</br>- Web Application Development (5 Credits)</br>- Programming and Scripting (10 Credits)</br>- Applied Databases (5 Credits)
 
-###### 🔭 I’m studying this Autumn Semester (Sept-Dec, 2020) - modules:</br>- Programming for Data Analysis (10 Credits) - Mandatory</br>- Fundamentals of Data Analysis (5 Credits) - Mandatory</br>- Data Representation and Querying (5 Credits) - Elective</br>- Machine Learning and Statistics (5 Credits) - Elective</br>- Multi-Paradigm Programming (5 Credits) - Elective
+###### 🔭 I’m studying this Autumn Semester (Sept-Dec, 2020) - modules:</br>- Programming for Data Analysis (10 Credits) - Mandatory</br>- Fundamentals of Data Analysis (5 Credits) - Mandatory</br>- ~~Data Representation and Querying (5 Credits) - Elective</br>- Machine Learning and Statistics (5 Credits) - Elective</br>- Multi-Paradigm Programming (5 Credits) - Elective~~
 
 ###### ⚡ I'm using Github to document my progress thus create portfolio.</br>- Supplement/Enable further study by building upon this material.
 
-###### 🥅 2021 Goals: Obtain Work Placement for early January 2021 start.</br>- Work Placement accounts for 15 credits of the 75 credits required.
+###### 🥅 2021 Goals: Obtain Work Placement (Mandatory) - 15 credits.
 
-###### 🎓 Graduate Autumn 2021 with Higher Diploma in Data Analytics.
+###### 🎓 Finish programme Autumn 2021 with Work experience complete.
 
 ***
 
@@ -31,7 +31,7 @@
 
 ###### Mandatory
 
-<details open>
+<details close>
     <summary>Fundamentals of Data Analysis</summary>
 
 [//]: # (====================================================================)
@@ -91,6 +91,12 @@
 { ["~~numpy.random.Generator.normal~~"] }
 { [&#x1F6A7; : &#x1F6A7;] }
 
+> { ["**datasets-simulation**"](https://github.com/E6985/fda-datasets-simulation/blob/main/datasets-simulation.ipynb) : &#x1F6A7; }
+
+> { ["**probability-simulation**"](https://github.com/E6985/fda-probability-simulation/blob/main/probability-simulation.ipynb) : &#x1F6A7; }
+
+> { ["**simpsons-paradox**"](https://github.com/E6985/fda-simpsons-paradox/blob/main/simpsons-paradox.ipynb) : &#x1F6A7; }
+
 - { ["**lorem_ipsum**"](https://github.com/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
 
     &#x23F9;
@@ -103,7 +109,11 @@
 
 </details>
 
-<details open>
+### { ["**Assignment**"](https://github.com/E6985/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb) : 🎓 }
+
+### { ["**Project**"](https://github.com/E6985/fda-regression/blob/main/Fundamentals-of-Data-Analysis-Regression-2020.ipynb) : 🎓 }
+
+<details close>
     <summary>Programming for Data Analysis</summary>
 
 [//]: # (====================================================================)
@@ -152,6 +162,10 @@
 [//]: # (====================================================================)
 
 </details>
+
+### { ["**Assignment**"](https://github.com/E6985/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : 🎓 }
+
+### { ["**Project**"](https://github.com/E6985/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb) : 🎓 }
 
 ###### Electives
 
@@ -236,7 +250,7 @@
 
 </details>
 
-###### TBC
+###### Mandatory (January 2021)
 
 <details close>
     <summary>Computational Thinking with Algorithms</summary>
@@ -1292,7 +1306,7 @@
     <!-- ( ./pro/par/ ) -->
     > { ["**object-oriented**"](https://github.com/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-object-oriented.ipynb) : &#x1F530; }
 
-    <details open>
+    <details close>
         <summary>&#x1F4CC; Python &#x26AA;</summary> 
     
     <!-- ( ./pro/par/pyt/ ) -->
@@ -1721,7 +1735,7 @@
                             - { ["~~frame~~"](#) : &#x1F3C1; } <!-- { ["**frame**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame.ipynb) : &#x1F4CC; } -->
 
                                 - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-intentionally-blank.ipynb) : &#x26AA; } -->
-                                { ["~~DataFrame~"](#) : &#x1F3C1; } <!-- - { ["**DataFrame*"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame.ipynb) : &#x1F4CC; } -->
+                                { ["~~DataFrame~~"](#) : &#x1F3C1; } <!-- - { ["**DataFrame*"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame.ipynb) : &#x1F4CC; } -->
                                     - > NDFrame
 
                                     - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://github.com/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-method-intentionally-blank.ipynb) : &#x26AA; } -->
