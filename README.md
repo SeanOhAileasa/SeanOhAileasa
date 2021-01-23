@@ -1,22 +1,42 @@
-## Hi there, I'm a Data Analytics Student</br>Working/Studying in Co. Kerry, Ireland &#x1F4CC;
+[![GMIT](https://github.com/E6985/pda-numpy-random/blob/main/img/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
+
+## Data Analytics Student</br>Working/Studying in Co. Kerry, Ireland &#x1F4CC;
 
 ### Graduate of BSc (Hons) Business Computing 🎓</br>University of Wales - Award Classification 2.1
 
-##### Studying for the GMIT Higher Diploma in Data Analytics - NFQ 8.</br>Seeking Work Placement January 2021 as part of programme.
+##### Studying for the Higher Diploma in Data Analytics (GMIT) - NFQ8
 
-###### ⚡ Earned: 25 Credits - Total Credits Required: 75 - Stage GPA: 78.0</br>- Computer Architecture and Technology Convergence (5 Credits)</br>- Web Application Development (5 Credits)</br>- Programming and Scripting (10 Credits)</br>- Applied Databases (5 Credits)
+###### ⚡ &nbsp;Earned: 40 Credits (Cr) - Total Cr Required: 75 - Stage GPA: 78.0
 
-###### 🔭 I’m studying this Autumn Semester (Sept-Dec, 2020) - modules:</br>- Programming for Data Analysis (10 Credits) - Mandatory</br>- Fundamentals of Data Analysis (5 Credits) - Mandatory</br>- ~~Data Representation and Querying (5 Credits) - Elective</br>- Machine Learning and Statistics (5 Credits) - Elective</br>- Multi-Paradigm Programming (5 Credits) - Elective~~
+###### ⚡ Anticipate: 15 Cr - Subject to Progression & Awards Board (PAB)
 
-###### ⚡ I'm using Github to document my progress thus create portfolio.</br>- Supplement/Enable further study by building upon this material.
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[PAB] Ratification on 11th February, 2021
 
-###### 🥅 2021 Goals: Obtain Work Placement (Mandatory) - 15 credits.
+###### 🔭 Earning: 20 Cr - Mandatory [M] / Elective [E] January-May, 2021
 
-###### 🎓 Finish programme Autumn 2021 with Work experience complete.
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[E] Semester September-December, 2021
 
-***
+| **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade   |
+| :--------------------------------------------------------------|:-------:|:-------:|
+| Programming and Scripting (Python)                             | 10      | 75%     |
+| Computer Architecture and Technology Convergence               | 5       | 80%     |
+| Web Application Development (HTML/CSS/JavaScript)              | 5       | 80%     |
+| Applied Databases (SQL/MongoDB/Python)                         | 5       | 80%     |
+| Work Placement (Graded Pass/Fail)                              | 15      | PASS    |
+|                                                                |         |         |
+| **Subject to Progression & Award Board Ratification:**         |         |         |
+| [PAB] Programming for Data Analysis (Python)                   | 10      | TBC     |
+| [PAB] Fundamentals of Data Analysis (Python)                   | 5       | TBC     |
+|                                                                |         |         |
+| **January-May, 2021 - Mandatory [M] - Elective [E]:**          |         |         |
+| [M] Computational Thinking with Algorithms (Python)            | 5       | WIP     |
+| [E] Machine Learning and Statistics (Python)                   | 5       | WIP     |
+| [E] Multi-Paradigm Programming (C/Java/Python)                 | 5       | WIP     |
+| [E] Data Representation (JS/API with Python)                   | 5       | WIP     |
 
-<details open>
+## GMIT Higher Diploma in Data Analytics Programme
+
+<details close>
     <summary>A Priori</summary>
 
 [//]: # (====================================================================)
@@ -67,29 +87,10 @@
             - { ["**reduce**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-reduce.ipynb) : &#x2623; }
 
 - { ["**datasets**"](https://github.com/E6985/fda-datasets-simulation/blob/main/datasets-simulation.ipynb) : &#x1F6A7; }
-{ ["~~pandas.io.parsers.read_csv~~"] }
-{ ["~~matplotlib.style.core~~"] }
-{ ["~~seaborn.axisgrid.pairplot~~"] }
-{ ["~~seaborn.distributions.distplot~~"] }
-{ ["~~pandas.core.generic.DataFrame.to_csv~~"] }
-{ ["~~numpy.core.function_base.linspace~~"] }
-{ ["~~pandas.core.frame.DataFrame~~"] }
-{ ["~~seaborn.relational.scatterplot~~"] }
 
 > { ["**numpy**"](https://github.com/E6985/L8733/blob/master/src/hdp/fda/numpy-intentionally-blank.ipynb) : &#x26AA; }
 
 - { ["**regression**"](https://github.com/E6985/fda-numpy-regression/blob/main/numpy-simple-linear-regression.ipynb) : &#x1F6A7; }
-{ ["~~matplotlib.\_\_init\_\_.RcParams~~"] }
-{ ["~~matplotlib.pyplot.legend~~"] }
-{ ["~~matplotlib.pyplot.plot~~"] }
-{ ["~~matplotlib.pyplot.xlabel~~"] }
-{ ["~~matplotlib.pyplot.xlim~~"] }
-{ ["~~matplotlib.pyplot.ylabel~~"] }
-{ ["~~matplotlib.pyplot.ylim~~"] }
-{ ["~~matplotlib.style.core.use~~"] }
-{ ["~~numpy.core.arange~~"] }
-{ ["~~numpy.random.Generator.normal~~"] }
-{ [&#x1F6A7; : &#x1F6A7;] }
 
 > { ["**datasets-simulation**"](https://github.com/E6985/fda-datasets-simulation/blob/main/datasets-simulation.ipynb) : &#x1F6A7; }
 
@@ -135,15 +136,6 @@
 > { ["**pandas**"](https://github.com/E6985/L8733/blob/master/src/hdp/pda/pandas-intentionally-blank.ipynb) : &#x26AA; }
 
 - { ["**iris**"](https://github.com/E6985/pda-pandas-iris/blob/main/panda-iris-dataset.ipynb) : &#x1F6A7; }
-{ ["~~df.read_csv~~"] }
-{ ["~~df.loc~~"] }
-{ ["~~df.iloc~~"] }
-{ ["~~df.at~~"] }
-{ ["~~df.head~~"] }
-{ ["~~df.tail~~"] }
-{ ["~~df.describe~~"] }
-{ ["~~df.mean~~"] : &#x1F6A7; }
-{ ["~~sns.pairplot~~"] }
 
 - { ["**time-series**"](https://github.com/E6985/pda-time-series/blob/main/time-series.ipynb) : &#x1F6A7; }
 
@@ -773,7 +765,7 @@
 
 ***
 
-<details open>
+<details close>
     <summary>A Posteriori</summary>
 
 [//]: # (====================================================================)
@@ -2103,42 +2095,23 @@
 
 </details>
 
-<details open>
+## Republic of Ireland Covid-19 Pandemic SARS-CoV-2
+
+<details close>
     <summary>Datasets</summary>
 
 [//]: # (====================================================================)
 [//]: # ( ./dataset )
 [//]: # (====================================================================)
 
-***
+</br>
 
-- { **SARS-CoV-2** : ["**covid-19-ireland**"](https://github.com/E6985/E2746/blob/master/src/dataset/covid-19-ireland.csv) }
+* { **SARS-CoV-2** : ["**covid-19-ireland**"](https://github.com/E6985/E2746/blob/master/src/dataset/covid-19-ireland.csv) }
 
 &#x23CF;
-
-***
 
 [//]: # (====================================================================)
 [//]: # ( Datasets - END )
-[//]: # (====================================================================)
-
-</details>
-
-<details>
-    <summary>References &#x1F534;</summary>
-
-[//]: # (====================================================================)
-[//]: # ( References )
-[//]: # (====================================================================)
-
-***
-
-&#x23CF;
-
-***
-
-[//]: # (====================================================================)
-[//]: # ( References - END )
 [//]: # (====================================================================)
 
 </details>
