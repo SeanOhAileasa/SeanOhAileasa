@@ -36,8 +36,10 @@
 
 ## GMIT Higher Diploma in Data Analytics Programme
 
+### A Priori
+
 <details close> <!-- START - A Priori -->
-    <summary>A Priori</summary>
+    <summary>GMIT Programme</summary>
 
 [//]: # (====================================================================)
 [//]: # (====================================================================)
@@ -47,216 +49,24 @@
 [//]: # (====================================================================)
 [//]: # (====================================================================)
 
-</br>
-
-<details open> <!-- START - Fundamentals of Data Analysis -->
-    <summary>Fundamentals of Data Analysis</summary>
-
-[//]: # (====================================================================)
-[//]: # ( ./hdp/fda )
-[//]: # (====================================================================)
-
-***
-
-> { ["**data**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data.ipynb) : &#x1F530; }
-
-- { ["**types**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-types.ipynb) : &#x1F530; }
-
-    - { ["**counting**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-types-counting.ipynb) : &#x1F530; }
-
-        - { ["**measuring**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-types-measuring.ipynb) : &#x1F530; }
-
-            - { ["**numbers**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-types-measuring-numbers.ipynb) : &#x1F530; }
-
-- { ["**functions**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions.ipynb) : &#x1F6A7; }
-
-    - { ["**data**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data.ipynb) : &#x2623; }
-
-        - { ["**turing**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing.ipynb) : &#x2623; }
-
-            - { ["**church**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing-church.ipynb) : &#x2623; }
-
-                - { ["**world**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing-church-world.ipynb) : &#x2623; }
-
-        - { ["**mapreduce**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-intentionlly-blank.ipynb) : &#x26AA; }
-
-            - { ["**map**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-map.ipynb) : &#x1F530; }
-
-            - { ["**reduce**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-reduce.ipynb) : &#x2623; }
-
-- { ["**datasets**"](https://nbviewer.jupyter.org/github/E6985/fda-datasets-simulation/blob/main/datasets-simulation.ipynb) : &#x1F6A7; }
-
-> { ["**numpy**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/numpy-intentionally-blank.ipynb) : &#x26AA; }
-
-- { ["**regression**"](https://nbviewer.jupyter.org/github/E6985/fda-numpy-regression/blob/main/numpy-simple-linear-regression.ipynb) : &#x1F6A7; }
-
-> { ["**datasets-simulation**"](https://nbviewer.jupyter.org/github/E6985/fda-datasets-simulation/blob/main/datasets-simulation.ipynb) : &#x1F6A7; }
-
-> { ["**probability-simulation**"](https://nbviewer.jupyter.org/github/E6985/fda-probability-simulation/blob/main/probability-simulation.ipynb) : &#x1F6A7; }
-
-> { ["**simpsons-paradox**"](https://nbviewer.jupyter.org/github/E6985/fda-simpsons-paradox/blob/main/simpsons-paradox.ipynb) : &#x1F6A7; }
-
-- { ["**lorem_ipsum**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
-
-    &#x23F9;
-
-***
-
-[//]: # (====================================================================)
-[//]: # ( Fundamentals of Data Analysis - END )
-[//]: # (====================================================================)
-
-</details> <!-- END - Fundamentals of Data Analysis -->
-
-### { ["**Assignment**"](https://nbviewer.jupyter.org/github/E6985/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb) : 🎓 }
-
-### { ["**Project**"](https://nbviewer.jupyter.org/github/E6985/fda-regression/blob/main/Fundamentals-of-Data-Analysis-Regression-2020.ipynb) : 🎓 }
-
-<details open> <!-- START - Programming for Data Analysis -->
-    <summary>Programming for Data Analysis</summary>
-
-[//]: # (====================================================================)
-[//]: # ( ./hdp/pda )
-[//]: # (====================================================================)
-
-***
-
-> { ["**plot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/pda/plot-intentionally-blank.ipynb) : &#x26AA; }
-
-- { ["**histogram**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/pda/plot-histogram.ipynb) : &#x1F530; }
-
-- { ["**scatter**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/pda/plot-scatter.ipynb) : &#x1F530; }
-
-> { ["**numpy**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/pda/numpy-intentionally-blank.ipynb) : &#x26AA; }
-
-- { ["**random**"](https://nbviewer.jupyter.org/github/E6985/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : &#x1F6A7; }
-
-> { ["**pandas**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/pda/pandas-intentionally-blank.ipynb) : &#x26AA; }
-
-- { ["**iris**"](https://nbviewer.jupyter.org/github/E6985/pda-pandas-iris/blob/main/panda-iris-dataset.ipynb) : &#x1F6A7; }
-
-- { ["**time-series**"](https://nbviewer.jupyter.org/github/E6985/pda-time-series/blob/main/time-series.ipynb) : &#x1F6A7; }
-
-> { ["**scikit-learn**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/pda/scikit-learn-intentionally-blank.ipynb) : &#x26AA; }
-
-- { ["**classification**"](https://nbviewer.jupyter.org/github/E6985/pda-scikit-learn-iris/blob/main/scikit-learn-iris-dataset-classification.ipynb) : &#x1F530; }
-
-- { ["**lorem_ipsum**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
-
-    &#x23F9;
-
-***
-
-[//]: # (====================================================================)
-[//]: # ( Programming for Data Analysis - END )
-[//]: # (====================================================================)
-
-</details> <!-- END - Programming for Data Analysis -->
-
-### { ["**Assignment**"](https://nbviewer.jupyter.org/github/E6985/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : 🎓 }
-
-### { ["**Project**"](https://nbviewer.jupyter.org/github/E6985/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb) : 🎓 }
-
-###### Electives
-
-<details open> <!-- START - Machine Learning and Statistics -->
-    <summary>Machine Learning and Statistics</summary>
-
-[//]: # (====================================================================)
-[//]: # ( ./hdp/mls )
-[//]: # (====================================================================)
-
-***
-
-> { ["**stochasticism**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mls/stochasticism.ipynb) : &#x1F530; }
-
-- { ["model"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mls/stochasticism-model.ipynb) : &#x2623; }
-
-    - { ["analysis"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mls/stochasticism-model-analysis.ipynb) : &#x2623; }
-
-    - { ["train"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mls/stochasticism-model-train.ipynb) : &#x2623; }
-
-- { ["**lorem_ipsum**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
-
-    &#x23F9;
-
-***
-
-[//]: # (====================================================================)
-[//]: # ( Machine Learning and Statistics - END )
-[//]: # (====================================================================)
-
-</details> <!-- END - Machine Learning and Statistics -->
-
-<details open> <!-- START - Multi-Paradigm Programming -->
-    <summary>Multi-Paradigm Programming</summary>
-
-[//]: # (====================================================================)
-[//]: # ( ./hdp/mpp )
-[//]: # (====================================================================)
-
-***
-
-> { ["**C**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mpp/c.ipynb) : &#x1F530; }
-
-- { ["**v-python**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mpp/c-v-python.ipynb) : &#x1F530; }
-
-    - { ["**process**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mpp/c-v-python-process.ipynb) : &#x1F530; }
-
-- { ["**simulation**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mpp/simulation-intentionally-blank.ipynb) : &#x26AA; }
-
-    - { ["shop"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mpp/simulation-shop.ipynb) : &#x2623; }
-
-- { ["**lorem_ipsum**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
-
-    &#x23F9;
-
-***
-
-[//]: # (====================================================================)
-[//]: # ( Multi-Paradigm Programming - END )
-[//]: # (====================================================================)
-
-</details> <!-- END - Multi-Paradigm Programming -->
-
-<details open> <!-- START - Data Representation -->
-    <summary>Data Representation</summary>
-
-[//]: # (====================================================================)
-[//]: # ( ./hdp/drp )
-[//]: # (====================================================================)
-
-***
-
-- { ["**lorem_ipsum**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
-
-    &#x23F9;
-
-***
-
-[//]: # (====================================================================)
-[//]: # ( Data Representation - END )
-[//]: # (====================================================================)
-
-</details> <!-- END - Data Representation -->
-
-###### Mandatory (January 2021)
-
-<details open> <!-- START - Computational Thinking with Algorithms -->
-    <summary>Computational Thinking with Algorithms</summary>
+<a id="computational-thinking-with-algorithms"></a>
+## Computational Thinking with Algorithms
+
+<details close> <!-- START - Computational Thinking with Algorithms -->
+    <summary>Table of Contents</summary>
 
 [//]: # (====================================================================)
 [//]: # ( ./hdp/cta )
 [//]: # (====================================================================)
 
-***
+</br>
 
-> { ["**computer-science**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/computer-science.ipynb) : &#x1F530; }
+- { ["**computer-science**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/computer-science.ipynb) : &#x1F530; }
 
-<details open>
+<details close>
     <summary>analyse</summary>
 
-> { ["**analyse**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/analyse-intentionally-blank.ipynb) :
+- { ["**analyse**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/analyse-intentionally-blank.ipynb) :
 &#x26AA; }
 
 - { ["**algorithm**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/algorithm.ipynb) : &#x1F530; }
@@ -305,10 +115,10 @@
 
 </details>
 
-<details open>
+<details close>
     <summary>recursion</summary>
 
-> { ["**recursion**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/recursion.ipynb) : &#x1F530; }
+- { ["**recursion**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/recursion.ipynb) : &#x1F530; }
 
 - { ["**iteration**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/recursion-iteration.ipynb) : &#x1F530; }
 
@@ -358,10 +168,10 @@
 
 </details>
 
-<details open>
+<details close>
     <summary>cryptography</summary>
 
-> { ["**cryptography**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/cryptography.ipynb) : &#x1F530; }
+- { ["**cryptography**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/cryptography.ipynb) : &#x1F530; }
 
 - { ["**statement**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/cryptography-statement.ipynb) : &#x1F530; }
 
@@ -391,10 +201,10 @@
 
 </details>
 
-<details open>
+<details close>
     <summary>sorting</summary>
 
-> { ["**sorting**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/sorting.ipynb) : &#x1F530; }
+- { ["**sorting**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/sorting.ipynb) : &#x1F530; }
 
 - { ["**conditions**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/sorting-conditions.ipynb) : &#x1F530; }
 
@@ -502,10 +312,10 @@
 
 </details>
 
-<details open>
+<details close>
     <summary>search</summary>
 
-> { ["**search**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/search.ipynb) : &#x1F530; }
+- { ["**search**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/search.ipynb) : &#x1F530; }
 
 - { ["**problem**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/search-problem.ipynb) : &#x1F530; }
 
@@ -539,11 +349,9 @@
 
 </details>
 
-- { ["**lorem_ipsum**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
+#### END
 
-    &#x23F9;
-
-***
+&#x23F9;
 
 [//]: # (====================================================================)
 [//]: # ( Computational Thinking with Algorithms - END )
@@ -551,20 +359,127 @@
 
 </details> <!-- END - Computational Thinking with Algorithms -->
 
-###### Completed - Grade 80%
+<a id="programming-for-data-analysis"></a>
+## Programming for Data Analysis
 
-<details open> <!-- START - Applied Databases -->
-    <summary>Applied Databases</summary>
+<details close> <!-- START - Programming for Data Analysis -->
+    <summary>Table of Contents</summary>
+
+[//]: # (====================================================================)
+[//]: # ( ./hdp/pda )
+[//]: # (====================================================================)
+
+- { ["**plot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/pda/plot-intentionally-blank.ipynb) : &#x26AA; }
+
+- { ["**histogram**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/pda/plot-histogram.ipynb) : &#x1F530; }
+
+- { ["**scatter**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/pda/plot-scatter.ipynb) : &#x1F530; }
+
+> { ["**numpy**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/pda/numpy-intentionally-blank.ipynb) : &#x26AA; }
+
+- { ["**random**"](https://nbviewer.jupyter.org/github/E6985/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : &#x1F6A7; }
+
+> { ["**pandas**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/pda/pandas-intentionally-blank.ipynb) : &#x26AA; }
+
+- { ["**iris**"](https://nbviewer.jupyter.org/github/E6985/pda-pandas-iris/blob/main/panda-iris-dataset.ipynb) : &#x1F6A7; }
+
+- { ["**time-series**"](https://nbviewer.jupyter.org/github/E6985/pda-time-series/blob/main/time-series.ipynb) : &#x1F6A7; }
+
+> { ["**scikit-learn**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/pda/scikit-learn-intentionally-blank.ipynb) : &#x26AA; }
+
+- { ["**classification**"](https://nbviewer.jupyter.org/github/E6985/pda-scikit-learn-iris/blob/main/scikit-learn-iris-dataset-classification.ipynb) : &#x1F530; }
+
+#### END
+
+&#x23F9;
+
+[//]: # (====================================================================)
+[//]: # ( Programming for Data Analysis - END )
+[//]: # (====================================================================)
+
+</details> <!-- END - Programming for Data Analysis -->
+
+### { ["**Assignment**"](https://nbviewer.jupyter.org/github/E6985/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : 🎓 }
+
+### { ["**Project**"](https://nbviewer.jupyter.org/github/E6985/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb) : 🎓 }
+
+<a id="fundamentals-of-data-analysis"></a>
+## Fundamentals of Data Analysis
+
+<details close> <!-- START - Fundamentals of Data Analysis -->
+    <summary>Table of Contents</summary>
+
+[//]: # (====================================================================)
+[//]: # ( ./hdp/fda )
+[//]: # (====================================================================)
+
+- { ["**data**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data.ipynb) : &#x1F530; }
+
+- { ["**types**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-types.ipynb) : &#x1F530; }
+
+    - { ["**counting**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-types-counting.ipynb) : &#x1F530; }
+
+        - { ["**measuring**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-types-measuring.ipynb) : &#x1F530; }
+
+            - { ["**numbers**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-types-measuring-numbers.ipynb) : &#x1F530; }
+
+- { ["**functions**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions.ipynb) : &#x1F6A7; }
+
+    - { ["**data**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data.ipynb) : &#x2623; }
+
+        - { ["**turing**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing.ipynb) : &#x2623; }
+
+            - { ["**church**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing-church.ipynb) : &#x2623; }
+
+                - { ["**world**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-turing-church-world.ipynb) : &#x2623; }
+
+        - { ["**mapreduce**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-intentionlly-blank.ipynb) : &#x26AA; }
+
+            - { ["**map**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-map.ipynb) : &#x1F530; }
+
+            - { ["**reduce**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/data-functions-data-mapreduce-reduce.ipynb) : &#x2623; }
+
+- { ["**datasets**"](https://nbviewer.jupyter.org/github/E6985/fda-datasets-simulation/blob/main/datasets-simulation.ipynb) : &#x1F6A7; }
+
+> { ["**numpy**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/fda/numpy-intentionally-blank.ipynb) : &#x26AA; }
+
+- { ["**regression**"](https://nbviewer.jupyter.org/github/E6985/fda-numpy-regression/blob/main/numpy-simple-linear-regression.ipynb) : &#x1F6A7; }
+
+> { ["**datasets-simulation**"](https://nbviewer.jupyter.org/github/E6985/fda-datasets-simulation/blob/main/datasets-simulation.ipynb) : &#x1F6A7; }
+
+> { ["**probability-simulation**"](https://nbviewer.jupyter.org/github/E6985/fda-probability-simulation/blob/main/probability-simulation.ipynb) : &#x1F6A7; }
+
+> { ["**simpsons-paradox**"](https://nbviewer.jupyter.org/github/E6985/fda-simpsons-paradox/blob/main/simpsons-paradox.ipynb) : &#x1F6A7; }
+
+#### END
+
+&#x23F9;
+
+[//]: # (====================================================================)
+[//]: # ( Fundamentals of Data Analysis - END )
+[//]: # (====================================================================)
+
+</details> <!-- END - Fundamentals of Data Analysis -->
+
+### { ["**Assignment**"](https://nbviewer.jupyter.org/github/E6985/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb) : 🎓 }
+
+### { ["**Project**"](https://nbviewer.jupyter.org/github/E6985/fda-regression/blob/main/Fundamentals-of-Data-Analysis-Regression-2020.ipynb) : 🎓 }
+
+<a id="applied-databases"></a>
+## Applied Databases
+
+<details close> <!-- START - Applied Databases -->
+    <summary>Table of Contents</summary>
 
 [//]: # (====================================================================)
 [//]: # ( ./hdp/adb )
 [//]: # (====================================================================)
 
-***
+</br>
 
-> { ["**data**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data.ipynb) : &#x1F530; }
+- { ["**data**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data.ipynb) : &#x1F530; }
 
-<details open>
+<details close>
     <summary>data</summary>
 
 - { ["**database**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database.ipynb) : &#x1F530; }
@@ -638,10 +553,10 @@
 
 </details>
 
-<details open>
+<details close>
     <summary>python</summary>
 
-> { ["**database**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/python-database.ipynb) : &#x1F530; }
+- { ["**database**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/python-database.ipynb) : &#x1F530; }
 
 - { ["**object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/python-database-object-intentionally-blank.ipynb) : &#x26AA; }
 
@@ -747,21 +662,93 @@
 
 </details>
 
-- { ["**lorem_ipsum**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F7E1; }
+#### END
 
-    &#x23F9;
+&#x23F9;
 
 [//]: # (====================================================================)
 [//]: # ( Applied Databases - END )
 [//]: # (====================================================================)
 
-</br>&#x23CF;
-
-***
-
 </details> <!-- START - Applied Databases -->
 
-&#x23CF;
+<a id="machine-learning-and-statistics"></a>
+## Machine Learning and Statistics
+
+<details close> <!-- START - Machine Learning and Statistics -->
+    <summary>Table of Contents</summary>
+
+[//]: # (====================================================================)
+[//]: # ( ./hdp/mls )
+[//]: # (====================================================================)
+
+- { ["**stochasticism**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mls/stochasticism.ipynb) : &#x1F530; }
+
+- { ["model"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mls/stochasticism-model.ipynb) : &#x2623; }
+
+    - { ["analysis"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mls/stochasticism-model-analysis.ipynb) : &#x2623; }
+
+    - { ["train"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mls/stochasticism-model-train.ipynb) : &#x2623; }
+
+#### END
+
+&#x23F9;
+
+[//]: # (====================================================================)
+[//]: # ( Machine Learning and Statistics - END )
+[//]: # (====================================================================)
+
+</details> <!-- END - Machine Learning and Statistics -->
+
+<a id="multi-paradigm-programming"></a>
+## Multi-Paradigm Programming
+
+<details close> <!-- START - Multi-Paradigm Programming -->
+    <summary>Table of Contents</summary>
+
+[//]: # (====================================================================)
+[//]: # ( ./hdp/mpp )
+[//]: # (====================================================================)
+
+- { ["**C**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mpp/c.ipynb) : &#x1F530; }
+
+- { ["**v-python**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mpp/c-v-python.ipynb) : &#x1F530; }
+
+    - { ["**process**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mpp/c-v-python-process.ipynb) : &#x1F530; }
+
+- { ["**simulation**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mpp/simulation-intentionally-blank.ipynb) : &#x26AA; }
+
+    - { ["shop"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/mpp/simulation-shop.ipynb) : &#x2623; }
+
+#### END
+
+&#x23F9;
+
+[//]: # (====================================================================)
+[//]: # ( Multi-Paradigm Programming - END )
+[//]: # (====================================================================)
+
+</details> <!-- END - Multi-Paradigm Programming -->
+
+<a id="data-representation"></a>
+## Data Representation
+
+<details close> <!-- START - Data Representation -->
+    <summary>Table of Contents</summary>
+
+[//]: # (====================================================================)
+[//]: # ( ./hdp/drp )
+[//]: # (====================================================================)
+
+#### END
+
+&#x23F9;
+
+[//]: # (====================================================================)
+[//]: # ( Data Representation - END )
+[//]: # (====================================================================)
+
+</details> <!-- END - Data Representation -->
 
 [//]: # (====================================================================)
 [//]: # (====================================================================)
@@ -773,6 +760,8 @@
 
 </details> <!-- START - A Priori -->
 
+&#x23CF;
+
 [//]: # (========================================================================================================================================)
 [//]: # (========================================================================================================================================)
 [//]: # (========================================================================================================================================)
@@ -814,8 +803,11 @@
 [//]: # (========================================================================================================================================)
 [//]: # (========================================================================================================================================)
 
+<a id="top"></a>
+### A Posteriori
+
 <details close> <!-- START - A Posteriori --> 
-    <summary>A Posteriori</summary>
+    <summary>Program Paradigm</summary>
 
 [//]: # (====================================================================)
 [//]: # (====================================================================)
@@ -825,1293 +817,1292 @@
 [//]: # (====================================================================)
 [//]: # (====================================================================)
 
-</br>
-
-<a id="top"></a>
-## Paradigm
-
-| Declarative | Event-Driven | Imperative | Language-Oriented |
-|:------------|:-------------|:-----------|:------------------|
-| **[Database-Processing](#database-processing)** &#x1F530; | **[Web-Application](#web-application)** &#x1F530; | **[Procedural](#procedural)** &#x1F530; | **[Domain-Specific](#domain-specific)** &#x1F530; |
-| &#x1F4CC; [SQL](#sql) | &#x1F4CC; [JavaScript](#javascript) | &#x1F4CC; [C](#c) | &#x1F4CC; [API](#api) |
-| &#x1F4CC; [MongoDB](#mongodb) | <!--- BLANK --> | **[object-oriented](#object-oriented)** &#x1F530; | &#x1F4CC; [CSS](#css) |
-| <!--- BLANK --> | <!--- BLANK --> | <!--- BLANK --> | &#x1F4CC; [DOM](#dom) |
-| <!--- BLANK --> | <!--- BLANK --> | <!--- BLANK --> | &#x1F4CD; [HTML](#html) |
-| <!--- BLANK --> | <!--- BLANK --> | <!--- BLANK --> | &#x1F4CD; [XML](#xml) |    
-
-
 ## Declarative
 
-- { [&#x2623; "**declarative**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/paradigm-declarative.ipynb) : &#x2623; }
+<a id="database-processing"></a>
+### Database-Processing
 
-    <a id="database-processing"></a>
-    ### Database-Processing
+#### SQL
 
-    > { ["**database-processing**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/paradigm-declarative-database-processing.ipynb) : &#x1F530; }
-    
-    <a id="sql"></a>
-    <details open>
-        <summary>&#x1F4CC; SQL (Relational) &#x26AA;</summary>
+<a id="sql"></a>
+<details close>
+    <summary>&#x1F4CC; SQL (Relational) &#x26AA;</summary>
 
-    </br>< [**Paradigm**](#top) >
+</br>< [**Table of Contents**](#top) >
 
-    - { ["**relational**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational.ipynb) : &#x1F530; }
+- { ["**relational**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational.ipynb) : &#x1F530; }
 
-        - { ["**table**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb) : &#x1F530; }
+    - { ["**table**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-table.ipynb) : &#x1F530; }
 
-            - { ["**column**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb) : &#x1F530; }
+        - { ["**column**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-table-column.ipynb) : &#x1F530; }
 
-            - { ["**row**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb) : &#x1F530; }
+        - { ["**row**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-table-row.ipynb) : &#x1F530; }
 
-        - { ["**spreadsheets**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) : &#x1F530; }
+    - { ["**spreadsheets**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-spreadsheets.ipynb) : &#x1F530; }
 
-        - { ["**language**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-intentionally-blank.ipynb) :
-        &#x26AA; }
+    - { ["**language**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-intentionally-blank.ipynb) :
+    &#x26AA; }
 
-            - { ["**SQL**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) : &#x1F530; }
+        - { ["**SQL**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL.ipynb) : &#x1F530; }
 
-                - { ["**MySQL**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb) : &#x1F530; }
+            - { ["**MySQL**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL.ipynb) : &#x1F530; }
 
-                    - { ["**MongoDB**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb) : &#x1F530; }
+                - { ["**MongoDB**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-MongoDB.ipynb) : &#x1F530; }
 
-                    - { ["**data-types**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb) : &#x1F530; }
+                - { ["**data-types**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-data-types.ipynb) : &#x1F530; }
 
-                    - { ["**command**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-intentionally-blank.ipynb) :
+                - { ["**command**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-intentionally-blank.ipynb) :
+                &#x26AA; }
+
+                    - { [&#x00A9; "**create-database**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**show-databases**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**use**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**CREATE-TABLE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**DESCRIBE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**SHOW-CREATE-TABLE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb) : &#x1F530; }
+
+            - { ["**C_R_UD-read-command**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-intentionally-blank.ipynb) :
+            &#x26AA; }
+
+                - { [&#x00A9; "**SELECT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**alias**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**INNER-JOIN**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**LEFT-JOIN**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**WHERE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**operator**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb) : &#x1F530; }
+
+                            - { [&#x00A9; "**AND-OR**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb) : &#x1F530; }
+
+                            - { [&#x00A9; "**BETWEEN**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb) : &#x1F530; }
+
+                            - { [&#x00A9; "**LIKE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb) : &#x1F530; }
+
+                            - { [&#x00A9; "**IN**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**LIMIT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**DISTINCT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**ORDER-BY**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**process**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**subquery**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) : &#x1F530; }
+
+            - { ["**\_C_RUD-create-command**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-intentionally-blank.ipynb) :
+            &#x26AA; }
+
+                - { [&#x00A9; "**INSERT-INTO**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) : &#x1F530; }
+
+            - { ["**CR_U_D-update-command**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-intentionally-blank.ipynb) :
+            &#x26AA; }
+
+                - { [&#x00A9; "**UPDATE-SET**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) : &#x1F530; }
+
+            - { ["**CRU_D_-delete-command**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-intentionally-blank.ipynb) :
+            &#x26AA; }
+
+                - { [&#x00A9; "**DELETE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb) : &#x1F530; }
+
+                    - { ["**foreign-key**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-intentionally-blank.ipynb) :
                     &#x26AA; }
 
-                        - { [&#x00A9; "**create-database**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-DATABASE.ipynb) : &#x1F530; }
+                        - { [&#x00A9; "**ON-DELETE-RESTRICT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**show-databases**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-DATABASES.ipynb) : &#x1F530; }
+                        - { [&#x00A9; "**ON-DELETE-CASCADE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**use**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-USE.ipynb) : &#x1F530; }
+                        - { [&#x00A9; "**ON-DELETE-SET-NULL**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**CREATE-TABLE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-CREATE-TABLE.ipynb) : &#x1F530; }
+        - { [&#x00A9; "**primary-key**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**DESCRIBE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-DESCRIBE.ipynb) : &#x1F530; }
+        - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**SHOW-CREATE-TABLE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-command-SHOW-CREATE-TABLE.ipynb) : &#x1F530; }
+            - { ["**built-in**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb) : &#x1F530; }
 
-                - { ["**C_R_UD-read-command**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-intentionally-blank.ipynb) :
+                - { ["**string**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-intentionally-blank.ipynb) :
                 &#x26AA; }
 
-                    - { [&#x00A9; "**SELECT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT.ipynb) : &#x1F530; }
+                    - { [&#x00A9; "**UPPER**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**alias**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-alias.ipynb) : &#x1F530; }
+                    - { [&#x00A9; "**STRCMP**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**INNER-JOIN**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-INNER-JOIN.ipynb) : &#x1F530; }
+                    - { [&#x00A9; "**ASCII**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**LEFT-JOIN**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LEFT-JOIN.ipynb) : &#x1F530; }
+                    - { [&#x00A9; "**REPLACE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**WHERE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE.ipynb) : &#x1F530; }
+                    - { [&#x00A9; "**SUBSTR**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb) : &#x1F530; }
 
-                            - { [&#x00A9; "**operator**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator.ipynb) : &#x1F530; }
+                    - { [&#x00A9; "**CONCAT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb) : &#x1F530; }
 
-                                - { [&#x00A9; "**AND-OR**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-AND-OR.ipynb) : &#x1F530; }
-
-                                - { [&#x00A9; "**BETWEEN**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-BETWEEN.ipynb) : &#x1F530; }
-
-                                - { [&#x00A9; "**LIKE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-LIKE.ipynb) : &#x1F530; }
-
-                                - { [&#x00A9; "**IN**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-WHERE-operator-IN.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**LIMIT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-LIMIT.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**DISTINCT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-DISTINCT.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**ORDER-BY**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-ORDER-BY.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**process**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process.ipynb) : &#x1F530; }
-
-                            - { [&#x00A9; "**subquery**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-C_R_UD-read-command-SELECT-process-subquery.ipynb) : &#x1F530; }
-
-                - { ["**\_C_RUD-create-command**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-intentionally-blank.ipynb) :
+                - { ["**numeric**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-intentionally-blank.ipynb) :
                 &#x26AA; }
 
-                    - { [&#x00A9; "**INSERT-INTO**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-_C_RUD-create-command-INSERT-INTO.ipynb) : &#x1F530; }
+                    - { [&#x00A9; "**SQRT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb) : &#x1F530; }
 
-                - { ["**CR_U_D-update-command**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-intentionally-blank.ipynb) :
+                    - { [&#x00A9; "**ROUND**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb) : &#x1F530; }
+
+                - { ["**date**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-intentionally-blank.ipynb) :
                 &#x26AA; }
 
-                    - { [&#x00A9; "**UPDATE-SET**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CR_U_D-update-command-UPDATE-SET.ipynb) : &#x1F530; }
+                    - { [&#x00A9; "**DATEDIFF**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb) : &#x1F530; }
 
-                - { ["**CRU_D_-delete-command**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-intentionally-blank.ipynb) :
+                    - { [&#x00A9; "**DATE_FORMAT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb) : &#x1F530; }
+
+                - { [&#x00A9; "**aggregate**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**AVG**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**COUNT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb) : &#x1F530; }
+
+                - { ["**clause**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-intentionally-blank.ipynb) :
                 &#x26AA; }
 
-                    - { [&#x00A9; "**DELETE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE.ipynb) : &#x1F530; }
+                    - { [&#x00A9; "**GROUP-BY**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY.ipynb) : &#x1F530; }
 
-                        - { ["**foreign-key**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-intentionally-blank.ipynb) :
+                        - { [&#x00A9; "**HAVING**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) : &#x1F530; }
+
+                - { ["**information**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-intentionally-blank.ipynb) :
+                &#x26AA; }
+
+                    - { [&#x00A9; "**DATABASE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**USER**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb) : &#x1F530; }
+
+                - { ["**control-flow**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**conditional**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**CASE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb) : &#x1F530; }
+
+            - { [&#x00A9; "**stored-routine**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) : &#x1F530; }
+
+                - { [&#x00A9; "**CREATE-FUNCTION**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) : &#x1F530; }
+
+                - { [&#x00A9; "**information_schema**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb) : &#x1F530; }
+
+                - { ["**command**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-intentionally-blank.ipynb) : &#x26AA; }
+
+                    - { [&#x00A9; "**SHOW-CREATE-FUNCTION**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**DROP**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb) : &#x1F530; }
+
+                - { ["**stored-procedure**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedure.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**CREATE-PROCEDURE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**information_schema**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb) : &#x1F530; }
+
+                    - [{command](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-intentionally-blank.ipynb) :
+                    &#x26AA; }
+
+                        - { [&#x00A9; "**SHOW-CREATE-PROCEDURE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**DROP**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb) : &#x1F530; }
+
+#### END
+
+&#x23F9;
+
+<!-- ( SQL (Relational) - END ) -->
+
+</details>
+
+#### MongoDB
+
+<a id="mongodb"></a>
+<details close>
+    <summary>&#x1F4CC; MongoDB (Non-Relational) &#x26AA;</summary>
+
+</br>< [**Table of Contents**](#top) >
+
+- { ["**non-relational**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb) : &#x1F530; }
+
+    - { [&#x00A9; "**collection**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb) : &#x1F530; }
+
+    - { ["**scalability**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) : &#x1F530; }
+
+        - { ["**transaction**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb) : &#x1F530; }
+
+    - { ["**NoSQL**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-intentionally-blank.ipynb) :
+    &#x26AA; }
+
+        - { [&#x00A9; "**MongoDB**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) : &#x1F530; }
+
+            - { ["**MySQL**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb) : &#x1F530; }
+
+            - { ["**JSON**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb) : &#x1F530; }
+
+                - { ["**use**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb) : &#x1F530; }
+
+                - { ["**data-types**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-intentionally-blank.ipynb) :
+                &#x26AA; }
+
+                    - { [&#x00A9; "**number**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**string**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**boolean**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**array**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**object**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb) : &#x1F530; }
+
+                - { ["**BSON**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb) : &#x1F530; }
+
+                    - { [&#x00A9; "**document**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb) : &#x1F530; }
+
+                        - { [&#x00A9; "**rules**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb) : &#x1F530; }
+
+                        - { ["**attribute**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-intentionally-blank.ipynb) :
                         &#x26AA; }
 
-                            - { [&#x00A9; "**ON-DELETE-RESTRICT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-RESTRICT.ipynb) : &#x1F530; }
+                            - { [&#x00A9; "**\_id**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) : &#x1F530; }
 
-                            - { [&#x00A9; "**ON-DELETE-CASCADE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-CASCADE.ipynb) : &#x1F530; }
+                        - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-intentionally-blank.ipynb) : &#x26AA; }
 
-                            - { [&#x00A9; "**ON-DELETE-SET-NULL**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-CRU_D_-delete-command-DELETE-foreign-key-ON-DELETE-SET-NULL.ipynb) : &#x1F530; }
+                            - { [&#x00A9; "**save**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) : &#x1F530; }
 
-            - { [&#x00A9; "**primary-key**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-primary-key.ipynb) : &#x1F530; }
+                            - { [&#x00A9; "**find**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) : &#x1F530; }
 
-            - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function.ipynb) : &#x1F530; }
+                                - { [&#x00A9; "**projection**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) : &#x1F530; }
 
-                - { ["**built-in**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in.ipynb) : &#x1F530; }
+                            - { [&#x00A9; "**findone**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb) : &#x1F530; }
 
-                    - { ["**string**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-intentionally-blank.ipynb) :
-                    &#x26AA; }
+                            - { [&#x00A9; "**pretty**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-pretty.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**UPPER**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-UPPER.ipynb) : &#x1F530; }
+                            - { [&#x00A9; "**sort**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**STRCMP**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-STRCMP.ipynb) : &#x1F530; }
+                            - { [&#x00A9; "**insert**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**ASCII**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-ASCII.ipynb) : &#x1F530; }
+                            - { [&#x00A9; "**update**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) : &#x1F530; };
 
-                        - { [&#x00A9; "**REPLACE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-REPLACE.ipynb) : &#x1F530; }
+                            - { [&#x00A9; "**deleteOne**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**SUBSTR**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-SUBSTR.ipynb) : &#x1F530; }
+                            - { [&#x00A9; "**deleteMany**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**CONCAT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-string-CONCAT.ipynb) : &#x1F530; }
+                            - { ["**aggregate**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb) : &#x1F530; }
 
-                    - { ["**numeric**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-intentionally-blank.ipynb) :
-                    &#x26AA; }
+                                - [{"**pipeline**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-intentionally-blank.ipynb) :
+                                &#x26AA; }
 
-                        - { [&#x00A9; "**SQRT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-SQRT.ipynb) : &#x1F530; }
+                                    - { [&#x00A9; "**$group**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**ROUND**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-numeric-ROUND.ipynb) : &#x1F530; }
+                                    - { [&#x00A9; "**$sort**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) : &#x1F530; }
 
-                    - { ["**date**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-intentionally-blank.ipynb) :
-                    &#x26AA; }
+                                - { ["**operator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-intentionally-blank.ipynb) :
+                                &#x26AA; }
 
-                        - { [&#x00A9; "**DATEDIFF**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATEDIFF.ipynb) : &#x1F530; }
+                                    - { ["**$avg**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**DATE_FORMAT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-date-DATE_FORMAT.ipynb) : &#x1F530; }
+                                    - { ["**$max**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-max.ipynb) : &#x1F530; }
 
-                    - { [&#x00A9; "**aggregate**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate.ipynb) : &#x1F530; }
+                        - { [&#x00A9; "**indexing**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) : &#x1F530; }
 
-                        - { [&#x00A9; "**AVG**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-AVG.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**COUNT**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-COUNT.ipynb) : &#x1F530; }
-
-                    - { ["**clause**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-intentionally-blank.ipynb) :
-                    &#x26AA; }
-
-                        - { [&#x00A9; "**GROUP-BY**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY.ipynb) : &#x1F530; }
-
-                            - { [&#x00A9; "**HAVING**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-aggregate-clause-GROUP-BY-HAVING.ipynb) : &#x1F530; }
-
-                    - { ["**information**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-intentionally-blank.ipynb) :
-                    &#x26AA; }
-
-                        - { [&#x00A9; "**DATABASE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-DATABASE.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**USER**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-information-USER.ipynb) : &#x1F530; }
-
-                    - { ["**control-flow**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**conditional**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-conditional.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**CASE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-built-in-control-flow-CASE.ipynb) : &#x1F530; }
-
-                - { [&#x00A9; "**stored-routine**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine.ipynb) : &#x1F530; }
-
-                    - { [&#x00A9; "**CREATE-FUNCTION**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-CREATE-FUNCTION.ipynb) : &#x1F530; }
-
-                    - { [&#x00A9; "**information_schema**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-information_schema.ipynb) : &#x1F530; }
-
-                    - { ["**command**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-intentionally-blank.ipynb) : &#x26AA; }
-
-                        - { [&#x00A9; "**SHOW-CREATE-FUNCTION**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-SHOW-CREATE-FUNCTION.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**DROP**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-routine-command-DROP.ipynb) : &#x1F530; }
-
-                    - { ["**stored-procedure**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedure.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**CREATE-PROCEDURE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-CREATE-PROCEDURE.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**information_schema**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-information_schema.ipynb) : &#x1F530; }
-
-                        - [{command](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-intentionally-blank.ipynb) :
-                        &#x26AA; }
-
-                            - { [&#x00A9; "**SHOW-CREATE-PROCEDURE**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-SHOW-CREATE-PROCEDURE.ipynb) : &#x1F530; }
-
-                            - { [&#x00A9; "**DROP**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-relational-language-SQL-MySQL-function-stored-procedures-command-DROP.ipynb) : &#x1F530; }
-
-    &#x23F9;
-
-    ***
-
-    <!-- ( SQL (Relational) - END ) -->
-
-    </details>
-    
-    <a id="mongodb"></a>
-    <details open>
-        <summary>&#x1F4CC; MongoDB (Non-Relational) &#x26AA;</summary>
-    
-    ***
-
-    - { ["**non-relational**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational.ipynb) : &#x1F530; }
-
-        - { [&#x00A9; "**collection**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-collection.ipynb) : &#x1F530; }
-
-        - { ["**scalability**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-scalability.ipynb) : &#x1F530; }
-
-            - { ["**transaction**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-scalability-transaction.ipynb) : &#x1F530; }
-
-        - { ["**NoSQL**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-intentionally-blank.ipynb) :
-        &#x26AA; }
-
-            - { [&#x00A9; "**MongoDB**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB.ipynb) : &#x1F530; }
-
-                - { ["**MySQL**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-MySQL.ipynb) : &#x1F530; }
-
-                - { ["**JSON**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON.ipynb) : &#x1F530; }
-
-                    - { ["**use**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-use.ipynb) : &#x1F530; }
-
-                    - { ["**data-types**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-intentionally-blank.ipynb) :
-                    &#x26AA; }
-
-                        - { [&#x00A9; "**number**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-number.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**string**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-string.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**boolean**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-boolean.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**array**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-array.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**object**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-data-types-object.ipynb) : &#x1F530; }
-
-                    - { ["**BSON**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON.ipynb) : &#x1F530; }
-
-                        - { [&#x00A9; "**document**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document.ipynb) : &#x1F530; }
-
-                            - { [&#x00A9; "**rules**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-rules.ipynb) : &#x1F530; }
-
-                            - { ["**attribute**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-intentionally-blank.ipynb) :
+                            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-intentionally-blank.ipynb) :
                             &#x26AA; }
 
-                                - { [&#x00A9; "**\_id**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-attribute-_id.ipynb) : &#x1F530; }
+                                - { [&#x00A9; "**createIndex**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb) : &#x1F530; }
 
-                            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-intentionally-blank.ipynb) : &#x26AA; }
+                                - { [&#x00A9; "**getIndexes**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb) : &#x1F530; }
 
-                                - { [&#x00A9; "**save**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-save.ipynb) : &#x1F530; }
+                                - { [&#x00A9; "**dropIndex**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb) : &#x1F530; }
 
-                                - { [&#x00A9; "**find**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find.ipynb) : &#x1F530; }
+                        - { ["**operator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb) : &#x1F530; }
 
-                                    - { [&#x00A9; "**projection**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-find-projection.ipynb) : &#x1F530; }
+                            - { ["**query-logical**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-intentionally-blank.ipynb) :
+                            &#x26AA; }
 
-                                - { [&#x00A9; "**findone**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-findone.ipynb) : &#x1F530; }
+                                - { ["**$and**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb) : &#x1F530; }
 
-                                - { [&#x00A9; "**pretty**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-pretty.ipynb) : &#x1F530; }
+                                - { ["**$or**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb) : &#x1F530; }
 
-                                - { [&#x00A9; "**sort**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-sort.ipynb) : &#x1F530; }
+                            - [{query-comparison](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-intentionally-blank.ipynb) :
+                            &#x26AA; }
 
-                                - { [&#x00A9; "**insert**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-insert.ipynb) : &#x1F530; }
+                                - { ["**$in**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb) : &#x1F530; }
 
-                                - { [&#x00A9; "**update**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-update.ipynb) : &#x1F530; };
+                                - { ["**$gt**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-gt.ipynb) : &#x1F530; }
 
-                                - { [&#x00A9; "**deleteOne**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteOne.ipynb) : &#x1F530; }
+                                - { ["**$lt**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb) : &#x1F530; }
 
-                                - { [&#x00A9; "**deleteMany**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-deleteMany.ipynb) : &#x1F530; }
+                            - { ["**query-element**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-intentionally-blank.ipynb) :
+                            &#x26AA; }
 
-                                - { ["**aggregate**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate.ipynb) : &#x1F530; }
+                                - { ["**$set**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb) : &#x1F530; }
 
-                                    - [{"**pipeline**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-intentionally-blank.ipynb) :
-                                    &#x26AA; }
+                            - { ["**update-field**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-intentionally-blank.ipynb) :
+                            &#x26AA; }
 
-                                        - { [&#x00A9; "**$group**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-group.ipynb) : &#x1F530; }
+                                - { ["**$exists**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb) : &#x1F530; }
 
-                                        - { [&#x00A9; "**$sort**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-pipeline-sort.ipynb) : &#x1F530; }
+        - { ["**lab**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-nosql-mongodb-lab.ipynb) : &#x1F530; }
 
-                                    - { ["**operator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-intentionally-blank.ipynb) :
-                                    &#x26AA; }
+#### END
 
-                                        - { ["**$avg**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-avg.ipynb) : &#x1F530; }
+&#x23F9;
 
-                                        - { ["**$max**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-method-aggregate-operator-max.ipynb) : &#x1F530; }
+<!-- ( MongoDB (Non-Relational) - END ) -->
 
-                            - { [&#x00A9; "**indexing**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing.ipynb) : &#x1F530; }
+</details>
 
-                                - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-intentionally-blank.ipynb) :
-                                &#x26AA; }
+## Event-Driven
 
-                                    - { [&#x00A9; "**createIndex**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-createIndex.ipynb) : &#x1F530; }
+<a id="Web-Application"></a>
+### Web-Application
 
-                                    - { [&#x00A9; "**getIndexes**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-getIndexes.ipynb) : &#x1F530; }
+#### JavaScript
 
-                                    - { [&#x00A9; "**dropIndex**" &#x00A9;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-indexing-method-dropIndex.ipynb) : &#x1F530; }
+<a id="javascript"></a>
+<details close>
+    <summary>&#x1F4CC; JavaScript &#x26AA;</summary> 
 
-                            - { ["**operator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator.ipynb) : &#x1F530; }
+</br>< [**Table of Contents**](#top) >
 
-                                - { ["**query-logical**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-intentionally-blank.ipynb) :
-                                &#x26AA; }
+- { ["**variable**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/variable.ipynb) : &#x1F4CC; }
 
-                                    - { ["**$and**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-and.ipynb) : &#x1F530; }
+    - { ["**primitive**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/variable-primitive.ipynb) : &#x1F4CC; }
 
-                                    - { ["**$or**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-logical-or.ipynb) : &#x1F530; }
+    - { ["**object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/variable-object.ipynb) : &#x1F4CC; }
 
-                                - [{query-comparison](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-intentionally-blank.ipynb) :
-                                &#x26AA; }
-
-                                    - { ["**$in**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-in.ipynb) : &#x1F530; }
-
-                                    - { ["**$gt**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-gt.ipynb) : &#x1F530; }
-
-                                    - { ["**$lt**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-comparison-lt.ipynb) : &#x1F530; }
-
-                                - { ["**query-element**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-intentionally-blank.ipynb) :
-                                &#x26AA; }
-
-                                    - { ["**$set**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-query-element-set.ipynb) : &#x1F530; }
-
-                                - { ["**update-field**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-intentionally-blank.ipynb) :
-                                &#x26AA; }
-
-                                    - { ["**$exists**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-NoSQL-MongoDB-JSON-BSON-document-operator-update-field-exists.ipynb) : &#x1F530; }
-
-            - { ["**lab**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/adb/data-database-types-non-relational-nosql-mongodb-lab.ipynb) : &#x1F530; }
-
-    &#x23F9;
-
-    ***
-
-    <!-- ( MongoDB (Non-Relational) - END ) -->
-
-    </details>
-
-    > { ["**functional**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/paradigm-declarative-functional.ipynb) : &#x1F530; }
-
-    > { ["**logic**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/paradigm-declarative-logic.ipynb) : &#x1F530; }
-
-- { [&#x2623; "**event-driven**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/paradigm-event-driven.ipynb) : &#x2623; }
-
-    > { ["**web-application**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/paradigm-event-driven-web-application.ipynb) : &#x1F530; }
-
-    <a id="javascript"></a>
-    <details open>
-        <summary>&#x1F4CC; JavaScript &#x26AA;</summary> 
-
-    ***
-
-    - { ["**variable**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/variable.ipynb) : &#x1F4CC; }
-
-        - { ["**primitive**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/variable-primitive.ipynb) : &#x1F4CC; }
-
-        - { ["**object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/variable-object.ipynb) : &#x1F4CC; }
-
-            - { ["**Date**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/variable-object-Date.ipynb) : &#x1F4CC; }
-            
-                - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/variable-object-Date-method-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**getHours**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/variable-object-Date-method-getHours.ipynb) : &#x1F4CC; }
-
-    - { ["**control-flow**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/control-flow-intentionally-blank.ipynb) : &#x26AA; }
-    { ["**conditional**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/control-flow-conditional.ipynb) : &#x1F4CC; }
-
-        - { ["**loop**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/control-flow-loop-intentionally-blank.ipynb) : &#x26AA; }
-        { ["**for**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/control-flow-loop-for.ipynb) : &#x1F4CC; }   
-
-    - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/function-intentionally-blank.ipynb) : &#x26AA; }
-
-        - { ["**user-defined**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/function-user-defined.ipynb) : &#x1F4CC; }
-            
-            - { ["**standalone**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/standalone-function-user-defined.ipynb) : &#x00A9; }  
-
-    - { ["**this**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/this.ipynb) : &#x1F4CC; }
-
-    &#x23F9;
-
-    ***
-
-    <!-- ( JavaScript - END ) -->
-
-    </details>
-
-- { [&#x2623; "**imperative**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/paradigm-imperative.ipynb) : &#x2623; }
-    
-    > { ["**procedural**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-procedural.ipynb) : &#x1F530; }
-
-    <a id="c"></a>
-    <details open>
-        <summary>&#x1F4CC; C &#x26AA;</summary> 
+        - { ["**Date**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/variable-object-Date.ipynb) : &#x1F4CC; }
         
-    ***
+            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/variable-object-Date-method-intentionally-blank.ipynb) : &#x26AA; }
 
-    - { ["**statement**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/statement.ipynb) : &#x1F4CC; }
+                - { ["**getHours**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/variable-object-Date-method-getHours.ipynb) : &#x1F4CC; }
 
-    - { ["**data-types**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-intentionally-blank.ipynb) : &#x26AA; }
+- { ["**control-flow**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/control-flow-intentionally-blank.ipynb) : &#x26AA; }
+{ ["**conditional**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/control-flow-conditional.ipynb) : &#x1F4CC; }
 
-        - { ["**int**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-int.ipynb) : &#x1F4CC; }
-            
-            - { ["**enum**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-int-enum.ipynb) : &#x1F4CC; }
+    - { ["**loop**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/control-flow-loop-intentionally-blank.ipynb) : &#x26AA; }
+    { ["**for**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/control-flow-loop-for.ipynb) : &#x1F4CC; }   
 
-        - { ["**char**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-char.ipynb) : &#x1F4CC; }
+- { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/function-intentionally-blank.ipynb) : &#x26AA; }
 
-        - { ["**float**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-float.ipynb) : &#x1F4CC; }
-
-        - { ["**variable**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-variable-intentionally-blank.ipynb) : &#x26AA; }
-
-            - { ["**literals**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-variable-literals.ipynb) : &#x1F4CC; }
-                
-                - { ["**const**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-variable-literals-const.ipynb) : &#x1F4CC; }
-
-        - { ["**typedef**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-typedef.ipynb) : &#x1F4CC; }
-
-    - { ["**struct**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/struct.ipynb) : &#x1F4CC; }
-
-        - { ["**union**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/struct-union.ipynb) : &#x1F4CC; }
-
-    - { ["**array**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/array.ipynb) : &#x1F4CC; }
-    
-    - { ["**operators**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-intentionally-blank.ipynb) : &#x26AA; }
-
-        - { ["**binary**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-binary.ipynb) : &#x1F4CC; }
+    - { ["**user-defined**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/function-user-defined.ipynb) : &#x1F4CC; }
         
-            - { ["**assignment**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-binary-assignment.ipynb) : &#x1F4CC; }
+        - { ["**standalone**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/standalone-function-user-defined.ipynb) : &#x00A9; }  
 
-            - { ["**relational**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-binary-relational.ipynb) : &#x1F4CC; }
+- { ["**this**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/js/this.ipynb) : &#x1F4CC; }
 
-                - { ["**ternary**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-binary-relational-ternary.ipynb) : &#x1F4CC; }
+#### END
 
-            - { ["**logical**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-binary-logical.ipynb) : &#x1F4CC; }
+&#x23F9;
 
-            - { ["**bitwise**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-binary-bitwise.ipynb) : &#x1F4CC; }
+<!-- ( JavaScript - END ) -->
 
-        - { ["**unary**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-unary.ipynb) : &#x1F4CC; }
-
-    - { ["**control-flow**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-intentionally-blank.ipynb) : &#x26AA; }
-    { ["**conditional**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-conditional.ipynb) : &#x1F4CC; }
-    { ["**switch**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-switch.ipynb) : &#x1F4CC; }  
-
-        - { ["**loop**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-intentionally-blank.ipynb) : &#x26AA; }
-        { ["**while**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-while.ipynb) : &#x1F4CC; }
-        { ["**do-while**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-do-while.ipynb) : &#x1F4CC; } 
-        { ["**for**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-for.ipynb) : &#x1F4CC; } 
-
-    - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/function-intentionally-blank.ipynb) : &#x1F4CC; }
-
-        - { ["**main**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/function-main.ipynb) : &#x1F4CC; }
-
-            - { ["**cli-args**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/function-main-cli-args.ipynb) : &#x1F4CC; }
-
-    - { ["**preprocessor**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor.ipynb) : &#x1F4CC; }
-
-        - { ["**directive**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-intentionally-blank.ipynb) : &#x26AA; }
-
-            - { ["**hash-include**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include.ipynb) : &#x1F4CC; }
-
-                - { ["**header**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header.ipynb) : &#x1F4CC; }
-
-                    - { ["**float**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-float.ipynb) : &#x1F4CC; }
-
-                        - { ["**constants**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-float-constants.ipynb) : &#x1F4CC; }
-
-                    - { ["**limits**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-limits.ipynb) : &#x1F4CC; }
-
-                        - { ["**constants**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-limits-constants.ipynb) : &#x1F4CC; }
-
-                    - { ["**stdio**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio.ipynb) : &#x1F4CC; }
-
-                        - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["~~fgets~~"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-fgets.ipynb) : &#x1F3C1; }
-
-                            - { ["~~gets~~"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-gets.ipynb) : &#x1F3C1; }
-
-                            - { ["**puts**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-puts.ipynb) : &#x1F4CC; }
-
-                            - { ["**scanf**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-scanf.ipynb) : &#x1F4CC; }
-
-                            - { ["**sizeof**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-sizeof.ipynb) : &#x1F4CC; }
-
-                            - { ["**printf**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-printf.ipynb) : &#x1F4CC; }
-
-                    - { ["~~stdlib~~"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdlib.ipynb) : &#x1F3C1; }
-
-                        - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdlib-function-intentionally-blank.ipynb) : &#x26AA; }
-                            
-                            - { ["~~malloc~~"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdlib-function-malloc.ipynb) : &#x1F3C1; }
-
-                    - { ["~~string~~"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-string.ipynb) : &#x1F3C1; }
-
-                        - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-string-function-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["~~strcmp~~"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-string-function-strcmp.ipynb) : &#x1F3C1; }
-
-            - { ["**hash-define**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-define.ipynb) : &#x1F4CC; }
-
-    &#x23F9;
-
-    ***
-
-    <!-- ( C - END ) -->
-
-    </details>
-
-    > { ["**object-oriented**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-object-oriented.ipynb) : &#x1F530; }
-
-    <a id="python"></a>
-    <details open>
-        <summary>&#x1F4CC; Python &#x26AA;</summary> 
-        
-    ***
-
-    - { ["**environment-variable**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/environment-variable.ipynb) : &#x1F4CC; }
-
-        - { ["**PYTHONPATH**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/environment-variable-PYTHONPATH.ipynb) : &#x1F4CC; }
-
-    - { ["**object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object.ipynb) : &#x1F4CC; }
-
-        - { ["**im\_m\_utable**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-im_m_utable.ipynb) : &#x1F4CC; }
+</details>
     
-            - { ["**im\_integer**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-im_integer.ipynb) : &#x1F4CC; }
+## Imperative
 
-            - { ["**m\_list**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-m_list.ipynb) : &#x1F4CC; } 
+<a id="procedural"></a>
+### Procedural
 
-        - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-class.ipynb) : &#x1F530; }
-        { ["**instantiation**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-class-instantiation.ipynb) : &#x1F530; }
+#### C
+
+<a id="c"></a>
+<details close>
+    <summary>&#x1F4CC; C &#x26AA;</summary>
+
+</br>< [**Table of Contents**](#top) >
+
+- { ["**statement**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/statement.ipynb) : &#x1F4CC; }
+
+- { ["**data-types**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-intentionally-blank.ipynb) : &#x26AA; }
+
+    - { ["**int**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-int.ipynb) : &#x1F4CC; }
+        
+        - { ["**enum**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-int-enum.ipynb) : &#x1F4CC; }
+
+    - { ["**char**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-char.ipynb) : &#x1F4CC; }
+
+    - { ["**float**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-float.ipynb) : &#x1F4CC; }
+
+    - { ["**variable**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-variable-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { ["**literals**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-variable-literals.ipynb) : &#x1F4CC; }
             
-            - { ["**instance**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-class-instance.ipynb) : &#x1F530; }
-            { ["**attribute**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-class-instance-attribute.ipynb) : &#x1F530; }
-            { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-class-instance-method.ipynb) : &#x1F530; }
+            - { ["**const**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-variable-literals-const.ipynb) : &#x1F4CC; }
 
-            - { ["**inheritance**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-class-inheritance.ipynb) : &#x1F530; }
+    - { ["**typedef**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/data-types-typedef.ipynb) : &#x1F4CC; }
 
-    - { ["**operator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-intentionally-blank.ipynb)  : &#x26AA; }
+- { ["**struct**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/struct.ipynb) : &#x1F4CC; }
 
-        - { ["**arithmetic**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-arithmetic.ipynb) : &#x1F530; }
-        { ["**bitwise**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-bitwise.ipynb) : &#x1F530; }
-        { ["**assignment**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-assignment.ipynb) : &#x1F530; }
-        { ["**comparison**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-comparison.ipynb) : &#x1F530; }
-        { ["**boolean**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-boolean.ipynb) : &#x1F530; }
-        { ["**identity**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-identity.ipynb) : &#x1F530; }
-        { ["**membership**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-membership.ipynb) : &#x1F530; }
+    - { ["**union**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/struct-union.ipynb) : &#x1F4CC; }
 
-    - { ["**control-flow**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/control-flow.ipynb) : &#x1F530; }
-    { ["**conditional**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/control-flow-conditional.ipynb) : &#x1F530; }
+- { ["**array**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/array.ipynb) : &#x1F4CC; }
 
-        - { ["**loop**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/loop-intentionally-blank.ipynb) : &#x26AA; }
-        { ["**for**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/control-flow-loop-for.ipynb) : &#x1F530; }
-        { ["**while**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/control-flow-loop-while.ipynb) : &#x1F530; }
+- { ["**operators**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-intentionally-blank.ipynb) : &#x26AA; }
 
-    - { ["**iterator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/iterator.ipynb) : &#x1F530; }
+    - { ["**binary**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-binary.ipynb) : &#x1F4CC; }
+    
+        - { ["**assignment**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-binary-assignment.ipynb) : &#x1F4CC; }
 
-    - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-intentionally-blank.ipynb) : &#x26AA; }
+        - { ["**relational**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-binary-relational.ipynb) : &#x1F4CC; }
 
-        - { ["**user-defined**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-user-defined.ipynb) : &#x1F530; }
-        { ["**\*args**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-user-defined-args.ipynb) : &#x1F530; }
-        { ["**\*\*kwargs**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-user-defined-kwargs.ipynb) : &#x1F530; }
+            - { ["**ternary**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-binary-relational-ternary.ipynb) : &#x1F4CC; }
 
-            - { ["**lambda**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-user-defined-lambda.ipynb) : &#x1F530; }
+        - { ["**logical**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-binary-logical.ipynb) : &#x1F4CC; }
 
-        - { ["**built-in**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-intentionally-blank.ipynb) : &#x26AA; }
+        - { ["**bitwise**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-binary-bitwise.ipynb) : &#x1F4CC; }
 
-            - { ["**iterator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-intentionally-blank.ipynb) : &#x26AA; }
+    - { ["**unary**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/operators-unary.ipynb) : &#x1F4CC; }
 
-                - { ["**enumerate**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-enumerate.ipynb) : &#x1F530; }
-                { ["**filter**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-filter.ipynb) : &#x1F530; }
-                { ["**map**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-map.ipynb) : &#x1F530; }
-                { ["**zip**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-zip.ipynb) : &#x1F530; }
+- { ["**control-flow**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-intentionally-blank.ipynb) : &#x26AA; }
+{ ["**conditional**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-conditional.ipynb) : &#x1F4CC; }
+{ ["**switch**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-switch.ipynb) : &#x1F4CC; }  
 
-                - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-class-intentionally-blank.ipynb) : &#x26AA; }
+    - { ["**loop**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-intentionally-blank.ipynb) : &#x26AA; }
+    { ["**while**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-while.ipynb) : &#x1F4CC; }
+    { ["**do-while**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-do-while.ipynb) : &#x1F4CC; } 
+    { ["**for**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/control-flow-loop-for.ipynb) : &#x1F4CC; } 
 
-                    - { ["**range**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-class-range.ipynb) : &#x1F530; }
+- { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/function-intentionally-blank.ipynb) : &#x1F4CC; }
 
-            - { ["**abs**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-abs.ipynb) : &#x1F530; }
-            { ["**bin**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-bin.ipynb) : &#x1F530; }
-            { ["**chr**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-chr.ipynb) : &#x1F530; }
-            { ["**dir**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-dir.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
-            { ["**format**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-format.ipynb) : &#x1F530; }
-            { ["**id**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-id.ipynb) : &#x1F530; }
-            { ["**isinstance**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-isinstance.ipynb) : &#x1F530; }
-            { ["**iter**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iter.ipynb) : &#x1F530; }
-            { ["**len**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-len.ipynb) : &#x1F530; }
-            { ["**ord**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-ord.ipynb) : &#x1F530; }
-            { ["**next**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-next.ipynb) : &#x1F530; }
-            { ["**print**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-print.ipynb) : &#x1F530; }
-            { ["**sorted**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-sorted.ipynb) : &#x1F530; }
+    - { ["**main**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/function-main.ipynb) : &#x1F4CC; }
 
-            - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-intentionally-blank.ipynb) : &#x26AA; }
+        - { ["**cli-args**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/function-main-cli-args.ipynb) : &#x1F4CC; }
 
-                - { ["**type**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-type.ipynb) : &#x1F530; }
-                { ["**object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-object.ipynb) : &#x1F530; }
+- { ["**preprocessor**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor.ipynb) : &#x1F4CC; }
 
-                    - { ["**simple**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple.ipynb) : &#x1F530; }
+    - { ["**directive**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-intentionally-blank.ipynb) : &#x26AA; }
 
-                        - { ["**int**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-int.ipynb) : &#x1F530; }
+        - { ["**hash-include**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include.ipynb) : &#x1F4CC; }
 
-                        - { ["**float**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-float.ipynb) : &#x1F530; }
+            - { ["**header**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header.ipynb) : &#x1F4CC; }
 
-                            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-float-method-intentionally-blank.ipynb) : &#x26AA; }
+                - { ["**float**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-float.ipynb) : &#x1F4CC; }
 
-                                - { ["**.as-integer-ratio**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-float-method-as-integer-ratio.ipynb) : &#x1F530; }
+                    - { ["**constants**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-float-constants.ipynb) : &#x1F4CC; }
 
-                        - { ["**complex**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex.ipynb) : &#x1F530; }
+                - { ["**limits**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-limits.ipynb) : &#x1F4CC; }
 
-                            - { ["**attribute**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex-intentionally-blank.ipynb) : &#x26AA; }
+                    - { ["**constants**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-limits-constants.ipynb) : &#x1F4CC; }
 
-                                - { ["**.real**" : &#x1F530;} {"**.imag**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex-attribute-real-imag.ipynb) : &#x1F530; }
+                - { ["**stdio**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio.ipynb) : &#x1F4CC; }
 
-                            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex-method-intentionally-blank.ipynb) : &#x26AA; }
+                    - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-intentionally-blank.ipynb) : &#x26AA; }
 
-                                - { ["**.conjugate**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex-method-conjugate.ipynb) : &#x1F530; }
+                        - { ["~~fgets~~"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-fgets.ipynb) : &#x1F3C1; }
 
-                        - { ["**str**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str.ipynb) : &#x1F530; }
+                        - { ["~~gets~~"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-gets.ipynb) : &#x1F3C1; }
 
-                            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-intentionally-blank.ipynb) : &#x26AA; }
+                        - { ["**puts**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-puts.ipynb) : &#x1F4CC; }
 
-                                - { ["**.format**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-format.ipynb) : &#x1F530; }
+                        - { ["**scanf**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-scanf.ipynb) : &#x1F4CC; }
 
-                                - { ["**.isupper**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-isupper.ipynb) : &#x1F530; }
+                        - { ["**sizeof**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-sizeof.ipynb) : &#x1F4CC; }
 
-                                - { ["~~.join~~"](#) : &#x1F3C1; } <!-- - { ["**.join**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-join.ipynb) : &#x1F4CC; } ...https://docs.python.org/3/library/stdtypes.html?highlight=join#str.join -->
+                        - { ["**printf**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdio-function-printf.ipynb) : &#x1F4CC; }
 
-                                - { ["~~.split~~"](#) : &#x1F3C1; } <!-- - { ["**.split**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-split.ipynb) : &#x1F4CC; } ...https://docs.python.org/3/library/stdtypes.html?highlight=join#str.split -->
+                - { ["~~stdlib~~"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdlib.ipynb) : &#x1F3C1; }
 
-                        - { ["**{bool**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-bool.ipynb) : &#x1F530; }
-
-                    - { ["**compound**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound.ipynb) : &#x1F530; }
-
-                        - { ["**list**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list.ipynb) : &#x1F530; }
-
-                            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-method-intentionally-blank.ipynb) : &#x26AA; }
-
-                                - { ["**.append**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-method-append.ipynb) : &#x1F530; }
-
-                                - { ["**.sort**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-method-sort.ipynb) : &#x1F530; }
-
-                            - { ["**indexing**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-indexing.ipynb) : &#x1F530; }
-                            
-                                - { ["**tuple**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-indexing-tuple.ipynb) : &#x1F530; }
-
-                                - { ["**dict**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-indexing-dict.ipynb) : &#x1F530; }          
-
-                            - { ["**slicing**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-slicing.ipynb) : &#x1F530; }
-
-                                - { ["**tuple**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-slicing-tuple.ipynb) : &#x1F530; }
+                    - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdlib-function-intentionally-blank.ipynb) : &#x26AA; }
                         
-                            - { ["**comprehension**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-comprehension.ipynb)  : &#x1F530; }
+                        - { ["~~malloc~~"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-stdlib-function-malloc.ipynb) : &#x1F3C1; }
 
-                               - { ["**dict**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-comprehension-dict.ipynb) : &#x1F530; }
+                - { ["~~string~~"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-string.ipynb) : &#x1F3C1; }
 
-                                - { ["**set**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-comprehension-set.ipynb) : &#x1F530; }
+                    - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-string-function-intentionally-blank.ipynb) : &#x26AA; }
 
-                            - { ["**generator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-comprehension-generator.ipynb) : &#x1F530; }
+                        - { ["~~strcmp~~"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-include-header-string-function-strcmp.ipynb) : &#x1F3C1; }
 
-                        - { ["**tuple**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-tuple.ipynb) : &#x1F530; }
+        - { ["**hash-define**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/c/preprocessor-directive-hash-define.ipynb) : &#x1F4CC; }
 
-                        - { ["**dict**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-dict.ipynb) : &#x1F530; }
+#### END
 
-                            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-dict-method-intentionally-blank.ipynb): &#x26AA; }
+&#x23F9;
 
-                                - { ["**.values**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-dict-method-values.ipynb) : &#x1F530; }
+<!-- ( C - END ) -->
 
-                        - { ["**set**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set.ipynb) : &#x1F530; }
+</details>
 
-                            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-intentionally-blank.ipynb) : &#x26AA; }
+<a id="object-oriented"></a>
+### Object-Oriented
 
-                                - { ["**.union**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-union.ipynb) : &#x1F530; }
-                                { ["**.intersection**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-intersection.ipynb) : &#x1F530; }
-                                { ["**.difference**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-difference.ipynb) : &#x1F530; }
-                                { ["**.symmetric_difference**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-symmetric_difference.ipynb) : &#x1F530; }
+#### Python
 
-    - { ["**errors-exceptions**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
-    { ["**try-except**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
-    { ["**raise**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-raise.ipynb) : &#x1F530; }
+<a id="python"></a>
+<details close>
+    <summary>&#x1F4CC; Python &#x26AA;</summary> 
 
-    - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module.ipynb) : &#x1F4CC; }
+</br>< [**Table of Contents**](#top) >
 
-        - { ["**binary-data-services**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services.ipynb) : &#x26AA; }
+- { ["**environment-variable**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/environment-variable.ipynb) : &#x1F4CC; }
 
-            - { ["**struct**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services-struct.ipynb) : &#x1F4CC; }
+    - { ["**PYTHONPATH**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/environment-variable-PYTHONPATH.ipynb) : &#x1F4CC; }
 
-                - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services-struct-function-intentionally-blank.ipynb) : &#x26AA; }
+- { ["**object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object.ipynb) : &#x1F4CC; }
 
-                    - { ["**pack**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services-struct-function-pack.ipynb) : &#x1F4CC; }
+    - { ["**im\_m\_utable**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-im_m_utable.ipynb) : &#x1F4CC; }
 
-                    - { ["**unpack**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services-struct-function-unpack.ipynb) : &#x1F4CC; }
+        - { ["**im\_integer**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-im_integer.ipynb) : &#x1F4CC; }
 
-        - { ["**data-types**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types.ipynb) : &#x26AA; }
+        - { ["**m\_list**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-m_list.ipynb) : &#x1F4CC; } 
 
-            - { ["**array**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array.ipynb) : &#x1F4CC; }
-
-                - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-intentionally-blank.ipynb) : &#x26AA; }
-                { ["**array**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-array.ipynb) : &#x1F4CC; }
-
-                    - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-array-method-intentionally-blank.ipynb) : &#x26AA; } -->
-                    { ["~~.count~~"](#) : &#x1F3C1; } <!-- - { ["**count**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-array-method-count.ipynb) : &#x1F4CC; } -->
-
-            - { ["**collections**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-collections.ipynb) : &#x1F4CC; }
-
-                - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-collections-class-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**Counter**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-collections-class-Counter.ipynb) : &#x1F4CC; }
-
-        - { ["**file-formats**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-file-formats.ipynb) : &#x26AA; }
-
-            - { ["**csv**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-file-formats-csv.ipynb) : &#x1F4CC; }
-
-        - { ["**numeric-mathematical**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical.ipynb) : &#x26AA; }
-
-            - { ["**decimal**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal.ipynb) : &#x1F4CC; }
-
-                - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**Decimal**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-Decimal.ipynb) : &#x1F4CC; }
-
-                        - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-Decimal-method-intentionally-blank.ipynb) : &#x26AA; }
-                        { ["**.sqrt**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-Decimal-method-sqrt.ipynb) : &#x1F4CC; }
-
-                - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-function-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**getcontext**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-function-getcontext.ipynb) : &#x1F4CC; } 
-
-            - { ["**math**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-math.ipynb) : &#x1F4CC; }
-
-                - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-math-function-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**sqrt**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-math-function-sqrt.ipynb) : &#x1F4CC; }
-
-        - { ["**python-runtime-services**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services.ipynb) : &#x26AA; }
+    - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-class.ipynb) : &#x1F530; }
+    { ["**instantiation**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-class-instantiation.ipynb) : &#x1F530; }
         
-            - { ["**sys**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys.ipynb) : &#x1F4CC; }
+        - { ["**instance**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-class-instance.ipynb) : &#x1F530; }
+        { ["**attribute**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-class-instance-attribute.ipynb) : &#x1F530; }
+        { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-class-instance-method.ipynb) : &#x1F530; }
 
-                - { ["**name**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-intentionally-blank.ipynb) : &#x26AA; }
+        - { ["**inheritance**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/object-class-inheritance.ipynb) : &#x1F530; }
 
-                    - { ["**path**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-path.ipynb) : &#x1F4CC; }
+- { ["**operator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-intentionally-blank.ipynb)  : &#x26AA; }
 
-                        - { ["**append-mode-r**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-path-append-mode-r-intentionally-blank.ipynb): &#x26AA; }
+    - { ["**arithmetic**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-arithmetic.ipynb) : &#x1F530; }
+    { ["**bitwise**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-bitwise.ipynb) : &#x1F530; }
+    { ["**assignment**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-assignment.ipynb) : &#x1F530; }
+    { ["**comparison**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-comparison.ipynb) : &#x1F530; }
+    { ["**boolean**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-boolean.ipynb) : &#x1F530; }
+    { ["**identity**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-identity.ipynb) : &#x1F530; }
+    { ["**membership**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/operator-membership.ipynb) : &#x1F530; }
+
+- { ["**control-flow**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/control-flow.ipynb) : &#x1F530; }
+{ ["**conditional**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/control-flow-conditional.ipynb) : &#x1F530; }
+
+    - { ["**loop**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/loop-intentionally-blank.ipynb) : &#x26AA; }
+    { ["**for**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/control-flow-loop-for.ipynb) : &#x1F530; }
+    { ["**while**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/control-flow-loop-while.ipynb) : &#x1F530; }
+
+- { ["**iterator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/iterator.ipynb) : &#x1F530; }
+
+- { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-intentionally-blank.ipynb) : &#x26AA; }
+
+    - { ["**user-defined**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-user-defined.ipynb) : &#x1F530; }
+    { ["**\*args**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-user-defined-args.ipynb) : &#x1F530; }
+    { ["**\*\*kwargs**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-user-defined-kwargs.ipynb) : &#x1F530; }
+
+        - { ["**lambda**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-user-defined-lambda.ipynb) : &#x1F530; }
+
+    - { ["**built-in**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { ["**iterator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-intentionally-blank.ipynb) : &#x26AA; }
+
+            - { ["**enumerate**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-enumerate.ipynb) : &#x1F530; }
+            { ["**filter**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-filter.ipynb) : &#x1F530; }
+            { ["**map**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-map.ipynb) : &#x1F530; }
+            { ["**zip**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-zip.ipynb) : &#x1F530; }
+
+            - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-class-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**range**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iterator-class-range.ipynb) : &#x1F530; }
+
+        - { ["**abs**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-abs.ipynb) : &#x1F530; }
+        { ["**bin**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-bin.ipynb) : &#x1F530; }
+        { ["**chr**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-chr.ipynb) : &#x1F530; }
+        { ["**dir**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-dir.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
+        { ["**format**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-format.ipynb) : &#x1F530; }
+        { ["**id**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-id.ipynb) : &#x1F530; }
+        { ["**isinstance**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-isinstance.ipynb) : &#x1F530; }
+        { ["**iter**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-iter.ipynb) : &#x1F530; }
+        { ["**len**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-len.ipynb) : &#x1F530; }
+        { ["**ord**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-ord.ipynb) : &#x1F530; }
+        { ["**next**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-next.ipynb) : &#x1F530; }
+        { ["**print**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-print.ipynb) : &#x1F530; }
+        { ["**sorted**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-sorted.ipynb) : &#x1F530; }
+
+        - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-intentionally-blank.ipynb) : &#x26AA; }
+
+            - { ["**type**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-type.ipynb) : &#x1F530; }
+            { ["**object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-object.ipynb) : &#x1F530; }
+
+                - { ["**simple**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple.ipynb) : &#x1F530; }
+
+                    - { ["**int**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-int.ipynb) : &#x1F530; }
+
+                    - { ["**float**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-float.ipynb) : &#x1F530; }
+
+                        - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-float-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**.as-integer-ratio**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-float-method-as-integer-ratio.ipynb) : &#x1F530; }
+
+                    - { ["**complex**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex.ipynb) : &#x1F530; }
+
+                        - { ["**attribute**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**.real**" : &#x1F530;} {"**.imag**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex-attribute-real-imag.ipynb) : &#x1F530; }
+
+                        - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**.conjugate**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-complex-method-conjugate.ipynb) : &#x1F530; }
+
+                    - { ["**str**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str.ipynb) : &#x1F530; }
+
+                        - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**.format**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-format.ipynb) : &#x1F530; }
+
+                            - { ["**.isupper**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-isupper.ipynb) : &#x1F530; }
+
+                            - { ["~~.join~~"](#) : &#x1F3C1; } <!-- - { ["**.join**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-join.ipynb) : &#x1F4CC; } ...https://docs.python.org/3/library/stdtypes.html?highlight=join#str.join -->
+
+                            - { ["~~.split~~"](#) : &#x1F3C1; } <!-- - { ["**.split**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-str-method-split.ipynb) : &#x1F4CC; } ...https://docs.python.org/3/library/stdtypes.html?highlight=join#str.split -->
+
+                    - { ["**{bool**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-simple-bool.ipynb) : &#x1F530; }
+
+                - { ["**compound**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound.ipynb) : &#x1F530; }
+
+                    - { ["**list**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list.ipynb) : &#x1F530; }
+
+                        - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**.append**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-method-append.ipynb) : &#x1F530; }
+
+                            - { ["**.sort**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-method-sort.ipynb) : &#x1F530; }
+
+                        - { ["**indexing**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-indexing.ipynb) : &#x1F530; }
                         
-                            - { ["**py-module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-path-append-mode-r-py-module.ipynb) : &#x00A9; }
+                            - { ["**tuple**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-indexing-tuple.ipynb) : &#x1F530; }
 
-                    - { ["**modules**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-modules.ipynb) : &#x1F7E1; }
+                            - { ["**dict**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-indexing-dict.ipynb) : &#x1F530; }          
 
-            - { ["~~inspect~~"](#) : &#x1F3C1; } <!-- - { ["**inspect**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-inspeat.ipynb) : &#x1F4CC; } -->
+                        - { ["**slicing**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-slicing.ipynb) : &#x1F530; }
 
-                - { ["~~function~~"](#) : &#x26AA; } <!-- - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-inspeat-function-intentionally-blank.ipynb) : &#x26AA; } -->
-
-                    - { ["~~getmodule~~"](#) : &#x1F3C1; } <!-- - { ["**getmodule**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-inspeat-function-getmodule.ipynb) : &#x1F4CC; } -->
-
-    - { ["**package**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
-
-        - { ["**standard-library**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-intentionally-blank.ipynb) : &#x26AA; }
-
-            - { [&#x2623; "**importlib**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-importlib.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
-
-                - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-importlib-function-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**reload**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-importlib-function-reload.ipynb) : &#x1F7E1; } <!-- &#x1F530; -->
-
-        - { ["**third-party**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-intentionally-blank.ipynb) : &#x26AA; }
-
-            - { [&#x2623; "**bs4**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4.ipynb) : &#x1F4CC; }
-
-                - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-__init__.ipynb) : &#x1F4CC; }
-
-                        - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-__init__-class-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["**BeautifulSoup**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-__init__-class-BeautifulSoup.ipynb) : &#x1F4CC; }
-
-                    - { ["**element**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element.ipynb) : &#x1F4CC; }
-
-                        - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element-class-intentionally-blank.ipynb) : &#x26AA; }
-                        { ["**Tag**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element-class-Tag.ipynb) : &#x1F4CC; }
-
-                            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element-class-Tag-method-intentionally-blank.ipynb) : &#x26AA; }
-                            { ["**.prettify**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element-class-Tag-method-prettify.ipynb) : &#x1F4CC; }
-
-            - { [&#x2623; "**matplotlib**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib.ipynb) : &#x1F4CC; }
-
-                - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__.ipynb) : &#x1F4CC; }
-
-                        - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-intentionally-blank.ipynb) : &#x26AA; }
-                        { ["**RcParams**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams.ipynb) : &#x1F4CC; }
-                        { ["**instance**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams-instance-intentionally-blank.ipynb) : &#x26AA; }
-                        { ["**rcParams**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams-instance-rcParams.ipynb) : &#x1F4CC; }
-
-                    - { ["**pyplot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot.ipynb) : &#x1F4CC; }
-
-                        - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["~~bar~~"](#) : &#x1F3C1; } <!-- { ["**bar**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-bar.ipynb) : &#x1F4CC; } -->
-
-                            - { ["**hist**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-hist.ipynb) : &#x1F4CC; }
-
-                            - { ["**legend**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-legend.ipynb) : &#x1F4CC; }
-
-                            - { ["**plot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-plot.ipynb) : &#x1F4CC; }
-
-                            - { ["**show**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-show.ipynb) : &#x1F4CC; }
-
-                            - { ["**scatter**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-scatter.ipynb) : &#x1F4CC; }
-
-                            - { ["**subplot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-subplot.ipynb) : &#x1F4CC; }
-
-                            - { ["**title**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-title.ipynb) : &#x1F4CC; }
-
-                            - { ["**xlabel**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-xlabel.ipynb) : &#x1F4CC; }
-
-                            - { ["~~xlim~~"](#) : &#x1F3C1; } <!-- { ["**xlim**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-xlim.ipynb) : &#x1F4CC; } -->
-
-                            - { ["**ylabel**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-ylabel.ipynb) : &#x1F4CC; } 
-
-                            - { ["~~ylim~~"](#) : &#x1F3C1; } <!-- { ["**ylim**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-ylim.ipynb) : &#x1F4CC; } -->
-
-                - { ["**subpackage**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**style**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style.ipynb) : &#x1F4CC; }
-
-                        - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-__init__.ipynb) : &#x1F4CC; }
-
-                            - { ["**core**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core.ipynb) : &#x1F4CC; }
-
-                                - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core-function-intentionally-blank.ipynb) : &#x26AA; }
-
-                                    - { ["**use**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core-function-use.ipynb) : &#x1F4CC; } 
-
-            - { [&#x2623; "**numpy**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb) : &#x1F6A7; }
-
-                - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-module-__init__.ipynb) : &#x1F4CC; }
-
-                - { ["**subpackage**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**core**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core.ipynb) : &#x1F4CC; }
-
-                        - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-__init__.ipynb) : &#x1F4CC; }
-
-                            - { ["~~function_base~~"](#) : &#x1F3C1; } <!-- { ["**function_base**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-function_base.ipynb) : &#x1F4CC; } -->
-                                
-                                - { ["~~function~~"](#) : &#x26AA; } <!-- { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-function_base-function-intentionally-blank.ipynb) : &#x26AA; } -->
-
-                                    - { ["~~linspace~~"](#) : &#x1F3C1; } <!-- { ["**function_base**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-function_base-function-linspace.ipynb) : &#x1F4CC; } -->
-
-                            - { ["~~getlimits~~"](#) : &#x1F3C1; } <!-- { ["**getlimits**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits.ipynb) : &#x1F4CC; } -->
-
-                                - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-intentionally-blank.ipynb) : &#x26AA; } -->
-                                { ["~~finfo~"](#) : &#x1F3C1; } <!-- - { ["**finfo**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-finfo.ipynb) : &#x1F4CC; } -->
-
-                                    - { ["~~attribute~~"](#) : &#x26AA; } <!-- - { ["**attribute**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-finfo-attribute-intentionally-blank.ipynb) : &#x26AA; } -->
-                                    { ["~~.min~"](#) : &#x1F3C1; } <!-- - { ["**min**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-finfo-attribute-min.ipynb) : &#x1F4CC; } -->
-                                    { ["~~.max~"](#) : &#x1F3C1; } <!-- - { ["**max**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-finfo-attribute-max.ipynb) : &#x1F4CC; } -->
-
-                        - { ["**C-extension**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["**pi**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-pi.ipynb) : &#x1F4CC; }
-
-                            - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-intentionally-blank.ipynb) : &#x26AA; }
-
-                                - { ["**arange**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-arange.ipynb) : &#x1F4CC; }
-                                
-                                - { ["**array**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-array.ipynb) : &#x1F4CC; }
-
-                                - { ["**cos**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-cos.ipynb) : &#x1F4CC; }
-
-                                - { ["**reshape**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-reshape.ipynb) : &#x1F4CC; }
-
-                                - { ["**sin**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-sin.ipynb) : &#x1F4CC; }
-
-                    - { ["**random**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random.ipynb) : &#x1F4CC; }
-                    { ["**documentation**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-documentation.ipynb) : &#x1F6A7; }
-
-                        - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-module-__init__.ipynb) : &#x1F4CC; }
-
-                        - { ["**C-extension**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-intentionally-blank.ipynb) : &#x26AA; } 
-                            { ["**mersenne-twister**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-mersenne-twister.ipynb) : &#x1F4CC; } 
-                            { ["**permuted-congruential-generator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-permuted-congruential-generator.ipynb) : &#x1F4CC; } 
-                            { ["**SeedSequence**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-SeedSequence.ipynb) : &#x1F4CC; }
-
-                            - { ["**class-legacy**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-intentionally-blank.ipynb) : &#x26AA; }
-                            { ["**RandomState**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-RandomState.ipynb) : &#x1F4CC; }
-
-                                - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-RandomState-method-intentionally-blank.ipynb) : &#x26AA; }
-                                { ["**.randint**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-RandomState-method-randint.ipynb) : &#x1F4CC; }
-
-                            - { ["**class-parent**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-intentionally-blank.ipynb) : &#x26AA; }
-                            { ["**BitGenerator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator.ipynb) : &#x1F4CC; }
-
-                                - { ["**Generator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator.ipynb) : &#x1F4CC; }
-
-                                    - { ["**method-constructor**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-method-intentionally-blank.ipynb) : &#x26AA; }
-                                    { ["**default_rng**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-method-default_rng.ipynb) : &#x1F4CC; }
-
-                                    - { ["**method-simple-random**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-simple-random-intentionally-blank.ipynb) : &#x26AA; }
-                                    { ["**.integers**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-simple-random-integers.ipynb) : &#x1F6A7; }
-                                    
-                                    - { ["**method-permutations**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-intentionally-blank.ipynb) : &#x26AA; }
-                                    { ["**.shuffle**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-shuffle.ipynb) : &#x1F4CC; }
-                                    { ["**permutation**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-permutation.ipynb) : &#x1F4CC; }
-
-                                - { ["**binomial**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-binomial.ipynb) : &#x1F4CC; }
-
-                                - { ["**randint**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-randint.ipynb) : &#x1F4CC; }
-
-                                - { ["**uniform**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-uniform.ipynb) : &#x1F4CC; }
-
-            - { [&#x2623; "**pandas**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F6A7; }
-
-                - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-module-__init__.ipynb) : &#x1F4CC; }
-
-                - { ["**subpackage**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**core**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core.ipynb) : &#x1F4CC; }
-
-                        - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-__init__.ipynb) : &#x1F4CC; }
-
-                            - { ["~~frame~~"](#) : &#x1F3C1; } <!-- { ["**frame**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame.ipynb) : &#x1F4CC; } -->
-
-                                - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-intentionally-blank.ipynb) : &#x26AA; } -->
-                                { ["~~DataFrame~~"](#) : &#x1F3C1; } <!-- - { ["**DataFrame*"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame.ipynb) : &#x1F4CC; } -->
-                                    - > NDFrame
-
-                                    - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-method-intentionally-blank.ipynb) : &#x26AA; } -->
-                                    { ["~~count~~"](#) : &#x1F3C1; } <!-- - { ["**count**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-method-count.ipynb) : &#x1F4CC; } -->
-
-                                    - { ["~~name~~"](#) : &#x26AA; } <!-- - { ["**name**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-name-intentionally-blank.ipynb) : &#x26AA; } -->
-                                    { ["~~sum~~"](#) : &#x1F3C1; } <!-- - { ["**sum**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-name-sum.ipynb) : &#x1F4CC; } -->
-
-                            - { ["~~generic~~"](#) : &#x1F3C1; } <!-- - { ["**generic**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic.ipynb) : &#x1F4CC; } -->
-
-                                - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-intentionally-blank.ipynb) : &#x26AA; } -->
-                                { ["~~NDFrame~~"](#) : &#x1F3C1; } <!-- - { ["**NDFrame(PandasObject,SelectionMixin,indexing.IndexingMixin**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame.ipynb) : &#x1F4CC; } -->
-                                    - > PandasObject
-                                        - > SelectionMixin
-                                            - > indexing.IndexingMixin
-
-                                    - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-intentionally-blank.ipynb) : &#x26AA; } -->
-                                    { ["~~.describe~~"](#) : &#x1F3C1; } <!-- - { ["**.describe**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-describe.ipynb) : &#x1F4CC; } -->
-                                    { ["~~.head~~"](#) : &#x1F3C1; } <!-- - { ["**.head**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-head.ipynb) : &#x1F4CC; } -->
-                                    { ["~~.tail~~"](#) : &#x1F3C1; } <!-- - { ["**.tail**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-tail.ipynb) : &#x1F4CC; } -->
-                                    { ["~~.to_csv~~"](#) : &#x1F3C1; } <!-- - { ["**.to_csv**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-to_csv.ipynb) : &#x1F4CC; } -->
-
-                            - { ["**indexing**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing.ipynb) : &#x1F4CC; }
-
-                                - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-intentionally-blank.ipynb) : &#x26AA; }
-                                { ["**IndexingMixin**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin.ipynb) : &#x1F4CC; }
-
-                                    - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-intentionally-blank.ipynb) : &#x26AA; }
-                                    { ["~~.at~~"](#) : &#x1F3C1; } <!-- { ["**.at**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-at.ipynb) : &#x1F4CC; } ...~/pda-pandas-iris/panda-iris-dataset.ipynb -->
-                                    { ["**.iloc**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-iloc.ipynb) : &#x1F4CC; }
-                                    { ["**.loc**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-loc.ipynb) : &#x1F4CC; }
-
-                            - { ["~~series~~"](#) : &#x1F3C1; } <!-- - { ["**series**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-series.ipynb) : &#x1F4CC; } -->
-
-                                - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-series-class-intentionally-blank.ipynb) : &#x26AA; } -->
-                                { ["~~Series~~"](#) : &#x1F3C1; } <!-- - { ["**Series**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-Series.ipynb) : &#x1F4CC; } -->
-                                    - > base.IndexOpsMixin
-                                        - > generic.NDFrame
-
-                    - { ["**io**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io.ipynb) : &#x1F4CC; }
-
-                        - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-__init__.ipynb) : &#x1F4CC; }
-
-                            - { ["**parsers**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers.ipynb) : &#x1F4CC; }
-
-                                - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers-function-intentionally-blank.ipynb) : &#x26AA; }
-
-                                    - { ["**read_csv**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers-function-read_csv.ipynb) : &#x1F4CC; }
-
-            - { [&#x2623; "**requests**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests.ipynb) : &#x1F4CC; }
-
-                - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**api**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-api.ipynb) : &#x1F4CC; }
-
-                        - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-api-function-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["**get**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-api-function-get.ipynb) : &#x1F4CC; }
-
-                    - { ["**models**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models.ipynb) : &#x1F4CC; }
-
-                        - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models-class-intentionally-blank.ipynb) : &#x26AA; }
-                        { ["**Response**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models-class-Response.ipynb) : &#x1F4CC; }
-                        { ["**@property**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models-class-Response-property-intentionally-blank.ipynb) : &#x26AA; }
-                        { ["**content**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models-class-Response-property-content.ipynb) : &#x2623; }
-
-            - { [&#x2623; "**sklearn**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn.ipynb) : &#x1F4CC; }
-
-                - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-module-__init__.ipynb) : &#x1F4CC; }
-
-                - { ["~~subpackage~~"](#) : &#x26AA; } <!-- - { ["**subpackage**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-intentionally-blank.ipynb) : &#x26AA; } -->
-
-                    - { ["~~neighbors~~"](#) : &#x1F3C1; } <!-- - { ["**neighbors**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors.ipynb) : &#x1F4CC; } -->
-
-                        - { ["~~module~~"](#) : &#x26AA; } <!-- - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-intentionally-blank.ipynb) : &#x26AA; } -->
-
-                            - { ["~~\_\_init\_\_~~"](#) : &#x1F3C1; } <!-- - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-__init__.ipynb) : &#x1F4CC; } -->
-
-                            - { ["~~\_classification~~"](#) : &#x1F3C1; } <!-- - { ["**\_classification**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_classification.ipynb) : &#x1F4CC; } -->
-
-                                - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_classification-class-intentionally-blank.ipynb) : &#x26AA; } -->
-                                { ["~~KNeighborsClassifier~~"](#) : &#x1F3C1; } <!-- - { ["**KNeighborsClassifier**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_classification-class-KNeighborsClassifier-inherits-NeighborsBase-KNeighborsMixin-SupervisedIntegerMixin-ClassifierMixin.ipynb) : &#x1F4CC; } -->
-                                    - > NeighborsBase 
-                                        - > KNeighborsMixin 
-                                            - > SupervisedIntegerMixin 
-                                                - > ClassifierMixin
-
-                            - { ["~~\_base~~"](#) : &#x1F3C1; } <!-- - { ["**\_base**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base.ipynb) : &#x1F4CC; } -->
-
-                                - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base-class-intentionally-blank.ipynb) : &#x26AA; } -->
-                                { ["~~SupervisedIntegerMixin~~"](#) : &#x1F3C1; } <!-- - { ["**SupervisedIntegerMixin**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base-class-SupervisedIntegerMixin.ipynb) : &#x1F4CC; } -->
-
-                                    - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base-class-SupervisedIntegerMixin-method-intentionally-blank.ipynb) : &#x26AA; } -->
-                                    { ["~~.fit~~"](#) : &#x1F3C1; } <!-- - { ["**head**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base-class-SupervisedIntegerMixin-method-fit.ipynb) : &#x1F4CC; } -->
-
-            - { [&#x2623; "**scipy**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy.ipynb) : &#x1F4CC; }
-
-                - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-module-__init__.ipynb) : &#x1F4CC; }
-
-                - { ["**subpackage**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**stats**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats.ipynb) : &#x1F4CC; }
-
-                        - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-__init__.ipynb) : &#x1F4CC; }
-                        
-                            - { ["**\_distn\_infrastructure**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure.ipynb) : &#x1F4CC; }
-
-                                - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-intentionally-blank.ipynb) : &#x26AA; }
-                                { ["**rv\_discrete**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete.ipynb) : &#x1F4CC; }
-                                { ["**instance**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-intentionally-blank.ipynb) : &#x26AA; }
-                                { ["**binom**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-binom.ipynb) : &#x1F4CC; }
-
-                                    - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-binom-method-intentionally-blank.ipynb) : &#x26AA; }
-                                    { ["**.pmf**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-binom-method-pmf.ipynb) : &#x1F4CC; }
-
-            - { [&#x2623; "**seaborn**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn.ipynb) : &#x1F4CC; }
-
-                - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-intentionally-blank.ipynb) : &#x26AA; }
-
-                    - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-__init__.ipynb) : &#x1F4CC; }
-
-                    - { ["~~axisgrid~~"](#) : &#x1F3C1; } <!-- - { ["**axisgrid**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-axisgrid.ipynb) : &#x1F4CC; } -->
-
-                        - { ["~~function~~"](#) : &#x26AA; } <!-- - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-axisgrid-function-intentionally-blank.ipynb) : &#x26AA; } -->
-
-                            - { ["~~pairplot~~"](#) : &#x1F3C1; } <!-- - { ["**pairplot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-axisgrid-function-pairplot.ipynb) : &#x1F4CC; } -->
-
-                    - { ["**distributions**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions.ipynb) : &#x1F4CC; }
-
-                        - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions-function-intentionally-blank.ipynb) : &#x26AA; }
-
-                            - { ["**distplot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions-function-distplot.ipynb) : &#x1F4CC; }
-
-                    - { ["~~relational~~"](#) : &#x1F3C1; } <!-- - { ["**relational**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-relational.ipynb) : &#x1F4CC; } -->
-
-                        - { ["~~function~~"](#) : &#x26AA; } <!-- - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-relational-function-intentionally-blank.ipynb) : &#x26AA; } -->
-
-                            - { ["~~scatterplot~~"](#) : &#x1F3C1; } <!-- - { ["**scatterplot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-relational-function-scatterplot.ipynb) : &#x1F4CC; } -->
-
-    - { ["**lorem_ipsum**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/lorem_ipsum.ipynb) : &#x1F4CC; }
-
-    &#x23F9;
-
-    ***
-
-    <!-- ( Python - END ) -->
-
-    </details>
-
-    > { ["**parallel-processing**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/paradigm-imperative-parallel-processing.ipynb) : &#x1F530; }
-
-- { [&#x2623; "**language-oriented**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/paradigm-language-oriented.ipynb) : &#x2623; }
-
-    > { ["**domain-specific**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/paradigm-language-oriented-domain-specific.ipynb) : &#x1F530; }
-
-    <a id="api"></a>
-    <details open>
-        <summary>&#x1F4CC; API &#x26AA;</summary> 
-        
-    ***
-    
-    - { ["**object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/api/api-object-intentionally-blank.ipynb) : &#x26AA; }
-
-        - { ["**console**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/api/api-object-console.ipynb) : &#x1F4CC; }
-
-            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/api/api-object-console-method-intentionally-blank.ipynb) : &#x26AA; }
-
-                - { ["**log**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/api/api-object-console-method-log.ipynb) : &#x1F4CC; }                     
+                            - { ["**tuple**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-slicing-tuple.ipynb) : &#x1F530; }
                     
-                    - { ["**standalone**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/api/standalone-console-log.ipynb) : &#x00A9; }
+                        - { ["**comprehension**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-comprehension.ipynb)  : &#x1F530; }
 
-    &#x23F9;
+                           - { ["**dict**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-comprehension-dict.ipynb) : &#x1F530; }
 
-    ***
+                            - { ["**set**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-comprehension-set.ipynb) : &#x1F530; }
 
-    <!-- ( API - END ) -->
+                        - { ["**generator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-list-comprehension-generator.ipynb) : &#x1F530; }
 
-    </details>
+                    - { ["**tuple**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-tuple.ipynb) : &#x1F530; }
 
-    <a id="css"></a>
-    <details open>
-        <summary>&#x1F4CC; CSS &#x26AA;</summary> 
+                    - { ["**dict**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-dict.ipynb) : &#x1F530; }
+
+                        - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-dict-method-intentionally-blank.ipynb): &#x26AA; }
+
+                            - { ["**.values**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-dict-method-values.ipynb) : &#x1F530; }
+
+                    - { ["**set**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set.ipynb) : &#x1F530; }
+
+                        - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**.union**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-union.ipynb) : &#x1F530; }
+                            { ["**.intersection**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-intersection.ipynb) : &#x1F530; }
+                            { ["**.difference**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-difference.ipynb) : &#x1F530; }
+                            { ["**.symmetric_difference**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/function-built-in-class-compound-set-method-symmetric_difference.ipynb) : &#x1F530; }
+
+- { ["**errors-exceptions**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions.ipynb) : &#x1F530; }
+{ ["**try-except**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-try-except.ipynb) : &#x1F530; }
+{ ["**raise**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/errors-exceptions-raise.ipynb) : &#x1F530; }
+
+- { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module.ipynb) : &#x1F4CC; }
+
+    - { ["**binary-data-services**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services.ipynb) : &#x26AA; }
+
+        - { ["**struct**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services-struct.ipynb) : &#x1F4CC; }
+
+            - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services-struct-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**pack**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services-struct-function-pack.ipynb) : &#x1F4CC; }
+
+                - { ["**unpack**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-binary-data-services-struct-function-unpack.ipynb) : &#x1F4CC; }
+
+    - { ["**data-types**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types.ipynb) : &#x26AA; }
+
+        - { ["**array**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array.ipynb) : &#x1F4CC; }
+
+            - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-intentionally-blank.ipynb) : &#x26AA; }
+            { ["**array**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-array.ipynb) : &#x1F4CC; }
+
+                - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-array-method-intentionally-blank.ipynb) : &#x26AA; } -->
+                { ["~~.count~~"](#) : &#x1F3C1; } <!-- - { ["**count**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-array-class-array-method-count.ipynb) : &#x1F4CC; } -->
+
+        - { ["**collections**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-collections.ipynb) : &#x1F4CC; }
+
+            - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-collections-class-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**Counter**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-data-types-collections-class-Counter.ipynb) : &#x1F4CC; }
+
+    - { ["**file-formats**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-file-formats.ipynb) : &#x26AA; }
+
+        - { ["**csv**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-file-formats-csv.ipynb) : &#x1F4CC; }
+
+    - { ["**numeric-mathematical**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical.ipynb) : &#x26AA; }
+
+        - { ["**decimal**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal.ipynb) : &#x1F4CC; }
+
+            - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**Decimal**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-Decimal.ipynb) : &#x1F4CC; }
+
+                    - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-Decimal-method-intentionally-blank.ipynb) : &#x26AA; }
+                    { ["**.sqrt**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-class-Decimal-method-sqrt.ipynb) : &#x1F4CC; }
+
+            - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**getcontext**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-decimal-function-getcontext.ipynb) : &#x1F4CC; } 
+
+        - { ["**math**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-math.ipynb) : &#x1F4CC; }
+
+            - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-math-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**sqrt**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-numeric-mathematical-math-function-sqrt.ipynb) : &#x1F4CC; }
+
+    - { ["**python-runtime-services**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services.ipynb) : &#x26AA; }
     
-    - { ["**property**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/css/property-intentionally-blank.ipynb) : &#x26AA; }
+        - { ["**sys**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys.ipynb) : &#x1F4CC; }
 
-        - { ["**display**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/css/property-display.ipynb) : &#x1F4CC; }
+            - { ["**name**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-intentionally-blank.ipynb) : &#x26AA; }
 
-            - { ["**querySelector**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/css/property-display-JS-process.ipynb) : &#x00A9; }
+                - { ["**path**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-path.ipynb) : &#x1F4CC; }
 
-    &#x23F9;
+                    - { ["**append-mode-r**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-path-append-mode-r-intentionally-blank.ipynb): &#x26AA; }
+                    
+                        - { ["**py-module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-path-append-mode-r-py-module.ipynb) : &#x00A9; }
 
-    ***
+                - { ["**modules**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-sys-name-modules.ipynb) : &#x1F7E1; }
 
-    <!-- ( CSS - END ) -->
+        - { ["~~inspect~~"](#) : &#x1F3C1; } <!-- - { ["**inspect**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-inspeat.ipynb) : &#x1F4CC; } -->
 
-    </details>
+            - { ["~~function~~"](#) : &#x26AA; } <!-- - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-inspeat-function-intentionally-blank.ipynb) : &#x26AA; } -->
 
-    <a id="dom"></a>
-    <details open>
-        <summary>&#x1F4CC; DOM &#x26AA;</summary> 
-        
-    ***
+                - { ["~~getmodule~~"](#) : &#x1F3C1; } <!-- - { ["**getmodule**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/module-python-runtime-services-inspeat-function-getmodule.ipynb) : &#x1F4CC; } -->
 
-    - { ["**DOM**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom.ipynb) : &#x1F4CC; }
+- { ["**package**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
 
-        - { ["**tree**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-intentionally-blank.ipynb) : &#x1F4CC; }
+    - { ["**standard-library**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-intentionally-blank.ipynb) : &#x26AA; }
 
-            - { ["**child**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-child.ipynb) : &#x1F4CC; }
+        - { [&#x2623; "**importlib**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-importlib.ipynb) : &#x1F4CC; } <!-- &#x1F530; -->
 
-            - { ["**parent**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-parent.ipynb) : &#x1F4CC; }
+            - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-importlib-function-intentionally-blank.ipynb) : &#x26AA; }
 
-        - { ["**property**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-property-intentionally-blank.ipynb) : &#x26AA; }
+                - { ["**reload**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-standard-library-importlib-function-reload.ipynb) : &#x1F7E1; } <!-- &#x1F530; -->
 
-            - { ["**parentNode**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-property-parentNode.ipynb) : &#x26AA; }
+    - { ["**third-party**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { [&#x2623; "**bs4**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4.ipynb) : &#x1F4CC; }
+
+            - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-__init__.ipynb) : &#x1F4CC; }
+
+                    - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-__init__-class-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { ["**BeautifulSoup**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-__init__-class-BeautifulSoup.ipynb) : &#x1F4CC; }
+
+                - { ["**element**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element.ipynb) : &#x1F4CC; }
+
+                    - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element-class-intentionally-blank.ipynb) : &#x26AA; }
+                    { ["**Tag**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element-class-Tag.ipynb) : &#x1F4CC; }
+
+                        - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element-class-Tag-method-intentionally-blank.ipynb) : &#x26AA; }
+                        { ["**.prettify**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-bs4-module-element-class-Tag-method-prettify.ipynb) : &#x1F4CC; }
+
+        - { [&#x2623; "**matplotlib**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib.ipynb) : &#x1F4CC; }
+
+            - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__.ipynb) : &#x1F4CC; }
+
+                    - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-intentionally-blank.ipynb) : &#x26AA; }
+                    { ["**RcParams**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams.ipynb) : &#x1F4CC; }
+                    { ["**instance**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams-instance-intentionally-blank.ipynb) : &#x26AA; }
+                    { ["**rcParams**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-__init__-class-RcParams-instance-rcParams.ipynb) : &#x1F4CC; }
+
+                - { ["**pyplot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot.ipynb) : &#x1F4CC; }
+
+                    - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { ["~~bar~~"](#) : &#x1F3C1; } <!-- { ["**bar**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-bar.ipynb) : &#x1F4CC; } -->
+
+                        - { ["**hist**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-hist.ipynb) : &#x1F4CC; }
+
+                        - { ["**legend**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-legend.ipynb) : &#x1F4CC; }
+
+                        - { ["**plot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-plot.ipynb) : &#x1F4CC; }
+
+                        - { ["**show**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-show.ipynb) : &#x1F4CC; }
+
+                        - { ["**scatter**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-scatter.ipynb) : &#x1F4CC; }
+
+                        - { ["**subplot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-subplot.ipynb) : &#x1F4CC; }
+
+                        - { ["**title**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-title.ipynb) : &#x1F4CC; }
+
+                        - { ["**xlabel**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-xlabel.ipynb) : &#x1F4CC; }
+
+                        - { ["~~xlim~~"](#) : &#x1F3C1; } <!-- { ["**xlim**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-xlim.ipynb) : &#x1F4CC; } -->
+
+                        - { ["**ylabel**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-ylabel.ipynb) : &#x1F4CC; } 
+
+                        - { ["~~ylim~~"](#) : &#x1F3C1; } <!-- { ["**ylim**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-module-pyplot-function-ylim.ipynb) : &#x1F4CC; } -->
+
+            - { ["**subpackage**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**style**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style.ipynb) : &#x1F4CC; }
+
+                    - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-__init__.ipynb) : &#x1F4CC; }
+
+                        - { ["**core**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core.ipynb) : &#x1F4CC; }
+
+                            - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                                - { ["**use**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-matplotlib-subpackage-style-module-core-function-use.ipynb) : &#x1F4CC; } 
+
+        - { [&#x2623; "**numpy**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy.ipynb) : &#x1F6A7; }
+
+            - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-module-__init__.ipynb) : &#x1F4CC; }
+
+            - { ["**subpackage**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**core**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core.ipynb) : &#x1F4CC; }
+
+                    - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-__init__.ipynb) : &#x1F4CC; }
+
+                        - { ["~~function_base~~"](#) : &#x1F3C1; } <!-- { ["**function_base**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-function_base.ipynb) : &#x1F4CC; } -->
+                            
+                            - { ["~~function~~"](#) : &#x26AA; } <!-- { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-function_base-function-intentionally-blank.ipynb) : &#x26AA; } -->
+
+                                - { ["~~linspace~~"](#) : &#x1F3C1; } <!-- { ["**function_base**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-function_base-function-linspace.ipynb) : &#x1F4CC; } -->
+
+                        - { ["~~getlimits~~"](#) : &#x1F3C1; } <!-- { ["**getlimits**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits.ipynb) : &#x1F4CC; } -->
+
+                            - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-intentionally-blank.ipynb) : &#x26AA; } -->
+                            { ["~~finfo~"](#) : &#x1F3C1; } <!-- - { ["**finfo**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-finfo.ipynb) : &#x1F4CC; } -->
+
+                                - { ["~~attribute~~"](#) : &#x26AA; } <!-- - { ["**attribute**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-finfo-attribute-intentionally-blank.ipynb) : &#x26AA; } -->
+                                { ["~~.min~"](#) : &#x1F3C1; } <!-- - { ["**min**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-finfo-attribute-min.ipynb) : &#x1F4CC; } -->
+                                { ["~~.max~"](#) : &#x1F3C1; } <!-- - { ["**max**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-module-getlimits-class-finfo-attribute-max.ipynb) : &#x1F4CC; } -->
+
+                    - { ["**C-extension**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { ["**pi**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-pi.ipynb) : &#x1F4CC; }
+
+                        - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                            - { ["**arange**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-arange.ipynb) : &#x1F4CC; }
+                            
+                            - { ["**array**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-array.ipynb) : &#x1F4CC; }
+
+                            - { ["**cos**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-cos.ipynb) : &#x1F4CC; }
+
+                            - { ["**reshape**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-reshape.ipynb) : &#x1F4CC; }
+
+                            - { ["**sin**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-core-C-extension-function-sin.ipynb) : &#x1F4CC; }
+
+                - { ["**random**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random.ipynb) : &#x1F4CC; }
+                { ["**documentation**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-documentation.ipynb) : &#x1F6A7; }
+
+                    - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-module-__init__.ipynb) : &#x1F4CC; }
+
+                    - { ["**C-extension**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-intentionally-blank.ipynb) : &#x26AA; } 
+                        { ["**mersenne-twister**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-mersenne-twister.ipynb) : &#x1F4CC; } 
+                        { ["**permuted-congruential-generator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-permuted-congruential-generator.ipynb) : &#x1F4CC; } 
+                        { ["**SeedSequence**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-class-SeedSequence.ipynb) : &#x1F4CC; }
+
+                        - { ["**class-legacy**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-intentionally-blank.ipynb) : &#x26AA; }
+                        { ["**RandomState**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-RandomState.ipynb) : &#x1F4CC; }
+
+                            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-RandomState-method-intentionally-blank.ipynb) : &#x26AA; }
+                            { ["**.randint**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-legacy-RandomState-method-randint.ipynb) : &#x1F4CC; }
+
+                        - { ["**class-parent**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-intentionally-blank.ipynb) : &#x26AA; }
+                        { ["**BitGenerator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator.ipynb) : &#x1F4CC; }
+
+                            - { ["**Generator**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator.ipynb) : &#x1F4CC; }
+
+                                - { ["**method-constructor**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-method-intentionally-blank.ipynb) : &#x26AA; }
+                                { ["**default_rng**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-method-default_rng.ipynb) : &#x1F4CC; }
+
+                                - { ["**method-simple-random**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-simple-random-intentionally-blank.ipynb) : &#x26AA; }
+                                { ["**.integers**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-simple-random-integers.ipynb) : &#x1F6A7; }
+                                
+                                - { ["**method-permutations**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-intentionally-blank.ipynb) : &#x26AA; }
+                                { ["**.shuffle**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-shuffle.ipynb) : &#x1F4CC; }
+                                { ["**permutation**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-parent-BitGenerator-class-Generator-permutations-permutation.ipynb) : &#x1F4CC; }
+
+                            - { ["**binomial**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-binomial.ipynb) : &#x1F4CC; }
+
+                            - { ["**randint**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-randint.ipynb) : &#x1F4CC; }
+
+                            - { ["**uniform**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-numpy-subpackage-random-C-extension-function-uniform.ipynb) : &#x1F4CC; }
+
+        - { [&#x2623; "**pandas**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas.ipynb) : &#x1F6A7; }
+
+            - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-module-__init__.ipynb) : &#x1F4CC; }
+
+            - { ["**subpackage**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**core**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core.ipynb) : &#x1F4CC; }
+
+                    - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-__init__.ipynb) : &#x1F4CC; }
+
+                        - { ["~~frame~~"](#) : &#x1F3C1; } <!-- { ["**frame**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame.ipynb) : &#x1F4CC; } -->
+
+                            - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-intentionally-blank.ipynb) : &#x26AA; } -->
+                            { ["~~DataFrame~~"](#) : &#x1F3C1; } <!-- - { ["**DataFrame*"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame.ipynb) : &#x1F4CC; } -->
+                                - > NDFrame
+
+                                - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-method-intentionally-blank.ipynb) : &#x26AA; } -->
+                                { ["~~count~~"](#) : &#x1F3C1; } <!-- - { ["**count**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-method-count.ipynb) : &#x1F4CC; } -->
+
+                                - { ["~~name~~"](#) : &#x26AA; } <!-- - { ["**name**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-name-intentionally-blank.ipynb) : &#x26AA; } -->
+                                { ["~~sum~~"](#) : &#x1F3C1; } <!-- - { ["**sum**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-frame-class-DataFrame-name-sum.ipynb) : &#x1F4CC; } -->
+
+                        - { ["~~generic~~"](#) : &#x1F3C1; } <!-- - { ["**generic**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic.ipynb) : &#x1F4CC; } -->
+
+                            - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-intentionally-blank.ipynb) : &#x26AA; } -->
+                            { ["~~NDFrame~~"](#) : &#x1F3C1; } <!-- - { ["**NDFrame(PandasObject,SelectionMixin,indexing.IndexingMixin**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame.ipynb) : &#x1F4CC; } -->
+                                - > PandasObject
+                                    - > SelectionMixin
+                                        - > indexing.IndexingMixin
+
+                                - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-intentionally-blank.ipynb) : &#x26AA; } -->
+                                { ["~~.describe~~"](#) : &#x1F3C1; } <!-- - { ["**.describe**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-describe.ipynb) : &#x1F4CC; } -->
+                                { ["~~.head~~"](#) : &#x1F3C1; } <!-- - { ["**.head**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-head.ipynb) : &#x1F4CC; } -->
+                                { ["~~.tail~~"](#) : &#x1F3C1; } <!-- - { ["**.tail**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-tail.ipynb) : &#x1F4CC; } -->
+                                { ["~~.to_csv~~"](#) : &#x1F3C1; } <!-- - { ["**.to_csv**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-NDFrame-method-to_csv.ipynb) : &#x1F4CC; } -->
+
+                        - { ["**indexing**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing.ipynb) : &#x1F4CC; }
+
+                            - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-intentionally-blank.ipynb) : &#x26AA; }
+                            { ["**IndexingMixin**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin.ipynb) : &#x1F4CC; }
+
+                                - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-intentionally-blank.ipynb) : &#x26AA; }
+                                { ["~~.at~~"](#) : &#x1F3C1; } <!-- { ["**.at**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-at.ipynb) : &#x1F4CC; } ...~/pda-pandas-iris/panda-iris-dataset.ipynb -->
+                                { ["**.iloc**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-iloc.ipynb) : &#x1F4CC; }
+                                { ["**.loc**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-indexing-class-IndexingMixin-method-loc.ipynb) : &#x1F4CC; }
+
+                        - { ["~~series~~"](#) : &#x1F3C1; } <!-- - { ["**series**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-series.ipynb) : &#x1F4CC; } -->
+
+                            - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-series-class-intentionally-blank.ipynb) : &#x26AA; } -->
+                            { ["~~Series~~"](#) : &#x1F3C1; } <!-- - { ["**Series**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-core-module-generic-class-Series.ipynb) : &#x1F4CC; } -->
+                                - > base.IndexOpsMixin
+                                    - > generic.NDFrame
+
+                - { ["**io**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io.ipynb) : &#x1F4CC; }
+
+                    - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-__init__.ipynb) : &#x1F4CC; }
+
+                        - { ["**parsers**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers.ipynb) : &#x1F4CC; }
+
+                            - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                                - { ["**read_csv**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-pandas-subpackage-io-module-parsers-function-read_csv.ipynb) : &#x1F4CC; }
+
+        - { [&#x2623; "**requests**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests.ipynb) : &#x1F4CC; }
+
+            - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**api**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-api.ipynb) : &#x1F4CC; }
+
+                    - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-api-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { ["**get**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-api-function-get.ipynb) : &#x1F4CC; }
+
+                - { ["**models**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models.ipynb) : &#x1F4CC; }
+
+                    - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models-class-intentionally-blank.ipynb) : &#x26AA; }
+                    { ["**Response**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models-class-Response.ipynb) : &#x1F4CC; }
+                    { ["**@property**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models-class-Response-property-intentionally-blank.ipynb) : &#x26AA; }
+                    { ["**content**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-requests-module-models-class-Response-property-content.ipynb) : &#x2623; }
+
+        - { [&#x2623; "**sklearn**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn.ipynb) : &#x1F4CC; }
+
+            - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-module-__init__.ipynb) : &#x1F4CC; }
+
+            - { ["~~subpackage~~"](#) : &#x26AA; } <!-- - { ["**subpackage**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-intentionally-blank.ipynb) : &#x26AA; } -->
+
+                - { ["~~neighbors~~"](#) : &#x1F3C1; } <!-- - { ["**neighbors**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors.ipynb) : &#x1F4CC; } -->
+
+                    - { ["~~module~~"](#) : &#x26AA; } <!-- - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-intentionally-blank.ipynb) : &#x26AA; } -->
+
+                        - { ["~~\_\_init\_\_~~"](#) : &#x1F3C1; } <!-- - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-__init__.ipynb) : &#x1F4CC; } -->
+
+                        - { ["~~\_classification~~"](#) : &#x1F3C1; } <!-- - { ["**\_classification**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_classification.ipynb) : &#x1F4CC; } -->
+
+                            - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_classification-class-intentionally-blank.ipynb) : &#x26AA; } -->
+                            { ["~~KNeighborsClassifier~~"](#) : &#x1F3C1; } <!-- - { ["**KNeighborsClassifier**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_classification-class-KNeighborsClassifier-inherits-NeighborsBase-KNeighborsMixin-SupervisedIntegerMixin-ClassifierMixin.ipynb) : &#x1F4CC; } -->
+                                - > NeighborsBase 
+                                    - > KNeighborsMixin 
+                                        - > SupervisedIntegerMixin 
+                                            - > ClassifierMixin
+
+                        - { ["~~\_base~~"](#) : &#x1F3C1; } <!-- - { ["**\_base**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base.ipynb) : &#x1F4CC; } -->
+
+                            - { ["~~class~~"](#) : &#x26AA; } <!-- - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base-class-intentionally-blank.ipynb) : &#x26AA; } -->
+                            { ["~~SupervisedIntegerMixin~~"](#) : &#x1F3C1; } <!-- - { ["**SupervisedIntegerMixin**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base-class-SupervisedIntegerMixin.ipynb) : &#x1F4CC; } -->
+
+                                - { ["~~method~~"](#) : &#x26AA; } <!-- - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base-class-SupervisedIntegerMixin-method-intentionally-blank.ipynb) : &#x26AA; } -->
+                                { ["~~.fit~~"](#) : &#x1F3C1; } <!-- - { ["**head**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-sklearn-subpackage-neighbors-module-_base-class-SupervisedIntegerMixin-method-fit.ipynb) : &#x1F4CC; } -->
+
+        - { [&#x2623; "**scipy**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy.ipynb) : &#x1F4CC; }
+
+            - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-module-__init__.ipynb) : &#x1F4CC; }
+
+            - { ["**subpackage**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**stats**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats.ipynb) : &#x1F4CC; }
+
+                    - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-__init__.ipynb) : &#x1F4CC; }
+                    
+                        - { ["**\_distn\_infrastructure**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure.ipynb) : &#x1F4CC; }
+
+                            - { ["**class**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-intentionally-blank.ipynb) : &#x26AA; }
+                            { ["**rv\_discrete**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete.ipynb) : &#x1F4CC; }
+                            { ["**instance**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-intentionally-blank.ipynb) : &#x26AA; }
+                            { ["**binom**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-binom.ipynb) : &#x1F4CC; }
+
+                                - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-binom-method-intentionally-blank.ipynb) : &#x26AA; }
+                                { ["**.pmf**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-scipy-subpackage-stats-module-_distn_infrastructure-class-rv_discrete-instance-binom-method-pmf.ipynb) : &#x1F4CC; }
+
+        - { [&#x2623; "**seaborn**" &#x2623;](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn.ipynb) : &#x1F4CC; }
+
+            - { ["**module**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["**\_\_init\_\_**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-__init__.ipynb) : &#x1F4CC; }
+
+                - { ["~~axisgrid~~"](#) : &#x1F3C1; } <!-- - { ["**axisgrid**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-axisgrid.ipynb) : &#x1F4CC; } -->
+
+                    - { ["~~function~~"](#) : &#x26AA; } <!-- - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-axisgrid-function-intentionally-blank.ipynb) : &#x26AA; } -->
+
+                        - { ["~~pairplot~~"](#) : &#x1F3C1; } <!-- - { ["**pairplot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-axisgrid-function-pairplot.ipynb) : &#x1F4CC; } -->
+
+                - { ["**distributions**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions.ipynb) : &#x1F4CC; }
+
+                    - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions-function-intentionally-blank.ipynb) : &#x26AA; }
+
+                        - { ["**distplot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-distributions-function-distplot.ipynb) : &#x1F4CC; }
+
+                - { ["~~relational~~"](#) : &#x1F3C1; } <!-- - { ["**relational**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-relational.ipynb) : &#x1F4CC; } -->
+
+                    - { ["~~function~~"](#) : &#x26AA; } <!-- - { ["**function**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-relational-function-intentionally-blank.ipynb) : &#x26AA; } -->
+
+                        - { ["~~scatterplot~~"](#) : &#x1F3C1; } <!-- - { ["**scatterplot**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/pyt/package-third-party-seaborn-module-relational-function-scatterplot.ipynb) : &#x1F4CC; } -->
+
+#### END
+
+&#x23F9;
+
+<!-- ( Python - END ) -->
+
+</details>
+
+## Language-Oriented
+
+<a id="domain-specific"></a>
+### Domain-Specific
+
+#### API
+
+<a id="api"></a>
+<details close>
+    <summary>&#x1F4CC; API &#x26AA;</summary> 
+
+</br>< [**Table of Contents**](#top) >
+
+- { ["**object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/api/api-object-intentionally-blank.ipynb) : &#x26AA; }
+
+    - { ["**console**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/api/api-object-console.ipynb) : &#x1F4CC; }
+
+        - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/api/api-object-console-method-intentionally-blank.ipynb) : &#x26AA; }
+
+            - { ["**log**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/api/api-object-console-method-log.ipynb) : &#x1F4CC; }                     
+                
+                - { ["**standalone**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/api/standalone-console-log.ipynb) : &#x00A9; }
+
+#### END
+
+&#x23F9;
+
+<!-- ( API - END ) -->
+
+</details>
+
+#### CSS
+
+<a id="css"></a>
+<details close>
+    <summary>&#x1F4CC; CSS &#x26AA;</summary>
+
+</br>< [**Table of Contents**](#top) >
+
+- { ["**property**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/css/property-intentionally-blank.ipynb) : &#x26AA; }
+
+    - { ["**display**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/css/property-display.ipynb) : &#x1F4CC; }
+
+        - { ["**querySelector**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/css/property-display-JS-process.ipynb) : &#x00A9; }
+
+#### END
+
+&#x23F9;
+
+<!-- ( CSS - END ) -->
+
+</details>
+  
+#### DOM
+
+<a id="dom"></a>
+<details close>
+    <summary>&#x1F4CC; DOM &#x26AA;</summary>
+
+</br>< [**Table of Contents**](#top) >
+
+- { ["**DOM**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom.ipynb) : &#x1F4CC; }
+
+    - { ["**tree**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-intentionally-blank.ipynb) : &#x1F4CC; }
+
+        - { ["**child**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-child.ipynb) : &#x1F4CC; }
+
+        - { ["**parent**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-parent.ipynb) : &#x1F4CC; }
+
+    - { ["**property**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-property-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { ["**parentNode**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-tree-property-parentNode.ipynb) : &#x26AA; }
+
+    - { ["**object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-intentionally-blank.ipynb) : &#x26AA; }
+
+        - { ["**document**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document.ipynb) : &#x1F4CC; }
+
+            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-intentionally-blank.ipynb) : &#x26AA; }
+
+                - { ["createElement"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-createElement.ipynb) : &#x2623; }
+
+                - { ["createTextNode"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-createTextNode.ipynb) : &#x2623; }
+
+                - { ["**getElementById**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-getElementById.ipynb) : &#x1F4CC; }
+
+                - { ["**querySelector**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-querySelector.ipynb) : &#x1F4CC; }
+
+        - { ["element"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-element.ipynb) : &#x2623; }
+
+            - { ["method"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-element-method-intentionally-blank.ipynb) : &#x2623; }
+
+                - { ["setAttribute"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-element-method-setAttribute.ipynb) : &#x2623; }
+
+#### END
+
+&#x23F9;
+
+<!-- ( DOM - END ) -->
     
-        - { ["**object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-intentionally-blank.ipynb) : &#x26AA; }
+#### HTML
 
-            - { ["**document**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document.ipynb) : &#x1F4CC; }
+<a id="html"></a>
+<details open>
+    <summary>&#x1F4CD; HTML &#x26AA;</summary> 
 
-                - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-intentionally-blank.ipynb) : &#x26AA; }
+</br>< [**Table of Contents**](#top) >
 
-                    - { ["createElement"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-createElement.ipynb) : &#x2623; }
+- { ["**HTML**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/html.ipynb) : &#x1F4CC; }
 
-                    - { ["createTextNode"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-createTextNode.ipynb) : &#x2623; }
+    - { ["**tag**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-intentionally-blank.ipynb) : &#x26AA; }
 
-                    - { ["**getElementById**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-getElementById.ipynb) : &#x1F4CC; }
+        - { ["**button**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-button.ipynb) : &#x1F4CC; }
 
-                    - { ["**querySelector**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-document-method-querySelector.ipynb) : &#x1F4CC; }
+        - { ["**div**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-div.ipynb) : &#x1F4CC; }
 
-            - { ["element"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-element.ipynb) : &#x2623; }
+            - { ["**JavaScript**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-div-JavaScript-intentionally-blank.ipynb) : &#x1F4CC; }
 
-                - { ["method"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-element-method-intentionally-blank.ipynb) : &#x2623; }
+                - { ["**l-for**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-div-JavaScript-l-for.ipynb) : &#x1F4CC; }
 
-                    - { ["setAttribute"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/dom/dom-object-element-method-setAttribute.ipynb) : &#x2623; }
+        - { ["**input**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-input.ipynb) : &#x1F4CC; }
 
-    &#x23F9;
+            - { ["**JavaScript**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-intentionally-blank.ipynb) : &#x26AA; }
 
-    ***
+                - { ["**c-conditional**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-c-conditional.ipynb) : &#x00A9; }
 
-    <!-- ( DOM - END ) -->
+                - { ["**querySelector**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-querySelector.ipynb) : &#x00A9; }
 
-    <a id="html"></a>
-    <details open>
-        <summary>&#x1F4CD; HTML &#x26AA;</summary> 
-        
-    ***
+        - { ["**table**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-table-intentionally-blank.ipynb) : &#x26AA; }
 
-    - { ["**HTML**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/html.ipynb) : &#x1F4CC; }
+            - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-intentionally-blank.ipynb) : &#x26AA; }
 
-        - { ["**tag**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-intentionally-blank.ipynb) : &#x26AA; }
+                - { ["insertCell"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-insertCell.ipynb) : &#x2623; }
 
-            - { ["**button**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-button.ipynb) : &#x1F4CC; }
+                - { ["insertRow"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-insertRow.ipynb) : &#x2623; }
 
-            - { ["**div**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-div.ipynb) : &#x1F4CC; }
+            - { ["**JavaScript**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-table-JavaScript-intentionally-blank.ipynb) : &#x26AA; }                
 
-                - { ["**JavaScript**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-div-JavaScript-intentionally-blank.ipynb) : &#x1F4CC; }
+                - { ["insertCell"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-table-JavaScript-insertCell.ipynb) : &#x2623; }
 
-                    - { ["**l-for**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-div-JavaScript-l-for.ipynb) : &#x1F4CC; }
+        - { ["**script**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-script.ipynb) : &#x1F4CC; }
 
-            - { ["**input**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-input.ipynb) : &#x1F4CC; }
+            - { ["**JavaScript**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-script-JavaScript-intentionally-blank.ipynb) : &#x26AA; }
 
-                - { ["**JavaScript**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-intentionally-blank.ipynb) : &#x26AA; }
+                - { ["**v-primitive**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-script-JavaScript-v-primitive.ipynb) : &#x00A9; }
 
-                    - { ["**c-conditional**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-c-conditional.ipynb) : &#x00A9; }
+                - { ["**v-object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-script-JavaScript-v-object.ipynb) : &#x00A9; }
 
-                    - { ["**querySelector**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-input-JavaScript-querySelector.ipynb) : &#x00A9; }
+    - { ["**attribute**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/attribute-intentionally-blank.ipynb) : &#x26AA; }
 
-            - { ["**table**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-table-intentionally-blank.ipynb) : &#x26AA; }
+        - { ["**id**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/attribute-id.ipynb) : &#x1F4CC; }
 
-                - { ["**method**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-intentionally-blank.ipynb) : &#x26AA; }
+        - { ["**onchange**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/attribute-onchange.ipynb) : &#x1F4CC; }
 
-                    - { ["insertCell"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-insertCell.ipynb) : &#x2623; }
+        - { ["**onclick**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/attribute-onclick.ipynb) : &#x1F4CC; }
 
-                    - { ["insertRow"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-table-method-insertRow.ipynb) : &#x2623; }
+    - { ["**carviewer**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/html-carviewer.ipynb) : &#x1F4CC; }
 
-                - { ["**JavaScript**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-table-JavaScript-intentionally-blank.ipynb) : &#x26AA; }                
+        - { ["**standalone**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/carviewer.html) : &#x00A9; }
 
-                    - { ["insertCell"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-table-JavaScript-insertCell.ipynb) : &#x2623; }
+#### END
 
-            - { ["**script**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-script.ipynb) : &#x1F4CC; }
+&#x23F9;
 
-                - { ["**JavaScript**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-script-JavaScript-intentionally-blank.ipynb) : &#x26AA; }
+<!-- ( HTML - END ) -->
 
-                    - { ["**v-primitive**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-script-JavaScript-v-primitive.ipynb) : &#x00A9; }
-
-                    - { ["**v-object**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/tag-script-JavaScript-v-object.ipynb) : &#x00A9; }
-
-        - { ["**attribute**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/attribute-intentionally-blank.ipynb) : &#x26AA; }
-
-            - { ["**id**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/attribute-id.ipynb) : &#x1F4CC; }
-
-            - { ["**onchange**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/attribute-onchange.ipynb) : &#x1F4CC; }
-
-            - { ["**onclick**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/attribute-onclick.ipynb) : &#x1F4CC; }
-
-        - { ["**carviewer**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/html-carviewer.ipynb) : &#x1F4CC; }
-
-            - { ["**standalone**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/html/carviewer.html) : &#x00A9; }
-
-    &#x23F9;
-
-    ***
-
-    <!-- ( HTML - END ) -->
-
-    </details>
-
-    <a id="xml"></a>
-    <details open>
-        <summary>&#x1F4CD; XML &#x26AA;</summary> 
-        
-    ***
-
-    - { ["**XML**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/xml/xml.ipynb) : &#x1F4CC; }
+</details> 
     
-    &#x23F9;
+#### XML
 
-    ***
+<a id="xml"></a>
+<details open>
+    <summary>&#x1F4CD; XML &#x26AA;</summary> 
 
-    <!-- ( XML - END ) -->
+</br>< [**Table of Contents**](#top) >
 
-    </details>
+- { ["**XML**"](https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/pro/par/xml/xml.ipynb) : &#x1F4CC; }
 
-&#x23CF;
+#### END
 
-***
+&#x23F9;
+
+<!-- ( XML - END ) -->
+
+</details>
+
+<!-- ( DOM - END ) -->
+
+</details>
 
 [//]: # (====================================================================)
 [//]: # (====================================================================)
@@ -2122,6 +2113,8 @@
 [//]: # (====================================================================)
 
 </details> <!-- END - A Posteriori -->
+
+&#x23CF;
 
 [//]: # (========================================================================================================================================)
 [//]: # (========================================================================================================================================)
@@ -2166,7 +2159,7 @@
 
 ## Republic of Ireland Covid-19 Pandemic SARS-CoV-2
 
-<details open>
+<details close>
     <summary>Datasets</summary>
 
 [//]: # (====================================================================)
@@ -2177,10 +2170,10 @@
 
 * { **SARS-CoV-2** : ["**covid-19-ireland**"](https://github.com/E6985/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) }
 
-&#x23CF;
-
 [//]: # (====================================================================)
 [//]: # ( Datasets - END )
 [//]: # (====================================================================)
 
 </details>
+
+&#x23CF;
