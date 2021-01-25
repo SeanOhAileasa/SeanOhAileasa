@@ -672,6 +672,8 @@
 
 </details> <!-- START - Applied Databases -->
 
+### { ["**Project**"](https://github.com/E6985/adb-sql-mongodb) : 🎓 }
+
 <a id="machine-learning-and-statistics"></a>
 ## Machine Learning and Statistics
 
