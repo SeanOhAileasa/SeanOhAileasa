@@ -1,4 +1,4 @@
-<!-- [GMIT](https://github.com/E6985/E6985/blob/master/20220211.md) : ... } --> <!--https://nbviewer.jupyter.org/github/E6985/pda-numpy-random/blob/main/img/gmit.png?raw=true)](https://github.com/E6985/E6985/blob/master/20220211.md) : ... } --> <!--https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict) -->
+[![GMIT](https://github.com/E6985/E6985/blob/master/img/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
 
 ## Data Analytics Student</br>Working/Studying in Co. Kerry, Ireland &#x1F4CC;
 
@@ -2162,7 +2162,10 @@
 </br>
 
 * { **SARS-CoV-2** : ["**covid-19-ireland**"](https://github.com/E6985/E6985/blob/master/20220211.md) : ... } <!--https://github.com/E6985/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) } -->
-<!-- 12/02/2020 -->
+<!-- 13/02/2020 -->
+<!--
+"update repository ./covid-19-ireland - Provisional (12/02/2021) infection positivity rate (7-day) has increased for the first time since January 9th, 2021. Provisional (12/02/2021) average/total infections based on previous day for both 5-day and 7-day showing increases of 5.9% and 4.1% respectively. Weekend effect?"
+-->
 [//]: # (====================================================================)
 [//]: # ( Datasets - END )
 [//]: # (====================================================================)
