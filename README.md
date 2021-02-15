@@ -2162,9 +2162,9 @@
 </br>
 
 * { **SARS-CoV-2** : ["**covid-19-ireland**"](https://github.com/E6985/E6985/blob/master/20220211.md) : ... } <!--https://github.com/E6985/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) } -->
-<!-- 14/02/2020 -->
+<!-- 15/02/2020 -->
 <!--
-"update repository ./covid-19-ireland - Provisional (13/02/2021) average/total infections based on previous day for 5-day showing increase of 5.2% with the 7-day growth now negative."
+"update repository ./covid-19-ireland"
 -->
 [//]: # (====================================================================)
 [//]: # ( Datasets - END )
