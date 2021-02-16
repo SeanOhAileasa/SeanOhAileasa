@@ -2162,7 +2162,7 @@
 </br>
 
 * { **SARS-CoV-2** : ["**covid-19-ireland**"](https://github.com/E6985/E6985/blob/master/20220211.md) : ... } <!--https://github.com/E6985/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) } -->
-<!-- 15/02/2020 -->
+<!-- 16/02/2020 -->
 <!--
 "update repository ./covid-19-ireland"
 -->
