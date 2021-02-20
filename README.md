@@ -2162,9 +2162,9 @@
 </br>
 
 * { **SARS-CoV-2** : ["**covid-19-ireland**"](https://github.com/E6985/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F6A7; } <!--https://github.com/E6985/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) } -->
-<!-- 19/02/2020 -->
+<!-- 20/02/2020 -->
 <!--
-"update repository ./covid-19-ireland"
+"update repository ./covid-19-ireland - Anomalies 19/02 with additional 20 cases."
 -->
 [//]: # (====================================================================)
 [//]: # ( Datasets - END )
