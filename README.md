@@ -55,6 +55,13 @@
 
 </br>
 
+###### { ["**Analysing**"](https://github.com/E6985/E6985/blob/master/20220211.md) : &#x1F4CC; }
+<!-- https://nbviewer.jupyter.org/github/E6985/cta-analysing/blob/main/cta-analysing.ipynb -->
+<!-- 21/02/2020 -->
+<!--
+"add repository ./cta-analysing"
+-->
+
 - { ["**computer-science**"](https://github.com/E6985/E6985/blob/master/20220211.md) : &#x1F6A7; } <!--https://nbviewer.jupyter.org/github/E6985/L8733/blob/master/src/hdp/cta/computer-science.ipynb) : &#x1F530; } -->
 
 <details close>
