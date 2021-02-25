@@ -35,8 +35,8 @@
 <!-- 
 * { ["**Analysing**"](https://nbviewer.jupyter.org/github/E6985/cta-analysing/blob/main/cta-analysing.ipynb) : &#x1F4CC; } 
 -->
-<!-- 24/02/2020
-"add repository ./cta-analysing"
+<!-- 25/02/2020
+"update repository ./cta-analysing - Asymptotic behaviour reviewing Big O / Omega / Theta with python O(1) / O(n) / O(n^2)."
 -->
 
 ## Republic of Ireland Covid-19 Pandemic SARS-CoV-2
