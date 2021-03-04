@@ -50,3 +50,15 @@ Output: boolean True or False
 """
     return isinstance(nParSomething,object)
 # --- END ---
+# repository ./fubar-python
+def fImmutableMutable(nParObject):
+    """Immutable objects (int; float; bool; complex; frozenset; str; tuple)
+    cannot be changed whereas mutable objects (list; set; dict) can be changed.
+
+Input: nParObject
+Process: (id)
+Output: i) object identity (memory address); ii) object itself  
+"""
+    print("<id> : {}".format(id(nParObject)))
+    return nParObject 
+# --- END ---
