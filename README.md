@@ -42,6 +42,6 @@ https://nbviewer.jupyter.org/github/E6985/cta-analysing/blob/main/cta-analysing.
 ###### SARS-CoV-2
 
 * { ["**covid-19-ireland**"](https://github.com/E6985/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
-<!-- 10/03/2020
-"update repository ./covid-19-ireland - Average and totals (9th March, 2021) for 5-day/7-day/14-days all positive for the first time since 9th January, 2021 - further daily increases may indicate problems."
+<!-- 11/03/2020
+"update repository ./covid-19-ireland"
 -->
