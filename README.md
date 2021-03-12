@@ -42,6 +42,6 @@ https://nbviewer.jupyter.org/github/E6985/cta-analysing/blob/main/cta-analysing.
 ###### SARS-CoV-2
 
 * { ["**covid-19-ireland**"](https://github.com/E6985/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
-<!-- 11/03/2020
-"update repository ./covid-19-ireland"
+<!-- 12/03/2020
+"update repository ./covid-19-ireland - Fourth day cumalative 1% positivity rate increase (7-day). Average and totals (11th March, 2021) for 5-day/7-day continue increasing trend. Saturday 13th may show further increases given its historically a high case count reporting day - if not then hopefully (wishful thinking) may revert back to declining trend and maybe the last week may be an anomaly."
 -->
