@@ -30,15 +30,15 @@
 
 ## GMIT Higher Diploma in Data Analytics Programme
 
-###### Computational Thinking with Algorithms
+<!-- ###### Computational Thinking with Algorithms -->
 
-* { ["**Analysing**"](#) : &#x1F4CC; } 
-<!-- 25/02/2020
+<!-- * { ["**Analysing**"](#) : &#x1F4CC; } 
+25/02/2020
 https://github.com/SeanOhAileasa/cta-analysing
 "update repository ./cta-analysing - Asymptotic behaviour reviewing Big O / Omega / Theta with python O(1) / O(n) / O(n^2)." -->
 
-* { ["**Sorting**"](#) : &#x1F4CC; } 
-<!-- 13/03/2021
+<!-- * { ["**Sorting**"](#) : &#x1F4CC; } 
+13/03/2021
 https://github.com/SeanOhAileasa/cta-sorting
 "add repository ./cta-sorting" -->
 
@@ -47,6 +47,5 @@ https://github.com/SeanOhAileasa/cta-sorting
 ###### SARS-CoV-2
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
-<!-- 12/03/2020
-"update repository ./covid-19-ireland - Fourth day cumalative 1% positivity rate increase (7-day). Average and totals (11th March, 2021) for 5-day/7-day continue increasing trend. Saturday 13th may show further increases given its historically a high case count reporting day - if not then hopefully (wishful thinking) may revert back to declining trend and maybe the last week may be an anomaly."
--->
+<!-- 13/03/2020
+"update repository ./covid-19-ireland" -->
