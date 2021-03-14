@@ -30,22 +30,38 @@
 
 ## GMIT Higher Diploma in Data Analytics Programme
 
-<!-- ###### Computational Thinking with Algorithms -->
+<!-- 
+###### Computational Thinking with Algorithms 
+-->
 
-<!-- * { ["**Analysing**"](#) : &#x1F4CC; } 
+<!-- 
+* { ["**Analysing**"](https://github.com/SeanOhAileasa/cta-analysing) : &#x1F4CC; } 
 25/02/2020
-https://github.com/SeanOhAileasa/cta-analysing
-"update repository ./cta-analysing - Asymptotic behaviour reviewing Big O / Omega / Theta with python O(1) / O(n) / O(n^2)." -->
+"update repository ./cta-analysing - Asymptotic behaviour reviewing Big O / Omega / Theta with python O(1) / O(n) / O(n^2)."
+-->
 
-<!-- * { ["**Sorting**"](#) : &#x1F4CC; } 
+<!-- 
+* { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
 13/03/2021
-https://github.com/SeanOhAileasa/cta-sorting
-"add repository ./cta-sorting" -->
+"add repository ./cta-sorting"
+-->
+
+<!-- 
+###### Fubar 
+-->
+
+<!-- 
+* { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
+14/03/2020
+"add repository ./fubar-python"
+-->
 
 ## Republic of Ireland Covid-19 Pandemic SARS-CoV-2
 
 ###### SARS-CoV-2
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
-<!-- 13/03/2020
-"update repository ./covid-19-ireland" -->
+<!-- 
+13/03/2020
+"update repository ./covid-19-ireland"
+-->
