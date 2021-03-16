@@ -1,4 +1,4 @@
-# repository ./E6985
+# repository ./OhAileasa
 def fFullScreen():
 	"""Utilise full Jupyter notebook screen.
 
@@ -9,7 +9,7 @@ Output:
 	from IPython.core.display import display,HTML
 	display(HTML("<style>.container { width:100% !important; }</style>"))
 # --- END ---
-# repository ./E6985
+# repository ./OhAileasa
 def fDarkReader():
 	"""Unable to determine plot ticks when using https://darkreader.org.
 
@@ -20,7 +20,7 @@ Output:
 	from matplotlib.style.core import use
 	use({"default"})
 # --- END ---
-# repository ./E6985
+# repository ./OhAileasa
 def fMagic(nPar):
 	"""None.
 
@@ -33,7 +33,7 @@ Output:	Function/Method etc additional information.
 	print(type(nPar))
 	return nPar.__doc__
 # --- END ---
-# repository ./E6985
+# repository ./OhAileasa
 if __name__=="__main__":
 	pass
 else:
@@ -62,3 +62,15 @@ Output: i) object identity (memory address); ii) object itself
     print("<id> : {}".format(id(nParObject)))
     return nParObject 
 # --- END ---
+# repository ./fubar-python
+def fCount(nParIndex):
+    """Recursive process.
+
+Input: nParIndex
+Process: print Input; if Input<2 then call fCount passing Input+1
+Output: sequence 0, 1, 2
+"""
+    print(nParIndex)
+    if nParIndex<2:
+        fCount(nParIndex+1)
+# -- END ---
