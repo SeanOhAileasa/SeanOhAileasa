@@ -43,7 +43,8 @@
 <!-- 
 * { ["**Recursion**"](https://github.com/SeanOhAileasa/cta-recursion) : &#x1F4CC; } 
 17/03/2020
-"update repository ./cta-recursion - Introduce recursion types (linear/tail/binary/exponential)."
+""
+"update repository ./cta-recursion - Recursive process without a base case experience infinite recursion. Similar albeit more informative than an infinite loop. Using a base case (input parameters) which can be solved without recursion (from fubar import fInfinite)."
 -->
 
 <!-- 
