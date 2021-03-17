@@ -74,3 +74,13 @@ Output: sequence 0, 1, 2
     if nParIndex<2:
         fCount(nParIndex+1)
 # -- END ---
+# repository ./fubar-python
+def fInfinite(nParInteger):
+    """Recursive process without a base case.
+
+Input: nParInteger
+Process: Input-1
+Output: never stops making recursive calls regardless of Input
+"""
+    fInfinite(nParInteger-1)
+# -- END ---
