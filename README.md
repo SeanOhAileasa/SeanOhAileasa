@@ -42,8 +42,8 @@
 
 <!-- 
 * { ["**Recursion**"](https://github.com/SeanOhAileasa/cta-recursion) : &#x1F4CC; } 
-16/03/2020
-"add repository ./cta-recursion - Introduce iteration and the recursion technique (from fubar import fCount). Visualsing calls to a recursive process via recursion trace."
+17/03/2020
+"update repository ./cta-recursion - Introduce the stack as a way to visualise which process activation frames (records) are active at any one time (from fubar import fCount)."
 -->
 
 <!-- 
