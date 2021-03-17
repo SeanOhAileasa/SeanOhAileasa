@@ -43,7 +43,7 @@
 <!-- 
 * { ["**Recursion**"](https://github.com/SeanOhAileasa/cta-recursion) : &#x1F4CC; } 
 17/03/2020
-"update repository ./cta-recursion - Introduce the stack as a way to visualise which process activation frames (records) are active at any one time (from fubar import fCount)."
+"update repository ./cta-recursion - Introduce recursion types (linear/tail/binary/exponential)."
 -->
 
 <!-- 
