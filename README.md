@@ -59,8 +59,8 @@
 
 <!-- 
 * { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
-17/03/2020
-"update repository ./cta-recursion - Recursive process without a base case."
+18/03/2020
+"update repository ./cta-recursion - Recursive process not making progress toward a base case."
 -->
 
 ## Republic of Ireland Covid-19 Pandemic SARS-CoV-2

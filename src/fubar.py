@@ -84,3 +84,16 @@ Output: never stops making recursive calls regardless of Input
 """
     fInfinite(nParInteger-1)
 # -- END ---
+# repository ./cta-recursion
+def fCircular(nParInteger):
+    """Recursive process not making progress toward a base case.
+
+Input: nParInteger
+Process: if Input==1 then call fCircular passing Input+1;
+    otherwise make call to fCircular passing Input-1
+Output: keeps going back and forth when Input==1
+"""
+    if nParInteger==1:
+        fCircular(nParInteger+1)
+    fCircular(nParInteger-1)
+# -- END ---
