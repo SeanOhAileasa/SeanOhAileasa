@@ -44,7 +44,7 @@
 * { ["**Recursion**"](https://github.com/SeanOhAileasa/cta-recursion) : &#x1F4CC; } 
 18/03/2020
 ""
-"update repository ./cta-recursion - Recursive process not making progress toward a base case or make progress towards a case which can be solved without recursion (from fubar import fCircular)."
+"update repository ./cta-recursion - Basic rules to consider when implementing recursive algorithms include: i) have base case or infinite recursion; ii) make progress towards the base case(s) or circular recursion; iii) design with assumption previous rules are followed plus will work as expected and; iv) compound interest rule making efficient use of computational resources."
 -->
 
 <!-- 
