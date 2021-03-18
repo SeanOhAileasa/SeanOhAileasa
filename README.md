@@ -42,9 +42,9 @@
 
 <!-- 
 * { ["**Recursion**"](https://github.com/SeanOhAileasa/cta-recursion) : &#x1F4CC; } 
-17/03/2020
+18/03/2020
 ""
-"update repository ./cta-recursion - Recursive process without a base case experience infinite recursion. Similar albeit more informative than an infinite loop. Using a base case (input parameters) which can be solved without recursion (from fubar import fInfinite)."
+"update repository ./cta-recursion - Recursive process not making progress toward a base case or make progress towards a case which can be solved without recursion (from fubar import fCircular)."
 -->
 
 <!-- 
