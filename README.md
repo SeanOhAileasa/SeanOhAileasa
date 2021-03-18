@@ -44,7 +44,7 @@
 * { ["**Recursion**"](https://github.com/SeanOhAileasa/cta-recursion) : &#x1F4CC; } 
 18/03/2020
 ""
-"update repository ./cta-recursion - Basic rules to consider when implementing recursive algorithms include: i) have base case or infinite recursion; ii) make progress towards the base case(s) or circular recursion; iii) design with assumption previous rules are followed plus will work as expected and; iv) compound interest rule making efficient use of computational resources."
+"update repository ./cta-recursion - When designing a recursive algorithm the most fundamental step is to think about the task to be accomplished and identify recurring patterns. Identify cases known can be solved without recursion (simple base cases). Invoke a new copy of the method within each recursive step. Each recursive step resembles the original larger problem. Make progress towards the base case with each successive recursive step."
 -->
 
 <!-- 
