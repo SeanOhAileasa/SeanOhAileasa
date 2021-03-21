@@ -49,8 +49,8 @@
 
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
-13/03/2021
-"add repository ./cta-sorting"
+21/03/2021
+"update repository ./cta-sorting - Introduce the term sorting and considerations for the most appropriate algorithms for the specific task to accomplish. Overview: i) searching for items in a collection; ii) finding out whether any duplicates exist; iii) the frequency of any distinct items and; iv) order statistics."
 -->
 
 <!-- 
