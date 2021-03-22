@@ -50,7 +50,7 @@
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
 22/03/2021
-"update repository ./cta-sorting - Definition of the concept of less than is obvious when the items in the collection are numbers. Ordering words/character (Dutch National Flag Problem - Dijkstra) is lexicographical ordering."
+"update repository ./cta-sorting - Comparator functions takes two elements as input and returns answer based on a condition. Relates back to the idea of custom sorting schemes (Dutch National Flag Problem - Dijkstra) and need not be concerned of the actual implementation details. Inversions relate back to the running time of certain sorting algorithms (Insertion Sort) and the number of inversions in a collection is a measure of how it is from being sorted."
 -->
 
 <!-- 
