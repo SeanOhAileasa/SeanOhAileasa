@@ -50,7 +50,7 @@
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
 22/03/2021
-"update repository ./cta-sorting - Formal/mathematical definition of the term sorted. Duplicate elements must be contiguous in the resulting order collection."
+"update repository ./cta-sorting - Definition of the concept of less than is obvious when the items in the collection are numbers. Ordering words/character (Dutch National Flag Problem - Dijkstra) is lexicographical ordering."
 -->
 
 <!-- 
