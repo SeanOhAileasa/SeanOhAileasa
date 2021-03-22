@@ -49,8 +49,8 @@
 
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
-21/03/2021
-"update repository ./cta-sorting - Introduce the term sorting and considerations for the most appropriate algorithms for the specific task to accomplish. Overview: i) searching for items in a collection; ii) finding out whether any duplicates exist; iii) the frequency of any distinct items and; iv) order statistics."
+22/03/2021
+"update repository ./cta-sorting - Formal/mathematical definition of the term sorted. Duplicate elements must be contiguous in the resulting order collection."
 -->
 
 <!-- 
