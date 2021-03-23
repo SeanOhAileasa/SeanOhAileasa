@@ -60,7 +60,7 @@
 <!-- 
 * { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
 23/03/2020
-"update repository ./fubar-python - Operator (Identify)."
+"update repository ./fubar-python - Operator (Membership)."
 -->
 
 ## Republic of Ireland Covid-19 Pandemic SARS-CoV-2
