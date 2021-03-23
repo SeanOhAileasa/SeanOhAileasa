@@ -50,7 +50,7 @@
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
 23/03/2021
-"update repository ./cta-sorting - Desirable properties/criteria to judge a sorting algorithm and the suitability for a particular problem might include: i) stability (preserving the order of already sorted input); ii) run time efficiency (run at an acceptable amount of time); iii) in-place (if memory requirements are a concern); iv) suitability (taking all in aggregate and consider class of input instances)."
+"update repository ./cta-sorting - Criteria to judge sorting algorithm ie run time efficiency (best-case or the average-case or the worst-case or consider all in aggregate). "
 -->
 
 <!-- 
@@ -69,6 +69,6 @@
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
 <!-- 
-22/03/2020
+23/03/2020
 "update repository ./covid-19-ireland"
 -->
