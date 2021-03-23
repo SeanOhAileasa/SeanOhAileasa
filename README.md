@@ -50,7 +50,7 @@
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
 23/03/2021
-"update repository ./cta-sorting - Sort key is the information which is used to make comparisons when sorting. Satellite data is the extra data that is related to a specific sort key."
+"update repository ./cta-sorting - Desirable properties/criteria to judge a sorting algorithm and the suitability for a particular problem might include: i) stability (preserving the order of already sorted input); ii) run time efficiency (run at an acceptable amount of time); iii) in-place (if memory requirements are a concern); iv) suitability (taking all in aggregate and consider class of input instances)."
 -->
 
 <!-- 
