@@ -49,8 +49,8 @@
 
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
-22/03/2021
-"update repository ./cta-sorting - Comparator functions compare relative values whereas comparison sorts are a specific class of sorting algorithm using only comparison operations of two elements based on some comparator function. Sorting algorithms based on comparisons are called comparison-based and cannot do better that n log n performance in the average or in the worst case. An exception to the n log n performance are non-comparison-based (relate to the types/classes of input data) having better worst case times than the n log n limit and being the upper bound on possible performance for comparison-based."
+23/03/2021
+"update repository ./cta-sorting - Sort key is the information which is used to make comparisons when sorting. Satellite data is the extra data that is related to a specific sort key."
 -->
 
 <!-- 
