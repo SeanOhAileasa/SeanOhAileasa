@@ -50,7 +50,7 @@
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
 24/03/2021
-"update repository ./cta-sorting - Judging a sorting algorithm in terms of its run time efficiency (best-case or the average-case or the worst-case or consider all in aggregate) and its suitability for a particular problem even if an algorithm has a desirable performance efficiency in terms of time its implementation might still be impractical. No one algorithm is the best for all possible situations. Orders of growth of the number of operations required for an algorithm to complete is proportional to a number of functions (logarithmic/linear/linearithmic/polynomial/exponential). Other influencing factors include: i) the number of items which need to be sorted; ii) how the items are related (properties) - are the items related only by the order relation; iii) the number of inversions which are in the dataset or to what extent are the items pre-sorted; iv) can the items be placed into internal or fast memory (RAM or cache) versus external or slower memory (external sorting)."
+"update repository ./cta-sorting - If memory requirements are a concern in-place sorting is the idea of using memory efficiently. An algorithm is in-place if it uses only a fixed additional amount of working space independent of the input size (classification of space complexity rather than time complexity). Algorithms that require additional working memory beyond some fixed amount of additional space is often dependent on the size of the input instance and will be one of the orders of growth functions (logarithmic/linear/linearithmic/polynomial/exponential)"
 -->
 
 <!-- 
