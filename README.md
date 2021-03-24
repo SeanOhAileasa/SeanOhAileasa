@@ -50,7 +50,7 @@
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
 24/03/2021
-"update repository ./cta-sorting - If memory requirements are a concern in-place sorting is the idea of using memory efficiently. An algorithm is in-place if it uses only a fixed additional amount of working space independent of the input size (classification of space complexity rather than time complexity). Algorithms that require additional working memory beyond some fixed amount of additional space is often dependent on the size of the input instance and will be one of the orders of growth functions (logarithmic/linear/linearithmic/polynomial/exponential)"
+"update repository ./cta-sorting - Overview of comparison-based (Bubble Sort; Selection Sort; Insertion Sort; Merge Sort; Quicksort and; Heapsort) and non-comparison-based (Counting Sort and Bucket Sort) and hybrid (Timsort and Introsort) sorting algorithms in terms of the best-case; worst-case; average-case performances in time complexity; space complexity and; stability."
 -->
 
 <!-- 
