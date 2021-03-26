@@ -49,8 +49,8 @@
 
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
-24/03/2021
-"update repository ./cta-sorting - Overview of comparison-based (Bubble Sort; Selection Sort; Insertion Sort; Merge Sort; Quicksort and; Heapsort) and non-comparison-based (Counting Sort and Bucket Sort) and hybrid (Timsort and Introsort) sorting algorithms in terms of the best-case; worst-case; average-case performances in time complexity; space complexity and; stability."
+26/03/2021
+"update repository ./cta-sorting - Bubble Sort is a comparison-based sorting algorithm that achieves in-place sorting. Time complexity linear in the best-case and quadratic (polynomial) in the worst and average-cases. Slow and impractical for most problems when compared to Insertion Sort or Selection Sort. Only use case is for data that is nearly sorted or very small input albeit Insertion Sort is still probably better. Repeating leftmost starts comparing each element except the last element (depending on the iteration count) with its neighbour to the right and if out of order then swap resulting in the largest element now at the final position. Collection becomes partitioned into two whereby the larger values bubble up to the top (sorted to the right).
 -->
 
 <!-- 
