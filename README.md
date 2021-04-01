@@ -36,13 +36,13 @@
 
 <!-- 
 * { ["**Analysing**"](https://github.com/SeanOhAileasa/cta-analysing) : &#x1F4CC; } 
-25/02/2020
+25/02/2021
 "update repository ./cta-analysing - Asymptotic behaviour reviewing Big O / Omega / Theta with python O(1) / O(n) / O(n^2)."
 -->
 
 <!-- 
 * { ["**Recursion**"](https://github.com/SeanOhAileasa/cta-recursion) : &#x1F4CC; } 
-18/03/2020
+18/03/2021
 ""
 "update repository ./cta-recursion - When designing a recursive algorithm the most fundamental step is to think about the task to be accomplished and identify recurring patterns. Identify cases known can be solved without recursion (simple base cases). Invoke a new copy of the method within each recursive step. Each recursive step resembles the original larger problem. Make progress towards the base case with each successive recursive step."
 -->
@@ -59,7 +59,7 @@
 
 <!-- 
 * { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
-23/03/2020
+23/03/2021
 "update repository ./fubar-python - Operator (Membership)."
 -->
 
@@ -69,6 +69,6 @@
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
 <!-- 
-31/03/2020
+01/04/2021
 "update repository ./covid-19-ireland" 
 -->
