@@ -1,4 +1,15 @@
-# repository ./OhAileasa
+# repository ./SeanOhAileasa
+def fFile(nParPath):
+    """Start a file with its associated application.
+
+Input: nParPath
+Process: (os.path.realpath; os.startfile)
+Output: file opened with associated application
+"""
+    from os import path,startfile
+    return startfile(path.realpath(nParPath))
+# --- END ---
+# repository ./SeanOhAileasa
 def fFullScreen():
 	"""Utilise full Jupyter notebook screen.
 
@@ -9,7 +20,7 @@ Output:
 	from IPython.core.display import display,HTML
 	display(HTML("<style>.container { width:100% !important; }</style>"))
 # --- END ---
-# repository ./OhAileasa
+# repository ./SeanOhAileasa
 def fDarkReader():
 	"""Unable to determine plot ticks when using https://darkreader.org.
 
@@ -20,20 +31,20 @@ Output:
 	from matplotlib.style.core import use
 	use({"default"})
 # --- END ---
-# repository ./OhAileasa
+# repository ./SeanOhAileasa
 def fMagic(nPar):
 	"""None.
 
-Input: Function/Method etc.
+Input: function/method etc.
 Process: (inspect.getmodule; type; __doc__) 
-Output:	Function/Method etc additional information.
+Output:	function/method etc additional information
 """
 	from inspect import getmodule
 	print(getmodule(nPar))
 	print(type(nPar))
 	return nPar.__doc__
 # --- END ---
-# repository ./OhAileasa
+# repository ./SeanOhAileasa
 if __name__=="__main__":
 	pass
 else:
@@ -62,7 +73,7 @@ Output: i) object identity (memory address); ii) object itself
     print("<id> : {}".format(id(nParObject)))
     return nParObject 
 # --- END ---
-# repository ./fubar-python
+# repository ./cta-recursion
 def fCount(nParIndex):
     """Recursive process.
 
@@ -74,7 +85,7 @@ Output: sequence 0, 1, 2
     if nParIndex<2:
         fCount(nParIndex+1)
 # -- END ---
-# repository ./fubar-python
+# repository ./cta-recursion
 def fInfinite(nParInteger):
     """Recursive process without a base case.
 
