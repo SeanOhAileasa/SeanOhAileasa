@@ -108,3 +108,19 @@ Output: keeps going back and forth when Input==1
         fCircular(nParInteger+1)
     fCircular(nParInteger-1)
 # -- END ---
+# repository ./cta-sorting
+def fAddBarLabels(nParCollection):
+    """Add text (s) to the axes at coordinates x and y.
+    Used in conjunction with matplotlib.pyplot.bar. 
+
+Input: nParCollection
+Process: (len; range; matplotlib.pyplot.text) 
+Output:
+"""
+    from matplotlib.pyplot import text
+    for nIndex in range(len(nParCollection)):
+        text(x=nIndex,y=nParCollection[nIndex],
+             s=nParCollection[nIndex],
+             ha="center",va="bottom",fontsize=12)
+    return nParCollection
+# --- END ---

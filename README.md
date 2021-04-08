@@ -59,8 +59,8 @@
 
 <!-- 
 * { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
-07/04/2021
-"update ./src - Start a file with its associated application."
+08/04/2021
+"update repository ./cta-sorting - Add text (s) to the axes at coordinates x and y. Used in conjunction with matplotlib.pyplot.bar."
 -->
 
 ## Republic of Ireland Covid-19 Pandemic SARS-CoV-2
@@ -69,6 +69,6 @@
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
 <!-- 
-06/04/2021
+07/04/2021
 "update repository ./covid-19-ireland" 
 -->
