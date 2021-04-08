@@ -124,3 +124,20 @@ Output:
              ha="center",va="bottom",fontsize=12)
     return nParCollection
 # --- END ---
+# repository ./cta-sorting
+def fAddPlot(nParCollection,nParColor):
+    """Make a bar plot at coordinate x with dimension height.
+    Bars coloured based on some criteria.
+
+Input: nParCollection; nParColor
+Process: (matplotlib.pyplot.box,yticks,bar; len; range)
+Output:
+"""
+    from matplotlib.pyplot import box,yticks,bar
+    box(False); # remove plot box
+    yticks([]) # remove y-axis ticks
+    bar(x=range(len(nParCollection)), # x-axis collection indices
+        height=nParCollection, # y-axis actual collection
+        color=nParColor, # bar color 
+        tick_label=range(len(nParCollection))) # ticks represent indices
+# --- END ---

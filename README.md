@@ -60,7 +60,7 @@
 <!-- 
 * { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
 08/04/2021
-"update repository ./cta-sorting - Add text (s) to the axes at coordinates x and y. Used in conjunction with matplotlib.pyplot.bar."
+"update repository ./cta-sorting - Make a bar plot at coordinate x with dimension height. Bars coloured based on some criteria."
 -->
 
 ## Republic of Ireland Covid-19 Pandemic SARS-CoV-2
