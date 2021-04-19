@@ -69,7 +69,7 @@
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
 <!-- 
-15/04/2021
+18/04/2021
 "update repository ./covid-19-ireland" 
 -->
 
@@ -77,6 +77,7 @@
 ###### Packages
 
 - ``IPyPlot`` is a small python package offering fast and efficient plotting of images using ``IPython`` with HTML for displaying large numbers of images [reference](http://web.archive.org/web/20201103205220/https://github.com/karolzak/ipyplot)
+
 
 
 - installed through ``PyPI``: [reference](http://web.archive.org/web/20201103205220/https://github.com/karolzak/ipyplot)
