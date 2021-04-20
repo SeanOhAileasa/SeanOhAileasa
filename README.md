@@ -56,7 +56,7 @@
 <!-- 
 * { ["**Searching**"](https://github.com/SeanOhAileasa/cta-searching) : &#x1F4CC; } 
 20/04/2021
-"add repository ./cta-searching - Overview of the search problem."
+"update repository ./cta-searching - Performance of a search algorithm is based on how many operations are performed and of course the number of operations will increase with an increasing input size. Relationship between input size and the expected running time or the expected number of operations is constant O(n) (lower bound on possible performance) in the worst case corresponding to each element inspected exactly once (linear search). The knowledge that a collection is sorted or can be sorted according to the definition of a comparator function (some definition of <) can improve the performance of search queries but there are trade-offs/costs associated."
 -->
 
 <!-- 
