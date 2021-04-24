@@ -55,8 +55,8 @@
 
 <!-- 
 * { ["**Searching**"](https://github.com/SeanOhAileasa/cta-searching) : &#x1F4CC; } 
-20/04/2021
-"update repository ./cta-searching - Performance of a search algorithm is based on how many operations are performed and of course the number of operations will increase with an increasing input size. Relationship between input size and the expected running time or the expected number of operations is constant O(n) (lower bound on possible performance) in the worst case corresponding to each element inspected exactly once (linear search). The knowledge that a collection is sorted or can be sorted according to the definition of a comparator function (some definition of <) can improve the performance of search queries but there are trade-offs/costs associated."
+24/04/2021
+"update repository ./cta-searching - Linear search constitutes a brute force approach to locate a single target element in a collection. Appropriate to use when it is not known whether the input instance is sorted beforehand or if the collection is small. No assumptions are made about the type of input instance data. The only requirement when using linear search is the presence of a match function (some definition of equals or equivalent to). Performance is linear O(n) time in the average/worst cases and can achieve constant O(1) time in the best case. It’s the only search algorithm which may be used if the collection is accessible only through an iterator. Implementation iterates element by element in the collection comparing the target element with the current element with two variants: i) returns True or False; ii) returns the index of the target element."
 -->
 
 <!-- 
@@ -65,8 +65,8 @@
 
 <!-- 
 * { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
-08/04/2021
-"update repository ./cta-sorting - Make a bar plot at coordinate x with dimension height. Bars coloured based on some criteria."
+24/04/2021
+"update repository ./cta-searching - Linear search implementation."
 -->
 
 ## Republic of Ireland Covid-19 Pandemic SARS-CoV-2
