@@ -1,4 +1,4 @@
-[![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/img/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
+[![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
 
 ## Data Analytics Student</br>Working/Studying in Co. Kerry, Ireland &#x1F4CC;
 
@@ -75,7 +75,7 @@
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
 <!-- 
-23/04/2021
+24/04/2021
 "update repository ./covid-19-ireland"
 -->
 
