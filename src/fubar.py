@@ -141,3 +141,16 @@ Output:
         color=nParColor, # bar color 
         tick_label=range(len(nParCollection))) # ticks represent indices
 # --- END ---
+# repository ./cta-searching
+def fLinearSearch(nCollection,nTarget):
+    """Linear search implementation.
+    
+Input: nCollection; nTarget
+Process: iterate element by element through Input=nCollection comparing Input=nTarget
+Output: index of the target element or -1
+"""
+    for nIndex in range(len(nCollection)):
+        if nCollection[nIndex]==nTarget:
+            return nIndex
+    return -1
+# --- END ---
