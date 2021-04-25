@@ -55,8 +55,8 @@
 
 <!-- 
 * { ["**Searching**"](https://github.com/SeanOhAileasa/cta-searching) : &#x1F4CC; } 
-24/04/2021
-"update repository ./cta-searching - Linear search constitutes a brute force approach to locate a single target element in a collection. Appropriate to use when it is not known whether the input instance is sorted beforehand or if the collection is small. No assumptions are made about the type of input instance data. The only requirement when using linear search is the presence of a match function (some definition of equals or equivalent to). Performance is linear O(n) time in the average/worst cases and can achieve constant O(1) time in the best case. It’s the only search algorithm which may be used if the collection is accessible only through an iterator. Implementation iterates element by element in the collection comparing the target element with the current element with two variants: i) returns True or False; ii) returns the index of the target element."
+25/04/2021
+"update repository ./cta-searching - Overview of binary search with performance comparison over linear search. Pseudocode along with iterative implementation (recursive implementation outstanding). Walkthrough of iterative and recursion approaches completed in Java."
 -->
 
 <!-- 
@@ -65,7 +65,7 @@
 
 <!-- 
 * { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
-24/04/2021
+25/04/2021
 "update repository ./cta-searching - Binary search iterative implementation."
 -->
 
