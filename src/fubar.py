@@ -142,15 +142,34 @@ Output:
         tick_label=range(len(nParCollection))) # ticks represent indices
 # --- END ---
 # repository ./cta-searching
-def fLinearSearch(nCollection,nTarget):
+def fLinearSearch(nParCollection,nParTarget):
     """Linear search implementation.
     
-Input: nCollection; nTarget
-Process: iterate element by element through Input=nCollection comparing Input=nTarget
+Input: nParCollection; nParTarget
+Process: iterate element by element through Input=nParCollection comparing Input=nParTarget
 Output: index of the target element or -1
 """
-    for nIndex in range(len(nCollection)):
-        if nCollection[nIndex]==nTarget:
+    for nIndex in range(len(nParCollection)):
+        if nParCollection[nIndex]==nParTarget:
             return nIndex
+    return -1
+# --- END ---
+# repository ./cta-searching
+def fBinarySearchIterative(nParCollection,nParTarget):
+    """Binary search iterative implementation.
+    
+Input: nParCollection; nParTarget
+Process: chopping Input=nParCollection in half comparing element to Input=nParTarget 
+Output: index of the target element or -1
+"""
+    nLeft,nRight=0,len(nParCollection)-1
+    while(nRight>=nLeft):
+        nMidpoint=(nLeft+nRight)//2
+        if (nParCollection[nMidpoint]==nParTarget):
+            return nMidpoint
+        if (nParCollection[nMidpoint]<nParTarget):
+            nLeft=nMidpoint+1 # chopping right partition
+        if (nParCollection[nMidpoint]>nParTarget):
+            nRight=nMidpoint-1 # chopping left partition
     return -1
 # --- END ---

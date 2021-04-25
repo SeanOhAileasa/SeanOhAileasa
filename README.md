@@ -66,7 +66,7 @@
 <!-- 
 * { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
 24/04/2021
-"update repository ./cta-searching - Linear search implementation."
+"update repository ./cta-searching - Binary search iterative implementation."
 -->
 
 ## Republic of Ireland Covid-19 Pandemic SARS-CoV-2
