@@ -1,5 +1,3 @@
-[![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/gmit.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
-
 ## Data Analytics Student</br>Working/Studying in Co. Kerry, Ireland &#x1F4CC;
 
 ### Graduate of BSc (Hons) Business Computing 🎓</br>University of Wales - Award Classification 2.1
@@ -75,7 +73,7 @@
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
 <!-- 
-01/05/2021
+03/05/2021
 "update repository ./covid-19-ireland"
 -->
 
