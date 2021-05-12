@@ -11,45 +11,45 @@ Output: file opened with associated application
 # --- END ---
 # repository ./SeanOhAileasa
 def fFullScreen():
-	"""Utilise full Jupyter notebook screen.
+    """Utilise full Jupyter notebook screen.
 
 Input:
 Process: (IPython.core.display.display; IPython.core.display.HTML)
 Output:
 """
-	from IPython.core.display import display,HTML
-	display(HTML("<style>.container { width:100% !important; }</style>"))
+    from IPython.core.display import display,HTML
+    display(HTML("<style>.container { width:100% !important; }</style>"))
 # --- END ---
 # repository ./SeanOhAileasa
 def fDarkReader():
-	"""Unable to determine plot ticks when using https://darkreader.org.
+    """Unable to determine plot ticks when using https://darkreader.org.
 
 Input:
 Process: (matplotlib.style.core.use)
 Output:
 """
-	from matplotlib.style.core import use
-	use({"default"})
+    from matplotlib.style.core import use
+    use({"default"})
 # --- END ---
 # repository ./SeanOhAileasa
 def fMagic(nPar):
-	"""None.
+    """None.
 
 Input: function/method etc.
 Process: (inspect.getmodule; type; __doc__) 
 Output:	function/method etc additional information
 """
-	from inspect import getmodule
-	print(getmodule(nPar))
-	print(type(nPar))
-	return nPar.__doc__
+    from inspect import getmodule
+    print(getmodule(nPar))
+    print(type(nPar))
+    return nPar.__doc__
 # --- END ---
 # repository ./SeanOhAileasa
 if __name__=="__main__":
-	pass
+    pass
 else:
-	# repository *.ipynb
-	fFullScreen()
+    # repository *.ipynb
+    fFullScreen()
 # --- END ---
 # repository ./fubar-python
 def fIsObject(nParSomething):
@@ -111,7 +111,6 @@ Output: keeps going back and forth when Input==1
 # repository ./cta-sorting
 def fAddBarLabels(nParCollection):
     """Add text (s) to the axes at coordinates x and y.
-    Used in conjunction with matplotlib.pyplot.bar. 
 
 Input: nParCollection
 Process: (len; range; matplotlib.pyplot.text) 
