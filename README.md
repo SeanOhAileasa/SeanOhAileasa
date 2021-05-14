@@ -73,8 +73,8 @@
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
 <!-- 
-13/05/2021
-"update repository ./covid-19-ireland" 
+14/05/2021
+"update repository ./covid-19-ireland - Ryuk" 
 -->
 
 <!--
