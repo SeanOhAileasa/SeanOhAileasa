@@ -47,8 +47,8 @@
 
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
-24/03/2021
-"update repository ./cta-sorting - Overview of comparison-based (Bubble Sort; Selection Sort; Insertion Sort; Merge Sort; Quicksort and; Heapsort) and non-comparison-based (Counting Sort and Bucket Sort) and hybrid (Timsort and Introsort) sorting algorithms in terms of the best-case; worst-case; average-case performances in time complexity; space complexity and; stability."
+17/05/2021
+"update repository ./cta-sorting - Images."
 -->
 
 <!-- 
