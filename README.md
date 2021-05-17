@@ -40,9 +40,9 @@
 
 <!-- 
 * { ["**Recursion**"](https://github.com/SeanOhAileasa/cta-recursion) : &#x1F4CC; } 
-18/03/2021
+17/05/2021 (deadline: 20/05/2021)
 ""
-"update repository ./cta-recursion - When designing a recursive algorithm the most fundamental step is to think about the task to be accomplished and identify recurring patterns. Identify cases known can be solved without recursion (simple base cases). Invoke a new copy of the method within each recursive step. Each recursive step resembles the original larger problem. Make progress towards the base case with each successive recursive step."
+"update repository ./cta-recursion"
 -->
 
 <!-- 
