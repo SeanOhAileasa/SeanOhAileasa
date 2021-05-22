@@ -34,8 +34,8 @@
 
 <!-- 
 * { ["**Analysing**"](https://github.com/SeanOhAileasa/cta-analysing) : &#x1F4CC; } 
-25/02/2021
-"update repository ./cta-analysing - Asymptotic behaviour reviewing Big O / Omega / Theta with python O(1) / O(n) / O(n^2)."
+22/05/2021
+"update repository ./cta-analysing"
 -->
 
 <!-- 
