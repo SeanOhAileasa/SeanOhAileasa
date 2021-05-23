@@ -47,8 +47,8 @@
 
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
-17/05/2021
-"update repository ./cta-sorting - Images."
+23/05/2021
+"update repository ./cta-sorting - Add Bubble Sort images."
 -->
 
 <!-- 
