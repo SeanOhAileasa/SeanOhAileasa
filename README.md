@@ -48,7 +48,7 @@
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
 23/05/2021
-"update repository ./cta-sorting - Add Insertion Sort images."
+"update repository ./cta-sorting - Add Merge Sort images."
 -->
 
 <!-- 
