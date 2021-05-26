@@ -61,8 +61,8 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
-24/05/2021
-"update repository ./cta-sorting - Add benchmarking images."
+26/05/2021
+"update repository ./cta-sorting.
 -->
 
 <!-- 
