@@ -46,6 +46,20 @@
 -->
 
 <!-- 
+=======>  DRAFT <========
+
+17/05/2021
+"update repository ./L8733 for ./cta-recursion - Overview of factorials."
+https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb
+
+17/05/2021
+"add repository ./unc1878"
+
+======> END DRAFT <====== 
+
+-->
+
+<!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
 24/05/2021
 "update repository ./cta-sorting - Add benchmarking images."
@@ -58,17 +72,9 @@
 -->
 
 <!-- 
-=======>  DRAFT <========
-
-17/05/2021
-"update repository ./L8733 for ./cta-recursion - Overview of factorials."
-https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb
-
-17/05/2021
-"add repository ./unc1878"
-
-======> END DRAFT <====== 
-
+* { ["**Project**"](https://github.com/SeanOhAileasa/cta-benchmark-algorithms) : &#x1F4CC; } 
+26/05/2021
+"add repository ./cta-benchmark-algorithms - Python application to benchmark five different sorting algorithms. In addition, the report introduces the algorithms chosen and discusses the results of the benchmarking process."
 -->
 
 <!-- 
