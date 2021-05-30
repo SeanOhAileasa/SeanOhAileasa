@@ -28,53 +28,74 @@
 
 ## GMIT Higher Diploma in Data Analytics Programme
 
-<!-- 
-###### Computational Thinking with Algorithms 
--->
+###### Computational Thinking with Algorithms
 
-<!-- 
+&emsp;&emsp;Course Material:
+
 * { ["**Analysing**"](https://github.com/SeanOhAileasa/cta-analysing) : &#x1F4CC; } 
+<!--
 22/05/2021
 "update repository ./cta-analysing"
 -->
-
-<!-- 
 * { ["**Recursion**"](https://github.com/SeanOhAileasa/cta-recursion) : &#x1F4CC; } 
+<!-- 
 17/05/2021 (deadline: 20/05/2021)
 ""
 "update repository ./cta-recursion"
--->
-
-<!-- 
-=======>  DRAFT <========
-
-17/05/2021
 "update repository ./L8733 for ./cta-recursion - Overview of factorials."
 https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb
-
-17/05/2021
-"add repository ./unc1878"
-
-======> END DRAFT <====== 
-
 -->
 
-<!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
+<!--
 26/05/2021
 "update repository ./cta-sorting"
 -->
 
-<!-- 
 * { ["**Searching**"](https://github.com/SeanOhAileasa/cta-searching) : &#x1F4CC; } 
+<!-- 
 25/04/2021
 "update repository ./cta-searching - Overview of binary search with performance comparison over linear search. Pseudocode along with iterative implementation (recursive implementation outstanding). Walkthrough of iterative and recursion approaches completed in Java."
 -->
 
-<!-- 
+&emsp;&emsp;End of Semester (May 2021):
+
 * { ["**Project**"](https://github.com/SeanOhAileasa/cta-benchmark-algorithms) : &#x1F4CC; } 
+<!--
 26/05/2021
 "add repository ./cta-benchmark-algorithms - Python application to benchmark five different sorting algorithms. In addition, the report introduces the algorithms chosen and discusses the results of the benchmarking process."
+-->
+
+###### Fundamentals of Data Analysis
+
+&emsp;&emsp;End of Semester (Dec 2020):
+
+* { ["**Tasks**"](https://github.com/SeanOhAileasa/fda-tasks) : &#x1F4CC; } 
+
+* { ["**Project**"](https://github.com/SeanOhAileasa/fda-regression) : &#x1F4CC; } 
+
+###### Programming for Data Analysis
+
+&emsp;&emsp;End of Semester (Dec 2020):
+
+* { ["**Tasks**"](https://github.com/SeanOhAileasa/pda-numpy-random) : &#x1F4CC; } 
+
+* { ["**Project**"](https://github.com/SeanOhAileasa/pda-numpy-random-simulation) : &#x1F4CC; } 
+
+###### Applied Databases
+
+&emsp;&emsp;End of Semester (Aug 2020):
+
+* { ["**Project**"](https://github.com/SeanOhAileasa/adb-sql-mongodb) : &#x1F4CC; } 
+
+## Republic of Ireland Covid-19 Pandemic SARS-CoV-2
+
+###### SARS-CoV-2
+
+* { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
+<!-- 
+29/05/2021
+"update repository ./covid-19-ireland - Day 17, Health Service Executive (HSE) becoming aware of a ransomware attack on its systems (Friday 14th May 2021)." 
 -->
 
 <!-- 
@@ -87,12 +108,11 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 "update repository ./cta-searching - Binary search iterative implementation."
 -->
 
-## Republic of Ireland Covid-19 Pandemic SARS-CoV-2
-
-###### SARS-CoV-2
-
-* { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
 <!-- 
-29/05/2021
-"update repository ./covid-19-ireland - Day 17, Health Service Executive (HSE) becoming aware of a ransomware attack on its systems (Friday 14th May 2021)." 
+###### HSE Ransomware Research
+-->
+
+<!--
+17/05/2021
+"add repository ./unc1878"
 -->
