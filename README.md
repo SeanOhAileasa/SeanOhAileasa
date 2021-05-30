@@ -62,7 +62,7 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 <!-- 
 * { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
 26/05/2021
-"update repository ./cta-sorting.
+"update repository ./cta-sorting"
 -->
 
 <!-- 
@@ -93,27 +93,6 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
 <!-- 
-14/05/2021
-"update repository ./covid-19-ireland - Ryuk" 
--->
-
-<!--
-###### Packages
-
-- ``IPyPlot`` is a small python package offering fast and efficient plotting of images using ``IPython`` with HTML for displaying large numbers of images [reference](http://web.archive.org/web/20201103205220/https://github.com/karolzak/ipyplot)
-
-
-
-- installed through ``PyPI``: [reference](http://web.archive.org/web/20201103205220/https://github.com/karolzak/ipyplot)
-
-```
-pip install ipyplot
-```
-
-
-- installed directly from repo using pip: [reference](http://web.archive.org/web/20201103205220/https://github.com/karolzak/ipyplot)
-
-```
-pip install git+https://github.com/karolzak/ipyplot
-```
+29/05/2021
+"update repository ./covid-19-ireland - Day 17, Health Service Executive (HSE) becoming aware of a ransomware attack on its systems (Friday 14th May 2021)." 
 -->
