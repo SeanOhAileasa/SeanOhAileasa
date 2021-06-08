@@ -2,13 +2,11 @@
 
 ### Graduate of BSc (Hons) Business Computing 🎓</br>University of Wales - Award Classification 2.1
 
-##### Studying for the Higher Diploma in Data Analytics (GMIT) - NFQ8
+##### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT)
 
-###### ⚡ &nbsp;Earned: 55 Credits (Cr) - Total Cr Required: 75 - Stage GPA: 77.87
+###### ⚡ &nbsp;Earned: 60 Credits (Cr) - Total Cr Required: 75 - Stage GPA: 78
 
-###### 🔭 Earning: 20 Cr - Mandatory [M] January-May, 2021 / Elective [E]
-
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[E] Official Semester is September-December, 2021
+###### 🔭 Earning: 15 Cr - Official Semester September-December, 2021
 
 | **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade   |
 | :--------------------------------------------------------------|:-------:|:-------:|
@@ -18,13 +16,13 @@
 | Applied Databases (SQL/MongoDB/Python)                         | 5       | 80%     |
 | Programming for Data Analysis (Python)                         | 10      | 75%     |
 | Fundamentals of Data Analysis (Python)                         | 5       | 83%     |
+| Computational Thinking with Algorithms (Python)                | 5       | 84%     |
 | Work Placement (Graded Pass/Fail)                              | 15      | PASS    |
 |                                                                |         |         |
-| **January-May, 2021 - Mandatory [M] - Elective [E]:**          |         |         |
-| [M] Computational Thinking with Algorithms (Python)            | 5       | WIP     |
-| [E] Machine Learning and Statistics (Python)                   | 5       | WIP     |
-| [E] Multi-Paradigm Programming (C/Java/Python)                 | 5       | WIP     |
-| [E] Data Representation (JS/API with Python)                   | 5       | WIP     |
+| **Modules Outstanding - Work in Progress - June 2021:**        |         |         |
+| Machine Learning and Statistics (Python)                       | 5       | WIP     |
+| Multi-Paradigm Programming (C/Java/Python)                     | 5       | WIP     |
+| Data Representation (JS/API with Python)                       | 5       | WIP     |
 
 ## GMIT Higher Diploma in Data Analytics Programme
 
