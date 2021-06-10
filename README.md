@@ -116,6 +116,6 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
 <!-- 
-29/05/2021
-"update repository ./covid-19-ireland - Day 17, Health Service Executive (HSE) becoming aware of a ransomware attack on its systems (Friday 14th May 2021)." 
+10/06/2021
+"update repository ./covid-19-ireland - Day 27, Health Service Executive (HSE) becoming aware of a ransomware attack on its systems (Friday 14th May 2021)." 
 -->
