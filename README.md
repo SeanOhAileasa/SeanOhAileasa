@@ -99,8 +99,8 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 ### GMIT - Certificate in Cybersecurity Operations (SPA)
 
 * { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
-25/04/2021
-"update repository ./cta-searching - Binary search iterative implementation."
+10/06/2021
+"update repository ./fubar-python"
 -->
 
 <!-- 
