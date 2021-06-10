@@ -24,7 +24,7 @@
 | Multi-Paradigm Programming (C/Java/Python)                     | 5       | WIP     |
 | Data Representation (JS/API with Python)                       | 5       | WIP     |
 
-## GMIT Higher Diploma in Data Analytics Programme
+### GMIT - Higher Diploma in Science in Computing (Data Analytics)
 
 ###### Computational Thinking with Algorithms
 
@@ -86,7 +86,31 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 
 * { ["**Project**"](https://github.com/SeanOhAileasa/adb-sql-mongodb) : &#x1F4CC; } 
 
-## Republic of Ireland Covid-19 Pandemic SARS-CoV-2
+<!--
+### GMIT - Higher Diploma in Science in Computing (Software Development)
+
+* { ["**Java**"](https://github.com/SeanOhAileasa/fubar-java) : &#x1F4CC; }
+
+10/06/2021
+"add repository ./fubar-java"
+-->
+
+<!--
+### GMIT - Certificate in Cybersecurity Operations (SPA)
+
+* { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
+25/04/2021
+"update repository ./cta-searching - Binary search iterative implementation."
+-->
+
+<!-- 
+### HSE Ransomware Research
+
+17/05/2021
+"add repository ./unc1878"
+-->
+
+### Republic of Ireland Covid-19 Pandemic SARS-CoV-2
 
 ###### SARS-CoV-2
 
@@ -94,23 +118,4 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 <!-- 
 29/05/2021
 "update repository ./covid-19-ireland - Day 17, Health Service Executive (HSE) becoming aware of a ransomware attack on its systems (Friday 14th May 2021)." 
--->
-
-<!-- 
-###### Fubar 
--->
-
-<!-- 
-* { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
-25/04/2021
-"update repository ./cta-searching - Binary search iterative implementation."
--->
-
-<!-- 
-###### HSE Ransomware Research
--->
-
-<!--
-17/05/2021
-"add repository ./unc1878"
 -->
