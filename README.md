@@ -26,6 +26,16 @@
 
 ### GMIT - Higher Diploma in Science in Computing (Data Analytics)
 
+###### Multi-Paradigm Programming 
+
+&emsp;&emsp;Course Material:
+
+* { ["**mpp**"](https://github.com/SeanOhAileasa/mpp-multi-paradigm-programming) : &#x1F4CC; } 
+<!--
+11/06/2021
+"add repository ./mpp-multi-paradigm-programming"
+-->
+
 ###### Data Representation 
 
 &emsp;&emsp;Course Material:
