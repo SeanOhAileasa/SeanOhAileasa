@@ -10,6 +10,10 @@
 
 | **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade   |
 | :--------------------------------------------------------------|:-------:|:-------:|
+| Machine Learning and Statistics (Python) &#x1F6A7;             | 5       | WIP     |
+| Multi-Paradigm Programming (C/Java/Python) &#x1F6A7;           | 5       | WIP     |
+| Data Representation (JS/API with Python) &#x1F6A7;             | 5       | WIP     |
+|                                                                |         |         |
 | Programming and Scripting (Python)                             | 10      | 75%     |
 | Computer Architecture and Technology Convergence               | 5       | 80%     |
 | Web Application Development (HTML/CSS/JavaScript)              | 5       | 80%     |
@@ -18,19 +22,24 @@
 | Fundamentals of Data Analysis (Python)                         | 5       | 83%     |
 | Computational Thinking with Algorithms (Python)                | 5       | 84%     |
 | Work Placement (Graded Pass/Fail)                              | 15      | PASS    |
-|                                                                |         |         |
-| **Modules Outstanding - Work in Progress - June 2021:**        |         |         |
-| Machine Learning and Statistics (Python)                       | 5       | WIP     |
-| Multi-Paradigm Programming (C/Java/Python)                     | 5       | WIP     |
-| Data Representation (JS/API with Python)                       | 5       | WIP     |
 
 ### GMIT - Higher Diploma in Science in Computing (Data Analytics)
 
+###### Machine Learning and Statistics 
+
+&emsp;&emsp;Course Material (WIP):
+
+* { ["**mls**"](https://github.com/SeanOhAileasa/mls-machine-learning-statistics) : &#x1F6A7; } 
+<!--
+11/06/2021
+"add repository ./mls-machine-learning-statistics"
+-->
+
 ###### Multi-Paradigm Programming 
 
-&emsp;&emsp;Course Material:
+&emsp;&emsp;Course Material (WIP):
 
-* { ["**mpp**"](https://github.com/SeanOhAileasa/mpp-multi-paradigm-programming) : &#x1F4CC; } 
+* { ["**mpp**"](https://github.com/SeanOhAileasa/mpp-multi-paradigm-programming) : &#x1F6A7; } 
 <!--
 11/06/2021
 "add repository ./mpp-multi-paradigm-programming"
@@ -38,9 +47,9 @@
 
 ###### Data Representation 
 
-&emsp;&emsp;Course Material:
+&emsp;&emsp;Course Material (WIP):
 
-* { ["**drp**"](https://github.com/SeanOhAileasa/drp-data-representation) : &#x1F4CC; } 
+* { ["**drp**"](https://github.com/SeanOhAileasa/drp-data-representation) : &#x1F6A7; } 
 <!--
 11/06/2021
 "add repository ./drp-data-representation"
