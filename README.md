@@ -26,6 +26,16 @@
 
 ### GMIT - Higher Diploma in Science in Computing (Data Analytics)
 
+###### Data Representation 
+
+&emsp;&emsp;Course Material:
+
+* { ["**drp**"](https://github.com/SeanOhAileasa/drp-data-representation) : &#x1F4CC; } 
+<!--
+11/06/2021
+"add repository ./drp-data-representation"
+-->
+
 ###### Computational Thinking with Algorithms
 
 &emsp;&emsp;Course Material:
@@ -35,6 +45,7 @@
 22/05/2021
 "update repository ./cta-analysing"
 -->
+
 * { ["**Recursion**"](https://github.com/SeanOhAileasa/cta-recursion) : &#x1F4CC; } 
 <!-- 
 17/05/2021 (deadline: 20/05/2021)
