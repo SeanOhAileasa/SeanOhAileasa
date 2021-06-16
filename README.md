@@ -45,6 +45,13 @@
 "update repository ./mpp-multi-paradigm-programming"
 -->
 
+<!--
+* { ["**C**"](https://github.com/SeanOhAileasa/fubar-c) : &#x1F4CC; }
+
+16/06/2021
+"add repository ./fubar-c"
+-->
+
 ###### Data Representation 
 
 &emsp;&emsp;Course Material (WIP):
