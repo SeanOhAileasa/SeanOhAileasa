@@ -20,7 +20,7 @@
 | Applied Databases (SQL/MongoDB/Python)                         | 5       | 80%     |
 | Programming for Data Analysis (Python)                         | 10      | 75%     |
 | Fundamentals of Data Analysis (Python)                         | 5       | 83%     |
-| Computational Thinking with Algorithms (Python)                | 5       | 84%     |
+| Computational Thinking with Algorithms (Python)                | 5       | 85%     |
 | Work Placement (Graded Pass/Fail)                              | 15      | PASS    |
 
 ### GMIT - Higher Diploma in Science in Computing (Data Analytics)
@@ -44,12 +44,11 @@
 16/06/2021
 "update repository ./mpp-multi-paradigm-programming"
 -->
-
 <!--
 * { ["**C**"](https://github.com/SeanOhAileasa/fubar-c) : &#x1F4CC; }
 
-16/06/2021
-"add repository ./fubar-c"
+17/06/2021
+"update repository - Statements (compound)."
 -->
 
 ###### Data Representation 
