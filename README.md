@@ -48,7 +48,7 @@
 * { ["**C**"](https://github.com/SeanOhAileasa/fubar-c) : &#x1F4CC; }
 
 18/06/2021
-"update repository ./fubar-c - Preprocessor."
+"update repository ./fubar-c - Directive (include)."
 -->
 
 ###### Data Representation 
