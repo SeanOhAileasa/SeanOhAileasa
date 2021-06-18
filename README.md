@@ -48,7 +48,7 @@
 * { ["**C**"](https://github.com/SeanOhAileasa/fubar-c) : &#x1F4CC; }
 
 18/06/2021
-"update repository ./fubar-c -  Data Types (Integers - Signed/Unsigned) (Integers - Types - char/wchar_t/short/int/long)."
+"update repository ./fubar-c - Preprocessor."
 -->
 
 ###### Data Representation 
