@@ -48,7 +48,7 @@
 * { ["**C**"](https://github.com/SeanOhAileasa/fubar-c) : &#x1F4CC; }
 
 19/06/2021
-"update repository ./fubar-c - Header Files."
+"update repository ./fubar-c - Header Files (stdio.h)."
 -->
 
 ###### Data Representation 
