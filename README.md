@@ -47,8 +47,8 @@
 <!--
 * { ["**C**"](https://github.com/SeanOhAileasa/fubar-c) : &#x1F4CC; }
 
-21/06/2021
-"update repository ./fubar-c - Review integral limits (char - short - int - long)."
+24/06/2021
+"update repository ./fubar-c - K&R tutorial ...JMcA-23062021-RIP"
 -->
 
 ###### Data Representation 
