@@ -32,7 +32,7 @@
 * { ["**mls**"](https://github.com/SeanOhAileasa/mls-machine-learning-statistics) : &#x1F6A7; } 
 <!--
 25/06/2021
-"update repository ./fda-data"
+"update repository ./mls-machine-learning-statistics - (fda) On the Theory of Scales of Measurement by S. S. Stevens."
 -->
 
 ###### Multi-Paradigm Programming 
