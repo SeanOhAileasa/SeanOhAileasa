@@ -32,7 +32,7 @@
 * { ["**mls**"](https://github.com/SeanOhAileasa/mls-machine-learning-statistics) : &#x1F6A7; } 
 <!--
 26/06/2021
-"update repository ./fda-data"
+"update repository ./mls-machine-learning-statistics - Types in python and other programming languages. Why they exist and how they work."
 -->
 
 ###### Multi-Paradigm Programming 
