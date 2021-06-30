@@ -152,6 +152,6 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
 <!-- 
-29/06/2021
-"update repository ./covid-19-ireland" 
+30/06/2021
+"update repository ./covid-19-ireland - data validation anomaly" 
 -->
