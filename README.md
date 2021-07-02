@@ -1,5 +1,3 @@
-## Data Analytics Student</br>Working/Studying in Co. Kerry, Ireland &#x1F4CC;
-
 ### Graduate of BSc (Hons) Business Computing 🎓</br>University of Wales - Award Classification 2.1
 
 ##### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT)
@@ -94,7 +92,8 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 
 &emsp;&emsp;End of Semester (May 2021):
 
-* { ["**Project**"](https://github.com/SeanOhAileasa/cta-benchmark-algorithms) : &#x1F4CC; } 
+* { ["**Project (pdf)**"](https://raw.githubusercontent.com/SeanOhAileasa/cta-benchmark-algorithms/main/Computational-Thinking-with-Algorithms-Project-2021.pdf) : &#x1F4CC; } 
+	* { ["**Project (src)**"](https://github.com/SeanOhAileasa/cta-benchmark-algorithms) : &#x1F4CC; } 
 <!--
 26/05/2021
 "add repository ./cta-benchmark-algorithms - Python application to benchmark five different sorting algorithms. In addition, the report introduces the algorithms chosen and discusses the results of the benchmarking process."
@@ -152,6 +151,6 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
 <!-- 
-01/07/2021
+02/07/2021
 "update repository ./covid-19-ireland" 
 -->
