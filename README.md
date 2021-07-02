@@ -109,6 +109,13 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 
 ###### Programming for Data Analysis
 
+<!--
+* { ["**SQL**"](https://github.com/SeanOhAileasa/adb-sql) : &#x1F4CC; }
+
+02/07/2021
+"add repository ./adb-sql"
+-->
+
 &emsp;&emsp;End of Semester (Dec 2020):
 
 * { ["**Tasks**"](https://github.com/SeanOhAileasa/pda-numpy-random) : &#x1F4CC; } 
