@@ -161,5 +161,5 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 ![Republic of Ireland (SARS-CoV-2) Vaccination Programme](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/covid-19-ireland/RepublicofIrelandSARS-CoV-2VaccinationProgramme.png?raw=true)
 <!-- 
 03/07/2021
-"update repository ./covid-19-ireland - Republic of Ireland (SARS-CoV-2) Vaccination Programme." 
+"update repository ./covid-19-ireland" 
 -->
