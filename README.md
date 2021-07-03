@@ -157,7 +157,9 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 ###### SARS-CoV-2
 
 * { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
+
+![Republic of Ireland (SARS-CoV-2) Vaccination Programme](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/covid-19-ireland/RepublicofIrelandSARS-CoV-2VaccinationProgramme.png?raw=true)
 <!-- 
-02/07/2021
-"update repository ./covid-19-ireland" 
+03/07/2021
+"update repository ./covid-19-ireland - Republic of Ireland (SARS-CoV-2) Vaccination Programme." 
 -->
