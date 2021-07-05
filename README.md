@@ -120,8 +120,8 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 <!--
 * { ["**SQL**"](https://github.com/SeanOhAileasa/adb-sql) : &#x1F4CC; }
 
-04/07/2021
-"update repository ./adb-sql"
+05/07/2021
+"add repository ./adb-MySQL"
 -->
 
 &emsp;&emsp;End of Semester (Aug 2020):
@@ -161,6 +161,6 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 ![Republic of Ireland (SARS-CoV-2) Vaccination Programme](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/covid-19-ireland/RepublicofIrelandSARS-CoV-2VaccinationProgramme.png?raw=true)
 [Source (HSE)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/integrated-information-service-vaccination-programme-dashboard.html)
 <!-- 
-04/07/2021 
+05/07/2021 
 "update repository ./covid-19-ireland" 
 -->
