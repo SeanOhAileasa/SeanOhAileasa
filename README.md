@@ -118,10 +118,17 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 ###### Applied Databases
 
 <!--
-* { ["**SQL**"](https://github.com/SeanOhAileasa/adb-sql) : &#x1F4CC; }
+* { ["**MySQL**"](https://github.com/SeanOhAileasa/adb-MySQL) : &#x1F4CC; }
 
 05/07/2021
 "add repository ./adb-MySQL"
+-->
+
+<!--
+* { ["**MongoDB**"](https://github.com/SeanOhAileasa/adb-mongodb) : &#x1F4CC; }
+
+06/07/2021
+"add repository ./adb-mongodb"
 -->
 
 &emsp;&emsp;End of Semester (Aug 2020):
