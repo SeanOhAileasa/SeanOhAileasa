@@ -56,7 +56,7 @@
 * { ["**drp**"](https://github.com/SeanOhAileasa/drp-data-representation) : &#x1F6A7; } 
 <!--
 06/07/2021
-"update repository ./drp-data-representation - JS (Array)."
+"update repository ./drp-data-representation - JS (Object - Display)."
 -->
 
 ###### Computational Thinking with Algorithms
