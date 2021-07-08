@@ -30,7 +30,7 @@
 * { ["**mls**"](https://github.com/SeanOhAileasa/mls-machine-learning-statistics) : &#x1F6A7; } 
 <!--
 08/07/2021
-"update repository ./mls-machine-learning-statistics - Counting (Discrete)."
+"update repository ./mls-machine-learning-statistics - Counting (Infinity - Sets - Binary)."
 -->
 
 ###### Multi-Paradigm Programming 
