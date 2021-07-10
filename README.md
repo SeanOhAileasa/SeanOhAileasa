@@ -29,8 +29,8 @@
 
 * { ["**mls**"](https://github.com/SeanOhAileasa/mls-machine-learning-statistics) : &#x1F6A7; } 
 <!--
-08/07/2021
-"update repository ./mls-machine-learning-statistics - Counting (Infinity - Sets - Binary)."
+09/07/2021
+"update repository ./mls-machine-learning-statistics - Measuring (Natural numbers put into one-to-one correspondence with real)."
 -->
 
 ###### Multi-Paradigm Programming 
