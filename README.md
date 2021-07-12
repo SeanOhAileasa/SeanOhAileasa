@@ -1,3 +1,5 @@
+![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/gmit.png?raw=true)
+
 ### Graduate of BSc (Hons) Business Computing 🎓</br>University of Wales - Award Classification 2.1
 
 ##### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT)
@@ -159,7 +161,19 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 "add repository ./unc1878"
 -->
 
-### Republic of Ireland Covid-19 Pandemic SARS-CoV-2
+### GMIT - Higher Diploma in Science in Computing (Software Dev.)
+
+###### Supplemental Course Material (without Formal Assessment or Qualification) &#x1F6A7;
+
+* { [&#x1F6A7;](#) : &#x1F4CC; } (Repositories Under Construction)
+
+### GMIT - Certificate in Cybersecurity Operations (SPA - NFQ: L9)
+
+###### Supplemental Course Material (without Formal Assessment or Qualification) &#x1F6A7;
+
+* { [&#x1F6A7;](#) : &#x1F4CC; } (Repositories Under Construction)
+
+### Republic of Ireland Covid-19 Pandemic (SARS-CoV-2)
 
 ###### SARS-CoV-2
 
@@ -171,3 +185,9 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 11/07/2021 
 "update repository ./covid-19-ireland" 
 -->
+
+### Health Service Executive (HSE)
+
+###### Medical Laboratory Aide
+
+* { ["**Laboratory Technician Diploma (NFQ: 5)**"](https://github.com/SeanOhAileasa/medical-laboratory-aide) : &#x1F4CC; }
