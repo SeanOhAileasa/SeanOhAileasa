@@ -31,8 +31,8 @@
 
 * { ["**mls**"](https://github.com/SeanOhAileasa/mls-machine-learning-statistics) : &#x1F6A7; } 
 <!--
-09/07/2021
-"update repository ./mls-machine-learning-statistics - Measuring (Natural numbers put into one-to-one correspondence with real)."
+14/07/2021
+"update repository ./mls-machine-learning-statistics - Measuring (Irrational numbers cannot be store as a piece of data)."
 -->
 
 ###### Multi-Paradigm Programming 
