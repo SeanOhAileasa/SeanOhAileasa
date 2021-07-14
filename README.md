@@ -29,7 +29,7 @@
 
 &emsp;&emsp;Course Material (WIP):
 
-* { ["**mls**"](https://github.com/SeanOhAileasa/mls-machine-learning-statistics) : &#x1F6A7; } 
+* { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 14/07/2021
 "update repository ./mls-machine-learning-statistics - Measuring (Irrational numbers cannot be store as a piece of data)."
@@ -39,9 +39,9 @@
 
 &emsp;&emsp;Course Material (WIP):
 
-* { ["**mpp**"](https://github.com/SeanOhAileasa/mpp-multi-paradigm-programming) : &#x1F6A7; } 
+* { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F6A7; } 
 <!--
-16/06/2021
+17/07/2021
 "update repository ./mpp-multi-paradigm-programming"
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F4CC; }
@@ -57,7 +57,7 @@
 
 &emsp;&emsp;Course Material (WIP):
 
-* { ["**drp**"](https://github.com/SeanOhAileasa/drp-data-representation) : &#x1F6A7; } 
+* { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 13/07/2021
 "update repository ./drp-data-representation - DOM (Object - document) (getElementsByTagName)."
@@ -67,13 +67,13 @@
 
 &emsp;&emsp;Course Material:
 
-* { ["**Analysing**"](https://github.com/SeanOhAileasa/cta-analysing) : &#x1F4CC; } 
+* { ["**Analysing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-analysing/blob/main/cta-analysing.ipynb) : &#x1F4CC; } 
 <!--
 22/05/2021
 "update repository ./cta-analysing"
 -->
 
-* { ["**Recursion**"](https://github.com/SeanOhAileasa/cta-recursion) : &#x1F4CC; } 
+* { ["**Recursion**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-recursion/blob/main/cta-recursion.ipynb) : &#x1F4CC; } 
 <!-- 
 17/05/2021 (deadline: 20/05/2021)
 ""
@@ -82,13 +82,13 @@
 https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb
 -->
 
-* { ["**Sorting**"](https://github.com/SeanOhAileasa/cta-sorting) : &#x1F4CC; } 
+* { ["**Sorting**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-sorting/blob/main/cta-sorting.ipynb) : &#x1F4CC; } 
 <!--
 26/05/2021
 "update repository ./cta-sorting"
 -->
 
-* { ["**Searching**"](https://github.com/SeanOhAileasa/cta-searching) : &#x1F4CC; } 
+* { ["**Searching**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-searching/blob/main/cta-searching.ipynb) : &#x1F4CC; } 
 <!-- 
 25/04/2021
 "update repository ./cta-searching - Overview of binary search with performance comparison over linear search. Pseudocode along with iterative implementation (recursive implementation outstanding). Walkthrough of iterative and recursion approaches completed in Java."
@@ -107,17 +107,17 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 
 &emsp;&emsp;End of Semester (Dec 2020):
 
-* { ["**Tasks**"](https://github.com/SeanOhAileasa/fda-tasks) : &#x1F4CC; } 
+* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb) : &#x1F4CC; } 
 
-* { ["**Project**"](https://github.com/SeanOhAileasa/fda-regression) : &#x1F4CC; } 
+* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-regression/blob/main/Fundamentals-of-Data-Analysis-Regression-2020.ipynb) : &#x1F4CC; } 
 
 ###### Programming for Data Analysis
 
 &emsp;&emsp;End of Semester (Dec 2020):
 
-* { ["**Tasks**"](https://github.com/SeanOhAileasa/pda-numpy-random) : &#x1F4CC; } 
+* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : &#x1F4CC; } 
 
-* { ["**Project**"](https://github.com/SeanOhAileasa/pda-numpy-random-simulation) : &#x1F4CC; } 
+* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb) : &#x1F4CC; } 
 
 ###### Applied Databases
 
@@ -183,4 +183,4 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 
 ###### Medical Laboratory Aide
 
-* { ["**Laboratory Technician Diploma (NFQ: 5)**"](https://github.com/SeanOhAileasa/medical-laboratory-aide) : &#x1F4CC; }
+* { ["**Laboratory Technician Diploma (NFQ: 5)**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/medical-laboratory-aide/blob/main/medical-laboratory-aide.ipynb) : &#x1F4CC; }
