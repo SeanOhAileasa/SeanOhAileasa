@@ -44,12 +44,14 @@
 16/06/2021
 "update repository ./mpp-multi-paradigm-programming"
 -->
+* { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F4CC; }
 <!--
-* { ["**C**"](https://github.com/SeanOhAileasa/fubar-c) : &#x1F4CC; }
-
-24/06/2021
-"update repository ./fubar-c - K&R tutorial ...JMcA-23062021-RIP"
+14/07/2021
+"update repository ./fubar-c"
 -->
+* { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F4CC; }
+
+* { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F4CC; }
 
 ###### Data Representation 
 
