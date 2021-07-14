@@ -137,23 +137,6 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 
 * { ["**Project**"](https://github.com/SeanOhAileasa/adb-sql-mongodb) : &#x1F4CC; } 
 
-<!--
-### GMIT - Higher Diploma in Science in Computing (Software Development)
-
-* { ["**Java**"](https://github.com/SeanOhAileasa/fubar-java) : &#x1F4CC; }
-
-10/06/2021
-"add repository ./fubar-java"
--->
-
-<!--
-### GMIT - Certificate in Cybersecurity Operations (SPA)
-
-* { ["**Python**"](https://github.com/SeanOhAileasa/fubar-python) : &#x1F4CC; } 
-10/06/2021
-"update repository ./fubar-python"
--->
-
 <!-- 
 ### HSE Ransomware Research
 
@@ -165,13 +148,21 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 
 ###### Supplemental Course Material (without Formal Assessment or Qualification) &#x1F6A7;
 
-* { [&#x1F6A7;](#) : &#x1F4CC; } (Repositories Under Construction)
+* { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F4CC; }
+<!--
+10/06/2021
+"add repository ./fubar-java"
+-->
 
 ### GMIT - Certificate in Cybersecurity Operations (SPA - NFQ: L9)
 
 ###### Supplemental Course Material (without Formal Assessment or Qualification) &#x1F6A7;
 
-* { [&#x1F6A7;](#) : &#x1F4CC; } (Repositories Under Construction)
+* { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F4CC; } 
+<!--
+14/07/2021
+"update repository ./fubar-python"
+-->
 
 ### Republic of Ireland Covid-19 Pandemic (SARS-CoV-2)
 
