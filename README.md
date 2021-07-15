@@ -31,8 +31,8 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-14/07/2021
-"update repository ./mls-machine-learning-statistics - Measuring (Irrational numbers cannot be store as a piece of data)."
+15/07/2021
+"update repository ./fda-data-functions - Reviewing functions and high-level thinking about computing in general. Is there a single function that is the parent function of every other function and what would that mean. Idea of a generic function or parent of all other functions. Programming languages are really for humans and are not for computers."
 -->
 
 ###### Multi-Paradigm Programming 
