@@ -46,8 +46,8 @@
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F4CC; }
 <!--
-14/07/2021
-"update repository ./fubar-c"
+16/07/2021
+"update repository ./fubar-c - for"
 -->
 * { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F4CC; }
 
