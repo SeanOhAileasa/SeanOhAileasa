@@ -31,8 +31,8 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-15/07/2021
-"update repository ./mls-machine-learning-statistics (fda-data-functions)"
+17/07/2021
+"update repository ./fda-data-functions - Reviewing functions and the MapReduce techique (map). Using a for loop for doing what the map technique does is overkill."
 -->
 
 ###### Multi-Paradigm Programming 
