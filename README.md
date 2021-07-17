@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 17/07/2021
-"update repository ./mls-machine-learning-statistics - Real-world (Model of the world .exe contains instructions and .csv contains data)."
+"update repository ./fda-models - Idea behind machine learning is often to predict something. Important to get a handle on what functions are and how we relate to them as humans because thats the only thing that matters in machine learning and the rest is just an algorithm."
 -->
 
 ###### Multi-Paradigm Programming 
