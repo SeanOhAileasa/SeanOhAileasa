@@ -31,8 +31,8 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-18/07/2021
-"update repository ./fda-models - Analysing the relationship between a penguins body mass and flipper length (using package seaborn built-in dataset penguins). Figuring out the dataset by looking at it as a human and trying to come up with plots. Next create a function that predicts a penguins flipper length from body mass."
+20/07/2021
+"update repository ./fda-datasets-simulation - Reviewing csv files with caveats (highlighting benefits and drawbacks)."
 -->
 
 ###### Multi-Paradigm Programming 
