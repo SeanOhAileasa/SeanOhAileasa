@@ -46,8 +46,8 @@
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F4CC; }
 <!--
-16/07/2021
-"update repository ./fubar-c - for"
+20/07/2021
+"update repository ./fubar-c - Symbolic constants (#define)."
 -->
 * { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F4CC; }
 
