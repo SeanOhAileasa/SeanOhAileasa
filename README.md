@@ -47,7 +47,7 @@
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F4CC; }
 <!--
 20/07/2021
-"update repository ./fubar-c - Symbolic constants (#define)."
+"update repository ./fubar-c - Text input or output is dealth with as a stream of characters. Standard library provides several functions for reading or writing one character at a time (getchar and putchar are the simplest)."
 -->
 * { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F4CC; }
 
