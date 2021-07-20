@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 20/07/2021
-"update repository ./fda-datasets-simulation - Reviewing R datasets using package pandas."
+"update repository ./fda-datasets-simulation (change to ./fda-datasets) - Reviewing the Iris dataset using seaborn (pairplot / PairGrid / kdeplot / displot / histplot)."
 -->
 
 ###### Multi-Paradigm Programming 
