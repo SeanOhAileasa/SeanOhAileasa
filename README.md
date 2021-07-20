@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 20/07/2021
-"update repository ./fda-datasets-simulation - Reviewing csv files with caveats (highlighting benefits and drawbacks)."
+"update repository ./fda-datasets-simulation - Reviewing R datasets using package pandas."
 -->
 
 ###### Multi-Paradigm Programming 
