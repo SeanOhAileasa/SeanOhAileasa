@@ -31,8 +31,8 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-20/07/2021
-"add repository ./fda-simulation"
+21/07/2021
+"update repository ./fda-probability-simluation (change to ./fda-monty-hall-problem) - Simulate playing a simple game of chance (intuition for probability). Is the Win a Car game totally (random) or not totally random."
 -->
 
 ###### Multi-Paradigm Programming 
