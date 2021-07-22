@@ -172,3 +172,25 @@ Output: index of the target element or -1
             nRight=nMidpoint-1 # chopping left partition
     return -1
 # --- END ---
+# repository ./fda-monty-hall-problem
+def fSimulateMontyHall(nParStay=True):
+    """ Simulate the Win a Car game (known as the Monty Hall problem).
+    Query is if the contestant wishes to stay with the nPick or move to nNotOpenPick.
+    See how ofen the contestant wins.
+    
+Input: nParStay (default True)
+Process: (random.choice)
+    1. pick a door to put the car behind (nCar);
+    2. have the contestant pick a door (nPick);
+    3. have the show host open one of the other doors to reveal a goat (nShow);
+    4. ask the contestant if they want to switch (nParStay default to True)
+Output: return list of two items (nPick and nNotOpenPick) using True or False as an index
+"""    
+    from random import choice
+    nDoors=["red","green","blue"] # probability of 1/3
+    nCar=choice(nDoors) # car pick door
+    nPick=choice(nDoors) # contestant pick door
+    nShow=choice([nEachDoor for nEachDoor in nDoors if nEachDoor!=nCar and nEachDoor!=nPick]) # door with goat
+    nNotOpenPick=[nEachDoor for nEachDoor in nDoors if nDoors!=nPick and nDoors!=nShow][0] # remaining unopened door
+    return (nCar==[nPick,nNotOpenPick][not nParStay]) # picked or unopened
+# -- END ---
