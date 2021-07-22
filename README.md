@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 22/07/2021
-"update repository ./fda-monty-hall-problem - Simulating the game ten-thousand times with the contestant staying with the original choice of door and another ten-thousand times switching. The idea of Marilyn vos Savant that its better to switch is programmically proven using seaborn."
+"update repository ./fda-monty-hall-problem - Opening a door (showing a goat) in the Win a Car game is guaranteeing that 2/3 of the time the car is behind the remaining (unopened) door. With a probability of 2/3 should always change doors." 
 -->
 
 ###### Multi-Paradigm Programming 
