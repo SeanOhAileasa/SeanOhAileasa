@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 22/07/2021
-"update repository ./fda-monty-hall-problem - Marilyn vos Savant suggested by switching on the second question of the Win a Car game resulted in a better chance of winning the car than 1/3."
+"update repository ./fda-monty-hall-problem - When first asked which door the car is behind everybody accepts each door has a 1/3 chance of winning (totally random). Running 10000 times and creating a plot using package seaborn shows a bit of variation but is indeed picking 1/3 probability."
 -->
 
 ###### Multi-Paradigm Programming 
