@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 22/07/2021
-"update repository ./fda-monty-hall-problem - Simulaton of the Monty Hall problem with the contestant staying with original choice of door."
+"update repository ./fda-monty-hall-problem - Simulating the game ten-thousand times with the contestant staying with the original choice of door and another ten-thousand times switching. The idea of Marilyn vos Savant that its better to switch is programmically proven using seaborn."
 -->
 
 ###### Multi-Paradigm Programming 

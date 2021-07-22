@@ -191,6 +191,6 @@ Output: return list of two items (nPick and nNotOpenPick) using True or False as
     nCar=choice(nDoors) # car pick door
     nPick=choice(nDoors) # contestant pick door
     nShow=choice([nEachDoor for nEachDoor in nDoors if nEachDoor!=nCar and nEachDoor!=nPick]) # door with goat
-    nNotOpenPick=[nEachDoor for nEachDoor in nDoors if nDoors!=nPick and nDoors!=nShow][0] # remaining unopened door
+    nNotOpenPick=[nEachDoor for nEachDoor in nDoors if nEachDoor!=nPick and nEachDoor!=nShow][0] # remaining unopened door
     return (nCar==[nPick,nNotOpenPick][not nParStay]) # picked or unopened
 # -- END ---
