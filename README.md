@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 23/07/2021
-"update repository ./fda-monty-hall-problem - Check the hypothesis that changing the door initially selected helps to win the car. In summary depicted staying with initial choice are much more likely to lose than are to win whereas if switching are much more likely to win than not win." 
+"update repository ./mls-machine-learning-statistics (fda-monty-hall-problem)" 
 -->
 
 ###### Multi-Paradigm Programming 
