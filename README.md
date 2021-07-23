@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 23/07/2021
-"update repository ./fda-monty-hall-problem - Humans sometimes see patterns that do not exist. Adding in cognitive bias it may be less likely that a process is deemed fair. The algorithm used to select the door to place the car behind was proved to be random. Generally humans are not as good as computers at random selection." 
+"update repository ./fda-monty-hall-problem - Check the hypothesis that changing the door initially selected helps to win the car. In summary depicted staying with initial choice are much more likely to lose than are to win whereas if switching are much more likely to win than not win." 
 -->
 
 ###### Multi-Paradigm Programming 
