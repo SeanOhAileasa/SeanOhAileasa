@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 24/07/2021
-"tidy repository ./fda-types" 
+"tidy repository ./fda-data-functions" 
 -->
 
 ###### Multi-Paradigm Programming 
