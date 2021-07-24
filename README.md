@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 24/07/2021
-"tidy repository ./mls-machine-learning-statistics" 
+"update repository ./mls-machine-learning-statistics - Drawing pictures from data is difficult on a computer. A plotting library has many different components to consider. The matplotlib package creates a figure (plot) and within this figure has axes of which the plot is created on the axis. The interactive part of matplotlib is pyplot and should be imported directly. In programming things should be atomic meaning a certain section of code should run atomically (running the same inputs every time should give the same result) but matplotlib.pyplot is not doing this. Best practice to use subplots because storing some state in the background (stateful) is not a great idea. Stateless activity is a better way to do things. Using subplots creates a single plot returning an object representing a figure and an object representing a set of axes on that figure making it explicit." 
 -->
 
 ###### Multi-Paradigm Programming 
