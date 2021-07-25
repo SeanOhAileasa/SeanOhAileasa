@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 25/07/2021
-"update repository ./mls-machine-learning-statistics - The seaborn module has many preloaded datasets. The purpose of the function load_dataset is to make it easy to learn."  
+"update repository ./mls-machine-learning-statistics - Simulating a collection using the scientific computing package numpy function linspace (returning evenly spaced numbers over a specified interval with start and end points included)."  
 -->
 
 ###### Multi-Paradigm Programming 
