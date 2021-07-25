@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 25/07/2021
-"update repository ./mls-machine-learning-statistics - Simulating a collection using the scientific computing package numpy function linspace (returning evenly spaced numbers over a specified interval with start and end points included)."  
+"update repository ./mls-machine-learning-statistics - Simulate x values using linspace and related y values following a certain relationship. Plotting using the seaborn module function relplot."  
 -->
 
 ###### Multi-Paradigm Programming 
