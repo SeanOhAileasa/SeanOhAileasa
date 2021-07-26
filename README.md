@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 26/07/2021
-"update repository ./fda-simulation - When a dataset is not available but its known theres a relationship between two different variables characterised in terms of an equation it may be best to get a visual representation (decipher whats going on). Simulating the x-axis variable and encoding the equation then creating a visual representation."
+"update repository ./mls-machine-learning-statistics (fda-simulation)"
 -->
 
 ###### Multi-Paradigm Programming 
