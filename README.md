@@ -31,8 +31,8 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-25/07/2021
-"update repository ./mls-machine-learning-statistics - Simulate x values using linspace and related y values following a certain relationship. Plotting using the seaborn module function relplot."  
+26/07/2021
+"update repository ./fda-simulation - When a dataset is not available but its known theres a relationship between two different variables characterised in terms of an equation it may be best to get a visual representation (decipher whats going on). Simulating the x-axis variable and encoding the equation then creating a visual representation."
 -->
 
 ###### Multi-Paradigm Programming 
