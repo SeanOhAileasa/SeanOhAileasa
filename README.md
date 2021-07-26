@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 26/07/2021
-"update repository ./mls-machine-learning-statistics (fda-simulation)"
+"update repository ./mls-machine-learning-statistics - Simulating relationships (between x and y variables) in a real-world situation with a little bit of variation (noise)."
 -->
 
 ###### Multi-Paradigm Programming 
