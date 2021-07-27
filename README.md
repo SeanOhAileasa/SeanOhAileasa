@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 27/07/2021
-"update repository ./fda-models - Automating the prediction process using sklearn. Predicting flipper length based on body mass. Determine the coefficients (best fit line parameters). Obtaining y-intercept (b) and slope (m) and passing (not as data) to a user-defined predict function. The coefficients are part of the function (act as constants) and form part of the mechanics of what the function is doing."
+"update repository ./mls-machine-learning-statistics (fda-models)"
 -->
 
 ###### Multi-Paradigm Programming 
