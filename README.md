@@ -59,8 +59,8 @@
 
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
-15/07/2021
-"update repository ./drp-data-representation - URL."
+28/07/2021
+"update repository ./drp-data-representation - HTTP (URL) requests (methods - GET and POST) and response status codes. Comparing GET versus POST."
 -->
 
 ###### Computational Thinking with Algorithms
