@@ -59,8 +59,8 @@
 
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
-28/07/2021
-"update repository ./drp-data-representation - HTTP (URL) requests (methods - GET and POST) and response status codes. Comparing GET versus POST."
+29/07/2021
+"update repository ./drp-data-representation - JSON is text only and used as the standard for interchanging data across machines. Format is almost identical to JS objects but JSON keys must be strings. JS has a built-in function for converting a JS object into a JSON string via stringify. JS also has a built-in function for converting JSON strings into JS objects via parse."
 -->
 
 ###### Computational Thinking with Algorithms
@@ -145,23 +145,23 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 17/05/2021
 "add repository ./unc1878"
 -->
-
+<!--
 ### GMIT - Higher Diploma in Science in Computing (Software Dev.)
 
 ###### Supplemental Course Material (without Formal Assessment or Qualification) &#x1F6A7;
 
 * { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F4CC; }
-<!--
+
 10/06/2021
 "add repository ./fubar-java"
 -->
-
+<!--
 ### GMIT - Certificate in Cybersecurity Operations (SPA - NFQ: L9)
 
 ###### Supplemental Course Material (without Formal Assessment or Qualification) &#x1F6A7;
 
 * { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F4CC; } 
-<!--
+
 14/07/2021
 "update repository ./fubar-python"
 -->
