@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 29/07/2021
-"update repository ./drp-data-representation - JSON is text only and used as the standard for interchanging data across machines. Format is almost identical to JS objects but JSON keys must be strings. JS has a built-in function for converting a JS object into a JSON string via stringify. JS also has a built-in function for converting JSON strings into JS objects via parse."
+"update repository ./drp-data-representation - AJAX is the art of exchanging data with a server and updating parts of a page without reloading the whole page. JQuery is a library that sits on top of JavaScript. Getting JSON string from coindesk looking for the BTC EUR rate."
 -->
 
 ###### Computational Thinking with Algorithms
