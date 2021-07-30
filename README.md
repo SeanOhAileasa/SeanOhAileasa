@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 30/07/2021
-"update repository ./drp-data-representation - The client-side program cURL is handy for testing and debugging."
+"update repository ./drp-data-representation - Comparing app-server versus web-server. Creating a simple app-server via python module flask."
 -->
 
 ###### Computational Thinking with Algorithms
