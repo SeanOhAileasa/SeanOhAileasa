@@ -59,8 +59,8 @@
 
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
-29/07/2021
-"update repository ./drp-data-representation - AJAX is the art of exchanging data with a server and updating parts of a page without reloading the whole page. JQuery is a library that sits on top of JavaScript. Getting JSON string from coindesk looking for the BTC EUR rate."
+30/07/2021
+"update repository ./drp-data-representation - RESTful API (REpresentative State Transfer) is most commonly used to interact with servers (AJAX is used to get information from a web server). Its an architecture describing how to use HTTP (making use of HTTP methods). The architecture adheres to some loosely defined constraints (i. stateless ii. cacheable)."
 -->
 
 ###### Computational Thinking with Algorithms
