@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 30/07/2021
-"update repository ./drp-data-representation - RESTful API (REpresentative State Transfer) is most commonly used to interact with servers (AJAX is used to get information from a web server). Its an architecture describing how to use HTTP (making use of HTTP methods). The architecture adheres to some loosely defined constraints (i. stateless ii. cacheable)."
+"update repository ./drp-data-representation - The client-side program cURL is handy for testing and debugging."
 -->
 
 ###### Computational Thinking with Algorithms
