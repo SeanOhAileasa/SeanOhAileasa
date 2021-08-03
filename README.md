@@ -59,8 +59,8 @@
 
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
-30/07/2021
-"update repository ./drp-data-representation - Comparing app-server versus web-server. Creating a simple app-server via python module flask."
+03/08/2021
+"update repository ./drp-data-representation - The app-server is up and running with python module flask. Specified the RESTful API and now going to use the app-server to perform CRUD operations."
 -->
 
 ###### Computational Thinking with Algorithms
