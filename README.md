@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 06/08/2021
-"update repository ./drp-data-representation - CRUD (flask.json.jsonify) find specific car based on reg."
+"update repository ./drp-data-representation - CRUD (flask.request) add new car to collection."
 -->
 
 ###### Computational Thinking with Algorithms
