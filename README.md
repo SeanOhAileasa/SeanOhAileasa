@@ -59,8 +59,8 @@
 
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
-05/08/2021
-"update repository ./drp-data-representation - CRUD (flask.json.jsonify)."
+06/08/2021
+"update repository ./drp-data-representation - JS (Object - Array) method filter creates an array filled with elements based on a test provided by a function."
 -->
 
 ###### Computational Thinking with Algorithms
