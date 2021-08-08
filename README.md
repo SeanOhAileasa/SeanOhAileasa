@@ -59,8 +59,8 @@
 
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
-06/08/2021
-"update repository ./drp-data-representation - CRUD delete car in collection via reg from URL."
+08/08/2021
+"update repository ./drp-data-representation - RESTful API app-server up and running. Calling the RESTful API methods (route parameter rule get-all-cars) via AJAX using HTTP method GET."
 -->
 
 ###### Computational Thinking with Algorithms
