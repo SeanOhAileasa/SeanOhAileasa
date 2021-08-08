@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 08/08/2021
-"update repository ./drp-data-representation - RESTful API app-server up and running. Calling the RESTful API methods (route parameter rule get-all-cars) via AJAX using HTTP method GET."
+"update repository ./drp-data-representation - CRUD (JS)."
 -->
 
 ###### Computational Thinking with Algorithms
