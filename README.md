@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 16/08/2021
-"update repository ./drp-data-representation - Using python to consume API. Data collection type dict is the best equivalent to a json object."
+"update repository ./drp-data-representation - API (Python) module json functions: i) dump; ii) dumps; iii) load and; iv) loads."
 -->
 
 ###### Computational Thinking with Algorithms
