@@ -59,8 +59,8 @@
 
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
-13/08/2021
-"update repository ./drp-data-representation - RESTful API app-server up and running. Testing the RESTful API action (delete) via AJAX using HTTP method DELETE."
+16/08/2021
+"update repository ./drp-data-representation - Using python to consume API. Data collection type dict is the best equivalent to a json object."
 -->
 
 ###### Computational Thinking with Algorithms
