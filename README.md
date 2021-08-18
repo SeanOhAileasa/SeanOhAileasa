@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 18/08/2021
-"update repository ./drp-data-representation - API (Key) provides authorization to third parties to allow access to resources. Applied to html2pdf.app for API key - takes a URL and returns back a pdf format of that URL."
+"update repository ./drp-data-representation - Accessing private resources (GitHub) via authorization token."
 -->
 
 ###### Computational Thinking with Algorithms
