@@ -59,8 +59,8 @@
 
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
-17/08/2021
-"update repository ./drp-data-representation - API (Python) module requests functions: i) get; ii) post; iii) put and; iv) delete. Can use python to do anything that cURL can do therefore can access any web-server open to the public (any web service that has an API). Can store the data in a file and/or an excel file."
+18/08/2021
+"update repository ./drp-data-representation - API (Key) provides authorization to third parties to allow access to resources. Applied to html2pdf.app for API key - takes a URL and returns back a pdf format of that URL."
 -->
 
 ###### Computational Thinking with Algorithms
