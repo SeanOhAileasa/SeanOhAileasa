@@ -41,8 +41,8 @@
 
 * { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F6A7; } 
 <!--
-17/07/2021
-"update repository ./mpp-multi-paradigm-programming (fda-data-functions)"
+19/08/2021
+"update repository ./mpp-multi-paradigm-programming."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F4CC; }
 <!--
