@@ -59,8 +59,8 @@
 
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
-18/08/2021
-"update repository ./drp-data-representation - The 2-legged OAuth (now OAuth2) in its simplest form allows access to a resource via an API key."
+20/08/2021
+"update repository ./drp-data-representation - API (Python) Using the GitHub REST API to create calls to get data needed to integrate with GitHub."
 -->
 
 ###### Computational Thinking with Algorithms
