@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 20/08/2021
-"update repository ./drp-data-representation - API (Python) Using the GitHub REST API to create calls to get data needed to integrate with GitHub."
+"update repository ./drp-data-representation - API (Python) Electric date (SEMO)."
 -->
 
 ###### Computational Thinking with Algorithms
