@@ -46,8 +46,8 @@
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F4CC; }
 <!--
-20/07/2021
-"update repository ./fubar-c - Text input or output is dealth with as a stream of characters. Standard library provides several functions for reading or writing one character at a time (getchar and putchar are the simplest)."
+21/08/2021
+"update repository ./fubar-c - File Copying (getchar/putchar/EOF)."
 -->
 * { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F4CC; }
 
@@ -179,8 +179,10 @@ https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iterati
 "update repository ./covid-19-ireland" 
 -->
 
+<!--
 ### Health Service Executive (HSE)
 
 ###### Medical Laboratory Aide
 
 * { ["**Laboratory Technician Diploma (NFQ: 5)**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/medical-laboratory-aide/blob/main/medical-laboratory-aide.ipynb) : &#x1F4CC; }
+-->
