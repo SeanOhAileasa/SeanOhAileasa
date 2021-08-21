@@ -47,7 +47,7 @@
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F4CC; }
 <!--
 21/08/2021
-"update repository ./fubar-c - Character Counting (getchar/EOF)."
+"update repository ./fubar-c - Line Counting (getchar/EOF). Character constant versus string constant."
 -->
 * { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F4CC; }
 
