@@ -75,11 +75,9 @@
 
 * { ["**Recursion**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-recursion/blob/main/cta-recursion.ipynb) : &#x1F4CC; } 
 <!-- 
-17/05/2021 (deadline: 20/05/2021)
+23/08/2021
 ""
-"update repository ./cta-recursion"
-"update repository ./L8733 for ./cta-recursion - Overview of factorials."
-https://github.com/SeanOhAileasa/L8733/blob/master/src/hdp/cta/recursion-iteration-stack-process-factorial.ipynb
+"update repository ./cta-recursion - Fix links."
 -->
 
 * { ["**Sorting**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-sorting/blob/main/cta-sorting.ipynb) : &#x1F4CC; } 
