@@ -59,8 +59,8 @@
 
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
-20/08/2021
-"update repository ./drp-data-representation - API (Python) Electric date (SEMO)."
+24/08/2021
+"update repository ./drp-data-representation - Virtual environment (Python) venv."
 -->
 
 ###### Computational Thinking with Algorithms
