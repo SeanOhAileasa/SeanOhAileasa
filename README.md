@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 28/08/2021
-"update repository ./drp-data-representation - (flask.request.method). Get request method (HTTP)."
+"update repository ./drp-data-representation - (flask.redirect). Redirect to other URL."
 -->
 
 ###### Computational Thinking with Algorithms
