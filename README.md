@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 28/08/2021
-"add repository ./drp-app-server - App-server (flask). Two ways of starting a flask app-server: a) run python program giving the name of the server and; b) use environment variables."
+"add repository ./drp-app-server - App-server (flask). Create virtual environment."
 -->
 
 ###### Computational Thinking with Algorithms
