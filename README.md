@@ -173,7 +173,7 @@
 ![Republic of Ireland (SARS-CoV-2) Vaccination Programme](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/covid-19-ireland/RepublicofIrelandSARS-CoV-2VaccinationProgramme.png?raw=true)
 [Source (HSE)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/integrated-information-service-vaccination-programme-dashboard.html)
 <!-- 
-29/08/2021 
+30/08/2021 
 "update repository ./covid-19-ireland" 
 -->
 
