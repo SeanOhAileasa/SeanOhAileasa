@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 31/08/2021
-"update repository ./drp-app-server - Implementing the interface but not linking into a database instead making a collection."
+"update repository ./drp-app-server - Hosting (https://seanohaileasa.pythonanywhere.com/) and making changes."
 -->
 
 ###### Computational Thinking with Algorithms
