@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 31/08/2021
-"update repository ./drp-app-server - Hosting (https://seanohaileasa.pythonanywhere.com/) and making changes."
+"update repository ./drp-app-server - Hosting (pythonanywhere)."
 -->
 
 ###### Computational Thinking with Algorithms
@@ -173,8 +173,8 @@
 ![Republic of Ireland (SARS-CoV-2) Vaccination Programme](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/covid-19-ireland/RepublicofIrelandSARS-CoV-2VaccinationProgramme.png?raw=true)
 [Source (HSE)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/integrated-information-service-vaccination-programme-dashboard.html)
 <!-- 
-30/08/2021 
-"update repository ./covid-19-ireland" 
+01/09/2021 
+"update repository ./covid-19-ireland - Ireland's estimated pop. (per CSO) year end April 2021 at 5,011,500 (published 31/08/2021). Following figures (from 1st April 2021) reflect CSO pop. estimate: i) vaccines administered (1st/2nd dose percentage); ii) vulnerable population percentage; and; iii) 14-day per 100k total cumulative incidence. Figures before 1st April 2021 based on a pop. of 4,761,865 although (per CSO) year end April 2020 should be 4,977,400."
 -->
 
 <!--
