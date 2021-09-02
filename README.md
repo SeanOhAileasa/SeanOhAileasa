@@ -59,8 +59,8 @@
 
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
-01/09/2021
-"update repository ./adb-MySQL."
+02/09/2021
+"update repository ./adb-MySQL. Integrating MySQL database via i) server (WAMP) and; ii driver (mysql.connector) and established a connection."
 -->
 
 ###### Computational Thinking with Algorithms
