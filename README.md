@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 03/09/2021
-"update repository ./adb-MySQL. Create cursor instance and execute SQL query."
+"update repository ./adb-MySQL. Each transaction on a database must be committed (via method commit). To prevent SQL injection should not pass in any values from a user within a query."
 -->
 
 ###### Computational Thinking with Algorithms
