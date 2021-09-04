@@ -41,8 +41,8 @@
 
 * { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F6A7; } 
 <!--
-19/08/2021
-"update repository ./mpp-multi-paradigm-programming."
+04/09/2021
+"update repository ./mpp-multi-paradigm-programming - (Python) An object is a representational entity with both state and functionality. Class of an object is like a template or blueprint. To instantiate is to create a unique instance of a class. Class attributes are the same for all instances and instance attributes are specific to each object."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F4CC; }
 <!--
