@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 07/09/2021
-"update repository ./adb-app-server - Server created and tested."
+"update repository ./adb-app-server - Create client interface."
 -->
 
 ###### Computational Thinking with Algorithms
