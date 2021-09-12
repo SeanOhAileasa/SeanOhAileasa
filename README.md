@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 12/09/2021
-"update repository ./adb-app-MySQL - Set WAMP password authentication_string."
+"update repository ./drp-app-server - Configuration file (dbconfig)."
 -->
 
 ###### Computational Thinking with Algorithms
