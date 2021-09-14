@@ -60,7 +60,7 @@
 * { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 14/09/2021
-"update repository ./drp-app-server - Initialize MySQL server on pythonanywhere and create table called book. Add installation of mysql-connector-python to requirement.txt."
+"update repository ./drp-app-server - Development operations (deploying code) making sure credentials/modules and the database schema is in order (https://seanohaileasa.pythonanywhere.com/index.html)."
 -->
 
 ###### Computational Thinking with Algorithms
