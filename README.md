@@ -31,8 +31,8 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-23/08/2021
-"update repository ./mls-t-test - A t-test is a statistical test that looks for differences in two collections of numbers. Simulating two collections of random numbers on a bell-shaped curve using numpy. Creating a DataFrame of the two collections generated and using seaborn to get a picture of whats going on."
+15/09/2021
+"update repository ./pda-scikit-learn"
 -->
 
 ###### Multi-Paradigm Programming 
