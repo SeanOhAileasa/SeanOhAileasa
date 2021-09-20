@@ -31,8 +31,8 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-15/09/2021
-"update repository ./pda-scikit-learn"
+20/09/2021
+"update repository ./pda-scikit-learn-classification - Setting up the iris dataset to use the KNN algorithm. Want KNN to take the values of the four variables (sepal_length and sepal_width and petal_length and petal_width) to predict the class of iris flower."
 -->
 
 ###### Multi-Paradigm Programming 
