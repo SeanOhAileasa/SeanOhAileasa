@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 20/09/2021
-"update repository ./pda-scikit-learn-classification - Building the KNN classifier. The sklearn.neighbors class KNeighborsClassifier returns back an object represents an instance of the KNN setup (selecting the 5 nearest neighbors). From seaborn.pairplot imagine given a new data point and find the closest five dots then taking a majority vote deciding that a particular data point should be a either a setosa or versicolor or virginica. Training the classifer on the dataset via method fit (setup for the KNN) and this information is used to build a model. The training step involves telling the KNN the actual data points to generalise from."
+"update repository ./pda-scikit-learn-classification - Asking the KNN algorithm to predict what class an iris flower belongs."
 -->
 
 ###### Multi-Paradigm Programming 
