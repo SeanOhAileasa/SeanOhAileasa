@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 21/09/2021
-"update repository ./mls-machine-learning-statistics - Hack sklearn.cluster.KMeans documentation code example and plot."
+"tidy repository ./pda-scikit-learn-classification"
 -->
 
 ###### Multi-Paradigm Programming 
