@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 20/09/2021
-"update repository ./pda-scikit-learn-classification - Asking the KNN algorithm to predict what class an iris flower belongs."
+"update repository ./pda-scikit-learn-classification - Even on trained data the prediction can be incorrect. Visually can reason why on the 2-dimensional plots. The KNN classifier makes the prediction based on the 5 closest data points in the dataset (includes the data point under investigation)."
 -->
 
 ###### Multi-Paradigm Programming 
