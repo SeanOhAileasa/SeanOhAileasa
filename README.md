@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 22/09/2021
-"update repository ./mls-scikit-learn-clustering - Deciphering sklearn.cluster.KMeans using simulation and plotting."
+"update repository ./mls-machine-learning-statistics (mls-scikit-learn-clustering)"
 -->
 
 ###### Multi-Paradigm Programming 
