@@ -32,7 +32,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 26/09/2021
-"update repository ./mls-machine-learning-statistics - Package numpy function arange."
+"update repository ./mls-machine-learning-statistics - Package numpy functions shape and reshape."
 -->
 
 ###### Multi-Paradigm Programming 
