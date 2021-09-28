@@ -1,12 +1,16 @@
-![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/gmit.png?raw=true)
+### Graduate of BSc (Hons) Business Computing (UOW) - Grade: 2.1 🎓
 
-### Graduate of BSc (Hons) Business Computing 🎓</br>University of Wales - Award Classification 2.1
+![FIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/fit.png?raw=true)
 
-##### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT)
+### Associate Apprenticeship Programme candidate in Cybersecurity
+###### ⚡ Step 5 of the application process requires a sponsor company
+###### ⚡ Sponsor sought to commence the programme (Winter, 2021)
+
+### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT)
 
 ###### ⚡ &nbsp;Earned: 60 Credits (Cr) - Total Cr Required: 75 - Stage GPA: 78
 
-###### 🔭 Earning: 15 Cr - Official Semester September-December, 2021
+###### 🔭 Nearing the completion of remaining 15 Cr (December, 2021)
 
 | **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade   |
 | :--------------------------------------------------------------|:-------:|:-------:|
