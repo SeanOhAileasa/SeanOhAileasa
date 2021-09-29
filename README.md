@@ -2,7 +2,7 @@
 
 ![FIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/fit.png?raw=true)
 
-### Associate Apprenticeship Programme candidate in Cybersecurity
+### Candidate Associate Apprenticeship Programme in Cybersecurity
 ###### ⚡ Step 5 of the application process requires a sponsor company
 ###### ⚡ Sponsor sought to commence the programme (Winter, 2021)
 
@@ -35,8 +35,8 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-28/09/2021
-"update repository ./mls-machine-learning-statistics - Module matplotlib.pyplot function figure resizes plots. Instance (rcParams) of matplotlib.RcParams provides for a permanent plot resize."
+30/09/2021
+"update repository ./mls-machine-learning-statistics - Object matplotlib.axes._subplots.AxesSubplot methods set_xlim and set_ylim set the view limits of the x-axis and y-axis respectively."
 -->
 
 ###### Multi-Paradigm Programming 
