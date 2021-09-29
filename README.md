@@ -36,7 +36,7 @@
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
 30/09/2021
-"update repository ./mls-machine-learning-statistics - Object matplotlib.axes._subplots.AxesSubplot methods set_xlim and set_ylim set the view limits of the x-axis and y-axis respectively."
+"add repository ./mls-scikit-learn-regression"
 -->
 
 ###### Multi-Paradigm Programming 
