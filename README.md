@@ -35,8 +35,12 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-30/09/2021
+29/09/2021
 "add repository ./mls-scikit-learn-regression"
+-->
+
+<!--
+"DAY:80 - [Notebook: scikit-learn]: (Last Commit) i. Blank Jupiter notebook created and; ii. submitted GitHub repository URL to GMIT. (Abstract) Introductory blurb about scikit-learn. (Introduction) Short blurb on each scikit-learn algorithms of interest: i. classification; ii. regression and iii. clustering. Classification thought of in terms of labelling data (e.g., images of hand drawn digits). Regression thought of in terms of fitting a line to a set of points (e.g., all of science). Clustering thought of in terms of grouping like items together (e.g., iris dataset). (Propose) Researching classification by simulating a collection of data and introducing sklearn.cluster."
 -->
 
 ###### Multi-Paradigm Programming 
