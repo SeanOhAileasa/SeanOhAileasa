@@ -40,7 +40,7 @@
 -->
 
 <!--
-"DAY:80 - [Notebook: scikit-learn]: (Last Commit) i. Blank Jupiter notebook created and; ii. submitted GitHub repository URL to GMIT. (Abstract) Introductory blurb about scikit-learn. (Introduction) Short blurb on each scikit-learn algorithms of interest: i. classification; ii. regression and iii. clustering. Classification thought of in terms of labelling data (e.g., images of hand drawn digits). Regression thought of in terms of fitting a line to a set of points (e.g., all of science). Clustering thought of in terms of grouping like items together (e.g., iris dataset). (Propose) Researching classification by simulating a collection of data and introducing sklearn.cluster."
+"DAY:79 - [Notebook: scipy-stats]: (Last Commit) i. Blank Jupiter notebook created and; ii. submitted GitHub repository URL to GMIT. (Abstract) Brief introductory blurb about the analysis of variance (ANOVA) and its application beyond comparing just two populations (t-test). (Propose) Researching t-tests and especially F-Ratios (central part of ANOVA) before proceeding."
 -->
 
 ###### Multi-Paradigm Programming 
