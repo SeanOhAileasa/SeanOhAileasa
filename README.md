@@ -40,7 +40,7 @@
 -->
 
 <!--
-"DAY:79 - [Notebook: scipy-stats]: (Last Commit) i. Blank Jupiter notebook created and; ii. submitted GitHub repository URL to GMIT. (Abstract) Brief introductory blurb about the analysis of variance (ANOVA) and its application beyond comparing just two populations (t-test). (Propose) Researching t-tests and especially F-Ratios (central part of ANOVA) before proceeding."
+"DAY:78 - [Notebook: scikit-learn]: (Last Commit) Introductory blurbs about scikit-learn and each of the scikit-learn algorithms of interest require more depth and explanation - revert [DAY:20,0). Commit proposes researching classification. This was a typo and should be clustering. (Introduction) Hacking the example code from the sklearn.cluster.KMeans documentation. Short blurb on the parameters of object KMeans (i. n_clusters and ii. random_state) and method fit which computes the k-means clustering. Two clusters specified and the attribute labels_ confirms this. Making a prediction using method predict passing two new points predicts associated cluster. Attribute cluster_centers returns what the KMeans algorithm took as the centre point of each cluster. (Propose) Plotting the dataset X separating the two clusters."
 -->
 
 ###### Multi-Paradigm Programming 
