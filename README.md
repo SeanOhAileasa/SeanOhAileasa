@@ -35,8 +35,8 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-30/09/2021
-"update repository ./mls-scikit-learn-regression"
+02/10/2021
+"update repository ./mls-scikit-learn-regression - (Solution) Given an equation of a line then finding the points is the reverse of regression. Simple linear regression involves having some points and looking for the equation. A contrived simulated scenario is created with an hypothesis (performing experiment and analysis)."
 -->
 
 <!--
