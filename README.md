@@ -40,6 +40,10 @@
 -->
 
 <!--
+"add repository dcp-python - (DataCamp) Introduction to Data Science in Python (Loading Data in pandas)."
+-->
+
+<!--
 "DAY:77 - [Notebook: scikit-learn]: (Last Commit) Reengineered example code from the sklearn.cluster.KMeans documentation to be supported with simulated data before moving onto a real-world implementation (re. Solution). (Introduction) Using matplotlib.pyplot plotting documentation example dataset (converting into an appropriate format beforehand). Once the x and y values are separated the plot appears to support the fact there exists two distinct groups of points. The KMeans algorithm determines if two distinct groups exist (allows for a human to be able to determine). Visually changed the colour of the second cluster to distinct both groups and added two new points to test KMeans. Using the KMeans prediction the new points are coloured according to associated (predicted) cluster. Plotting what the KMeans algorithm took as the centre of each clusters gives an indication how the algorithm came to its prediction. (Propose) Creating a clustering simulation with plotting to further develop understand of the sklearn.cluster.KMeans algorithm.
 -->
 
