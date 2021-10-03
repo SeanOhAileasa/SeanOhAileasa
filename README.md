@@ -40,7 +40,7 @@
 -->
 
 <!--
-"add repository dcp-python - (DataCamp) Introduction to Data Science in Python (Loading Data in pandas)."
+"add repository dcp-python - (DataCamp) Introduction to Data Science in Python (Plotting Data with matplotlib)."
 -->
 
 <!--
