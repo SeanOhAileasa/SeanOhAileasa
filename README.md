@@ -35,8 +35,8 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-02/10/2021
-"update repository ./mls-scikit-learn-regression - (Solution) Given an equation of a line then finding the points is the reverse of regression. Simple linear regression involves having some points and looking for the equation. A contrived simulated scenario is created with an hypothesis (performing experiment and analysis)."
+05/10/2021
+"update repository ./mls-t-test - The t-test is actually testing what is the probability that the distribution from which the two generated collections had the same mean. Using two different methods: i. scipy.stats and; ii. statsmodels.stats.weightstats."
 -->
 
 <!--
