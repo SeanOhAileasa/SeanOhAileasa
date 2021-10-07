@@ -40,7 +40,7 @@
 -->
 
 <!--
-"add repository dcp-python - (DataCamp) Introduction to Data Science in Python (Different Types of Plots) - hist."
+"Data Types for Data Science in Python (Fundamental data types)"
 -->
 
 <!--
