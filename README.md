@@ -35,15 +35,17 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-05/10/2021
+08/10/2021
 "update repository ./mls-t-test - The t-test is actually testing what is the probability that the distribution from which the two generated collections had the same mean. Using two different methods: i. scipy.stats and; ii. statsmodels.stats.weightstats."
 -->
 
 <!--
-"Data Types for Data Science in Python (Fundamental data types)"
+DataCamp:
+"add repository ./dcp-machine-learning-statistics - Statistical Thinking in Python (Part 1) (Graphical Exploratory Data Analysis)."
 -->
 
 <!--
+Assessment:
 "DAY:72 - [Notebook: scikit-learn]: (Last Commit) Implemented simulation without analysis. Amendments include: i. tidy table of contents and ii. ensuring function parameter included when appropriate. (Introduction) Following the steps from the reengineered example code from the sklearn.cluster.KMeans documentation introduced sklearn.cluster (without commentary). Plotting the simulation dataset making both clusters identifiable then using new values to make a prediction. Plotting the prediction and the centre KMeans determines are the centre points based on where the points sit on the plot. An additional collection of evenly spaced values is introduced and plot. These dummy points (for classification) are used to highlight the decision boundary from where KMeans determines associated cluster via each cluster centre. (Propose) Thus far touched on the scikit-learn clustering algorithm and requires revision. For the moment going to proceed onto the scikit-learn classification algorithm following the same process as the clustering demonstration. First step is to reengineered example code from the sklearn.neighbors.KNeighborsClassifier documentation."
 -->
 
