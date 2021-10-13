@@ -35,8 +35,8 @@
 
 * { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 <!--
-08/10/2021
-"update repository ./mls-t-test - The t-test is actually testing what is the probability that the distribution from which the two generated collections had the same mean. Using two different methods: i. scipy.stats and; ii. statsmodels.stats.weightstats."
+13/10/2021
+"update repository ./mls-t-test - Building up an intuition about what a t-test does (understand what assumptions are made going into the test and how the outputs are interpreted). Plotting uncertainty (probability density function PDF)."
 -->
 
 <!--
