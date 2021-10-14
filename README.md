@@ -46,7 +46,7 @@ DataCamp:
 
 <!--
 Assessment:
-"DAY:66 - [Notebook: scipy-stats]: (Last Commit) Introduced an additional collection for demonstrating when two collections are centred around the same value so that the original collections when first run remain throughout the notebook. (Introduction) In order to interpret what a t-test does plotting the uncertainty (probability density function PDF) when generating numbers in the two normal generated collections. The plot demonstrates the t-test is checking (questions) if the tips of both curves (each collection) are at the same point or not. Additional plot demonstrates when both collections coincide. (Propose) Adding blurb about underlying assumptions and another way of asking the t-test question (if the centre point of each collection is the same or not)."
+"DAY:65 - [Notebook: scikit-learn]: (Last Commit) Checked only a small number of predictions. (Introduction) A facet of the classification algorithm it that it does not make the right prediction even for values that it has been trained upon. When comparing the output data series to the KNN classifier predictions it is getting five of the inputs incorrect. It is possible to see why using 2-dimensional plots. The KNN classifier makes the prediction based on the five closest data points in the dataset. (Propose) Even on the trained data it does not make correct predictions. Rebuilding the KNN classifier for input not seen before."
 -->
 
 ###### Multi-Paradigm Programming 
