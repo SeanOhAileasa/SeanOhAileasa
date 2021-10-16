@@ -1,16 +1,22 @@
-### Graduate of BSc (Hons) Business Computing (UOW) - Grade: 2.1 🎓
+### Associate Apprenticeship Programme Candidate in Cybersecurity
 
-![FIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/fit.png?raw=true)
-
-### Candidate Associate Apprenticeship Programme in Cybersecurity
-###### ⚡ Step 5 of the application process requires a sponsor company
 ###### ⚡ Sponsor sought to commence the programme (Winter, 2021)
+
+[![FIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/fit.png?raw=true)](https://web.archive.org/web/20211016090928/https://content.apprenticeship.ie/f/83224/x/b786bcf6f8/cybersecurity-ict-apprenticeship-brochure-april-2019.pdf)
+
+| Stage | **ICT Associate Apprenticeship Cybersecurity:** | Credits | Grade |
+|:-----:| :-----------------------------------------------|:-------:|:-----:|
+| 1     | CompTIA IT Fundamentals &#x1F6A7;               | 5       | O/S   |
+| 1     | CompTIA Network+ &#x1F6A7; (ecollege.ie)        | 10      | O/S   |
+| 1     | CompTIA Security+ (5-Day College)               | 10      | O/S   |
+| 2     | CompTIA CySA+ (2-Day College)                   | 10      | O/S   |
+| 3     | CompTIA PenTest+ (1-Day College)                | 10      | O/S   |
 
 ### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT)
 
 ###### ⚡ &nbsp;Earned: 60 Credits (Cr) - Total Cr Required: 75 - Stage GPA: 78
 
-###### 🔭 Nearing the completion of remaining 15 Cr (December, 2021)
+[![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/data.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
 
 | **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade   |
 | :--------------------------------------------------------------|:-------:|:-------:|
@@ -29,132 +35,149 @@
 
 ### GMIT - Higher Diploma in Science in Computing (Data Analytics)
 
-###### Machine Learning and Statistics 
+###### Machine Learning and Statistics { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
-&emsp;&emsp;Course Material (WIP):
+* ``scikit-learn``
 
-* { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
+	* { ["**``scikit-learn-classification``**"](https://nbviewer.org/github/SeanOhAileasa/pda-scikit-learn-classification/blob/main/pda-scikit-learn-classification.ipynb) : &#x1F6A7; }
+
+	* { ["**``scikit-learn-regression``**"](https://nbviewer.org/github/SeanOhAileasa/mls-scikit-learn-regression/blob/main/mls-scikit-learn-regression.ipynb) : &#x1F6A7; }
+
+	* { ["**``scikit-learn-clustering``**"](https://nbviewer.org/github/SeanOhAileasa/mls-scikit-learn-clustering/blob/main/mls-scikit-learn-clustering.ipynb) : &#x1F6A7; }
+
 <!--
 13/10/2021
 "update repository ./mls-t-test - Building up an intuition about what a t-test does (understand what assumptions are made going into the test and how the outputs are interpreted). Plotting uncertainty (probability density function PDF)."
 -->
+* ``scipy-stats``
+
+	* { ["**T-Test**"](https://nbviewer.org/github/SeanOhAileasa/mls-t-test/blob/main/mls-t-test.ipynb) : &#x1F6A7; }
 
 <!--
-DataCamp:
 "add repository ./dcp-machine-learning-statistics - Statistical Thinking in Python (Part 1) (Graphical Exploratory Data Analysis)."
 -->
+* Supplemental Resources
+
+	* { ["**DataCamp (Python)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-python/blob/main/dcp-python.ipynb) : &#x1F6A7; } 
+
+	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-Assessment:
-"DAY:65 - [Notebook: scikit-learn]: (Last Commit) Checked only a small number of predictions. (Introduction) A facet of the classification algorithm it that it does not make the right prediction even for values that it has been trained upon. When comparing the output data series to the KNN classifier predictions it is getting five of the inputs incorrect. It is possible to see why using 2-dimensional plots. The KNN classifier makes the prediction based on the five closest data points in the dataset. (Propose) Even on the trained data it does not make correct predictions. Rebuilding the KNN classifier for input not seen before."
+"DAY:63 - [Notebook: scipy-stats]: (Last Commit) PDF plot demonstrates what the t-test is checking (if the tips of both curves are at the same point). (Introduction) Brief blurb about assumptions thus far and other possible assumptions that could be made. Introducing a different way of asking the t-test question. Subtracting the centre point of each collection and if the result is zero then both are the same therefore end up with a t-distribution. Getting the t-value (t-statistic) and the critical value used to make a decision (calculation of the t-statistic from the samples). If the probability of seeing such a t-value given the hypothesis that there is no difference between the means then the data is suggesting to reject that hypothesis. (Propose) Built into statistical tests is the fact that a wrong decision may be made. Adding blurb about errors."
 -->
+* End of Semester (Dec 2021):
 
-###### Multi-Paradigm Programming 
+	* { ["**Assessment**"](https://github.com/SeanOhAileasa/mls-scikit-learn-scipy-stats) : &#x1F6A7; } 
 
-&emsp;&emsp;Course Material (WIP):
-
-* { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F6A7; } 
 <!--
 04/09/2021
 "update repository ./mpp-multi-paradigm-programming - (Python) An object is a representational entity with both state and functionality. Class of an object is like a template or blueprint. To instantiate is to create a unique instance of a class. Class attributes are the same for all instances and instance attributes are specific to each object."
 -->
-* { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F4CC; }
+###### Multi-Paradigm Programming { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F6A7; }
+
 <!--
 30/08/2021
 "update repository ./fubar-c - Functions."
 -->
-* { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F4CC; }
+* { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; }
 
-* { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F4CC; }
+<!--
+"..."
+-->
+* { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F6A7; }
 
-###### Data Representation 
+<!--
+"..."
+-->
+* { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F6A7; }
 
-&emsp;&emsp;Course Material (WIP):
+###### Data Representation { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 
-* { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 <!--
 14/09/2021
 "update repository ./drp-app-server - Development operations (deploying code) making sure credentials/modules and the database schema is in order (https://seanohaileasa.pythonanywhere.com/index.html)."
 -->
+* { ["**App-server (``flask``)**"](https://nbviewer.org/github/SeanOhAileasa/drp-app-server/blob/main/drp-app-server.ipynb) : &#x1F6A7; }
 
 ###### Computational Thinking with Algorithms
 
-&emsp;&emsp;Course Material:
-
-* { ["**Analysing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-analysing/blob/main/cta-analysing.ipynb) : &#x1F4CC; } 
 <!--
 22/05/2021
 "update repository ./cta-analysing"
 -->
+* { ["**Analysing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-analysing/blob/main/cta-analysing.ipynb) : &#x1F4CC; } 
 
-* { ["**Recursion**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-recursion/blob/main/cta-recursion.ipynb) : &#x1F4CC; } 
 <!-- 
 23/08/2021
 ""
 "update repository ./cta-recursion - Fix links."
 -->
+* { ["**Recursion**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-recursion/blob/main/cta-recursion.ipynb) : &#x1F4CC; } 
 
-* { ["**Sorting**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-sorting/blob/main/cta-sorting.ipynb) : &#x1F4CC; } 
 <!--
 26/05/2021
 "update repository ./cta-sorting"
 -->
+* { ["**Sorting**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-sorting/blob/main/cta-sorting.ipynb) : &#x1F4CC; } 
 
-* { ["**Searching**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-searching/blob/main/cta-searching.ipynb) : &#x1F4CC; } 
 <!-- 
 25/04/2021
 "update repository ./cta-searching - Overview of binary search with performance comparison over linear search. Pseudocode along with iterative implementation (recursive implementation outstanding). Walkthrough of iterative and recursion approaches completed in Java."
 -->
+* { ["**Searching**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-searching/blob/main/cta-searching.ipynb) : &#x1F4CC; } 
 
-&emsp;&emsp;End of Semester (May 2021):
-
-* { ["**Project (pdf)**"](https://raw.githubusercontent.com/SeanOhAileasa/cta-benchmark-algorithms/main/Computational-Thinking-with-Algorithms-Project-2021.pdf) : &#x1F4CC; } 
-	* { ["**Project (src)**"](https://github.com/SeanOhAileasa/cta-benchmark-algorithms) : &#x1F4CC; } 
 <!--
 26/05/2021
 "add repository ./cta-benchmark-algorithms - Python application to benchmark five different sorting algorithms. In addition, the report introduces the algorithms chosen and discusses the results of the benchmarking process."
 -->
+* End of Semester (May 2021):
 
-###### Fundamentals of Data Analysis
+	* { ["**Project (pdf)**"](https://raw.githubusercontent.com/SeanOhAileasa/cta-benchmark-algorithms/main/Computational-Thinking-with-Algorithms-Project-2021.pdf) : &#x1F4CC; } 
 
-&emsp;&emsp;End of Semester (Dec 2020):
+		* { ["**Project (src)**"](https://github.com/SeanOhAileasa/cta-benchmark-algorithms) : &#x1F4CC; } 
 
-* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb) : &#x1F4CC; } 
+###### Fundamentals of Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; }
 
-* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-regression/blob/main/Fundamentals-of-Data-Analysis-Regression-2020.ipynb) : &#x1F4CC; } 
+* Supplemental Resources
+
+	* { ["**Numerical Reasoning**"](https://nbviewer.org/github/SeanOhAileasa/fda-numerical/blob/main/fda-numerical.ipynb) : &#x1F6A7; } 
+
+* End of Semester (Dec 2020):
+
+	* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb) : &#x1F4CC; } 
+
+	* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-regression/blob/main/Fundamentals-of-Data-Analysis-Regression-2020.ipynb) : &#x1F4CC; } 
 
 <!--
 07/09/2021
 "update repository ./fda-numerical - Simple averages."
 -->
 
-###### Programming for Data Analysis
+###### Programming for Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; }
 
-&emsp;&emsp;End of Semester (Dec 2020):
+* End of Semester (Dec 2020):
 
-* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : &#x1F4CC; } 
+	* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : &#x1F4CC; } 
 
-* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb) : &#x1F4CC; } 
+	* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb) : &#x1F4CC; } 
 
 ###### Applied Databases
 
 <!--
-* { ["**MySQL**"](https://github.com/SeanOhAileasa/adb-MySQL) : &#x1F4CC; }
-
 05/07/2021
 "add repository ./adb-MySQL"
 -->
+* { ["**MySQL**"](https://nbviewer.org/github/SeanOhAileasa/adb-MySQL/blob/main/adb-MySQL.ipynb) : &#x1F4CC; }
 
 <!--
-* { ["**MongoDB**"](https://github.com/SeanOhAileasa/adb-mongodb) : &#x1F4CC; }
-
 06/07/2021
 "add repository ./adb-mongodb"
 -->
+* { ["**MongoDB**"](https://nbviewer.org/github/SeanOhAileasa/adb-mongodb/blob/main/adb-mongodb.ipynb) : &#x1F4CC; }
 
-&emsp;&emsp;End of Semester (Aug 2020):
+* End of Semester (Aug 2020):
 
-* { ["**Project**"](https://github.com/SeanOhAileasa/adb-sql-mongodb) : &#x1F4CC; } 
+	* { ["**Project**"](https://github.com/SeanOhAileasa/adb-sql-mongodb) : &#x1F4CC; } 
 
 <!-- 
 ### HSE Ransomware Research
