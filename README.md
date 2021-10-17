@@ -39,11 +39,11 @@
 
 * ``scikit-learn``
 
-	* { ["**``scikit-learn-classification``**"](https://nbviewer.org/github/SeanOhAileasa/pda-scikit-learn-classification/blob/main/pda-scikit-learn-classification.ipynb) : &#x1F6A7; }
+	* { ["**Classification**"](https://nbviewer.org/github/SeanOhAileasa/pda-scikit-learn-classification/blob/main/pda-scikit-learn-classification.ipynb) : &#x1F6A7; }
 
-	* { ["**``scikit-learn-regression``**"](https://nbviewer.org/github/SeanOhAileasa/mls-scikit-learn-regression/blob/main/mls-scikit-learn-regression.ipynb) : &#x1F6A7; }
+	* { ["**Regression**"](https://nbviewer.org/github/SeanOhAileasa/mls-scikit-learn-regression/blob/main/mls-scikit-learn-regression.ipynb) : &#x1F6A7; }
 
-	* { ["**``scikit-learn-clustering``**"](https://nbviewer.org/github/SeanOhAileasa/mls-scikit-learn-clustering/blob/main/mls-scikit-learn-clustering.ipynb) : &#x1F6A7; }
+	* { ["**Clustering**"](https://nbviewer.org/github/SeanOhAileasa/mls-scikit-learn-clustering/blob/main/mls-scikit-learn-clustering.ipynb) : &#x1F6A7; }
 
 <!--
 13/10/2021
@@ -63,7 +63,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:63 - [Notebook: scipy-stats]: (Last Commit) PDF plot demonstrates what the t-test is checking (if the tips of both curves are at the same point). (Introduction) Brief blurb about assumptions thus far and other possible assumptions that could be made. Introducing a different way of asking the t-test question. Subtracting the centre point of each collection and if the result is zero then both are the same therefore end up with a t-distribution. Getting the t-value (t-statistic) and the critical value used to make a decision (calculation of the t-statistic from the samples). If the probability of seeing such a t-value given the hypothesis that there is no difference between the means then the data is suggesting to reject that hypothesis. (Propose) Built into statistical tests is the fact that a wrong decision may be made. Adding blurb about errors."
+"DAY:62 - [Notebook: scipy-stats]: (Last Commit) Reviewed alternative approach in asking the t-test question. (Introduction) Built into statistical tests such as the t-test is the fact a wrong decision may be made. Adding to this such tests try to manage/quantify errors. Running 100000 t-tests and generating two new collections each time having the same central value and giving the t-test a 5% chance of determining both are different (albeit are the same). Rerunning the t-test with different means. These are false positives (Type I Error). It is the analyst who deems what percentage is appropriate to deem both collections are different even if both come from the same central point. (Propose) Moving onto a false negative (Type II Error) which is harder to quantify and depends on how close the means are."
 -->
 * End of Semester (Dec 2021):
 
