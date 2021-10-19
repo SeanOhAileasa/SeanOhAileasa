@@ -63,7 +63,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:62 - [Notebook: scipy-stats]: (Last Commit) Reviewed alternative approach in asking the t-test question. (Introduction) Built into statistical tests such as the t-test is the fact a wrong decision may be made. Adding to this such tests try to manage/quantify errors. Running 100000 t-tests and generating two new collections each time having the same central value and giving the t-test a 5% chance of determining both are different (albeit are the same). Rerunning the t-test with different means. These are false positives (Type I Error). It is the analyst who deems what percentage is appropriate to deem both collections are different even if both come from the same central point. (Propose) Moving onto a false negative (Type II Error) which is harder to quantify and depends on how close the means are."
+"DAY:60 - [Notebook: scipy-stats]: (Last Commit) Run 20000 t-tests instead of 100000. Analyst deems appropriate percentage chance collections are different even if they come from the same central point - adding a blurb about vaccines and changing the percentage chance to something more appropriate. (Introduction) Quantify how often false negatives occur (the power of the test). While false positives (Type I Errors) are built-in false negatives (Type II Errors) depend on the difference between two mean values and are difficult to quantify. (Propose) Moving away from t-tests for the moment to introduce the ANOVA."
 -->
 * End of Semester (Dec 2021):
 
