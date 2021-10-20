@@ -63,7 +63,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:60 - [Notebook: scipy-stats]: (Last Commit) Run 20000 t-tests instead of 100000. Analyst deems appropriate percentage chance collections are different even if they come from the same central point - adding a blurb about vaccines and changing the percentage chance to something more appropriate. (Introduction) Quantify how often false negatives occur (the power of the test). While false positives (Type I Errors) are built-in false negatives (Type II Errors) depend on the difference between two mean values and are difficult to quantify. (Propose) Moving away from t-tests for the moment to introduce the ANOVA."
+"DAY:59 - [Notebook: scikit-learn]: (Last Commit) On trained data predictions were incorrect. (Introduction) The three algorithms under investigation are i. classification; ii. regression and iii. clustering - introducing model selection given its appropriate to determine the relationship between the input and output data. In addition, it is also closely related to regression (next algorithm to investigate). Training the KNN on a random selection (75%) and using the remaining data points (25%) to test the classifier. The KNN is predicted from input not seen before. It is important to note rerunning the notebook may produce different results given that the splitting of the overall iris dataset has a random element to it. (Propose) Moving onto regression for completion by day 50 then onto the solution section, introducing the algorithms with cybersecurity in mind (might be a bit ask at this early stage - revert with a decision to proceed)."
 -->
 * End of Semester (Dec 2021):
 
@@ -98,6 +98,14 @@
 "update repository ./drp-app-server - Development operations (deploying code) making sure credentials/modules and the database schema is in order (https://seanohaileasa.pythonanywhere.com/index.html)."
 -->
 * { ["**App-server (``flask``)**"](https://nbviewer.org/github/SeanOhAileasa/drp-app-server/blob/main/drp-app-server.ipynb) : &#x1F6A7; }
+
+<!--
+20/10/2021
+"add repository ./data-representation-courseware - Assignment 1.1 Create an XML."
+-->
+* End of Semester (Dec 2021):
+
+	* { ["**Assessment**"](https://github.com/SeanOhAileasa/data-representation-courseware) : &#x1F6A7; } 
 
 ###### Computational Thinking with Algorithms
 
