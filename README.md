@@ -218,14 +218,18 @@
 
 ###### SARS-CoV-2
 
-* { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
-
-![Republic of Ireland (SARS-CoV-2) Vaccination Programme](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/covid-19-ireland/RepublicofIrelandSARS-CoV-2VaccinationProgramme.png?raw=true)
-[Source (HSE)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/integrated-information-service-vaccination-programme-dashboard.html)
+<!-- 
+20/10/2021 
+"update repository ./covid-19-ireland - Vaccine data based on an estimated pop. (per CSO) year end April 2021 at 5,011,500. All other figures based on pop. of 4,761,865."
+-->
 <!-- 
 03/09/2021 
 "update repository ./covid-19-ireland - Winding down repository given: i) Published figures appear unreliable - total cumulative cases to date (02/09/2021) appears to be revised down per source https://data.gov.ie/dataset/covidstatisticsprofilehpscirelandopendata1 and; ii) Ireland's estimated pop. (per CSO) year end April 2021 at 5,011,500 (published 31/08/2021). Following figures (from 1st April 2021) reflect CSO pop. estimate: i) vaccines administered (1st/2nd dose percentage); ii) vulnerable population percentage; and; iii) 14-day per 100k total cumulative incidence. Figures before 1st April 2021 based on a pop. of 4,761,865 although (per CSO) year end April 2020 should be 4,977,400."
 -->
+* { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
+
+![Republic of Ireland (SARS-CoV-2) Vaccination Programme](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/covid-19-ireland/RepublicofIrelandSARS-CoV-2VaccinationProgramme.png?raw=true)
+[Source (HSE)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/integrated-information-service-vaccination-programme-dashboard.html)
 
 <!--
 ### Health Service Executive (HSE)
