@@ -220,7 +220,7 @@
 
 <!-- 
 20/10/2021 
-"update repository ./covid-19-ireland - Vaccine data based on an estimated pop. (per CSO) year end April 2021 at 5,011,500. All other figures based on pop. of 4,761,865."
+"tidy repository ./covid-19-ireland"
 -->
 <!-- 
 03/09/2021 
