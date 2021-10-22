@@ -63,7 +63,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:59 - [Notebook: scikit-learn]: (Last Commit) On trained data predictions were incorrect. (Introduction) The three algorithms under investigation are i. classification; ii. regression and iii. clustering - introducing model selection given its appropriate to determine the relationship between the input and output data. In addition, it is also closely related to regression (next algorithm to investigate). Training the KNN on a random selection (75%) and using the remaining data points (25%) to test the classifier. The KNN is predicted from input not seen before. It is important to note rerunning the notebook may produce different results given that the splitting of the overall iris dataset has a random element to it. (Propose) Moving onto regression for completion by day 50 then onto the solution section, introducing the algorithms with cybersecurity in mind (might be a bit ask at this early stage - revert with a decision to proceed)."
+"DAY:57 - [Notebook: scikit-learn]: (Last Commit) Thus far introduced two algorithms of choice and now moving on to regression. (Introduction) Using a simple plot by way of introducing a regression. Two collections represent two points on the plot. Blurb about the equation of a line as thought in school (given the equation and draw the line) and that regression is the opposite idea whereby not given an equation but given points on the line and then trying to fill in the blanks. (Propose) This is a very light touch introduction to regression."
 -->
 * End of Semester (Dec 2021):
 
