@@ -12,6 +12,16 @@
 | 2     | CompTIA CySA+ (2-Day College)                   | 10      | O/S   |
 | 3     | CompTIA PenTest+ (1-Day College)                | 10      | O/S   |
 
+### FIT - ICT Associate Apprenticeship Programme (Cybersecurity)
+
+###### CompTIA Network+
+
+<!--
+23/10/2021
+"add repository ./fit-network-concepts"
+-->
+* { ["**Concepts**"](https://nbviewer.org/github/SeanOhAileasa/fit-network-concepts/blob/main/fit-network-concepts.ipynb) : &#x1F6A7; }
+
 ### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT)
 
 ###### ⚡ &nbsp;Earned: 60 Credits (Cr) - Total Cr Required: 75 - Stage GPA: 78
