@@ -87,7 +87,7 @@
 
 <!--
 24/10/2021
-"tidy repository ./fubar-c."
+"update repository ./fubar-c - enum."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; }
 
