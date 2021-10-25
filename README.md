@@ -47,6 +47,11 @@
 
 ###### Machine Learning and Statistics { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
+<!--
+"add repository ./mls-cyber-security"
+-->
+* { ["**Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F4CC; } 
+
 * ``scikit-learn``
 
 	* { ["**Classification**"](https://nbviewer.org/github/SeanOhAileasa/pda-scikit-learn-classification/blob/main/pda-scikit-learn-classification.ipynb) : &#x1F6A7; }
