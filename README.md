@@ -234,8 +234,8 @@
 ###### SARS-CoV-2
 
 <!-- 
-20/10/2021 
-"tidy repository ./covid-19-ireland"
+27/10/2021 
+"update repository ./covid-19-ireland"
 -->
 <!-- 
 03/09/2021 
