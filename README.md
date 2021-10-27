@@ -50,7 +50,7 @@
 <!--
 "add repository ./mls-cyber-security"
 -->
-* { ["**Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F4CC; } 
+* { ["**Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
 
 * ``scikit-learn``
 
@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:57 - [Notebook: scikit-learn]: (Last Commit) Thus far introduced two algorithms of choice and now moving on to regression. (Introduction) Using a simple plot by way of introducing a regression. Two collections represent two points on the plot. Blurb about the equation of a line as thought in school (given the equation and draw the line) and that regression is the opposite idea whereby not given an equation but given points on the line and then trying to fill in the blanks. (Propose) This is a very light touch introduction to regression."
+"DAY:52 - [Notebook: scikit-learn]: (Last Commit) Nearly all of machine learning is a regression in some form. Given its importance, moving the last unit of work (last commit) to a new section. (Project Management) Due to illness, the project is behind schedule (x5 days); therefore, endeavour to submit at least two commits (units of work) per day for the next five days to catch up. (Structure) Included for ease of readability. (Preface) Moving last commit (unit of work) regarding regression to this section. (Propose) Elaborating on the topic of regression (without reference to sklearn) to a simple data-driven problem and introducing basic information where appropriate."
 -->
 * End of Semester (Dec 2021):
 
