@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:52 - [Notebook: scikit-learn]: (Last Commit) Nearly all of machine learning is a regression in some form. Given its importance, moving the last unit of work (last commit) to a new section. (Project Management) Due to illness, the project is behind schedule (x5 days); therefore, endeavour to submit at least two commits (units of work) per day for the next five days to catch up. (Structure) Included for ease of readability. (Preface) Moving last commit (unit of work) regarding regression to this section. (Propose) Elaborating on the topic of regression (without reference to sklearn) to a simple data-driven problem and introducing basic information where appropriate."
+"DAY:51 - [Notebook: scikit-learn]: (Last Commit) Redoing regression introduction presented thus far and presenting it under new section (Preface). (Preface) Presenting a simple (near real-world) data-driven problem demonstrate the practice of i. data collection; ii. descriptive statistics; iii. correlation; iv. data visualisation; v. model building; vi. extrapolation and regression analysis without the use of scikit-learn. (Propose) Building upon the near real-world dataset to introduce Pearson's r correlation and how regression differs from correlation by indicating how a variable can be predicted from another."
 -->
 * End of Semester (Dec 2021):
 
