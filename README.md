@@ -92,7 +92,7 @@
 
 <!--
 31/10/2021
-"update repository ./fubar-c - Operators (type-casting)."
+"update repository ./fubar-c - Operators (relational/logical)."
  -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; }
 
