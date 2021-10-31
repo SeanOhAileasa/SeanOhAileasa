@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:51 - [Notebook: scikit-learn]: (Last Commit) Redoing regression introduction presented thus far and presenting it under new section (Preface). (Preface) Presenting a simple (near real-world) data-driven problem demonstrate the practice of i. data collection; ii. descriptive statistics; iii. correlation; iv. data visualisation; v. model building; vi. extrapolation and regression analysis without the use of scikit-learn. (Propose) Building upon the near real-world dataset to introduce Pearson's r correlation and how regression differs from correlation by indicating how a variable can be predicted from another."
+"DAY:48 - [Notebook: scikit-learn]: (Last Commit) Added labels (x and y) to plot representing height and weight (Preface). (Preface) Adding to data-driven problem introducing Pearson's r correlation and determining both height and weight are positively related and the strength of this relationship is strong. (Propose) Finish preface presentation on how regression differs from correlation and move onto regression via scikit-learn."
 -->
 * End of Semester (Dec 2021):
 
