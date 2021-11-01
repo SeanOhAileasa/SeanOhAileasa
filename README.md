@@ -91,8 +91,8 @@
 ###### Multi-Paradigm Programming { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F6A7; }
 
 <!--
-31/10/2021
-"update repository ./fubar-c - Operators (relational/logical)."
+01/11/2021
+"update repository ./fubar-c - Operators (bitwise)."
  -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; }
 
