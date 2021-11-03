@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:48 - [Notebook: scikit-learn]: (Last Commit) Added labels (x and y) to plot representing height and weight (Preface). (Preface) Adding to data-driven problem introducing Pearson's r correlation and determining both height and weight are positively related and the strength of this relationship is strong. (Propose) Finish preface presentation on how regression differs from correlation and move onto regression via scikit-learn."
+"DAY:45 - [Notebook: scipy-stats]: (Last Commit) Fifteen days since the last commit. Proposed moving away from t-tests onto ANOVA but given behind schedule reviewing Notebook before proceeding. (Project Management) Added chart splitting commits completed on both assessment notebooks. Adding title and labels to plots presented thus far. (Propose) Before moving on to introducing ANOVA reviewing the Notebook and filling in any blank."
 -->
 * End of Semester (Dec 2021):
 
