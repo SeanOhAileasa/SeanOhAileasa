@@ -61,8 +61,8 @@
 	* { ["**Clustering**"](https://nbviewer.org/github/SeanOhAileasa/mls-scikit-learn-clustering/blob/main/mls-scikit-learn-clustering.ipynb) : &#x1F6A7; }
 
 <!--
-13/10/2021
-"update repository ./mls-t-test - Building up an intuition about what a t-test does (understand what assumptions are made going into the test and how the outputs are interpreted). Plotting uncertainty (probability density function PDF)."
+04/11/2021
+"update repository ./mls-t-test - Cannot get away from the fact that a wrong decision may be made (built into statistical tests)."
 -->
 * ``scipy-stats``
 
