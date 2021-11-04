@@ -92,7 +92,7 @@
 
 <!--
 04/11/2021
-"update repository ./fubar-c - Structure (dot notation)."
+"update repository ./fubar-c - Union (struct)."
  -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
