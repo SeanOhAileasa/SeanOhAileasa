@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:45 - [Notebook: scipy-stats]: (Last Commit) Fifteen days since the last commit. Proposed moving away from t-tests onto ANOVA but given behind schedule reviewing Notebook before proceeding. (Project Management) Added chart splitting commits completed on both assessment notebooks. Adding title and labels to plots presented thus far. (Propose) Before moving on to introducing ANOVA reviewing the Notebook and filling in any blank."
+"DAY:44 - [Notebook: scikit-learn]: (Last Commit) Very rough work in completing the preface (requires revision). (Preface) Add a blurb about regression and how it differs from correlation. Regression indicates how one variable can be predicted from another—building upon the earlier extrapolated data with a plot on what to expect from regression analysis. Given assessment is behind schedule moving away from the preface for the moment. (Propose) Move onto regression using scikit-learn without hacking example code from the sklearn documentation given introduction via preface (albeit not finished and requiring revision)."
 -->
 * End of Semester (Dec 2021):
 
