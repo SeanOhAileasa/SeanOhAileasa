@@ -61,8 +61,8 @@
 	* { ["**Clustering**"](https://nbviewer.org/github/SeanOhAileasa/mls-scikit-learn-clustering/blob/main/mls-scikit-learn-clustering.ipynb) : &#x1F6A7; }
 
 <!--
-04/11/2021
-"update repository ./mls-t-test - Cannot get away from the fact that a wrong decision may be made (built into statistical tests)."
+06/11/2021
+"update repository ./mls-t-test - A t-test on some real-world data (sleep dataset). Overview of not just t-tests but an overview of the typical way to use statistics to do things like hypothesis testing (traditional old way of doing statistics)."
 -->
 * ``scipy-stats``
 
