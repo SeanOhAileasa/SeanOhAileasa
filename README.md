@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:42 - [Notebook: scikit-learn]: (Last Commit) The preface requires revision. (Introduction) Add a blurb about creating a function that takes the input to make a prediction based on an observed pattern from which the input will be trained. The trained collection of pattern values used on the input will provide predictions (asking given the input what the output is). The idea behind machine learning is often to predict something. (Propose) Using the seaborn package built-in dataset, penguins training a simple model by analysing the relationship between a penguins body mass and flipper length. In the interim to first analysis the dataset penguins."
+"DAY:42 - [Notebook: scikit-learn]: (Last Commit) Introduced the scenario of creating a function passing an argument trained on some pattern to make predictions. Proposed analysing the seaborn package builtin dataset penguins. (Introduction) Loading the penguins dataset creates a DataFrame to analyse the relationship between a penguins body mass and flipper length. Add a pairwise plot of the relationships in the dataset to highlight characteristics. Proposing to analyse the relationship between body mass and flipper length given the visual appearance of a line on the plot. (Propose) Extract variables of interest and plot the line."
 -->
 * End of Semester (Dec 2021):
 
