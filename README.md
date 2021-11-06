@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:44 - [Notebook: scikit-learn]: (Last Commit) Very rough work in completing the preface (requires revision). (Preface) Add a blurb about regression and how it differs from correlation. Regression indicates how one variable can be predicted from another—building upon the earlier extrapolated data with a plot on what to expect from regression analysis. Given assessment is behind schedule moving away from the preface for the moment. (Propose) Move onto regression using scikit-learn without hacking example code from the sklearn documentation given introduction via preface (albeit not finished and requiring revision)."
+"DAY:42 - [Notebook: scikit-learn]: (Last Commit) The preface requires revision. (Introduction) Add a blurb about creating a function that takes the input to make a prediction based on an observed pattern from which the input will be trained. The trained collection of pattern values used on the input will provide predictions (asking given the input what the output is). The idea behind machine learning is often to predict something. (Propose) Using the seaborn package built-in dataset, penguins training a simple model by analysing the relationship between a penguins body mass and flipper length. In the interim to first analysis the dataset penguins."
 -->
 * End of Semester (Dec 2021):
 
