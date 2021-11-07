@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:42 - [Notebook: scikit-learn]: (Last Commit) Introduced the scenario of creating a function passing an argument trained on some pattern to make predictions. Proposed analysing the seaborn package builtin dataset penguins. (Introduction) Loading the penguins dataset creates a DataFrame to analyse the relationship between a penguins body mass and flipper length. Add a pairwise plot of the relationships in the dataset to highlight characteristics. Proposing to analyse the relationship between body mass and flipper length given the visual appearance of a line on the plot. (Propose) Extract variables of interest and plot the line."
+"DAY:41 - [Notebook: scipy-stats]: (Last Commit) Proposed reviewing the Notebook thus far before proceeding to ANOVA. (Introduction) Add blurbs to subsection - Simulation - and capture the appropriate section of package/function documentation introduced into the Notebook for ease of readability and understanding without the need for explanation. (Propose) Continue reviewing the Notebook in the same fashion before moving on to introducing ANOVA."
 -->
 * End of Semester (Dec 2021):
 
