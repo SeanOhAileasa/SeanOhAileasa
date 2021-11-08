@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:40 - [Notebook: scipy-stats]: (Last Commit) Proposed to continue reviewing the Notebook in the same fashion as the last commit before moving on to introducing ANOVA. (Introduction) Add blurbs to subsection - Scipy Stats - and capture the appropriate section of package/function documentation introduced into the Notebook for ease of readability and understanding without the need for explanation. Removed reference to statsmodels.stats as it thus far was used to verify the return values from scipy.stats.ttest_ind plus return the degrees of freedom (which is trivial to calculate). (Propose) Continue reviewing the Notebook in the same fashion (subsection - Error) before moving on to introducing ANOVA (by way of highlighting the limitations of the t-test."
+"DAY:40 - [Notebook: scipy-stats]: (Last Commit) Similiar to the previous commit reviewed the remainder of the Notebook (subsection - Error). Day: 45 proposed reviewing Notebook due to delays and being behind schedule. Notebook is now up to date with further explanatory blurbs to better understand concepts (ready to proceed with new content). (Introduction) Add blurbs to subsection - Error. (Propose) i. Doing a t-test on a real-world dataset but for the moment adding to the Appendix (with the option to remove later if deemed appropriate). ii. Introducing ANOVA (by way of highlighting the limitations of the t-test (i.e. submitting three or more collections)."
 -->
 * End of Semester (Dec 2021):
 
