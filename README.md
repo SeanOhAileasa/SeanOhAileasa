@@ -78,11 +78,13 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:41 - [Notebook: scipy-stats]: (Last Commit) Proposed reviewing the Notebook thus far before proceeding to ANOVA. (Introduction) Add blurbs to subsection - Simulation - and capture the appropriate section of package/function documentation introduced into the Notebook for ease of readability and understanding without the need for explanation. (Propose) Continue reviewing the Notebook in the same fashion before moving on to introducing ANOVA."
+"DAY:40 - [Notebook: scipy-stats]: (Last Commit) Proposed to continue reviewing the Notebook in the same fashion as the last commit before moving on to introducing ANOVA. (Introduction) Add blurbs to subsection - Scipy Stats - and capture the appropriate section of package/function documentation introduced into the Notebook for ease of readability and understanding without the need for explanation. Removed reference to statsmodels.stats as it thus far was used to verify the return values from scipy.stats.ttest_ind plus return the degrees of freedom (which is trivial to calculate). (Propose) Continue reviewing the Notebook in the same fashion (subsection - Error) before moving on to introducing ANOVA (by way of highlighting the limitations of the t-test."
 -->
 * End of Semester (Dec 2021):
 
 	* { ["**Assessment**"](https://github.com/SeanOhAileasa/mls-scikit-learn-scipy-stats) : &#x1F6A7; } 
+
+![Assessment](https://github.com/SeanOhAileasa/mls-scikit-learn-scipy-stats/blob/main/rc/history.png?raw=true)
 
 <!--
 04/09/2021
