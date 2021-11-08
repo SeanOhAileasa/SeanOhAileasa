@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:40 - [Notebook: scipy-stats]: (Last Commit) Similiar to the previous commit reviewed the remainder of the Notebook (subsection - Error). Day: 45 proposed reviewing Notebook due to delays and being behind schedule. Notebook is now up to date with further explanatory blurbs to better understand concepts (ready to proceed with new content). (Introduction) Add blurbs to subsection - Error. (Propose) i. Doing a t-test on a real-world dataset but for the moment adding to the Appendix (with the option to remove later if deemed appropriate). ii. Introducing ANOVA (by way of highlighting the limitations of the t-test (i.e. submitting three or more collections)."
+"DAY:40 - [Notebook: scipy-stats]: (Last Commit) No comment. (Appendix) Completed t-test on the real-world sleep dataset. The dataset consists of two groups with a before measurement and an after intervention measurement. It is tested with a 0.5 confidence level to determine a difference between the two groups (drugs). (Propose) Introducing ANOVA (by way of highlighting the limitations of the t-test (i.e. submitting three or more collections)."
 -->
 * End of Semester (Dec 2021):
 
