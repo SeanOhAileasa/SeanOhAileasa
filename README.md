@@ -92,7 +92,7 @@
 
 <!--
 08/11/2021
-"update repository ./fubar-c - Compound Statement (Control - switch)."
+"update repository ./fubar-c - Iteration (while)."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
