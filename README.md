@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:40 - [Notebook: scipy-stats]: (Last Commit) No comment. (Appendix) Completed t-test on the real-world sleep dataset. The dataset consists of two groups with a before measurement and an after intervention measurement. It is tested with a 0.5 confidence level to determine a difference between the two groups (drugs). (Propose) Introducing ANOVA (by way of highlighting the limitations of the t-test (i.e. submitting three or more collections)."
+"DAY:39 - [Notebook: scikit-learn]: (Last Commit) Appropriately concise given introduction albeit the section - Introduction - does require revision before proceeding to section - Solution (cybersecurity-related). (Introduction) Extracted columns under investigation, creating a new DataFrame. Using the seaborn function regplot to i. plot the data extracted and ii. produce a linear regression model fit. (Propose) Automating the predictions by following the process outlined in the section - Preface - using package sklearn."
 -->
 * End of Semester (Dec 2021):
 
