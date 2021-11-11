@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:39 - [Notebook: scikit-learn]: (Last Commit) Appropriately concise given introduction albeit the section - Introduction - does require revision before proceeding to section - Solution (cybersecurity-related). (Introduction) Extracted columns under investigation, creating a new DataFrame. Using the seaborn function regplot to i. plot the data extracted and ii. produce a linear regression model fit. (Propose) Automating the predictions by following the process outlined in the section - Preface - using package sklearn."
+"DAY:37 - [Notebook: scikit-learn]: (Last Commit) To start the automation process enlarging the regplot already created. (Introduction) Visually prediction is based on the mind's eye by drawing a straight line vertically from the x-axis stopping at the best fit line and moving across the horizontal. The automation algorithm pairs the x-axis values to the y-axis values to find the relationship between the two collections of numbers. To determine the coefficients (parameters for the best fit line), first manipulated the two collections to ensure the correct ordering of inputs to sklearn (reshape also required due to package technicalities). Finally, fit the actual values from the dataset to the model. (Propose) Determine the: i. score ii. intercept (b) iii. coefficients (b & m) in line with the same pattern of the function f (linear model) introduced earlier - f(input, trained)."
 -->
 * End of Semester (Dec 2021):
 
