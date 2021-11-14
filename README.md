@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:36 - [Notebook: scipy-stats]: (Last Commit) Proposed finally moving onto ANOVA by way of highlighting the limitations of the t-test. Instead have rewritten the whole Notebook completed thus far (except Appendix) to be more concise for ease of readability. Significant amendments include i. denoting repeated terms when first introduced; ii—using equations (with tags for reference); iii—less repeated commentary. In review/rewriting the Notebook, there were errors in its presentation, albeit all now in order. (Propose) Maintaining same Notebook structure and introducing ANOVA (by way of highlighting the limitations of the t-test (i.e. submitting three or more collections)."
+"DAY:34 - [Notebook: scikit-learn]: (Last Commit) Thus far, the actual values from the penguins dataset are fit to the model. (Introduction) Determined the coefficient of determination of the prediction (a measure of how well the lines fits the dataset). Then asked the model for i. the y-intercept (value of y when x is zero) and; ii. the slope or gradient for the coefficients b and m. (Propose) Use the obtained coefficients (parameter p), sklearn found (trained) and pass in the function f to perform the prediction."
 -->
 * End of Semester (Dec 2021):
 
