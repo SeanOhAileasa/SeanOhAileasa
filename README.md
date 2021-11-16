@@ -94,7 +94,7 @@
 
 <!--
 16/11/2021
-"update repository ./fubar-c - Collection (Two-dimensional)."
+"update repository ./fubar-c - Collection."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
