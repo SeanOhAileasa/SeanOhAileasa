@@ -94,7 +94,7 @@
 
 <!--
 17/11/2021
-"update repository ./fubar-c - Structure (Memory Allocation - malloc)."
+"update repository ./fubar-c - Memory Allocation (calloc)."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
