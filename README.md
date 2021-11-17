@@ -94,7 +94,7 @@
 
 <!--
 17/11/2021
-"update repository ./fubar-c - Structure (Pointer - arrow notation and selection operator)."
+"update repository ./fubar-c - Structure (Memory Allocation - malloc)."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
