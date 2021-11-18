@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:34 - [Notebook: scikit-learn]: (Last Commit) Thus far, the actual values from the penguins dataset are fit to the model. (Introduction) Determined the coefficient of determination of the prediction (a measure of how well the lines fits the dataset). Then asked the model for i. the y-intercept (value of y when x is zero) and; ii. the slope or gradient for the coefficients b and m. (Propose) Use the obtained coefficients (parameter p), sklearn found (trained) and pass in the function f to perform the prediction."
+"DAY:31 - [Notebook: scikit-learn]: (Last Commit) Using the obtained coefficients via sklearn to perform predictions. (Introduction) Finally, able to take a value on which to make a prediction based on the coefficients (trained dataset) found earlier. Summarised section - Regression - with a blurb about determinism and how the obtained coefficients are more than just data but actually form part of a machine learning function. (Propose) At this stage, the three algorithms of interest have been introduced, albeit revision is required. Propose tidying up the Notebook thus far, making the presentation concise and filling in any blanks. Then proceed with the section - Solution (cyber security). In the interim on Day:30 revisit section - Project Management."
 -->
 * End of Semester (Dec 2021):
 
@@ -93,8 +93,8 @@
 ###### Multi-Paradigm Programming { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F6A7; }
 
 <!--
-17/11/2021
-"update repository ./fubar-c - Memory Allocation (realloc)."
+18/11/2021
+"update repository ./fubar-c - Memory Allocation (malloc - Multi-dimenional)."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
@@ -235,7 +235,7 @@
 ###### SARS-CoV-2
 
 <!-- 
-10/11/2021 
+17/11/2021 
 "update repository ./covid-19-ireland"
 -->
 <!-- 
