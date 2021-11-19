@@ -78,7 +78,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:31 - [Notebook: scikit-learn]: (Last Commit) Using the obtained coefficients via sklearn to perform predictions. (Introduction) Finally, able to take a value on which to make a prediction based on the coefficients (trained dataset) found earlier. Summarised section - Regression - with a blurb about determinism and how the obtained coefficients are more than just data but actually form part of a machine learning function. (Propose) At this stage, the three algorithms of interest have been introduced, albeit revision is required. Propose tidying up the Notebook thus far, making the presentation concise and filling in any blanks. Then proceed with the section - Solution (cyber security). In the interim on Day:30 revisit section - Project Management."
+"DAY:29 - [Notebook: scipy-stats]: (Last Commit) Add notes for better clarity plus additional plots to distinguish sample versus population. (Introduction) Adding a new collection highlights the limitations of the t-test. Several t-tests in parallel increase the chance of making an error. Samples from the same population using a cut-off result in a high False Positive rate because of repetition. (Propose) Move onto section - Solution - introducing ANOVA."
 -->
 * End of Semester (Dec 2021):
 
