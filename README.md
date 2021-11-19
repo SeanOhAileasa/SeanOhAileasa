@@ -94,7 +94,7 @@
 
 <!--
 19/11/2021
-"update repository ./fubar-c - Collection (String - scanf)."
+"update repository ./fubar-c - Collection (String - fgets)."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
