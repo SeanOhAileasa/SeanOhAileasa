@@ -82,7 +82,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:29 - [Notebook: scipy-stats]: (Last Commit) Add notes for better clarity plus additional plots to distinguish sample versus population. (Introduction) Adding a new collection highlights the limitations of the t-test. Several t-tests in parallel increase the chance of making an error. Samples from the same population using a cut-off result in a high False Positive rate because of repetition. (Propose) Move onto section - Solution - introducing ANOVA."
+"DAY:28 - [Configuration]: Add requirements.txt to enable interactive notebooks via Binder. Add Binder and nbviewer (static view) badges to README.md. Add script (fullscreen.py) to utilise full Jupyter Notebook screen via nbviewer. Move log.txt (git log) to ./rc."
 -->
 * End of Semester (Dec 2021):
 
