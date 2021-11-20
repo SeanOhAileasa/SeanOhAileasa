@@ -45,6 +45,10 @@
 
 ### GMIT - Higher Diploma in Science in Computing (Data Analytics)
 
+<!--
+20/11/2021
+"update repository ./mls-machine-learning-statistics - Appendix (Git versus Github - Authentication)."
+-->
 ###### Machine Learning and Statistics { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
