@@ -98,7 +98,7 @@
 
 <!--
 22/11/2021
-"update repository ./fubar-c - Routine (Args)."
+"update repository ./fubar-c - Routine (Prototype - Inline)."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
