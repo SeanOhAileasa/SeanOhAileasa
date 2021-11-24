@@ -98,7 +98,7 @@
 
 <!--
 24/11/2021
-"update repository ./fubar-c - Routine (Arguments - Array notation versus pointer notation)."
+"update repository ./fubar-c - Routine (Arguments - One-dimensional array)."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
