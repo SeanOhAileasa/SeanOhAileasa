@@ -97,8 +97,8 @@
 ###### Multi-Paradigm Programming { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F6A7; }
 
 <!--
-23/11/2021
-"update repository ./fubar-c - Routine (Arguments - By Reference)."
+24/11/2021
+"update repository ./fubar-c - Routine (Arguments - Array notation versus pointer notation)."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
