@@ -168,6 +168,10 @@
 
 * Supplemental Resources
 
+<!--
+24/11/2021
+"update repository ./fda-numerical - Descriptive Analysis."
+-->
 	* { ["**Numerical Reasoning**"](https://nbviewer.org/github/SeanOhAileasa/fda-numerical/blob/main/fda-numerical.ipynb) : &#x1F6A7; } 
 
 * End of Semester (Dec 2020):
