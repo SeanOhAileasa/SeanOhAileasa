@@ -82,7 +82,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:27 - [Notebook: scipy-stats]: (Last Commit) Changed plot style to ggplot. (Introduction) Add a blurb about hypothesis formulation and the null hypothesis being the assumption to be tested. Introduced the alternative hypothesis being the goal of rejecting the null hypothesis. Highlighting the p-value result of a t-test is about the populations and not just the sample collections used. Also made the error sections more concise, incorporating the null hypothesis and the alternative hypothesis notation (easier to read and follow). (Propose) Move onto section - Solution - introducing ANOVA but first must find an appropriate dataset to analyse."
+"DAY:23 - [Notebook: scipy-stats]: (Last Commit) No commentary. (Introduction) Add a blurb about ANOVA. Applied ANOVA to three samples. Although similar to the t-test the ANOVA compares samples in parallel and still allows for a p-value cutoff of 0.05. (Propose) Expanding on the ANOVA function f_oneway using the code from the scipy documentation and obtain an appropriate dataset for section - Solution."
 -->
 * End of Semester (Dec 2021):
 
