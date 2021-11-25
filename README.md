@@ -111,6 +111,10 @@
 -->
 * { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F6A7; }
 
+<!--
+25/11/2021
+"update repository ./drp-data-representation - JS."
+-->
 ###### Data Representation { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 
 <!--
@@ -166,12 +170,12 @@
 
 ###### Fundamentals of Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; }
 
-* Supplemental Resources
-
 <!--
 24/11/2021
 "update repository ./fda-numerical - Descriptive Analysis."
 -->
+* Supplemental Resources
+
 	* { ["**Numerical Reasoning**"](https://nbviewer.org/github/SeanOhAileasa/fda-numerical/blob/main/fda-numerical.ipynb) : &#x1F6A7; } 
 
 * End of Semester (Dec 2020):
