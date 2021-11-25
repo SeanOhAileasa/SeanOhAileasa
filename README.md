@@ -113,7 +113,7 @@
 
 <!--
 25/11/2021
-"update repository ./drp-data-representation - JS."
+"update repository ./drp-data-representation - Consume XML (and HTML)."
 -->
 ###### Data Representation { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 
