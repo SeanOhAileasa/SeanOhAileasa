@@ -125,7 +125,7 @@
 
 <!--
 26/11/2021
-"update repository ./data-representation-courseware - Week 5 Quiz (CURL and REST)." 
+"update repository ./data-representation-courseware - Week 6 Quiz (Packages for APIs)." 
 -->
 * End of Semester (Dec 2021):
 
