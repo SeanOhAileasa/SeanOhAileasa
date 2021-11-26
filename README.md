@@ -112,8 +112,8 @@
 * { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F6A7; }
 
 <!--
-25/11/2021
-"update repository ./drp-data-representation - Consume XML (and HTML)."
+26/11/2021
+"update repository ./drp-data-representation - HTTP JSON AJAX REST."
 -->
 ###### Data Representation { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 
