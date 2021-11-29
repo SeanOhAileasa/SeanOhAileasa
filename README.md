@@ -53,7 +53,7 @@
 
 <!--
 29/11/2021
-"update repository ./mls-cyber-security - Performance Metrics."
+"update repository ./mls-cyber-security - K-nearest neighbors."
 -->
 * { ["**Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
 
