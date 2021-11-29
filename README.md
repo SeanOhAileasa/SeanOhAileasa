@@ -70,9 +70,9 @@
 "update repository ./mls-t-test - A t-test on some real-world data (sleep dataset). Overview of not just t-tests but an overview of the typical way to use statistics to do things like hypothesis testing (traditional old way of doing statistics)."
 -->
 * ``scipy-stats``
-
+<!--
 	* { ["**T-Test**"](https://nbviewer.org/github/SeanOhAileasa/mls-t-test/blob/main/mls-t-test.ipynb) : &#x1F6A7; }
-
+-->
 <!--
 "add repository ./dcp-machine-learning-statistics - Statistical Thinking in Python (Part 1) (Graphical Exploratory Data Analysis)."
 -->
@@ -83,7 +83,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:23 - [Notebook: scipy-stats]: (Last Commit) No commentary. (Introduction) Add a blurb about ANOVA. Applied ANOVA to three samples. Although similar to the t-test the ANOVA compares samples in parallel and still allows for a p-value cutoff of 0.05. (Propose) Expanding on the ANOVA function f_oneway using the code from the scipy documentation and obtain an appropriate dataset for section - Solution."
+"**ASSESSMENT DUE DATE EXTENDED TO JANUARY 2nd 2022** DAY:33 - [Notebook: scipy-stats]: (Last Commit) Amend subsection - Multiple Samples - for ease of readability and reference: i. tidy blurb about the generation of the collections (including new sample) and ii. add null hypothesis notation with the tag number and appropriate wording for the alternative hypothesis (should not have a notation). The last commit introduced ANOVA without detail (now moving towards section - Solution). (Propose) Hacking example code from the scipy.stats.f_oneway documentation before moving analysis a dataset."
 -->
 * End of Semester (Dec 2021):
 
