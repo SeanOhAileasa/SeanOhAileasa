@@ -83,7 +83,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"**ASSESSMENT DUE DATE EXTENDED TO JANUARY 2nd 2022** DAY:33 - [Notebook: scipy-stats]: (Last Commit) Amend subsection - Multiple Samples - for ease of readability and reference: i. tidy blurb about the generation of the collections (including new sample) and ii. add null hypothesis notation with the tag number and appropriate wording for the alternative hypothesis (should not have a notation). The last commit introduced ANOVA without detail (now moving towards section - Solution). (Propose) Hacking example code from the scipy.stats.f_oneway documentation before moving analysis a dataset."
+"DAY:32 - [Notebook: scipy-stats]: (Last Commit) Add scipy.stat.f_oneway documentation via docstring for additional information about ANOVA and its important assumptions. (Solution) Hacked example code from the scipy.stats.f_oneway documentation. Determined the null hypothesis to be disproved and alternative hypothesis and thereafter performed ANOVA. (Propose) To: i. review the Handbook of Biological Statistics from John H. McDonald, the goto reference in the scipy.stats.f_oneway documentation and ii. find an appropriate dataset to perform ANOVA (as per assessment specification)." 
 -->
 * End of Semester (Dec 2021):
 
