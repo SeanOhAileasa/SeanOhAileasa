@@ -99,7 +99,7 @@
 
 <!--
 01/12/2021
-"update repository ./fubar-c - Preprocessor (Header)."
+"update repository ./fubar-c - Macro (ifndef - undef)."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
