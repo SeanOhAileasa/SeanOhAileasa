@@ -173,7 +173,7 @@
 
 <!--
 01/12/2021
-"update repository ./fda-numerical - Predictive Analytics."
+"update repository ./fda-numerical - Prescriptive Analytics."
 -->
 * Supplemental Resources
 
