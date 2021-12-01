@@ -172,8 +172,8 @@
 ###### Fundamentals of Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; }
 
 <!--
-24/11/2021
-"update repository ./fda-numerical - Descriptive Analysis."
+01/12/2021
+"update repository ./fda-numerical - Exploratory Analysis."
 -->
 * Supplemental Resources
 
