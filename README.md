@@ -113,6 +113,14 @@
 * { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F6A7; }
 
 <!--
+01/12/2021
+"add repository ./mpp-assignment-shop"
+-->
+* End of Semester (Dec 2021):
+
+	* { ["**Assessment**"](https://github.com/SeanOhAileasa/mpp-assignment-shop) : &#x1F6A7; }
+
+<!--
 26/11/2021
 "update repository ./drp-data-representation - Packages for APIs."
 -->
