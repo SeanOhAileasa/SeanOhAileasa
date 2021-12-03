@@ -52,8 +52,8 @@
 ###### Machine Learning and Statistics { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-29/11/2021
-"update repository ./mls-cyber-security - K-nearest neighbors."
+03/12/2021
+"update repository ./mls-cyber-security - Naive Bayes."
 -->
 * { ["**Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
 
