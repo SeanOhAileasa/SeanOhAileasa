@@ -53,7 +53,7 @@
 
 <!--
 03/12/2021
-"update repository ./mls-cyber-security - Naive Bayes."
+"update repository ./mls-cyber-security - IOT Device Detection."
 -->
 * { ["**Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
 
