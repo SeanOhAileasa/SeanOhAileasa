@@ -102,8 +102,8 @@
 ###### Multi-Paradigm Programming { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F6A7; }
 
 <!--
-01/12/2021
-"update repository ./fubar-c - Macro (ifndef - undef)."
+04/12/2021
+"update repository ./fubar-c - File (fopen - fclose)."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
