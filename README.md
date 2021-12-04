@@ -57,7 +57,11 @@
 -->
 * { ["**Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
 
-* ``scikit-learn``
+<!--
+04/12/2021
+"add repository ./mls-scikit-learn - An introduction to machine learning with scikit-learn."
+-->
+* { [``scikit-learn``](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-scikit-learn/blob/main/mls-scikit-learn.ipynb) : &#x1F6A7; }
 
 	* { ["**Classification**"](https://nbviewer.org/github/SeanOhAileasa/pda-scikit-learn-classification/blob/main/pda-scikit-learn-classification.ipynb) : &#x1F6A7; }
 
