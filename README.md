@@ -103,7 +103,7 @@
 
 <!--
 04/12/2021
-"update repository ./fubar-c - File (fopen - fclose)."
+"update repository ./fubar-c - Add Winter 21/22 assessment details for the GMIT Multi-Paradigm Programming module."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
