@@ -87,7 +87,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:29 - [Notebook: scipy-stats]: (Last Commit) Section - Solution - subsection - Process (now called Statistic) manually coded the test statistic - requires revision with plots if remaining in the Notebook. (Solution) Introducing the Flavors of Cacao dataset on which to perform and display the results of ANOVA using scipy.stats. (Propose) Review Section - Solution - subsection - Statistic - before moving on to performing ANOVA on the Flavors of Cacao dataset."
+"DAY:23 - [Notebook: scipy-learn]: Tidy notebook: i. moving section - Project Management - to section - Appendix; ii. update section - Instructions - adding blurb about the project requirements and objective plus marking scheme; iii. update section - Structure - adding blurb about initial project proposal and structure from now on; iv. section - Table of Contents - referencing subheadings only (each subsection has its table of contents); v. add a quick link to every heading and subheading for easy movement. (Propose) Tidy notebook (scipy-stats) with a similar structure as ``scikit-learn`` and review ``README.md``."
 -->
 * End of Semester (Dec 2021):
 
