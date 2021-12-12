@@ -87,7 +87,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:23 - [Notebook: scipy-learn]: Tidy notebook: i. moving section - Project Management - to section - Appendix; ii. update section - Instructions - adding blurb about the project requirements and objective plus marking scheme; iii. update section - Structure - adding blurb about initial project proposal and structure from now on; iv. section - Table of Contents - referencing subheadings only (each subsection has its table of contents); v. add a quick link to every heading and subheading for easy movement. (Propose) Tidy notebook (scipy-stats) with a similar structure as ``scikit-learn`` and review ``README.md``."
+"DAY:20 - [Notebook: scipy-learn]: Tidy notebook: i. moving section - Project Management - to section - Appendix; ii. update section - Instructions - adding blurb about the project requirements and objective plus marking scheme; iii. section - Structure - to later add blurb; iv. section - Table of Contents - referencing all headings; v. add a quick link to every heading and subheading for easy movement. (Propose) Reviewing and update ``README.md``."
 -->
 * End of Semester (Dec 2021):
 
