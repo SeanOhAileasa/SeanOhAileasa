@@ -87,7 +87,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:20 - [Notebook: scipy-learn]: Tidy notebook: i. moving section - Project Management - to section - Appendix; ii. update section - Instructions - adding blurb about the project requirements and objective plus marking scheme; iii. section - Structure - to later add blurb; iv. section - Table of Contents - referencing all headings; v. add a quick link to every heading and subheading for easy movement. (Propose) Reviewing and update ``README.md``."
+"DAY:16 - [README]: Assessment README file structure in place. Add a blurb about: i. the Machine Learning & Statistics module learning outcomes; ii. motivating the use of the Binder interactive environment; iii. tidied assessment instructions section; iv adding subheading include motivation, description, conclusion, installation, troubleshoot, credits and contact details. (Propose) will revert to the README periodically until the deadline. In the interim, the bulk of the assessment is to be complete from day 10 (22nd December 2021), which is the Multi-paradigm Programming module assessment deadline)."
 -->
 * End of Semester (Dec 2021):
 
