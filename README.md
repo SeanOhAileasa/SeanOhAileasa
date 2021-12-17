@@ -17,8 +17,8 @@
 ###### CompTIA Network+
 
 <!--
-15/11/2021
-"update repository ./fit-network-concepts - Ports and Protocols (TCP Protocol)"
+17/12/2021
+"update repository ./fit-network-concepts - i. Ports and Protocols; ii. ISO Layers."
 -->
 * { ["**Concepts**"](https://nbviewer.org/github/SeanOhAileasa/fit-network-concepts/blob/main/fit-network-concepts.ipynb) : &#x1F6A7; }
 
