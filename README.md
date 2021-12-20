@@ -102,8 +102,8 @@
 ###### Multi-Paradigm Programming { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F6A7; }
 
 <!--
-16/12/2021
-"update repository ./fubar-c - GMIT Multi-Paradigm Programming module Assessment (section C Program) completed."
+20/12/2021
+"update repository ./fubar-c - GMIT Multi-Paradigm Programming module Assessment: Fix and tidy shop.c."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
