@@ -96,8 +96,8 @@
 ![Assessment](https://github.com/SeanOhAileasa/mls-scikit-learn-scipy-stats/blob/main/rc/history.png?raw=true)
 
 <!--
-04/09/2021
-"update repository ./mpp-multi-paradigm-programming - (Python) An object is a representational entity with both state and functionality. Class of an object is like a template or blueprint. To instantiate is to create a unique instance of a class. Class attributes are the same for all instances and instance attributes are specific to each object."
+20/12/2021
+"update repository ./mpp-multi-paradigm-programming - GMIT Multi-Paradigm Programming module Assessment (section Python Program) completed."
 -->
 ###### Multi-Paradigm Programming { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F6A7; }
 
