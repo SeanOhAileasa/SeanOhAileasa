@@ -103,7 +103,7 @@
 
 <!--
 20/12/2021
-"update repository ./fubar-c - GMIT Multi-Paradigm Programming module Assessment: Fix and tidy shop.c."
+"update repository ./fubar-c - GMIT Multi-Paradigm Programming module Assessment: Link to repository mpp-multi-paradigm-programming."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
 <!--
