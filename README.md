@@ -96,8 +96,8 @@
 ![Assessment](https://github.com/SeanOhAileasa/mls-scikit-learn-scipy-stats/blob/main/rc/history.png?raw=true)
 
 <!--
-20/12/2021
-"update repository ./mpp-multi-paradigm-programming - GMIT Multi-Paradigm Programming module Assessment (section Python Program) completed."
+22/12/2021
+"update repository ./mpp-multi-paradigm-programming - GMIT Multi-Paradigm Programming module Assessment (section Python Object-Oriented Program) completed."
 -->
 ###### Multi-Paradigm Programming { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F6A7; }
 
