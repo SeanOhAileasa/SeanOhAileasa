@@ -117,12 +117,12 @@
 * { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F6A7; }
 
 <!--
-01/12/2021
-"add repository ./mpp-assignment-shop"
+22/12/2021
+"update repository ./mpp-multi-paradigm-programming - GMIT Multi-Paradigm Programming module Assessment (Report) completed."
 -->
 * End of Semester (Dec 2021):
 
-	* { ["**Assessment**"](https://github.com/SeanOhAileasa/mpp-assignment-shop) : &#x1F6A7; }
+	* { ["**Assessment**"](https://nbviewer.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb#Winter-21/22-Assessment) : &#x1F4CC; }
 
 <!--
 26/11/2021
