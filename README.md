@@ -87,7 +87,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:8 - [Notebook: scipy-stats]: (Project Management) Add subsection - Propose - for strategy before the submission date. Add subsection - Revision - links to specific content requiring review before submission. In addition, updating subsection - Outstanding. (Abstract) Considered complete and satisfies the assessment specification for a clear and concise overview of the scipy-stats Python library. (Propose) Finish section - ANOVA - then systematically review the remainder of the Jupyter Notebook (adding features to improve shortcomings."
+"DAY:6 - [Notebook: scipy-stats]: (Last Commit) Add to subsection - Abstract - blurb promoting the case for learning the theory of statistics and the application via python all as one. (Solution) Set up the Flavors of Cacao dataset to apply ANOVA. (Propose) Finish ANOVA analyse."
 -->
 * End of Semester (Dec 2021):
 
