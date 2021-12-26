@@ -47,7 +47,7 @@
 
 <!--
 26/12/2021
-"update repository ./mls-machine-learning-statistics - GMIT (scikit-learn Tutorials)."
+"update repository ./mls-machine-learning-statistics - GMIT (A Quick Overview of numpy)."
 -->
 ###### Machine Learning and Statistics { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
