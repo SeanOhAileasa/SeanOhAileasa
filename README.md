@@ -87,7 +87,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"DAY:6 - [Notebook: scipy-stats]: (Last Commit) Add to subsection - Abstract - blurb promoting the case for learning the theory of statistics and the application via python all as one. (Solution) Set up the Flavors of Cacao dataset to apply ANOVA. (Propose) Finish ANOVA analyse."
+"DAY:3 - [Notebook: scipy-stats]: (Last Commit) Had set up the Flavors of Cacao dataset to apply ANOVA but now changed approach in demonstrating the technique. (Abstract/Introduction/Solution) Reviewed Jupyter Notebook thus far, making minor changes such as changing the sample mean representation (correct Roman format). (Solution) ANOVA is implemented on the Flavors of Cacao dataset, following the same approach as the mussel Mytilus trossulus in the scipy.stata documentation code. (Propose) i. finish section - Structure - and add a reference to the documentation explaining p-value introduced throughout the Notebook (remind the reader of the default hypothesis); ii. start and finish section - Conclusion. I cannot envision new material will be added at this late stage but will add any shortcoming in the section - Conclusion."
 -->
 * End of Semester (Dec 2021):
 
