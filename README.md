@@ -87,7 +87,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"HOURS:11 - [Notebook: scipy-learn]: (Project Management) Closer to the submission deadline, proposed collecting and reviewing all material regarding this Jupyter Notebook closer to the submission deadline. However, given the breadth of material and detail, I decided against this approach. Mindful of consistency, reviewing each section (and subsection - Regression - Classification - Clustering) before summarising in section - Conclusion. Each reviewed section will form a commit to signify sign-off for submission. (Instructions) Tidy. (Structure) Tidy. (Packages) Add section - Packages - for easy reference to the python libraries/modules used. (Abstract) Resize core machine learning problems map. (Introduction) Using the women dataset, removed simulated dataset - reviewed and ready for submission."
+"HOURS:7 - [Notebook: scikit-learn]: (Solution) Subsection - Regression - reviewed and complete. (Propose) Review subsection - Classication."
 -->
 * End of Semester (Dec 2021):
 
