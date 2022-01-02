@@ -87,7 +87,7 @@
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
 
 <!--
-"HOURS:7 - [Notebook: scikit-learn]: (Solution) Subsection - Regression - reviewed and complete. (Propose) Review subsection - Classication."
+"HOURS:5 - [Notebook: scikit-learn]: (Solution) Subsection - Classification - reviewed and complete. (Propose) Review subsection - Clustering."
 -->
 * End of Semester (Dec 2021):
 
