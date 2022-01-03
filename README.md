@@ -131,8 +131,8 @@
 ###### Data Representation { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F6A7; } 
 
 <!--
-14/09/2021
-"update repository ./drp-app-server - Development operations (deploying code) making sure credentials/modules and the database schema is in order (https://seanohaileasa.pythonanywhere.com/index.html)."
+03/01/2022
+"update repository ./drp-app-server - The DAO makes one connection to the database, if this failed does not reconnect (pythonanywhere)."
 -->
 * { ["**App-server (``flask``)**"](https://nbviewer.org/github/SeanOhAileasa/drp-app-server/blob/main/drp-app-server.ipynb) : &#x1F6A7; }
 
