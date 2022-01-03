@@ -132,7 +132,7 @@
 
 <!--
 03/01/2022
-"update repository ./drp-app-server - The DAO has one connection for all traffic. Creating pool of open connections (pythonanywhere)."
+"update repository ./drp-app-server - Revert back two commits (DOA)."
 -->
 * { ["**App-server (``flask``)**"](https://nbviewer.org/github/SeanOhAileasa/drp-app-server/blob/main/drp-app-server.ipynb) : &#x1F6A7; }
 
