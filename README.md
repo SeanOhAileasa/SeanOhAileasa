@@ -132,7 +132,7 @@
 
 <!--
 03/01/2022
-"update repository ./drp-app-server - The DAO makes one connection to the database, if this failed does not reconnect (pythonanywhere)."
+"update repository ./drp-app-server - The DAO has one connection for all traffic. Creating pool of open connections (pythonanywhere)."
 -->
 * { ["**App-server (``flask``)**"](https://nbviewer.org/github/SeanOhAileasa/drp-app-server/blob/main/drp-app-server.ipynb) : &#x1F6A7; }
 
