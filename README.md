@@ -132,7 +132,7 @@
 
 <!--
 04/01/2022
-"HOURS:3 - [*.py]: Complete and ready for submission."
+"HOURS:2 - [README]: Complete and ready for submission."
 -->
 * { ["**App-server (``flask``)**"](https://nbviewer.org/github/SeanOhAileasa/drp-app-server/blob/main/drp-app-server.ipynb) : &#x1F6A7; }
 
