@@ -17,8 +17,8 @@
 ###### CompTIA Network+
 
 <!--
-17/12/2021
-"update repository ./fit-network-concepts - i. Ports and Protocols; ii. ISO Layers."
+10/01/2022
+"update repository ./fit-network-concepts - i. Concepts and Characteristics of Networking; ii. Subnetting and Supernetting."
 -->
 * { ["**Concepts**"](https://nbviewer.org/github/SeanOhAileasa/fit-network-concepts/blob/main/fit-network-concepts.ipynb) : &#x1F6A7; }
 
