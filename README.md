@@ -17,8 +17,8 @@
 ###### CompTIA Network+
 
 <!--
-10/01/2022
-"update repository ./fit-network-concepts - i. Concepts and Characteristics of Networking; ii. Subnetting and Supernetting."
+12/01/2022
+"update repository ./fit-network-concepts - Network Topologies & Technologies."
 -->
 * { ["**Concepts**"](https://nbviewer.org/github/SeanOhAileasa/fit-network-concepts/blob/main/fit-network-concepts.ipynb) : &#x1F6A7; }
 
