@@ -17,10 +17,10 @@
 ###### CompTIA Network+
 
 <!--
-12/01/2022
-"update repository ./fit-network-concepts - Network Topologies & Technologies."
+13/01/2022
+"update repository ./fit-network-concepts - Tidy README."
 -->
-* { ["**Concepts**"](https://nbviewer.org/github/SeanOhAileasa/fit-network-concepts/blob/main/fit-network-concepts.ipynb) : &#x1F6A7; }
+* { ["**Concepts**"](https://github.com/SeanOhAileasa/fit-network-concepts) : &#x1F6A7; }
 
 ### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT) &#x1F3C1;
 
