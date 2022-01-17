@@ -1,12 +1,18 @@
 ### Associate Apprenticeship Programme Candidate in Cybersecurity
 
-###### Case Studies
+###### Case Studies (Self-Learning)
 
 <!--
 17/01/2022
 "add repository ./hse-cyber-attack"
 -->
 * { ["**HSE Cyber Attack**"](https://github.com/SeanOhAileasa/hse-cyber-attack) : &#x1F6A7; }
+
+<!--
+17/01/2022
+"add repository ./cwe-app-server"
+-->
+* { ["**App-server (``flask``)**"](https://github.com/SeanOhAileasa/cwe-app-server) : &#x1F6A7; }
 
 ###### ⚡ Sponsor sought to commence the programme (Winter, 2021)
 
