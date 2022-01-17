@@ -1,5 +1,13 @@
 ### Associate Apprenticeship Programme Candidate in Cybersecurity
 
+###### Case Studies
+
+<!--
+17/01/2022
+"add repository ./hse-cyber-attack"
+-->
+* { ["**HSE Cyber Attack**"](https://github.com/SeanOhAileasa/hse-cyber-attack) : &#x1F6A7; }
+
 ###### ⚡ Sponsor sought to commence the programme (Winter, 2021)
 
 [![FIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/fit.png?raw=true)](https://web.archive.org/web/20211016090928/https://content.apprenticeship.ie/f/83224/x/b786bcf6f8/cybersecurity-ict-apprenticeship-brochure-april-2019.pdf)
