@@ -8,11 +8,31 @@
 -->
 * { ["**HSE Cyber Attack**"](https://github.com/SeanOhAileasa/hse-cyber-attack) : &#x1F6A7; }
 
+###### Supplemental Resources (Self-Learning)
+
 <!--
 17/01/2022
 "add repository ./cwe-app-server"
 -->
 * { ["**App-server (``flask``)**"](https://github.com/SeanOhAileasa/cwe-app-server) : &#x1F6A7; }
+
+<!--
+03/12/2021
+"update repository ./mls-cyber-security - IOT Device Detection."
+-->
+* { ["**Machine Learning for Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
+
+###### Programming Languages for Cybersecurity (Self-Learning)
+
+<!--
+"..."
+-->
+* { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F6A7; }
+
+<!--
+"..."
+-->
+* { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F6A7; }
 
 ###### ⚡ Sponsor sought to commence the programme (Winter, 2021)
 
@@ -70,12 +90,6 @@
 ###### Machine Learning and Statistics { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; } 
 
 <!--
-03/12/2021
-"update repository ./mls-cyber-security - IOT Device Detection."
--->
-* { ["**Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
-
-<!--
 04/12/2021
 "add repository ./mls-scikit-learn - An introduction to machine learning with scikit-learn."
 -->
@@ -122,15 +136,6 @@
 "update repository ./fubar-c - GMIT Multi-Paradigm Programming module Assessment: Link to repository mpp-multi-paradigm-programming."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
-<!--
-"..."
--->
-* { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F6A7; }
-
-<!--
-"..."
--->
-* { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F6A7; }
 
 <!--
 22/12/2021
