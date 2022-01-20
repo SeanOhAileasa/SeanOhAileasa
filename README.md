@@ -51,8 +51,8 @@
 ###### CompTIA Network+
 
 <!--
-13/01/2022
-"update repository ./fit-network-concepts - Tidy README."
+20/01/2022
+"update repository ./fit-network-concepts - Cloud Concepts, Network Services, & Cabling Solutions."
 -->
 * { ["**Concepts**"](https://github.com/SeanOhAileasa/fit-network-concepts) : &#x1F6A7; }
 
