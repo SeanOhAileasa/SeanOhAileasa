@@ -51,10 +51,26 @@
 ###### CompTIA Network+
 
 <!--
-20/01/2022
-"update repository ./fit-network-concepts - Cloud Concepts, Network Services, & Cabling Solutions."
+21/01/2022
+"add repository ./nkp-cabling-solutions - Cabling Solutions."
+"add repository ./nkp-cloud-concepts - Cloud Concepts."
+"add repository ./nkp-concepts-and-characteristics-of-networking - Concepts and Characteristics of Networking."
+"add repository ./nkp-network-services - Network Services."
+"add repository ./nkp-network-topologies - Network Topologies."
+"add repository ./nkp-osi-layers - OSI Layers."
+"add repository ./nkp-ports-and-protocols - Ports and Protocols."
+"add repository ./nkp-subnetting-and-supernetting - Subnetting and Supernetting."
+"add repository ./nkp-wireless-technologies - Wireless Technologies."
 -->
-* { ["**Concepts**"](https://github.com/SeanOhAileasa/fit-network-concepts) : &#x1F6A7; }
+* { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
+* { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
+* { ["**Concepts and Characteristics of Networking**"](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking) : &#x1F6A7; }
+* { ["**Subnetting and Supernetting**"](https://github.com/SeanOhAileasa/nkp-subnetting-and-supernetting) : &#x1F6A7; }
+* { ["**Network Topologies**"](https://github.com/SeanOhAileasa/nkp-network-topologies) : &#x1F6A7; }
+* { ["**Wireless Technologies**"](https://github.com/SeanOhAileasa/nkp-wireless-technologies) : &#x1F6A7; }
+* { ["**Cloud Concepts**"](https://github.com/SeanOhAileasa/nkp-cloud-concepts) : &#x1F6A7; }
+* { ["**Network Services**"](https://github.com/SeanOhAileasa/nkp-network-services) : &#x1F6A7; }
+* { ["**Cabling Solutions**"](https://github.com/SeanOhAileasa/nkp-cabling-solutions) : &#x1F6A7; }
 
 ### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT) &#x1F3C1;
 
