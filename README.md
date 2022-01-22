@@ -61,6 +61,7 @@
 "add repository ./nkp-ports-and-protocols - Ports and Protocols."
 "add repository ./nkp-subnetting-and-supernetting - Subnetting and Supernetting."
 "add repository ./nkp-wireless-technologies - Wireless Technologies."
+"add repository ./nkp-networking-devices - Networking Devices."
 -->
 * { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
 * { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
@@ -71,6 +72,7 @@
 * { ["**Cloud Concepts**"](https://github.com/SeanOhAileasa/nkp-cloud-concepts) : &#x1F6A7; }
 * { ["**Network Services**"](https://github.com/SeanOhAileasa/nkp-network-services) : &#x1F6A7; }
 * { ["**Cabling Solutions**"](https://github.com/SeanOhAileasa/nkp-cabling-solutions) : &#x1F6A7; }
+* { ["**Networking Devices**"](https://github.com/SeanOhAileasa/nkp-networking-devices) : &#x1F6A7; }
 
 ### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT) &#x1F3C1;
 
