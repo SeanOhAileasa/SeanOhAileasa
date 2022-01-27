@@ -74,6 +74,10 @@
 25/01/2022
 "add repository ./nkp-network-storage-virtualization - Network Storage and Virtualization."
 -->
+<!--
+27/01/2022
+"add repository ./nkp-wide-area-network - Wide Area Network."
+--->
 * { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
 * { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
 * { ["**Concepts and Characteristics of Networking**"](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking) : &#x1F6A7; }
@@ -86,6 +90,7 @@
 * { ["**Networking Devices**"](https://github.com/SeanOhAileasa/nkp-networking-devices) : &#x1F6A7; }
 * { ["**Advanced Networking**"](https://github.com/SeanOhAileasa/nkp-advanced-networking) : &#x1F6A7; }
 * { ["**Network Storage and Virtualization**"](https://github.com/SeanOhAileasa/nkp-network-storage-virtualization) : &#x1F6A7; }
+* { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
 
 ### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT) &#x1F3C1;
 
