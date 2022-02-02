@@ -79,6 +79,10 @@
 "add repository ./nkp-wide-area-network - Wide Area Network."
 "add repository ./nkp-documentation-diagram-types - Documentation and Diagram Types."
 --->
+<!--
+02/02/2022
+"add repository ./nkp-disaster-recovery - Disaster Recovery."
+--->
 * { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
 * { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
 * { ["**Concepts and Characteristics of Networking**"](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking) : &#x1F6A7; }
@@ -93,6 +97,7 @@
 * { ["**Network Storage and Virtualization**"](https://github.com/SeanOhAileasa/nkp-network-storage-virtualization) : &#x1F6A7; }
 * { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
 * { ["**Documentation and Diagram Types**"](https://github.com/SeanOhAileasa/nkp-documentation-diagram-types) : &#x1F6A7; }
+* { ["**Disaster Recovery**"](https://github.com/SeanOhAileasa/nkp-disaster-recovery) : &#x1F6A7; }
 
 ### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT) &#x1F3C1;
 
