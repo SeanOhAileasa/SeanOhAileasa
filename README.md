@@ -29,11 +29,6 @@
 -->
 * { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F6A7; }
 
-<!--
-"..."
--->
-* { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F6A7; }
-
 ###### ⚡ Sponsor sought to commence the programme (Winter, 2021)
 
 [![FIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/fit.png?raw=true)](https://web.archive.org/web/20211016090928/https://content.apprenticeship.ie/f/83224/x/b786bcf6f8/cybersecurity-ict-apprenticeship-brochure-april-2019.pdf)
@@ -84,6 +79,10 @@
 "add repository ./nkp-disaster-recovery - Disaster Recovery."
 "add repository ./nkp-scanning-monitoring-patching - Scanning and Monitoring and Patching."
 --->
+<!--
+05/02/2022
+"add repository ./nkp-remote-access-methods - Remote Access Methods."
+--->
 * { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
 * { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
 * { ["**Concepts and Characteristics of Networking**"](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking) : &#x1F6A7; }
@@ -100,6 +99,7 @@
 * { ["**Documentation and Diagram Types**"](https://github.com/SeanOhAileasa/nkp-documentation-diagram-types) : &#x1F6A7; }
 * { ["**Disaster Recovery**"](https://github.com/SeanOhAileasa/nkp-disaster-recovery) : &#x1F6A7; }
 * { ["**Scanning and Monitoring and Patching**"](https://github.com/SeanOhAileasa/nkp-scanning-monitoring-patching) : &#x1F6A7; }
+* { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
 
 ### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT) &#x1F3C1;
 
@@ -181,6 +181,11 @@
 "update repository ./fubar-c - GMIT Multi-Paradigm Programming module Assessment: Link to repository mpp-multi-paradigm-programming."
 -->
 * { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
+
+<!--
+"..."
+-->
+* { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F6A7; }
 
 <!--
 22/12/2021
