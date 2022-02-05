@@ -83,6 +83,7 @@
 05/02/2022
 "add repository ./nkp-remote-access-methods - Remote Access Methods."
 "add repository ./nkp-physical-security-devices - Physical Security Devices."
+"add repository ./nkp-authentication-access-control - Authentication and Access Control."
 --->
 <!--
 > Remote Access Methods
@@ -107,6 +108,7 @@
 * { ["**Scanning and Monitoring and Patching**"](https://github.com/SeanOhAileasa/nkp-scanning-monitoring-patching) : &#x1F6A7; }
 * { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
 * { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
+* { ["**Authentication and Access Control**"](https://github.com/SeanOhAileasa/nkp-authentication-access-control) : &#x1F6A7; }
 
 ### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT) &#x1F3C1;
 
