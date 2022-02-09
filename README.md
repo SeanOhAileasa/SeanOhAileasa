@@ -31,8 +31,6 @@
 
 ###### ⚡ Sponsor sought to commence the programme (Winter, 2021)
 
-[![FIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/fit.png?raw=true)](https://web.archive.org/web/20211016090928/https://content.apprenticeship.ie/f/83224/x/b786bcf6f8/cybersecurity-ict-apprenticeship-brochure-april-2019.pdf)
-
 | Stage | **ICT Associate Apprenticeship Cybersecurity:** | Credits | Grade |
 |:-----:| :-----------------------------------------------|:-------:|:-----:|
 | 1     | CompTIA IT Fundamentals &#x1F6A7;               | 5       | O/S   |
@@ -41,7 +39,7 @@
 | 2     | CompTIA CySA+ (2-Day College)                   | 10      | O/S   |
 | 3     | CompTIA PenTest+ (1-Day College)                | 10      | O/S   |
 
-### FIT - ICT Associate Apprenticeship Programme (Cybersecurity)
+### ICT Associate Apprenticeship Programme (Cybersecurity)
 
 ###### CompTIA Network+
 
@@ -84,6 +82,7 @@
 "add repository ./nkp-remote-access-methods - Remote Access Methods."
 "add repository ./nkp-physical-security-devices - Physical Security Devices."
 "add repository ./nkp-authentication-access-control - Authentication and Access Control."
+"add repository ./nkp-wireless-security - Wireless Security."
 --->
 <!--
 > Remote Access Methods
@@ -109,6 +108,7 @@
 * { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
 * { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
 * { ["**Authentication and Access Control**"](https://github.com/SeanOhAileasa/nkp-authentication-access-control) : &#x1F6A7; }
+* { ["**Wireless Security**"](https://github.com/SeanOhAileasa/nkp-wireless-security) : &#x1F6A7; }
 
 ### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT) &#x1F3C1;
 
