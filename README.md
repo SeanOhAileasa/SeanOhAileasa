@@ -90,6 +90,7 @@
 <!--
 10/02/2022
 "add repository ./nkp-network-attacks - Network Attacks"
+"add repository ./nkp-network-device-hardening - Network Device Hardening."
 --->
 <!--
 > Remote Access Methods
@@ -117,6 +118,7 @@
 * { ["**Authentication and Access Control**"](https://github.com/SeanOhAileasa/nkp-authentication-access-control) : &#x1F6A7; }
 * { ["**Wireless Security**"](https://github.com/SeanOhAileasa/nkp-wireless-security) : &#x1F6A7; }
 * { ["**Network Attacks**"](https://github.com/SeanOhAileasa/nkp-network-attacks) : &#x1F6A7; }
+* { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
 
 ### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT) &#x1F3C1;
 
