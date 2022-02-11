@@ -91,6 +91,7 @@
 10/02/2022
 "add repository ./nkp-network-attacks - Network Attacks"
 "add repository ./nkp-network-device-hardening - Network Device Hardening."
+"add repository ./nkp-mitigation-techniques - Mitigation Techniques."
 --->
 <!--
 > Remote Access Methods
@@ -119,23 +120,18 @@
 * { ["**Wireless Security**"](https://github.com/SeanOhAileasa/nkp-wireless-security) : &#x1F6A7; }
 * { ["**Network Attacks**"](https://github.com/SeanOhAileasa/nkp-network-attacks) : &#x1F6A7; }
 * { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
+* { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
 
-### Undergraduate (NFQ: 8) Higher Diploma in Data Analytics (GMIT) &#x1F3C1;
-
-###### ⚡ &nbsp;Higher Diploma in Data Analytics Complete - 9th January, 2022
-
-###### ⚡ &nbsp;Final Module Grades Due Soon - Stage GPA: 78
-
-###### ⚡ &nbsp;Classication Due January/February 2022 &#x1F37A;&#x1F37A;&#x1F37A; 
+### Higher Diploma in Science in Computing (in Data Analytics)
+### GMIT Overall Result: First Class Honours (1.1) - Grade: 77.6%
 
 [![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/data.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
 
 | **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade   |
 | :--------------------------------------------------------------|:-------:|:-------:|
-| Machine Learning and Statistics (Python) &#x1F3C1;             | 5       | &#x1F446; |
-| Multi-Paradigm Programming (C/Java/Python) &#x1F3C1;           | 5       | &#x1F446; |
-| Data Representation (JS/API with Python) &#x1F3C1;             | 5       | &#x1F446; |
-|                                                                |         |         |
+| Machine Learning and Statistics (Python)                       | 5       | 79%     |
+| Multi-Paradigm Programming (C/Java/Python)                     | 5       | 73%     |
+| Data Representation (JS/API with Python)                       | 5       | 71%     |
 | Programming and Scripting (Python)                             | 10      | 75%     |
 | Computer Architecture and Technology Convergence               | 5       | 80%     |
 | Web Application Development (HTML/CSS/JavaScript)              | 5       | 80%     |
