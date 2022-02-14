@@ -1,131 +1,4 @@
-### Associate Apprenticeship Programme Candidate in Cybersecurity
-
-###### Case Studies (Self-Learning)
-
-<!--
-17/01/2022
-"add repository ./hse-cyber-attack"
--->
-* { ["**HSE Cyber Attack**"](https://github.com/SeanOhAileasa/hse-cyber-attack) : &#x1F6A7; }
-
-###### Supplemental Resources (Self-Learning)
-
-<!--
-17/01/2022
-"add repository ./cwe-app-server"
--->
-* { ["**App-server (``flask``)**"](https://github.com/SeanOhAileasa/cwe-app-server) : &#x1F6A7; }
-
-<!--
-03/12/2021
-"update repository ./mls-cyber-security - IOT Device Detection."
--->
-* { ["**Machine Learning for Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
-
-###### Programming Languages for Cybersecurity (Self-Learning)
-
-<!--
-"..."
--->
-* { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F6A7; }
-
-###### ⚡ Sponsor sought to commence the programme (Winter, 2021)
-
-| Stage | **ICT Associate Apprenticeship Cybersecurity:** | Credits | Grade |
-|:-----:| :-----------------------------------------------|:-------:|:-----:|
-| 1     | CompTIA IT Fundamentals &#x1F6A7;               | 5       | O/S   |
-| 1     | CompTIA Network+ &#x1F6A7; (ecollege.ie)        | 10      | O/S   |
-| 1     | CompTIA Security+ (5-Day College)               | 10      | O/S   |
-| 2     | CompTIA CySA+ (2-Day College)                   | 10      | O/S   |
-| 3     | CompTIA PenTest+ (1-Day College)                | 10      | O/S   |
-
-### ICT Associate Apprenticeship Programme (Cybersecurity)
-
-###### CompTIA Network+
-
-<!--
-21/01/2022
-"add repository ./nkp-cabling-solutions - Cabling Solutions."
-"add repository ./nkp-cloud-concepts - Cloud Concepts."
-"add repository ./nkp-concepts-and-characteristics-of-networking - Concepts and Characteristics of Networking."
-"add repository ./nkp-network-services - Network Services."
-"add repository ./nkp-network-topologies - Network Topologies."
-"add repository ./nkp-osi-layers - OSI Layers."
-"add repository ./nkp-ports-and-protocols - Ports and Protocols."
-"add repository ./nkp-subnetting-and-supernetting - Subnetting and Supernetting."
-"add repository ./nkp-wireless-technologies - Wireless Technologies."
--->
-<!--
-22/01/2022
-"add repository ./nkp-networking-devices - Networking Devices."
--->
-<!--
-24/01/2022
-"add repository ./nkp-advanced-networking - Advanced Networking."
--->
-<!--
-25/01/2022
-"add repository ./nkp-network-storage-virtualization - Network Storage and Virtualization."
--->
-<!--
-27/01/2022
-"add repository ./nkp-wide-area-network - Wide Area Network."
-"add repository ./nkp-documentation-diagram-types - Documentation and Diagram Types."
---->
-<!--
-02/02/2022
-"add repository ./nkp-disaster-recovery - Disaster Recovery."
-"add repository ./nkp-scanning-monitoring-patching - Scanning and Monitoring and Patching."
---->
-<!--
-05/02/2022
-"add repository ./nkp-remote-access-methods - Remote Access Methods."
-"add repository ./nkp-physical-security-devices - Physical Security Devices."
-"add repository ./nkp-authentication-access-control - Authentication and Access Control."
---->
-<!--
-09/02/2022
-"add repository ./nkp-wireless-security - Wireless Security."
--->
-<!--
-10/02/2022
-"add repository ./nkp-network-attacks - Network Attacks"
-"add repository ./nkp-network-device-hardening - Network Device Hardening."
-"add repository ./nkp-mitigation-techniques - Mitigation Techniques."
---->
-<!--
-> Remote Access Methods
-"add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
-* { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
---->
-* { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
-* { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
-* { ["**Concepts and Characteristics of Networking**"](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking) : &#x1F6A7; }
-* { ["**Subnetting and Supernetting**"](https://github.com/SeanOhAileasa/nkp-subnetting-and-supernetting) : &#x1F6A7; }
-* { ["**Network Topologies**"](https://github.com/SeanOhAileasa/nkp-network-topologies) : &#x1F6A7; }
-* { ["**Wireless Technologies**"](https://github.com/SeanOhAileasa/nkp-wireless-technologies) : &#x1F6A7; }
-* { ["**Cloud Concepts**"](https://github.com/SeanOhAileasa/nkp-cloud-concepts) : &#x1F6A7; }
-* { ["**Network Services**"](https://github.com/SeanOhAileasa/nkp-network-services) : &#x1F6A7; }
-* { ["**Cabling Solutions**"](https://github.com/SeanOhAileasa/nkp-cabling-solutions) : &#x1F6A7; }
-* { ["**Networking Devices**"](https://github.com/SeanOhAileasa/nkp-networking-devices) : &#x1F6A7; }
-* { ["**Advanced Networking**"](https://github.com/SeanOhAileasa/nkp-advanced-networking) : &#x1F6A7; }
-* { ["**Network Storage and Virtualization**"](https://github.com/SeanOhAileasa/nkp-network-storage-virtualization) : &#x1F6A7; }
-* { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
-* { ["**Documentation and Diagram Types**"](https://github.com/SeanOhAileasa/nkp-documentation-diagram-types) : &#x1F6A7; }
-* { ["**Disaster Recovery**"](https://github.com/SeanOhAileasa/nkp-disaster-recovery) : &#x1F6A7; }
-* { ["**Scanning and Monitoring and Patching**"](https://github.com/SeanOhAileasa/nkp-scanning-monitoring-patching) : &#x1F6A7; }
-* { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
-* { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
-* { ["**Authentication and Access Control**"](https://github.com/SeanOhAileasa/nkp-authentication-access-control) : &#x1F6A7; }
-* { ["**Wireless Security**"](https://github.com/SeanOhAileasa/nkp-wireless-security) : &#x1F6A7; }
-* { ["**Network Attacks**"](https://github.com/SeanOhAileasa/nkp-network-attacks) : &#x1F6A7; }
-* { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
-* { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
-
 ### Higher Diploma in Science in Computing (in Data Analytics)
-### GMIT Overall Result: First Class Honours (1.1) - Grade: 77.6%
-
-[![GMIT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/data.png?raw=true)](https://web.archive.org/web/20201029063153/https://www.gmit.ie/computer-science-and-applied-physics/higher-diploma-science-computing-data-analytics-ict)
 
 | **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade   |
 | :--------------------------------------------------------------|:-------:|:-------:|
@@ -141,7 +14,7 @@
 | Computational Thinking with Algorithms (Python)                | 5       | 85%     |
 | Work Placement (Graded Pass/Fail)                              | 15      | PASS    |
 
-### GMIT - Higher Diploma in Science in Computing (Data Analytics)
+### GMIT Overall Result: First Class Honours (1.1) - Grade: 77.6%
 
 <!--
 26/12/2021
@@ -341,27 +214,131 @@
 "update repository ./fubar-python"
 -->
 
-### Republic of Ireland Covid-19 Pandemic (SARS-CoV-2)
+### Cybersecurity Apprenticeship Candidate - ([Sponsor Sought](https://apprenticeship.ie/employers/potential-employers))
 
-###### SARS-CoV-2
+| Stage | **ICT Associate Apprenticeship Cybersecurity:** | Credits | Grade |
+|:-----:| :-----------------------------------------------|:-------:|:-----:|
+| 1     | CompTIA IT Fundamentals &#x1F6A7;               | 5       | O/S   |
+| 1     | CompTIA Network+ &#x1F6A7; (ecollege.ie)        | 10      | O/S   |
+| 1     | CompTIA Security+ (5-Day College)               | 10      | O/S   |
+| 2     | CompTIA CySA+ (2-Day College)                   | 10      | O/S   |
+| 3     | CompTIA PenTest+ (1-Day College)                | 10      | O/S   |
 
-<!-- 
-22/01/2021 
-"update repository ./covid-19-ireland"
--->
-<!-- 
-03/09/2021 
-"update repository ./covid-19-ireland - Winding down repository given: i) Published figures appear unreliable - total cumulative cases to date (02/09/2021) appears to be revised down per source https://data.gov.ie/dataset/covidstatisticsprofilehpscirelandopendata1 and; ii) Ireland's estimated pop. (per CSO) year end April 2021 at 5,011,500 (published 31/08/2021). Following figures (from 1st April 2021) reflect CSO pop. estimate: i) vaccines administered (1st/2nd dose percentage); ii) vulnerable population percentage; and; iii) 14-day per 100k total cumulative incidence. Figures before 1st April 2021 based on a pop. of 4,761,865 although (per CSO) year end April 2020 should be 4,977,400."
--->
-* { ["**covid-19-ireland**"](https://github.com/SeanOhAileasa/covid-19-ireland/blob/master/src/dataset/covid-19-ireland.csv) : &#x1F4CC; }
-
-![Republic of Ireland (SARS-CoV-2) Vaccination Programme](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/covid-19-ireland/RepublicofIrelandSARS-CoV-2VaccinationProgramme.png?raw=true)
-[Source (HSE)](https://www.hse.ie/eng/services/news/newsfeatures/covid19-updates/integrated-information-service-vaccination-programme-dashboard.html)
+###### Case Studies (Self-Learning)
 
 <!--
-### Health Service Executive (HSE)
-
-###### Medical Laboratory Aide
-
-* { ["**Laboratory Technician Diploma (NFQ: 5)**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/medical-laboratory-aide/blob/main/medical-laboratory-aide.ipynb) : &#x1F4CC; }
+17/01/2022
+"add repository ./hse-cyber-attack"
 -->
+* { ["**HSE Cyber Attack**"](https://github.com/SeanOhAileasa/hse-cyber-attack) : &#x1F6A7; }
+
+###### Supplemental Resources (Self-Learning)
+
+<!--
+17/01/2022
+"add repository ./cwe-app-server"
+-->
+* { ["**App-server (``flask``)**"](https://github.com/SeanOhAileasa/cwe-app-server) : &#x1F6A7; }
+
+<!--
+03/12/2021
+"update repository ./mls-cyber-security - IOT Device Detection."
+-->
+* { ["**Machine Learning for Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
+
+* { ["**App-server (``flask``)**"](https://github.com/SeanOhAileasa/cwe-app-server) : &#x1F6A7; }
+
+<!--
+03/12/2021
+"update repository ./mls-cyber-security - IOT Device Detection."
+-->
+* { ["**Machine Learning for Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
+
+###### Programming Languages for Cybersecurity (Self-Learning)
+
+<!--
+"..."
+-->
+* { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F6A7; }
+
+### ICT Associate Apprenticeship Programme (Cybersecurity)
+
+###### CompTIA Network+
+<!--
+21/01/2022
+"add repository ./nkp-cabling-solutions - Cabling Solutions."
+"add repository ./nkp-cloud-concepts - Cloud Concepts."
+"add repository ./nkp-concepts-and-characteristics-of-networking - Concepts and Characteristics of Networking."
+"add repository ./nkp-network-services - Network Services."
+"add repository ./nkp-network-topologies - Network Topologies."
+"add repository ./nkp-osi-layers - OSI Layers."
+"add repository ./nkp-ports-and-protocols - Ports and Protocols."
+"add repository ./nkp-subnetting-and-supernetting - Subnetting and Supernetting."
+"add repository ./nkp-wireless-technologies - Wireless Technologies."
+-->
+<!--
+22/01/2022
+"add repository ./nkp-networking-devices - Networking Devices."
+-->
+<!--
+24/01/2022
+"add repository ./nkp-advanced-networking - Advanced Networking."
+-->
+<!--
+25/01/2022
+"add repository ./nkp-network-storage-virtualization - Network Storage and Virtualization."
+-->
+<!--
+27/01/2022
+"add repository ./nkp-wide-area-network - Wide Area Network."
+"add repository ./nkp-documentation-diagram-types - Documentation and Diagram Types."
+--->
+<!--
+02/02/2022
+"add repository ./nkp-disaster-recovery - Disaster Recovery."
+"add repository ./nkp-scanning-monitoring-patching - Scanning and Monitoring and Patching."
+--->
+<!--
+05/02/2022
+"add repository ./nkp-remote-access-methods - Remote Access Methods."
+"add repository ./nkp-physical-security-devices - Physical Security Devices."
+"add repository ./nkp-authentication-access-control - Authentication and Access Control."
+--->
+<!--
+09/02/2022
+"add repository ./nkp-wireless-security - Wireless Security."
+-->
+<!--
+10/02/2022
+"add repository ./nkp-network-attacks - Network Attacks"
+"add repository ./nkp-network-device-hardening - Network Device Hardening."
+"add repository ./nkp-mitigation-techniques - Mitigation Techniques."
+--->
+<!--
+> Remote Access Methods
+"add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
+* { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
+--->
+* { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
+* { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
+* { ["**Concepts and Characteristics of Networking**"](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking) : &#x1F6A7; }
+* { ["**Subnetting and Supernetting**"](https://github.com/SeanOhAileasa/nkp-subnetting-and-supernetting) : &#x1F6A7; }
+* { ["**Network Topologies**"](https://github.com/SeanOhAileasa/nkp-network-topologies) : &#x1F6A7; }
+* { ["**Wireless Technologies**"](https://github.com/SeanOhAileasa/nkp-wireless-technologies) : &#x1F6A7; }
+* { ["**Cloud Concepts**"](https://github.com/SeanOhAileasa/nkp-cloud-concepts) : &#x1F6A7; }
+* { ["**Network Services**"](https://github.com/SeanOhAileasa/nkp-network-services) : &#x1F6A7; }
+* { ["**Cabling Solutions**"](https://github.com/SeanOhAileasa/nkp-cabling-solutions) : &#x1F6A7; }
+* { ["**Networking Devices**"](https://github.com/SeanOhAileasa/nkp-networking-devices) : &#x1F6A7; }
+* { ["**Advanced Networking**"](https://github.com/SeanOhAileasa/nkp-advanced-networking) : &#x1F6A7; }
+* { ["**Network Storage and Virtualization**"](https://github.com/SeanOhAileasa/nkp-network-storage-virtualization) : &#x1F6A7; }
+* { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
+* { ["**Documentation and Diagram Types**"](https://github.com/SeanOhAileasa/nkp-documentation-diagram-types) : &#x1F6A7; }
+* { ["**Disaster Recovery**"](https://github.com/SeanOhAileasa/nkp-disaster-recovery) : &#x1F6A7; }
+* { ["**Scanning and Monitoring and Patching**"](https://github.com/SeanOhAileasa/nkp-scanning-monitoring-patching) : &#x1F6A7; }
+* { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
+* { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
+* { ["**Authentication and Access Control**"](https://github.com/SeanOhAileasa/nkp-authentication-access-control) : &#x1F6A7; }
+* { ["**Wireless Security**"](https://github.com/SeanOhAileasa/nkp-wireless-security) : &#x1F6A7; }
+* { ["**Network Attacks**"](https://github.com/SeanOhAileasa/nkp-network-attacks) : &#x1F6A7; }
+* { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
+* { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
