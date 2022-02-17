@@ -322,6 +322,10 @@
 16/02/2022
 "add repository ./nkp-mitigation-techniques - Mitigation Techniques."
 -->
+<!--
+17/02/2022
+"add repository ./nkp-network-service-issues - Network Service Issues."
+-->
 * { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
 * { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
 * { ["**Concepts and Characteristics of Networking**"](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking) : &#x1F6A7; }
@@ -345,3 +349,4 @@
 * { ["**Network Attacks**"](https://github.com/SeanOhAileasa/nkp-network-attacks) : &#x1F6A7; }
 * { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
 * { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
+* { ["**Network Service Issues**"](https://github.com/SeanOhAileasa/nkp-network-service-issues) : &#x1F6A7; }
