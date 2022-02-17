@@ -325,6 +325,7 @@
 <!--
 17/02/2022
 "add repository ./nkp-network-service-issues - Network Service Issues."
+"add repository ./nkp-network-troubleshooting - Network Troubleshooting."
 -->
 * { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
 * { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
@@ -350,3 +351,4 @@
 * { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
 * { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
 * { ["**Network Service Issues**"](https://github.com/SeanOhAileasa/nkp-network-service-issues) : &#x1F6A7; }
+* { ["**Network Troubleshooting**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting) : &#x1F6A7; }
