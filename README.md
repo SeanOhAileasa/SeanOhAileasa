@@ -313,11 +313,6 @@
 "add repository ./nkp-network-device-hardening - Network Device Hardening."
 --->
 <!--
-> Remote Access Methods
-"add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
-* { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
---->
-<!--
 16/02/2022
 "add repository ./nkp-mitigation-techniques - Mitigation Techniques."
 -->
@@ -332,6 +327,7 @@
 "add repository ./nkp-wired-connectivity-issues - Wired Connectivity Issues."
 "add repository ./nkp-cabling-solutions - Cabling Solutions."
 "add repository ./nkp-wireless-connectivity-issues - Wireless Connectivity Issues."
+"add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
 -->
 * { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
 * { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
@@ -350,6 +346,7 @@
 * { ["**Disaster Recovery**"](https://github.com/SeanOhAileasa/nkp-disaster-recovery) : &#x1F6A7; }
 * { ["**Scanning and Monitoring and Patching**"](https://github.com/SeanOhAileasa/nkp-scanning-monitoring-patching) : &#x1F6A7; }
 * { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
+* { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
 * { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
 * { ["**Authentication and Access Control**"](https://github.com/SeanOhAileasa/nkp-authentication-access-control) : &#x1F6A7; }
 * { ["**Wireless Security**"](https://github.com/SeanOhAileasa/nkp-wireless-security) : &#x1F6A7; }
