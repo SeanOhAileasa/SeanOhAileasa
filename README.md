@@ -327,6 +327,10 @@
 "add repository ./nkp-network-service-issues - Network Service Issues."
 "add repository ./nkp-network-troubleshooting - Network Troubleshooting."
 -->
+<!--
+19/02/2022
+"add repository ./nkp-network-troubleshooting-tools - Network Troubleshooting Tools."
+-->
 * { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
 * { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
 * { ["**Concepts and Characteristics of Networking**"](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking) : &#x1F6A7; }
@@ -352,3 +356,4 @@
 * { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
 * { ["**Network Service Issues**"](https://github.com/SeanOhAileasa/nkp-network-service-issues) : &#x1F6A7; }
 * { ["**Network Troubleshooting**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting) : &#x1F6A7; }
+* { ["**Network Troubleshooting Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-tools) : &#x1F6A7; }
