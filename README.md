@@ -202,11 +202,11 @@
 | 2     | CompTIA CySA+ (2-Day College)                   | O/S   |
 | 3     | CompTIA PenTest+ (1-Day College)                | O/S   |
 
-<details close>
+<details open>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
 <details open>
-	<summary>&#x21A9; CompTIA Network+</summary> <br/>
+	<summary>&#x21A9; CompTIA Network+</summary>
 <!--	
 - { ["**CompTIA Network+**"](https://github.com/SeanOhAileasa/nkp) : &#x1F6A7; }
 -->
@@ -276,32 +276,102 @@
 "add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
 -->
 
+###### Network Concepts
 <details open>
-	<summary>&#x21A9; Network Concepts</summary>
+	<summary>&#x21A9;</summary>
 
-- { ["**Network Concepts**"](#) : &#x1F4CC; }
+- { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
 
-	- { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
+- { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
 
-	- { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
+- { ["**Concepts and Characteristics of Networking**"](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking) : &#x1F6A7; }
 
-	- { ["**Concepts and Characteristics of Networking**"](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking) : &#x1F6A7; }
+- { ["**Subnetting and Supernetting**"](https://github.com/SeanOhAileasa/nkp-subnetting-and-supernetting) : &#x1F6A7; }
 
-	- { ["**Subnetting and Supernetting**"](https://github.com/SeanOhAileasa/nkp-subnetting-and-supernetting) : &#x1F6A7; }
+- { ["**Network Topologies**"](https://github.com/SeanOhAileasa/nkp-network-topologies) : &#x1F6A7; }
 
-	- { ["**Network Topologies**"](https://github.com/SeanOhAileasa/nkp-network-topologies) : &#x1F6A7; }
+- { ["**Wireless Technologies**"](https://github.com/SeanOhAileasa/nkp-wireless-technologies) : &#x1F6A7; }
 
-	- { ["**Wireless Technologies**"](https://github.com/SeanOhAileasa/nkp-wireless-technologies) : &#x1F6A7; }
+- { ["**Cloud Concepts**"](https://github.com/SeanOhAileasa/nkp-cloud-concepts) : &#x1F6A7; }
 
-	- { ["**Cloud Concepts**"](https://github.com/SeanOhAileasa/nkp-cloud-concepts) : &#x1F6A7; }
+- { ["**Network Services**"](https://github.com/SeanOhAileasa/nkp-network-services) : &#x1F6A7; }
 
-	- { ["**Network Services**"](https://github.com/SeanOhAileasa/nkp-network-services) : &#x1F6A7; }
+- { ["**Cabling Solutions**"](https://github.com/SeanOhAileasa/nkp-cabling-solutions) : &#x1F6A7; }
 
-	- { ["**Cabling Solutions**"](https://github.com/SeanOhAileasa/nkp-cabling-solutions) : &#x1F6A7; }
+<details open>
+	<summary>Introduction to IP</summary>
+
+- A Series of Moving Trucks <br/>
+	- Road <br/>
+		- Network Topology (Ethernet - DSL - Cable System) <br/>
+	- Truck <br/>
+		- Internet Protocol (IP) <br/>
+			- OSI Layer 3 <br/>
+				- Network <br/>
+					- Routing Layer (IP Address - Router - Packet) <br/>
+			- Ethernet Network <br/>
+				- Ethernet Header <br/>
+				- Ethernet Payload <br/>
+					- IP Traffic <br/>
+						- IP Payload <br/>
+							- TCP (or UDP) [OSI Layer 4 - Transport] <br/>
+								- TCP Payload <br/>
+									- HTTP Data (ex. Web Browsing) <br/>
+				- Ethernet Trailer <br/>
+				![Image: Ethernet Network](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/ip-protocol-ethernet-network.png?raw=true) <br/>
+	- Box <br/>
+		- Encapsulated - Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) <br/>
+			- Multiplexing <br/>
+				- Use Multiple Applications Simultaneously
+		- Transmission Control Protocol (TCP) <br/>
+			- Connection-oriented <br/>
+				- Acknowledgement (``ACK``) <br/>
+			- Reliable Delivery <br/>
+				- Numbers the Data Sent <br/>
+			- Flow Control <br/>
+			![Image: TCP](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/tcp-data-ack.png?raw=true) <br/>	
+		- User Datagram Protocol (UDP) <br/>
+			- Connectionless <br/>
+			- Unreliable Delivery <br/>
+				- No Error Recovery <br/>
+				- No Reording of Data or Retransmissions <br/>
+			- No Flow Control <br/>
+				- Sender determines amount of Data Transmitted <br/>
+				![Image: UDP](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/udp-data.png?raw=true) <br/>			
+		- Ports (Written on Box) <br/>
+			- IPv4 Sockets <br/>
+				- Information Sent <br/>
+					- Server IP Address <br/>
+						- Protocol (TCP or UDP) <br/>
+							- Server Application Port Number <br/>
+					- Client IP Address <br/>
+						- Protocol (TCP or UDP) <br/>
+							- Client Prot Number <br/>
+			- Groups <br/>
+				- Non-ephemeral (Non-Temporary - Permanent) <br/>
+					- Server ("well known") <br/>
+						- ``0 - 1023`` <br/>
+				- Ephemeral (Temporary) <br/>
+					- Client (Real-time) <br/>
+						- ``1024 - 65535`` <br/>
+			- TCP and UDP Ports Numbers 
+				- ``0 - 65535`` <br/>
+					- No Conflict <br/>
+	- Data <br/>
+		- Application <br/>
+			- TCP versus UDP <br/>
+	- Internet Control Message Protocol (ICMP) <br/>
+		- Administration <br/>
+			- Carried by IP <br/>
+				- Not used for Data Transfer <br/>
+					- Text Messaging between Devices (ex. Time-To-Live Expired) <br/>
 </details>
 
-<details open>
-	<summary>&#x21A9; Infrastructure</summary>
+</details> <!-- END (Network Concepts) -->
+
+###### Infrastructure
+<details close>
+	<summary>&#x21A9;</summary>
 
 - { ["**Infrastructure**"](#) : &#x1F4CC; }
 
@@ -312,10 +382,11 @@
 	- { ["**Network Storage and Virtualization**"](https://github.com/SeanOhAileasa/nkp-network-storage-virtualization) : &#x1F6A7; }
 
 	- { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
-</details>
+</details> <!-- END (Infrastructure) -->
 
-<details open>
-	<summary>&#x21A9; Network Operations</summary>
+###### Network Operations
+<details close>
+	<summary>&#x21A9;</summary>
 
 - { ["**Network Operations**"](#) : &#x1F4CC; }
 
@@ -328,10 +399,11 @@
 	- { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
 
 	- { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
-</details>
+</details> <!-- END (Network Operations) -->
 
-<details open>
-	<summary>&#x21A9; Network Security</summary>
+###### Network Security
+<details close>
+	<summary>&#x21A9;</summary>
 
 - { ["**Network Security**"](#) : &#x1F4CC; }
 
@@ -346,10 +418,11 @@
 	- { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
 
 	- { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
-	</details>
+</details> <!-- END (Network Security) -->
 
-<details open>
-	<summary>&#x21A9; Network Troubleshooting and Tools</summary>
+###### Network Troubleshooting and Tools
+<details close>
+	<summary>&#x21A9;</summary>
 
 - { ["**Network Troubleshooting and Tools**"](#) : &#x1F4CC; }
 
@@ -360,7 +433,7 @@
 	- { ["**Wired Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wired-connectivity-issues) : &#x1F6A7; }
 
 	- { ["**Wireless Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wireless-connectivity-issues) : &#x1F6A7; }
-</details>
+</details> <!-- END (Network Troubleshooting and Tools) -->
 
 </details>
 
