@@ -396,7 +396,7 @@
 - H.323 ``tcp/1720`` <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Understanding Open Systems Interconnection (OSI) Model</summary>
 
 - OSI Protocol Suite (OSI Model built based on these OSI Protocols) <br/>
@@ -433,6 +433,79 @@
 				- POP3 <br/>
 	        ![Summary](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/osi-model.png?raw=true)  <br/>			
 			- Wireshark <br/>
+</details>
+
+<details open>
+	<summary>Introduction to Ethernet</summary>
+
+- Small Office/Home Office (SOHO) Local Area Network (LAN) [``Demo``] <br/>
+- Enterprise Network [``Demo``] <br/>
+- Ethernet Frame [Packet Analyser] <br/>
+	- Preamble [``7`` bytes] <br/>
+		- ``101010...`` <br/>
+	- Start Frame Delimiter (SFD) [``1`` byte] <br/>
+		- ``1010101011`` <br/>
+	- Destination MAC Address [``6`` bytes] <br/>
+	- Source MAC Address [``6`` byte] <br/>
+	- Type [EtherType] - [``2`` bytes] <br/>
+	- Payload - [``46-1500`` bytes] <br/>
+		- IP - TCP (or UDP) <br/>
+	- Frame Check Sequence (FCS) <br/>
+		- CRC - Checksum of Frame <br/>
+- Media Access Control (MAC) Address <br/>
+	- Physical Address of Network Adaptor <br/>
+		- Unique to a Device <br/>
+	- 48-bits [``6`` bytes] - [Hexadecimal] <br/>
+		- Organisationally Unique Identifier (OUI) [1st Half] <br/>
+			- Manufacturer <br/>
+		- Network Interface Controller-Specific [2nd Half] <br/>
+			- Serial No. <br/>
+- Connect Ethernet Device to a Network <br/>
+	- Configuration Parameters <br/>
+		- Duplex <br/>
+			- Half-duplex <br/>
+				- Device ``!=`` Send/Receive Simultaneously <br/>
+					- Send Only or Receive Only <br/>
+				- Hub [``Demo``] - [All Traffic to All Devices] <br/>
+					- Communicate Simultaneously <br/>
+						- Frames create a Collision <br/>
+							- Wait Random Time <br/>
+								- Retry Communication <br/>
+						- CSMA/CD [``!=`` Used Today] <br/>
+							- CS (Carrier Sense) <br/>
+								- Ethernet Adaptor Listens for available Carrier <br/>
+									- Send Frame to Network <br/>
+							- MA (Multiple Access) <br/>
+								- ``>1`` Devices on Network <br/>
+							- CD (Collision Detect) <br/>
+								- Communicate Simultaneously [Collision] <br/>
+									- Identify Collision <br/>
+										- Transmit a Jam Signal [Everyone Knows] <br/>
+										- Wait Random Time <br/>
+				- Switch Interfaces <br/>
+					- Usually only when Connecting another Half-duplex Device <br/>
+			- Full-duplex  <br/>
+				- Device ``==`` Send/Receive Simultaneously <br/>
+					- Switch + Endstation Configured Correctly <br/>
+				- Switch Interface [``Demo``] <br/>
+					- Determines Intelligently Traffic <br/>
+						- Source creates Ethernet Frame [MAC Address] <br/>
+							- Frame to Switch <br/>
+								- Lookup Function [MAC in Table] <br/> 
+				- Wireless  <br/>
+					- CSMA/CA (Collison Avoidance) <br/>
+						- Collision Detection not Possible <br/>
+							- Sending Station <br/>
+								- ``!=`` "hear" other Station <br/>						 
+						- Hidden Node Problem <br/>
+							- Station A can hear the Access Point <br/>
+								- Station B can hear the Access Point <br/>
+									- Station A cannot hear Station B <br/>
+						- Send Data <br/>
+							- Ready to Send (RTS) <br/>
+								- "I'm Ready" <br/>
+							- Clear to Send (CTS) <br/>
+								- "You're Clear" <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
