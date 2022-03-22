@@ -368,7 +368,7 @@
 					- Text Messaging between Devices (ex. Time-To-Live Expired) <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Common Ports</summary>
 
 - Telecommunication Network (Telnet) ``tcp/23`` <br/>
@@ -394,6 +394,45 @@
 - Lightweight Directory Access Protocol (LDAP) ``tcp/389`` <br/>
 	- Lightweight Directory Access Protocol Secure (LDAPS) ``tcp/636`` <br/>
 - H.323 ``tcp/1720`` <br/>
+</details>
+
+<details open>
+	<summary>Understanding Open Systems Interconnection (OSI) Model</summary>
+
+- OSI Protocol Suite (OSI Model built based on these OSI Protocols) <br/>
+	- Guide [thus the term "Model"] <br/>
+		- The OSI Model <br/>
+			- Layer 1 Physical Layer [``!=``Protocols] <br/>
+				- Network Physics [Signaling / Cabling / Connectors] - [NIC - Cable - Hub] <br/>
+					- Problems <br/>
+						- Fix Cabling - Punch-downs <br/>
+						- Run Loopback Test - Test and/or replace Cables - Swap Adapter Cards <br/>
+			- Layer 2 Data Link Layer ["switching"] - [Frame - MAC Address - EUI-48 - EUI-64 - Switch] <br/>
+				- Network Basic Language [Foundation of Communication] <br/>
+				- Data Link Control (DLC) Protocols <br/>
+					- Media Access Control (MAC) Address on an Ethernet Network <br/>
+			- Layer 3 Network Layer ["routing"] - [IP Address - Router - Packet] <br/>
+				- Internet Address (IP) <br/>
+					- Fragments Frames [Traverse different Networks]
+					- IP Fragmentation <br/>
+						- Multiples of ``8``
+							- No. Fragmentation offset bits in IP Header <br/>
+			- Layer 4 Transport Layer ["post office"] - [TCP Segment - UDP Datagram] <br/>
+				- Parcels & Letters <br/>
+				- Transmission Control Protocol (TCP) or User Datagram Protocol (UDP) <br/>
+			- Layer 5 Session Layer - [Control Protocols - Tunnelling Protocols] <br/>
+				- Communication Management between Devices [Start / Stop / Restart] <br/>
+					- Duplex [Full / Half] <br/>
+			- Layer 6 Presentation Layer [Often combined with Application Layer] - [SSL / TLS] <br/>
+				- Character Encoding <br/>
+				- Application Encryption <br/>
+			- Layer 7 Application Layer [User Sees] <br/>
+				- HTTP <br/>
+				- FTP <br/>
+				- DNS <br/>
+				- POP3 <br/>
+	        ![Summary](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/osi-model.png?raw=true)  <br/>			
+			- Wireshark <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
