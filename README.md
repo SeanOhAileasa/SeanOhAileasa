@@ -298,7 +298,7 @@
 
 - { ["**Cabling Solutions**"](https://github.com/SeanOhAileasa/nkp-cabling-solutions) : &#x1F6A7; }
 
-<details open>
+<details close>
 	<summary>Introduction to IP</summary>
 
 - A Series of Moving Trucks <br/>
@@ -324,6 +324,7 @@
 			- Multiplexing <br/>
 				- Use Multiple Applications Simultaneously
 		- Transmission Control Protocol (TCP) <br/>
+		![Image: UDP](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/tcpiposi.png?raw=true) <br/>
 			- Connection-oriented <br/>
 				- Acknowledgement (``ACK``) <br/>
 			- Reliable Delivery <br/>
@@ -365,6 +366,34 @@
 			- Carried by IP <br/>
 				- Not used for Data Transfer <br/>
 					- Text Messaging between Devices (ex. Time-To-Live Expired) <br/>
+</details>
+
+<details open>
+	<summary>Common Ports</summary>
+
+- Telecommunication Network (Telnet) ``tcp/23`` <br/>
+- Secure Shell (SSH) ``tcp/22`` <br/>
+- Domain Name System (DNS) ``udp/53`` <br/>
+- [Email Transfer] Simple Mail Transfer Protocol (SMTP) ``tcp/25``  <br/>
+	- (Email Receive: IMAP4 ``tcp/143`` - POP3 ``tcp/110``) <br/>
+- Secure File Transfer Protocol (SFTP) ``tcp/22``  <br/>
+	- (Encrypted SSH Protocol as the underlying communication) <br/>
+- File Transfer Protocol ``tcp/20`` (active mode data) ``tcp/21`` (control) <br/>
+- Trival File Transfer Protcol ``udp/69``	 <br/>
+- Dynamic Host Configuration Protocol (DHCP) ``udp/67`` ``udp/68`` <br/>
+- Hypertext Transfer Protocol (HTTP) ``tcp/80``  <br/>
+	- Hypertext Transfer Protocol Secure (HTTPS) ``tcp/443`` <br/>
+- Simple Network Management Protocol (SNMP) ``udp/161`` <br/>
+- Remote Desktop Protocol (RDP) ``tcp/3389`` <br/>
+- Network Time Protocol (NTP) ``udp/123`` <br/>
+- Session Initiation Protocol (SIP) ``tcp/5060`` ``tcp/5061`` <br/>
+- Server Message Block (SMB) ``tcp/445`` <br/>
+	(Common Internet File System - CIFS) <br/>
+- [Email Receive] Post Office Protocol v3 (POP3) ``tcp/110`` <br/>
+	- [Email Receive] Internet Message Access Protocol v4 (IMAP4) ``tcp/143`` <br/>
+- Lightweight Directory Access Protocol (LDAP) ``tcp/389`` <br/>
+	- Lightweight Directory Access Protocol Secure (LDAPS) ``tcp/636`` <br/>
+- H.323 ``tcp/1720`` <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
