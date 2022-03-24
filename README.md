@@ -435,7 +435,7 @@
 			- Wireshark <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Introduction to Ethernet</summary>
 
 - Small Office/Home Office (SOHO) Local Area Network (LAN) [``Demo``] <br/>
@@ -506,6 +506,38 @@
 								- "I'm Ready" <br/>
 							- Clear to Send (CTS) <br/>
 								- "You're Clear" <br/>
+</details>
+
+<details open>
+	<summary>Network Switching Overview</summary>
+
+- Switching <br/>
+	- Forwarding or Dropping Frames  <br/>
+		- Based on Destination MAC Address <br/>
+	- Constantly Update [Table - from Source] <br/>
+		- MAC Addresses <br/>
+		- Associated Interfaces <br/>
+	- Prevent Network Loops  <br/>
+		- Spanning Tree Protocol (STP) <br/>
+- Frame Switching [``Demo``] <br/>
+	- Fast Ethernet ``F``  <br/>
+		- Slot (Card) ``F#``  <br/>
+			- Interface (Device) ``F#/#`` [MAC Address] <br/>
+	- Table [within Switch] <br/>
+		- List of seen MAC Addresses <br/>
+		- List of associated Output Interfaces <br/>
+- Frame Switching between Switches [``Demo``] <br/>
+	- Independent Table (each Switch) <br/>
+		- List of MAC Addresses <br/>
+		- List of Output Interfaces <br/>
+- Learn the MACs (Incoming Traffic - Note Source) [``Demo``] <br/>
+	- Flooding Unknown MACs [``Demo``] <br/>
+		- Send Frame to All <br/>
+	- No Flooding of MACs [``Demo``] <br/>
+- Address Resolution Protocol (ARP) <br/>
+	- Broadcast [Determine MAC Address based on IP Address] <br/>
+		- Packet Analyzer <br/>
+		- Command Line ``arp -a`` <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
