@@ -540,7 +540,7 @@
 		- Command Line ``arp -a`` <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Collision Domains and Broadcast Domains</summary>
 
 - Collision Domains [Half-duplex Networks] <br/>
@@ -584,6 +584,35 @@
 	- Segment Network 
 		- Segmenting Broadcasts [Particular Broadcast Domain] <br/>
 		![Image: Broadcast Domains](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/broadcast-domains.png?raw=true) <br/>
+</details>
+
+<details open>
+	<summary>Unicasts and Broadcasts and Multicasts</summary>
+
+- Unicast [One Station to One Station] <br/>
+	- One-to-One Relationship <br/>
+		- Web Browsing Session <br/>
+		- File Transfers <br/>
+	- Scale Issues <br/>
+		- Not Optimal for Streaming Media <br/>
+- Broadcast [One Station to All at Once] <br/>
+	- Broadcast Domain [Limit Scope - Subnet] <br/>
+		- Routing Updates & OS Communication <br/>
+		- IPv4 <br/>
+			- Address Resolution Protocol ``ARP`` Request <br/>
+		- Broadcast Frames <br/>
+			- Slow Network Performance <br/>
+		- IPv6 [``!=`` Broadcast] <br/>
+			- Multicast [Compromise between Unicast & Broadcast] <br/>
+				- One-to-Many Relationship [Delivery to Interested Systems] <br/>
+					- Multimedia Delivery <br/>
+					- Stock Exchanges <br/>
+				- Specialised [Limited Scope] <br/>
+					- Scale Issues <br/>
+						- Infrastructure Devices <br/>
+							- Understand Multicast <br/>
+						- End-devices <br/>
+							- Subscribe / View Multicast Information] <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
