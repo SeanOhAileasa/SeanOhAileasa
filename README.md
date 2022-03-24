@@ -431,7 +431,7 @@
 				- FTP <br/>
 				- DNS <br/>
 				- POP3 <br/>
-	        ![Summary](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/osi-model.png?raw=true)  <br/>			
+	        ![Image: OSI Model](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/osi-model.png?raw=true) <br/>			
 			- Wireshark <br/>
 </details>
 
@@ -508,7 +508,7 @@
 								- "You're Clear" <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Network Switching Overview</summary>
 
 - Switching <br/>
@@ -538,6 +538,52 @@
 	- Broadcast [Determine MAC Address based on IP Address] <br/>
 		- Packet Analyzer <br/>
 		- Command Line ``arp -a`` <br/>
+</details>
+
+<details open>
+	<summary>Collision Domains and Broadcast Domains</summary>
+
+- Collision Domains [Half-duplex Networks] <br/>
+	- Collision [Hub] <br/>
+		- Normal Process (Network Communication) <br/>
+	- CSMA/CD <br/>
+		- Carrier Sense Multiple Access (CSMA) <br/>
+			- Network Stations Listening <br/>
+				- Determine if able to Communication <br/>
+		- Collison Detection (CD) <br/>
+			- Network Stations recognise Collision Occurred <br/>
+				- Clear Network [Sending Jam Signal] <br/>
+					- Retransmit <br/>
+	- Historial Footnote [One Big Segment] <br/>
+		- Coax Network [``Demo``] <br/>
+			- Stations Connected on same Cable <br/>
+		- Ethernet Hub [``Demo``] <br/>
+			- Stations Connected to Central Device <br/>
+	- Segment different Networks (Segment out Collision Domains) [``Demo``] <br/>
+		- Switch (or Bridge) <br/>
+			- Each side of Switch a different Collision Domain <br/>
+	- Modern Footnote <br/>
+		- Switch (Collision Domains Removed) [``Demo``] <br/>
+			- Full-duplex <br/>
+				- Stations can Send / Receive Simultaneously <br/>
+					- No Concern of a Collision <br/>
+					![Image: Collision Domains](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/collision-domains.png?raw=true) <br/>
+- Broadcast Frames (Different to Collisions) [Necessary Evil] <br/>
+	- Send Broadcast Address <br/>
+		- Spread the Word (All must Know) <br/>
+			- Address Resolution Protocol (ARP) Requests <br/>
+			- Operating System Notifications <br/>
+			- Some Dynamic Routing Protocols <br/>
+				- Advertise Available Network Routes <br/>
+- Broadcast Domains [``Demo``] <br/>
+	- Switch Network [Switch / Bridge] <br/>
+		- All See Broadcast <br/>
+	- Router [``Demo``] <br/>
+		- Separating Network <br/>
+			- Block Broadcast <br/>
+	- Segment Network 
+		- Segmenting Broadcasts [Particular Broadcast Domain] <br/>
+		![Image: Broadcast Domains](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/broadcast-domains.png?raw=true) <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
