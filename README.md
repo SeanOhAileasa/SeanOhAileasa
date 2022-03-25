@@ -586,7 +586,7 @@
 		![Image: Broadcast Domains](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/broadcast-domains.png?raw=true) <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Unicasts and Broadcasts and Multicasts</summary>
 
 - Unicast [One Station to One Station] <br/>
@@ -613,6 +613,88 @@
 							- Understand Multicast <br/>
 						- End-devices <br/>
 							- Subscribe / View Multicast Information] <br/>
+</details>
+
+<details open>
+	<summary>Protocol Data Unit (PDU)</summary>
+
+- Unit of Information (Transmission) [Sent at a particular OSI Layer] <br/>
+	- Switch <br/>
+		- PDU <br/>
+			- Ethernet <br/>
+				- Frame of Data [No Knowledge of its Contents] <br/>
+	- IP <br/>
+		- PDU <br/>
+			- Packet of Data <br/>
+	- TCP <br/>
+		- PDU <br/>
+			- TCP Segment <br/>
+	- UDP <br/>
+		- PDU <br/>
+			- UDP Datagram <br/>
+- Source to Destination [``Demo``] <br/>
+	- Encapsulation <br/>
+		- OSI Layer [7, 6, & 5] <br/>
+			- Data Associated with Application <br/>
+		- OSI Layer [4]  <br/>
+			- Add TCP Header <br/>
+				- PDU Included (within TCP Packet) [Contains Application Information] <br/>
+		- OSI Layer [3]  <br/>
+			- Add IP Header <br/>
+				- PDU Included [Contains TCP Header & Application Information]
+		- OSI Layer [2] <br/>
+			- MAC Addresses (Encapsulate Data Link Frame) <br/>
+		- OSI Layer [1]  <br/>
+			- Send Across the Network <br/>
+	- Decapsulation [Frame on other side of Network] <br/>
+		- OSI Layer [2] <br/>
+			- Data Link Frame <br/>
+				- Strip off Headers [Frame Header / IP Header / TCP Header] <br/>
+					- Application PDU for Destination <br/>
+					![Image: PDU](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/pdu-encapsulation-decapsulation.png?raw=true) <br/>
+- Maximum Transmission Unit (MTU) <br/>
+	- Determines Maximum Size of IP Fragment sent across Network <br/>
+		- Without Fragmenting the Data <br/>
+	- Fragmentation [Negative Impact on Communication Efficiency] <br/>
+		- Takes Time [Fragment Packet into Smaller Pieces] <br/>
+		- Lose Fragments [Loses Entire Packet] <br/>
+			- Retransmit all Fragments <br/>
+		- Sometimes Do Not Know its Happening <br/>
+			- MTU Size Unknown [One End of Network to the Other] <br/>
+				- Commonly Automated when Session is Established <br/>
+					- Internet Control Message Protocol (ICMP) Filtered [Often Inaccurate] <br/>
+						- Requiring Manual Configuration [MTU Values] <br/>
+		- Build Ethernet Frame (Fragmentation affects the Information) [``Demo``] <br/>
+			- TCP Data [1460 bytes]  <br/>
+				- TCP Header [20 bytes] <br/>
+					- IP Header [20 bytes] <br/>
+			- Wrap Ethernet  <br/>
+				- [14 bytes - Header] <br/>
+				- [4 bytes - Frame Check Sequence FCS] <br/>
+			- Tunnel over Different Connection [VPN] <br/>
+				- Hit Maximum Size (Ethernet Frame) [1500 bytes] <br/>
+					- Fragment Data before sending through Tunnel <br/>
+					![Image: Build Ethernet Frame](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/build-ethernet-frame.png?raw=true) <br/>
+						- Fragments always mulitiples of ``8`` [# of Fragmentation Offset bits in IP Header] <br/>
+	- Troubleshooting <br/>
+		- Size usually Configured Once (not changed often) [Network Infrastructure Based] <br/>
+		- Concern for Tunneled Traffic [VPN] <br/>
+			- Additional Headers [Around the IP Information] <br/>
+				- Now too Large for Ethernet Network [Requiring Fragmentation] <br/>
+		- Applications that do not want its Data Fragmented <br/>
+			- Don't Fragment (DF) <br/>
+				- Special bit in IP Header [Do Not Fragment] <br/>
+					- Message through Internet Control Message Protocol (ICMP) [DF Set] <br/>
+			- Configure MTU [Without Fragmentation] <br/>
+				- ``ping`` [Start with Maximum Size of ``1500`` bytes - Keep Lowering] <br/>
+					- Maximum size of IP Packet [ICMP Header (``8`` bytes) & IP Header (``20`` byte) = ``1472``] <br/>
+						- ``ping -f -l 1472 <ip address>`` [Windows] <br/>
+							- ``-f`` <br/> 
+								- ``!=`` Fragment <br/>
+							- ``-l`` <br/>
+								- Specify Link [``1472``] <br/>
+							- ``<ip address>`` <br/>
+								- Device on other side of the Communication <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
