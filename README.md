@@ -615,7 +615,7 @@
 							- Subscribe / View Multicast Information] <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Protocol Data Unit (PDU)</summary>
 
 - Unit of Information (Transmission) [Sent at a particular OSI Layer] <br/>
@@ -695,6 +695,59 @@
 								- Specify Link [``1472``] <br/>
 							- ``<ip address>`` <br/>
 								- Device on other side of the Communication <br/>
+</details>
+
+<details open>
+	<summary>Network Segmentation</summary>
+
+- Local Area Network <br/>
+	- Physical <br/>
+		- Group of Devices in the same Broadcast Domain <br/>
+			- Switches (x2) [``Demo``] <br/>
+				- Broadcast Domains (x2) [Devices not aware of other Switches] <br/>
+					- Segmentation via Physical Devices [No VLAN] <br/>
+						- Difficult to Scale <br/>
+						![Image: Devices in Same Broadcast Domain (Physical)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/physical-segmentation.png?raw=true) <br/>
+	- Logical [Segmentation within Switch] [``Demo``] <br/>
+		- Virtual LAN (VLAN) [Separated Logically] <br/>
+		![Image: Devices in Same Broadcast Domain (Logical)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/logical-segmentation.png?raw=true) <br/>
+			- Configuration <br/>
+				- Multiple Switches [``Demo``] <br/>
+					- Trunk [Physical Connection between Switches] <br/>
+						- Transmit Multiple VLANs across Trunk <br/>
+							- Standard ``802.1Q`` [``.1Q`` Trunk] <br/>
+							![Image: VLAN Trunking](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/trunk.png?raw=true) <br/>
+		- Ethernet Frame [Normal Frame] <br/>
+			- Packet Analyser <br/>
+				- Preamble [``7`` bytes] <br/>
+					- ``101010...`` <br/>
+				- Start Frame Delimiter (SFD) [``1`` byte] <br/>
+					- ``1010101011`` <br/>
+				- Destination MAC Address [``6`` bytes] <br/>
+				- Source MAC Address [``6`` byte] <br/>
+				- Type [EtherType] - [``2`` bytes] <br/>
+				- Payload - [``46-1500`` bytes] <br/>
+					- IP - TCP (or UDP) <br/>
+				- Frame Check Sequence (FCS) <br/>
+					- CRC - Checksum of Frame <br/>	
+			- Identify Frame Source & Destination [Fit VLAN Information within Frame] <br/>
+				- Add VLAN Field [Sending Information over Trunk] <br/>
+					- VLAN Header [Specify Destination VLAN] <br/>
+						- Packet Analyser [``12`` bits = 4094 VLANs] <br/>
+						- Cisco Switches <br/>
+							- Normal Range [``1`` to ``1005``] <br/>
+							- Extended Range [``1006`` to ``4094``] <br/>
+						- Other Switches [``1`` to ``4094``] <br/>
+						- Reserved VLAN Numbers [``0`` & ``4095``] <br/>
+							- Cannot Specify as separate VLANs on Switch <br/>
+			- Trunking Process [``Demo``] <br/>
+				- Information sent to the ``.1Q`` Interface <br/>
+					- Add VLAN Information to the Frame <br/>
+						- Sent across Trunk <br/>
+				- Other Side VLAN Tag taken out of Frame <br/>
+					- Sent to appropriate VLAN <br/>
+			- Trunk [No Longer Used]  <br/>
+				- Inter-Switch Link (ISL) <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
