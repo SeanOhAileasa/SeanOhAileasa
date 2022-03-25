@@ -697,7 +697,7 @@
 								- Device on other side of the Communication <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Network Segmentation</summary>
 
 - Local Area Network <br/>
@@ -748,6 +748,59 @@
 					- Sent to appropriate VLAN <br/>
 			- Trunk [No Longer Used]  <br/>
 				- Inter-Switch Link (ISL) <br/>
+</details>
+
+<details open>
+	<summary>Spanning Tree Protocol</summary>
+
+- Ethernet Switches [Connect via Single Cable] <br/>
+	- Second Cable [Creates Loop between both Switches] <br/>
+		- No Counting Mechanism at the MAC Layer [Until Cable Pulled out of a Switch] <br/>
+			- Sending Traffic back and forth Forever <br/>
+				- Break Network <br/>
+- Loop Protection <br/>
+	- Spanning Tree Protocol (STP) <br/>
+		- Standards <br/>
+			- ``802.1D`` <br/>
+		- Prevent Loops (Bridged [Switched] Networks) <br/>
+			- MAC Layer <br/>
+		- Port Configured to use STP <br/>
+			- States <br/>
+				- Blocking <br/>
+					- ``!=`` Forwarding to Prevent Loop <br/>
+				- Listening <br/>
+					- ``!=`` Forwarding & Cleaning the MAC Table <br/>
+				- Learning <br/>
+					- ``!=`` Forwarding & Adding to the MAC Table <br/>
+				- Forwarding <br/>
+					- Data Passes Through (Fully Operational) <br/>
+				- Disabled <br/>
+					- Administrator Turns Off Port <br/>
+		- Configured (Automatically - May take Longer Path Traversal) Interfaces [``Demo``] <br/>
+			- Root Switch [x1 on any STP Network] <br/>
+				- Root Port (RP) <br/>
+					- Other Switches [Interface closest to Root Switch designated Root Port] <br/>
+						- Allows Traffic to Traverse Particular Interface <br/>
+							- Other Interface <br/>
+								- Traffic Allowed to Traverse <br/>
+									- Designated Port (DP) <br/>
+							- Port STP Disabled [Prevent Loop] <br/>
+								- Blocked Port (BP) <br/>
+								![Image: STP Network](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/stp-network.png?raw=true) <br/>
+		- Switch Fails or Link Disconnected <br/>
+			- Converge Network & Restructure Devices [Reconfigure through STP] <br/>
+				- Maintains Loop Free Environment <br/>
+					- Convergence Process [Network Back] <br/>
+						- ``30`` to ``50`` Seconds <br/>
+				![Image: Switch or Link Fails then STP Reconfigures](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/link-broken-stp-reconfigure.png?raw=true) <br/>
+	- STP Updated <br/>
+		- Rapid Spanning Tree Protocol (RSTP) <br/>
+			- Standard <br/>
+				- ``802.1w`` <br/>
+					- Convergence Process [Network Back] <br/>
+						- 	``6`` Seconds <br/>
+					- Backwards-compatible with ``802.1D`` STP [Mix in Network] <br/>
+					- Update not Wholesale Change <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
