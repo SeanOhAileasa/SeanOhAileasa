@@ -438,8 +438,8 @@
 <details close>
 	<summary>Introduction to Ethernet</summary>
 
-- Small Office/Home Office (SOHO) Local Area Network (LAN) [``Demo``] <br/>
-- Enterprise Network [``Demo``] <br/>
+- Small Office/Home Office (SOHO) Local Area Network (LAN) <br/>
+- Enterprise Network <br/>
 - Ethernet Frame [Packet Analyser] <br/>
 	- Preamble [``7`` bytes] <br/>
 		- ``101010...`` <br/>
@@ -466,7 +466,7 @@
 			- Half-duplex <br/>
 				- Device ``!=`` Send/Receive Simultaneously <br/>
 					- Send Only or Receive Only <br/>
-				- Hub [``Demo``] - [All Traffic to All Devices] <br/>
+				- Hub - [All Traffic to All Devices] <br/>
 					- Communicate Simultaneously <br/>
 						- Frames create a Collision <br/>
 							- Wait Random Time <br/>
@@ -487,7 +487,7 @@
 			- Full-duplex  <br/>
 				- Device ``==`` Send/Receive Simultaneously <br/>
 					- Switch + Endstation Configured Correctly <br/>
-				- Switch Interface [``Demo``] <br/>
+				- Switch Interface <br/>
 					- Determines Intelligently Traffic <br/>
 						- Source creates Ethernet Frame [MAC Address] <br/>
 							- Frame to Switch <br/>
@@ -519,21 +519,21 @@
 		- Associated Interfaces <br/>
 	- Prevent Network Loops  <br/>
 		- Spanning Tree Protocol (STP) <br/>
-- Frame Switching [``Demo``] <br/>
+- Frame Switching <br/>
 	- Fast Ethernet ``F``  <br/>
 		- Slot (Card) ``F#``  <br/>
 			- Interface (Device) ``F#/#`` [MAC Address] <br/>
 	- Table [within Switch] <br/>
 		- List of seen MAC Addresses <br/>
 		- List of associated Output Interfaces <br/>
-- Frame Switching between Switches [``Demo``] <br/>
+- Frame Switching between Switches <br/>
 	- Independent Table (each Switch) <br/>
 		- List of MAC Addresses <br/>
 		- List of Output Interfaces <br/>
-- Learn the MACs (Incoming Traffic - Note Source) [``Demo``] <br/>
-	- Flooding Unknown MACs [``Demo``] <br/>
+- Learn the MACs (Incoming Traffic - Note Source) <br/>
+	- Flooding Unknown MACs <br/>
 		- Send Frame to All <br/>
-	- No Flooding of MACs [``Demo``] <br/>
+	- No Flooding of MACs <br/>
 - Address Resolution Protocol (ARP) <br/>
 	- Broadcast [Determine MAC Address based on IP Address] <br/>
 		- Packet Analyzer <br/>
@@ -555,15 +555,15 @@
 				- Clear Network [Sending Jam Signal] <br/>
 					- Retransmit <br/>
 	- Historial Footnote [One Big Segment] <br/>
-		- Coax Network [``Demo``] <br/>
+		- Coax Network <br/>
 			- Stations Connected on same Cable <br/>
-		- Ethernet Hub [``Demo``] <br/>
+		- Ethernet Hub <br/>
 			- Stations Connected to Central Device <br/>
-	- Segment different Networks (Segment out Collision Domains) [``Demo``] <br/>
+	- Segment different Networks (Segment out Collision Domains) <br/>
 		- Switch (or Bridge) <br/>
 			- Each side of Switch a different Collision Domain <br/>
 	- Modern Footnote <br/>
-		- Switch (Collision Domains Removed) [``Demo``] <br/>
+		- Switch (Collision Domains Removed) <br/>
 			- Full-duplex <br/>
 				- Stations can Send / Receive Simultaneously <br/>
 					- No Concern of a Collision <br/>
@@ -575,10 +575,10 @@
 			- Operating System Notifications <br/>
 			- Some Dynamic Routing Protocols <br/>
 				- Advertise Available Network Routes <br/>
-- Broadcast Domains [``Demo``] <br/>
+- Broadcast Domains <br/>
 	- Switch Network [Switch / Bridge] <br/>
 		- All See Broadcast <br/>
-	- Router [``Demo``] <br/>
+	- Router <br/>
 		- Separating Network <br/>
 			- Block Broadcast <br/>
 	- Segment Network 
@@ -632,7 +632,7 @@
 	- UDP <br/>
 		- PDU <br/>
 			- UDP Datagram <br/>
-- Source to Destination [``Demo``] <br/>
+- Source to Destination <br/>
 	- Encapsulation <br/>
 		- OSI Layer [7, 6, & 5] <br/>
 			- Data Associated with Application <br/>
@@ -664,7 +664,7 @@
 				- Commonly Automated when Session is Established <br/>
 					- Internet Control Message Protocol (ICMP) Filtered [Often Inaccurate] <br/>
 						- Requiring Manual Configuration [MTU Values] <br/>
-		- Build Ethernet Frame (Fragmentation affects the Information) [``Demo``] <br/>
+		- Build Ethernet Frame (Fragmentation affects the Information) <br/>
 			- TCP Data [1460 bytes]  <br/>
 				- TCP Header [20 bytes] <br/>
 					- IP Header [20 bytes] <br/>
@@ -703,16 +703,16 @@
 - Local Area Network <br/>
 	- Physical <br/>
 		- Group of Devices in the same Broadcast Domain <br/>
-			- Switches (x2) [``Demo``] <br/>
+			- Switches (x2) <br/>
 				- Broadcast Domains (x2) [Devices not aware of other Switches] <br/>
 					- Segmentation via Physical Devices [No VLAN] <br/>
 						- Difficult to Scale <br/>
 						![Image: Devices in Same Broadcast Domain (Physical)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/physical-segmentation.png?raw=true) <br/>
-	- Logical [Segmentation within Switch] [``Demo``] <br/>
+	- Logical [Segmentation within Switch] <br/>
 		- Virtual LAN (VLAN) [Separated Logically] <br/>
 		![Image: Devices in Same Broadcast Domain (Logical)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/logical-segmentation.png?raw=true) <br/>
 			- Configuration <br/>
-				- Multiple Switches [``Demo``] <br/>
+				- Multiple Switches <br/>
 					- Trunk [Physical Connection between Switches] <br/>
 						- Transmit Multiple VLANs across Trunk <br/>
 							- Standard ``802.1Q`` [``.1Q`` Trunk] <br/>
@@ -740,7 +740,7 @@
 						- Other Switches [``1`` to ``4094``] <br/>
 						- Reserved VLAN Numbers [``0`` & ``4095``] <br/>
 							- Cannot Specify as separate VLANs on Switch <br/>
-			- Trunking Process [``Demo``] <br/>
+			- Trunking Process <br/>
 				- Information sent to the ``.1Q`` Interface <br/>
 					- Add VLAN Information to the Frame <br/>
 						- Sent across Trunk <br/>
@@ -776,7 +776,7 @@
 					- Data Passes Through (Fully Operational) <br/>
 				- Disabled <br/>
 					- Administrator Turns Off Port <br/>
-		- Configured (Automatically - May take Longer Path Traversal) Interfaces [``Demo``] <br/>
+		- Configured (Automatically - May take Longer Path Traversal) Interfaces <br/>
 			- Root Switch [x1 on any STP Network] <br/>
 				- Root Port (RP) <br/>
 					- Other Switches [Interface closest to Root Switch designated Root Port] <br/>
@@ -803,7 +803,7 @@
 					- Update not Wholesale Change <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Switch Interface Properties</summary>
 
 - Interface Configuration <br/>
@@ -823,8 +823,7 @@
 		- VLAN Interface [Determine Membership] <br/>
 			- Assign VLAN # to Interface Connected to Device [Port assigned a VLAN] <br/>
 		- Designated Trunk Interfaces <br/>
-			- Specify as a Trunk Interface [VLANs that can Communicate via Trunk] <br/>
-				- Connecting Switches Together <br/>
+			- Specify as a Trunk Interface [Connecting Switches Together] <br/>
 			- Specify VLANs allowed to Communicate via Trunk <br/> 
 		- Switch Tagged Frame [Information] <br/>
 			- VLAN Number <br/>
@@ -875,6 +874,68 @@
 				- Create Tapped Connection [Copy] <br/>
 					- Data to Destination <br/>
 					- Copy of Data sent to IPS <br/>
+</details>
+
+<details open>
+	<summary>Static and Dynamic Routing</summary>
+
+- Send IP Packets [Across Network] <br/>
+	- Forwarding Decisions [Based on Destination IP Address] <br/>
+- Routing [Knows the Next Step] <br/>
+	- Packet asks for Directions [Every Hop Along the Way] <br/>
+		- Directions (Steps) held in a Routing Table <br/>
+	- Static Routing [Define List of Available Routes] <br/>
+		- Administrator Define the Routes Manually <br/>
+			- Advantages <br/>
+				- Small/Simple Network [Easier if Statically Routed] <br/>
+				- No Overhead from Routing Protocols <br/>
+					- CPU <br/>
+					- Memory <br/>
+					- Bandwidth <br/>
+				- Remote Sites [Sub Networks] <br/>
+					- One way to send Data <br/>
+				- Consider to be Secure  <br/>
+					- No Routing Protocols Analysing how Traffic is Forwarded <br/>
+			- Disadvanges <br/>
+				- Difficult to Administer on Larger Networks <br/>
+				- No Automatic Method to prevent Routing Loops <br/>
+				- Link down (Network Change) requires Manual Reconfiguration <br/>
+					- No Automatic Routing if Outage Occurs <br/>
+		- Configuration [x2 Static Routes] <br/>
+			- Table Update [Perspective of Particular Router (Router 1)] <br/>
+				- Network Address (Sam) [Route] <br/>
+					- ``10.10.20.0/24`` [Network of Jack] <br/>
+						- Router Address [Next Hop] <br/>
+							- ``10.10.40.2/24`` [Hop to Jack] <br/>					
+					- ``10.10.30.0/24`` [Network of Teal'c] <br/>
+						- Router Address [Next Hop] <br/>
+							- ``10.10.50.2/24`` [Hop to Teal'c] <br/>
+				![Image: Static Routes](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/static-routes.png?raw=true) <br/>
+	- Dynamic Routing <br/>
+		- Routers Send Updates [(Almost) Real-time] <br/>
+			- Advantages <br/>
+				- No Manual Route Calculations or Management <br/>
+				- New Routers Populated Automatically <br/>
+				- Very Scalable <br/>
+			- Disadvantages <br/>
+				- Uses bandwidth to send Updates <br/>
+					- Overhead Required [CPU - Memory - Bandwidth] <br/>
+				- Requires Some Inital Configuration <br/>
+		- Configuration [Automatic] <br/>
+			- Remote Routers <br/>
+				- Send Routing Update [All other Routers] <br/>
+					- Receiving Router [Table (Routing) Automatically Updated] <br/>
+						- Routing Information Protocol (RIPv2) Update <br/>
+	- Gateway of Last Resort <br/>
+		- Default Route [Special Static Route] <br/>
+			- Configured inside Router <br/>
+				- No Match <br/>
+					- Then Send this Way <br/>
+			- Router make no Traffic Routing Decisions <br/> 
+				- Remote Site [Common] <br/>
+					- Traffic [One-way] <br/>
+						- Traffic Inside [Send Traffic Outside] <br/> 
+						- Traffic Outside [Send Traffic Inside] <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
