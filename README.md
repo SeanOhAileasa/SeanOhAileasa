@@ -876,7 +876,7 @@
 					- Copy of Data sent to IPS <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Static and Dynamic Routing</summary>
 
 - Send IP Packets [Across Network] <br/>
@@ -925,7 +925,7 @@
 			- Remote Routers <br/>
 				- Send Routing Update [All other Routers] <br/>
 					- Receiving Router [Table (Routing) Automatically Updated] <br/>
-						- Routing Information Protocol (RIPv2) Update <br/>
+						- Routing Information Protocol Version 2 (RIPv2) Update <br/>
 	- Gateway of Last Resort <br/>
 		- Default Route [Special Static Route] <br/>
 			- Configured inside Router <br/>
@@ -936,6 +936,46 @@
 					- Traffic [One-way] <br/>
 						- Traffic Inside [Send Traffic Outside] <br/> 
 						- Traffic Outside [Send Traffic Inside] <br/>
+</details>
+
+<details open>
+	<summary>Interior Gateway Protocol (IGP) and Exterior Gateway Protocol (EGP)</summary>
+
+- Interior Vs. Exterior <br/>
+	- Autonomous System (AS) <br/>
+		- Existing as an Independent Entity [Independent Network] <br/>
+			- Group of IP Addresses under Common Control [IP Networks] <br/>
+		- Point of Reference <br/>
+			- Networks inside of our Control <br/>
+			- Networks outside of our Control <br/>
+- Interior Gateway Protocol (IGP) <br/>
+	- Within Single Automous System (AS) [Internal] <br/>
+		- ``!=`` Route between AS [Outside of our Control] <br/>
+	- IPv4 [Dynamic Routing Protocols] <br/>
+		- Open Shortest Path First Version 2 (OSPFv2) <br/>
+		- Routing Information Protocol Version 2 (RIPv2) <br/>
+		- Cisco Networks <br/>
+			- Enhanced Interior Gateway Routing Protocol (EIGRP) <br/>
+	- IPv6 [Dynamic Routing Protocols] <br/>
+		- Open Shortest Path First Version 3 (OSPFv3) <br/>
+		- Routing Information Protocol next generation (RIPng) <br/>
+		- Enhanced Interior Gateway Routing Protocol (EIGRP) for IPv6 <br/>
+- Exterior Gateway Protocol [Route Between AS] <br/>
+	- Leverages IGP at the AS to handle Local Routing <br/>
+	- Border Gateway Protocol (BGP) [Routing Protocol] <br/>
+		- Connect to Internet <br/>
+- Interior & Exterior Routing <br/>
+	- Autonomous System (x4) <br/>
+		- Running Protocols <br/>
+			- Routing Information Protocol (RIP) <br/>
+			- Enhanced Interior Gateway Routing Protocol (EIGRP) <br/>
+			- Open Shortest Path First (OSPF) <br/>
+			- Routing Information Protocol Version 2 (RIPv2) <br/>
+		- Communicate Outside AS <br/>
+			- Using Exterior Protocol [Border Gateway Protocol (BGP)] <br/>
+				- Internet Connection <br/>
+				- All Device [Route from One Side to the Other] <br/>
+				![Image: Border Gateway Protocol (BGP)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/bgp.png?raw=true) <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
