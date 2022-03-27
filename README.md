@@ -750,7 +750,7 @@
 				- Inter-Switch Link (ISL) <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Spanning Tree Protocol</summary>
 
 - Ethernet Switches [Connect via Single Cable] <br/>
@@ -801,6 +801,80 @@
 						- 	``6`` Seconds <br/>
 					- Backwards-compatible with ``802.1D`` STP [Mix in Network] <br/>
 					- Update not Wholesale Change <br/>
+</details>
+
+<details open>
+	<summary>Switch Interface Properties</summary>
+
+- Interface Configuration <br/>
+	- Ethernet <br/>
+		- Speed [10 / 100 / 1000 or Faster Ethernet] & Duplex [Half / Full] <br/>
+			- Setting must Match at both Sides [Automatic or Manual] <br/>
+		- IP Address [Particular Interface] <br/>
+			- Layer 3 Interfaces [on a Router] <br/>
+			- VLAN Interfaces [Access to particular VLAN on a Switch] <br/>
+			- Management Interfaces <br/>
+			- Workstation <br/>
+				- IP Address <br/>
+				- Subnet Mask / CIDR Block <br/>
+				- Default Gateway <br/>
+				- DNS (Optional) <br/>
+	- Switch <br/>
+		- VLAN Interface [Determine Membership] <br/>
+			- Assign VLAN # to Interface Connected to Device [Port assigned a VLAN] <br/>
+		- Designated Trunk Interfaces <br/>
+			- Specify as a Trunk Interface [VLANs that can Communicate via Trunk] <br/>
+				- Connecting Switches Together <br/>
+			- Specify VLANs allowed to Communicate via Trunk <br/> 
+		- Switch Tagged Frame [Information] <br/>
+			- VLAN Number <br/>
+				- VLAN Tag Removed from Frame on other Side <br/> 
+					- Frame Placed on the Proper VLAN <br/>
+		- Switch Untagged Frame <br/>
+			- Send Management Frames [Common] <br/>
+				- Default or Native VLAN <br/>
+					- Traffic on particular VLAN ``!=`` Tag Added going across Trunk <br/>
+					![Image: Trunk](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/trunk.png?raw=true) <br/>
+		- Demilitarised Zone (DMZ) [Additional Layer of Security] <br/>
+			- Access from Outside [Access Certain Resources within DMZ] <br/>
+				- Prevents Access to Internal Network [Devices] <br/>
+				![Image: Demilitarised Zone](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/dmz.png?raw=true) <br/>
+		- Ethernet Cable [Switch Power over Ethernet (PoE)] <br/>
+			- Data Connection <br/>
+				- Power [x1 Wire for Network & Electricity] <br/>
+					- Power over Ethernet (PoE) [Power Difficulty due to Location] <br/>
+						- VoIP Phone <br/>
+						- Wireless Access Point (AP) <br/>
+						- Remote Camera [Security] <br/>
+					- Switch provides Power [Power over Ethernet (PoE)] <br/>
+						- Endspan Power over Ethernet Connection [Built-in Power] <br/>
+						- Switch ``!=`` Power over Ethernet (PoE) Capability <br/>
+							- Midspan [Power Injector in the Middle of the Communication] <br/>
+						- Power Modes [Power over Ethernet (PoE)] <br/>
+							- A <br/>
+								- Power on same Wires used for Data <br/>
+							- B <br/>
+								- Spare Wires used for the Power <br/>
+						- Specification [PoE] <br/>
+							- PoE IEEE ``802.3af-2003`` <br/>
+								- Original [Part of ``802.3`` Ethernet Standard] <br/>
+								- DC Power [Over PoE Connection] <br/>
+									- ``15.4W`` <br/>
+									- ``350mA`` [Maximum Current] <br/>
+							- PoE+ IEEE ``802.3at-2009`` <br/>
+								- Updated [Part of ``802.3`` Ethernet Standard)] <br/>
+								- DC Power [Over PoE Connection] <br/>
+									- ``25.5W`` <br/>
+									- ``600mA`` [Maximum Current] <br/>
+	- Port Mirroring <br/>
+		- Connect Monitoring Device [Switch Port Analyser (SPAN)] <br/>
+			- Traffic Examination [Copy] <br/>
+				- Send to Monitoring Device <br/>
+		- Intrusion Prevention System (IPS) <br/>
+			- Configure IPS Switch [Be a Port Mirror (SPAN Port)] <br/>
+				- Create Tapped Connection [Copy] <br/>
+					- Data to Destination <br/>
+					- Copy of Data sent to IPS <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
