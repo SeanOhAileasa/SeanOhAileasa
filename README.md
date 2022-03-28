@@ -205,8 +205,8 @@
 <details open>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
-<details open>
-	<summary>&#x21A9; CompTIA Network+</summary>
+<details close>
+	<summary><b>CompTIA Network+</b></summary>
 <!--	
 - { ["**CompTIA Network+**"](https://github.com/SeanOhAileasa/nkp) : &#x1F6A7; }
 -->
@@ -276,9 +276,8 @@
 "add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
 -->
 
-###### Network Concepts
 <details open>
-	<summary>&#x21A9;</summary>
+	<summary>Network Concepts &#x21A9;</summary>
 
 - { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
 
@@ -876,7 +875,7 @@
 					- Copy of Data sent to IPS <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Static and Dynamic Routing</summary>
 
 - Send IP Packets [Across Network] <br/>
@@ -925,7 +924,7 @@
 			- Remote Routers <br/>
 				- Send Routing Update [All other Routers] <br/>
 					- Receiving Router [Table (Routing) Automatically Updated] <br/>
-						- Routing Information Protocol (RIPv2) Update <br/>
+						- Routing Information Protocol Version 2 (RIPv2) Update <br/>
 	- Gateway of Last Resort <br/>
 		- Default Route [Special Static Route] <br/>
 			- Configured inside Router <br/>
@@ -938,11 +937,50 @@
 						- Traffic Outside [Send Traffic Inside] <br/>
 </details>
 
+<details open>
+	<summary>Interior Gateway Protocol (IGP) and Exterior Gateway Protocol (EGP)</summary>
+
+- Interior Vs. Exterior <br/>
+	- Autonomous System (AS) <br/>
+		- Existing as an Independent Entity [Independent Network] <br/>
+			- Group of IP Addresses under Common Control [IP Networks] <br/>
+		- Point of Reference <br/>
+			- Networks inside of our Control <br/>
+			- Networks outside of our Control <br/>
+- Interior Gateway Protocol (IGP) <br/>
+	- Within Single Automous System (AS) [Internal] <br/>
+		- ``!=`` Route between AS [Outside of our Control] <br/>
+	- IPv4 [Dynamic Routing Protocols] <br/>
+		- Open Shortest Path First Version 2 (OSPFv2) <br/>
+		- Routing Information Protocol Version 2 (RIPv2) <br/>
+		- Cisco Networks <br/>
+			- Enhanced Interior Gateway Routing Protocol (EIGRP) <br/>
+	- IPv6 [Dynamic Routing Protocols] <br/>
+		- Open Shortest Path First Version 3 (OSPFv3) <br/>
+		- Routing Information Protocol next generation (RIPng) <br/>
+		- Enhanced Interior Gateway Routing Protocol (EIGRP) for IPv6 <br/>
+- Exterior Gateway Protocol [Route Between AS] <br/>
+	- Leverages IGP at the AS to handle Local Routing <br/>
+	- Border Gateway Protocol (BGP) [Routing Protocol] <br/>
+		- Connect to Internet <br/>
+- Interior & Exterior Routing <br/>
+	- Autonomous System (x4) <br/>
+		- Running Protocols <br/>
+			- Routing Information Protocol (RIP) <br/>
+			- Enhanced Interior Gateway Routing Protocol (EIGRP) <br/>
+			- Open Shortest Path First (OSPF) <br/>
+			- Routing Information Protocol Version 2 (RIPv2) <br/>
+		- Communicate Outside AS <br/>
+			- Using Exterior Protocol [Border Gateway Protocol (BGP)] <br/>
+				- Internet Connection <br/>
+				- All Device [Route from One Side to the Other] <br/>
+				![Image: Border Gateway Protocol (BGP)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/bgp.png?raw=true) <br/>
+</details>
+
 </details> <!-- END (Network Concepts) -->
 
-###### Infrastructure
 <details close>
-	<summary>&#x21A9;</summary>
+	<summary>Infrastructure &#x21A9;</summary>
 
 - { ["**Infrastructure**"](#) : &#x1F4CC; }
 
@@ -955,9 +993,8 @@
 	- { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
 </details> <!-- END (Infrastructure) -->
 
-###### Network Operations
 <details close>
-	<summary>&#x21A9;</summary>
+	<summary>Network Operations &#x21A9;</summary>
 
 - { ["**Network Operations**"](#) : &#x1F4CC; }
 
@@ -972,9 +1009,8 @@
 	- { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
 </details> <!-- END (Network Operations) -->
 
-###### Network Security
 <details close>
-	<summary>&#x21A9;</summary>
+	<summary>Network Security &#x21A9;</summary>
 
 - { ["**Network Security**"](#) : &#x1F4CC; }
 
@@ -991,9 +1027,8 @@
 	- { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
 </details> <!-- END (Network Security) -->
 
-###### Network Troubleshooting and Tools
 <details close>
-	<summary>&#x21A9;</summary>
+	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 
 - { ["**Network Troubleshooting and Tools**"](#) : &#x1F4CC; }
 
@@ -1006,7 +1041,12 @@
 	- { ["**Wireless Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wireless-connectivity-issues) : &#x1F6A7; }
 </details> <!-- END (Network Troubleshooting and Tools) -->
 
-</details>
+</details> <!-- END (CompTIA Network+) -->
+
+<br/>
+
+<details close>
+	<summary><b>Supplemental</b></summary>
 
 <!-- 
 ### HSE Ransomware Research
@@ -1072,4 +1112,6 @@
 -->
 * { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F6A7; }
 
-</details>
+</details> <!-- END (Supplemental) -->
+
+</details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
