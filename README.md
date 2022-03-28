@@ -205,8 +205,8 @@
 <details open>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
-<details open>
-	<summary>&#x21A9; CompTIA Network+</summary>
+<details close>
+	<summary><b>CompTIA Network+</b></summary>
 <!--	
 - { ["**CompTIA Network+**"](https://github.com/SeanOhAileasa/nkp) : &#x1F6A7; }
 -->
@@ -276,9 +276,8 @@
 "add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
 -->
 
-###### Network Concepts
 <details open>
-	<summary>&#x21A9;</summary>
+	<summary>Network Concepts &#x21A9;</summary>
 
 - { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
 
@@ -980,9 +979,8 @@
 
 </details> <!-- END (Network Concepts) -->
 
-###### Infrastructure
 <details close>
-	<summary>&#x21A9;</summary>
+	<summary>Infrastructure &#x21A9;</summary>
 
 - { ["**Infrastructure**"](#) : &#x1F4CC; }
 
@@ -995,9 +993,8 @@
 	- { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
 </details> <!-- END (Infrastructure) -->
 
-###### Network Operations
 <details close>
-	<summary>&#x21A9;</summary>
+	<summary>Network Operations &#x21A9;</summary>
 
 - { ["**Network Operations**"](#) : &#x1F4CC; }
 
@@ -1012,9 +1009,8 @@
 	- { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
 </details> <!-- END (Network Operations) -->
 
-###### Network Security
 <details close>
-	<summary>&#x21A9;</summary>
+	<summary>Network Security &#x21A9;</summary>
 
 - { ["**Network Security**"](#) : &#x1F4CC; }
 
@@ -1031,9 +1027,8 @@
 	- { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
 </details> <!-- END (Network Security) -->
 
-###### Network Troubleshooting and Tools
 <details close>
-	<summary>&#x21A9;</summary>
+	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 
 - { ["**Network Troubleshooting and Tools**"](#) : &#x1F4CC; }
 
@@ -1046,7 +1041,30 @@
 	- { ["**Wireless Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wireless-connectivity-issues) : &#x1F6A7; }
 </details> <!-- END (Network Troubleshooting and Tools) -->
 
-</details>
+</details> <!-- END (CompTIA Network+) -->
+
+<br/>
+
+<details close>
+	<summary><b>CompTIA Security+</b></summary>
+<!--
+28/03/2022
+"add repository ./syp-identifying-social-engineering-and-types-of-attacks - CompTIA Security+ - Phising and it Variants (eCollege)."
+-->
+
+<details open>
+	<summary>Attacks, Threats and Vulnerabilities &#x21A9;</summary>
+
+- { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-identifying-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
+
+</details> <!-- END (Attacks, Threats and Vulnerabilities) -->
+
+</details> <!-- END (CompTIA Security+) -->
+
+<br/>
+
+<details close>
+	<summary><b>Supplemental</b></summary>
 
 <!-- 
 ### HSE Ransomware Research
@@ -1111,5 +1129,7 @@
 "..."
 -->
 * { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F6A7; }
+
+</details> <!-- END (Supplemental) -->
 
 </details>
