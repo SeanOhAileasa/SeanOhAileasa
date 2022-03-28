@@ -1046,6 +1046,24 @@
 <br/>
 
 <details close>
+	<summary><b>CompTIA Security+</b></summary>
+<!--
+28/03/2022
+"add repository ./syp-identifying-social-engineering-and-types-of-attacks - CompTIA Security+ - Phising and it Variants (eCollege)."
+-->
+
+<details open>
+	<summary>Attacks, Threats and Vulnerabilities &#x21A9;</summary>
+
+- { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-identifying-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
+
+</details> <!-- END (Attacks, Threats and Vulnerabilities) -->
+
+</details> <!-- END (CompTIA Security+) -->
+
+<br/>
+
+<details close>
 	<summary><b>Supplemental</b></summary>
 
 <!-- 
