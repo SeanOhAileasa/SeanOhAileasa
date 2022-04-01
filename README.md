@@ -205,7 +205,7 @@
 <details open>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA Network+</b></summary>
 <!--	
 - { ["**CompTIA Network+**"](https://github.com/SeanOhAileasa/nkp) : &#x1F6A7; }
@@ -937,7 +937,7 @@
 						- Traffic Outside [Send Traffic Inside] <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Interior Gateway Protocol (IGP) and Exterior Gateway Protocol (EGP)</summary>
 
 - Interior Vs. Exterior <br/>
@@ -973,8 +973,66 @@
 		- Communicate Outside AS <br/>
 			- Using Exterior Protocol [Border Gateway Protocol (BGP)] <br/>
 				- Internet Connection <br/>
-				- All Device [Route from One Side to the Other] <br/>
+				- All Device [Route from One Side to the Other]  
 				![Image: Border Gateway Protocol (BGP)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/bgp.png?raw=true) <br/>
+</details>
+
+<details open>
+	<summary>Dynamic Routing Protocols</summary>
+
+- Routing Network [Use a Dynamic Routing Protocol] <br/>
+	- Communicates between Routers [Know All Available Routes] <br/>
+		- Provide Subnet Information to the Routers <br/>
+- Determine Best Path (based on Gathered Information) [Forward Traffic] <br/>
+	- Outage (Link Down) Reconverge [Build new Routes] <br/>
+		- Update Routes <br/>
+			- Every Dynamic Routing Protocol has different Convergence Process <br/>
+- Router Determines Traffic Path <br/>
+	- List Best Routes to Worst Routes <br/>
+		- Distance [Hops] <br/>
+			- Algorithm [Formula] <br/>
+				- Distance-ventor Routing Protocols <br/>
+					- ``#`` of Hops <br/>
+						- Vector [Distance] <br/>
+					- Usually Automatic <br/>
+						- Very Little Configuration <br/>
+					- Good for Smaller Networks <br/>
+						- ``!=`` Scale to very Larget Networks <br/>
+					- Standard <br/>
+						- Routing Information Protocol (RIP) <br/>
+						- Routing Information Protocol Version 2 (RIPv2) <br/>
+						- Enhanced Interior Gateway Routing Protocol (EIGRP) [Cisco] <br/>
+					- ``!=`` Speed <br/>
+						- Lowest Hops to Destination [Sam: ``R2`` ``R1``] <br/> 
+						![Image: Distance-vector Routing](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/distance-vector-routing-protocol.png?raw=true) <br/>
+		- Link State [Quality] <br/>
+			- Algorithm [Formula] <br/>
+				- Link-state Routing Protocols <br/>
+					- Connection Quality <br/>
+						- Information Passed (Routers) related to current Connectivity <br/>
+							- Up [Can Get There] <br/>
+							- Down [Cannot Get There] <br/>
+					- Considers Speed of Link <br/>
+						- Faster Link gets Higher Priorty <br/>
+					- Very Scalable <br/>
+						- Used most often in Large Networks <br/>
+					- Standard <br/>
+						- Open Shortest Path First (OSPF) <br/>
+					- ``!=`` Distance <br/>
+						- Fastest Connection to Destination [Sam: ``R2`` ``R3`` ``R1``] <br/>
+						![Image: Link-state Routing](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/link-state-routing-protocol.png?raw=true) <br/>
+		- Hybrid Routing Protocols <br/>
+			- Combined Distance-vector and Link-state <br/>
+				- Border Gateway Protocol (BGP) <br/>
+					- Route based on Paths or Network Policies or Configured Rule-sets <br/>
+- Environment [Dynamic Routing Protocol to Use] <br/>
+	- Convergence [Rebuilding Routes (Outage or Link Down)] <br/>
+		- Time <br/>
+	- Standard Protocols <br/>
+		- Routing Information Protocol (RIP) [Distance-vector] <br/>
+		- Open Shortest Path First (OSPF) [Link-state] <br/>
+	- Proprietary Protocols <br/>
+		- Enhanced Interior Gateway Routing Protocol (EIGRP) [Cisco] <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
