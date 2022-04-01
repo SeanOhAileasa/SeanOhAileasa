@@ -196,9 +196,9 @@
 
 |Stage|**ICT Associate Apprenticeship Cybersecurity:**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
-| 1     | CompTIA IT Fundamentals &#x1F6A7;               | O/S   |
-| 1     | CompTIA Network+ &#x1F6A7;                      | O/S   |
-| 1     | CompTIA Security+ (5-Day College)               | O/S   |
+| 1     | CompTIA IT Fundamentals+                        | PASS  |
+| 1     | CompTIA Network+ &#x1F6A7;                      | WIP   |
+| 1     | CompTIA Security+ &#x1F6A7;                     | WIP   |
 | 2     | CompTIA CySA+ (2-Day College)                   | O/S   |
 | 3     | CompTIA PenTest+ (1-Day College)                | O/S   |
 
