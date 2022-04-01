@@ -977,7 +977,7 @@
 				![Image: Border Gateway Protocol (BGP)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/bgp.png?raw=true) <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Dynamic Routing Protocols</summary>
 
 - Routing Network [Use a Dynamic Routing Protocol] <br/>
@@ -1033,6 +1033,31 @@
 		- Open Shortest Path First (OSPF) [Link-state] <br/>
 	- Proprietary Protocols <br/>
 		- Enhanced Interior Gateway Routing Protocol (EIGRP) [Cisco] <br/>
+</details>
+
+<details open>
+	<summary>IPv4 and IPv6 Addressing</summary>
+
+- TCP/IP [Network Protocol of Choice] <br/>
+	- Devices assigned Unique IP Address <br/>
+		- Combined with Subnet Mask <br/>
+			- Local Device to Determine what IP Subnet its Lives <br/>
+			- Not Transmitted across the Network [Local Device] <br/>
+- IP Address [``!=`` Single Address] <br/>
+	- Combination of Network ID and Host ID <br/>
+		- Subnet Mask Determines (via IP Address) the Network and Host <br/>
+			- Just as Important as the IP Address <br/>
+	- OSI Layer 3 Addresses <br/>
+		- IPv4 (Internet Protocol version 4) <br/>
+			- 32-bit Address <br/>
+			![Image: IPv4 Address](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/ipv4-address.png?raw=true) <br/>
+		- IPv6 (Internet Protocol version 6) <br/>
+			- 128-bit Address [340 Undecillion] <br/>
+			![Image: IPv4 Address](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/ipv6-address.png?raw=true) <br/>
+			- Compression <br/>
+				- Group Zeros [Abbreviated ``::`` (x1 Only)] <br/>
+				- Leading Zeros Optional <br/>
+				![Image: IPv4 Address](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/ipv4-address-compression.png?raw=true) <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
