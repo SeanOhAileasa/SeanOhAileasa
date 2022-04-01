@@ -196,9 +196,9 @@
 
 |Stage|**ICT Associate Apprenticeship Cybersecurity:**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
-| 1     | CompTIA IT Fundamentals+                        | PASS  |
-| 1     | CompTIA Network+ &#x1F6A7;                      | WIP   |
-| 1     | CompTIA Security+ &#x1F6A7;                     | WIP   |
+| 1     | CompTIA IT Fundamentals+                        | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://www.credly.com/badges/d628d8c9-4469-47b1-98d3-cded57ab813b/public_url)|
+| 1     | CompTIA Network+                                | &#x1F6A7;   |
+| 1     | CompTIA Security+                               | &#x1F6A7;   |
 | 2     | CompTIA CySA+ (2-Day College)                   | O/S   |
 | 3     | CompTIA PenTest+ (1-Day College)                | O/S   |
 
@@ -1035,7 +1035,7 @@
 		- Enhanced Interior Gateway Routing Protocol (EIGRP) [Cisco] <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>IPv4 and IPv6 Addressing</summary>
 
 - TCP/IP [Network Protocol of Choice] <br/>
@@ -1058,6 +1058,43 @@
 				- Group Zeros [Abbreviated ``::`` (x1 Only)] <br/>
 				- Leading Zeros Optional <br/>
 				![Image: IPv4 Address](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/ipv4-address-compression.png?raw=true) <br/>
+</details>
+
+<details open>
+	<summary>Configuring IPv6</summary>
+
+- Dual-stack Routing [Common Implementation] <br/>
+	- Dual-stack IPv4 & IPv6 [Protocols ``!=`` Talk to Each Other] <br/>
+		- Run at the same Time [OSI Layer 3 Device] <br/>
+	- IPv4 <br/>
+		- Configured with IPv4 Addresses [Subnet Masks / DNS etc] <br/>
+		- Maintains an IPv4 Routing Table <br/>
+		- Router <br/>
+			- Uses IPv4 Dynamic Routing Protocols <br/>
+	- IPv6 [Same Device with Separate Configuration Area] <br/>
+		- Configured with IPv6 Addresses [Subnet Masks / DNS etc] <br/>
+		- Maintains a separate IPv6 Routing Table <br/>
+		- Router <br/>
+			- Uses IPv4 Dynamic Routing Protocols <br/>	
+- ``!=`` Networks Upgraded [Parts with Support for IPv6] <br/>
+	- Tunnel IPv4 into IPv6 [IPv6 into IPv4] <br/>
+		- ``6to4`` Tunnelling <br/>
+			- Send IPv6 over existing IPv4 Network <br/>
+				- Requires Relay Routes [Both End of the Communication] <br/>
+					- IP Protocol ``41`` [Transition Technology] <br/>
+						- Identify Special Packets [Contain IPv6 Information] <br/>
+			- ``!=`` Support for Network Address Translation (NAT) <br/>
+				- May Apply to Specific Network Configurations [Transition Technology] <br/>
+		- ``4in6`` Tunnelling <br/>
+			- Existing IPv6 Network Tunnelling IPv4 Traffic <br/>
+	- Teredo Tunnel [Windows] <br/>
+		- Tunnel IPv6 through Network Address Translated (NAT) IPv4 [Common Configuration] <br/>
+			- End-to-end IPv6 Through an IPv4 Network <br/>
+				- ``!=`` Configurations on IPv4 Routers <br/>
+				- ``!=`` IPv6 Router Required <br/>
+			- Temporary Workaround until IPv6 can be used Natively on Network (?) <br/>
+	- Miredo (Open-source Teredo) [Linux / BSD Unix / MAC OS X] <br/>
+		- Same Full Functionality as Teredo <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
