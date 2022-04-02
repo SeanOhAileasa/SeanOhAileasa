@@ -1176,6 +1176,8 @@
 - { ["**Virtualization, Cloud Computing and Cloud Cybersecurity Solutions**"](https://github.com/SeanOhAileasa/syp-virtualization-cloud-computing-and-cloud-cybersecurity-solutions/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Controls and Application Development Deployment and Automation**"](https://github.com/SeanOhAileasa/syn-controls-and-application-development-deployment-and-automation/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Authentication and Authorization Design Concepts**"](https://github.com/SeanOhAileasa/syn-authentication-and-authorization-design-concepts/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA Security+) -->
 
 <br/>
