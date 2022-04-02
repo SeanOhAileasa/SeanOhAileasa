@@ -1178,12 +1178,12 @@
 - { ["**Controls and Application Development Deployment and Automation**"](https://github.com/SeanOhAileasa/syn-controls-and-application-development-deployment-and-automation/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Authentication and Authorization Design Concepts**"](https://github.com/SeanOhAileasa/syn-authentication-and-authorization-design-concepts/blob/main/README.md) : &#x1F6A7; }
-</details> <!-- END (CompTIA Security+) -->
 
 - { ["**Implementing Identity and Account Management and AAA Solutions**"](https://github.com/SeanOhAileasa/syn-implementing-identity-and-account-management-and-aaa-solutions/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Physical Security Controls**"](https://github.com/SeanOhAileasa/syn-physical-security-controls/blob/main/README.md) : &#x1F6A7; }
 
+- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syn-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA Security+) -->
 
 <br/>
