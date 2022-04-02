@@ -1180,6 +1180,10 @@
 - { ["**Authentication and Authorization Design Concepts**"](https://github.com/SeanOhAileasa/syn-authentication-and-authorization-design-concepts/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA Security+) -->
 
+- { ["**Implementing Identity and Account Management and AAA Solutions**"](https://github.com/SeanOhAileasa/syn-implementing-identity-and-account-management-and-aaa-solutions/blob/main/README.md) : &#x1F6A7; }
+
+</details> <!-- END (CompTIA Security+) -->
+
 <br/>
 
 <details close>
