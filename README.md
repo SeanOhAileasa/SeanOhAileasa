@@ -1168,6 +1168,8 @@
 - { ["**Threat Actors, Intelligence Sources and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-threat-actors-Intelligence-sources-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Security Concepts in an Enterprise Environment**"](https://github.com/SeanOhAileasa/syp-security-concepts-in-an-enterprise-environment/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA Security+) -->
 
 <br/>
