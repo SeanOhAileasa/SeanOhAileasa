@@ -197,19 +197,16 @@
 |Stage|**ICT Associate Apprenticeship Cybersecurity:**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
 | 1     | CompTIA IT Fundamentals+                        | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://www.credly.com/badges/d628d8c9-4469-47b1-98d3-cded57ab813b/public_url)|
-| 1     | CompTIA Network+                                | &#x1F6A7;   |
-| 1     | CompTIA Security+                               | &#x1F6A7;   |
-| 2     | CompTIA CySA+ (2-Day College)                   | O/S   |
-| 3     | CompTIA PenTest+ (1-Day College)                | O/S   |
+| 1     | <br/>CompTIA Network+<br/><br/>                                |    |
+| 1     | <br/>CompTIA Security+<br/><br/>                               |    |
+| 2     | <br/>CompTIA CySA+ (2-Day College)<br/><br/>                   |    |
+| 3     | <br/>CompTIA PenTest+ (1-Day College)<br/><br/>                |    |
 
 <details open>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
 <details open>
 	<summary><b>CompTIA Network+</b></summary>
-<!--	
-- { ["**CompTIA Network+**"](https://github.com/SeanOhAileasa/nkp) : &#x1F6A7; }
--->
 <!--
 21/01/2022
 "add repository ./nkp-cloud-concepts - Cloud Concepts."
@@ -1168,17 +1165,11 @@
 <details close>
 	<summary><b>CompTIA Security+</b></summary>
 <!--
-28/03/2022
-"add repository ./syp-identifying-social-engineering-and-types-of-attacks - CompTIA Security+ - Phising and it Variants (eCollege)."
+02/04/2022
+"add repository ./syp-social-engineering-and-types-of-attacks"
 -->
 
-<details open>
-	<summary>Attacks, Threats and Vulnerabilities &#x21A9;</summary>
-
-- { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-identifying-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
-
-</details> <!-- END (Attacks, Threats and Vulnerabilities) -->
-
+- { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA Security+) -->
 
 <br/>
