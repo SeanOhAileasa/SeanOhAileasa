@@ -1182,6 +1182,8 @@
 
 - { ["**Implementing Identity and Account Management and AAA Solutions**"](https://github.com/SeanOhAileasa/syn-implementing-identity-and-account-management-and-aaa-solutions/blob/main/README.md) : &#x1F6A7; }
 
+- { ["**Physical Security Controls**"](https://github.com/SeanOhAileasa/syn-physical-security-controls/blob/main/README.md) : &#x1F6A7; }
+
 </details> <!-- END (CompTIA Security+) -->
 
 <br/>
