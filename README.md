@@ -197,15 +197,15 @@
 |Stage|**ICT Associate Apprenticeship Cybersecurity:**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
 | 1     | CompTIA IT Fundamentals+                        | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://www.credly.com/badges/d628d8c9-4469-47b1-98d3-cded57ab813b/public_url)|
-| 1     | <br/>CompTIA Network+<br/><br/>                                |    |
-| 1     | <br/>CompTIA Security+<br/><br/>                               |    |
-| 2     | <br/>CompTIA CySA+ (2-Day College)<br/><br/>                   |    |
-| 3     | <br/>CompTIA PenTest+ (1-Day College)<br/><br/>                |    |
+| 1     | <br/>CompTIA Network+<br/><br/>                                |   WIP   |
+| 1     | <br/>CompTIA Security+<br/><br/>                               |   WIP   |
+| 2     | <br/>CompTIA CySA+ (2-Day College)<br/><br/>                   |   O/S   |
+| 3     | <br/>CompTIA PenTest+ (1-Day College)<br/><br/>                |   O/S   |
 
 <details open>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
-<details open>
+<details close>
 	<summary><b>CompTIA Network+</b></summary>
 <!--
 21/01/2022
@@ -1099,70 +1099,62 @@
 <details close>
 	<summary>Infrastructure &#x21A9;</summary>
 
-- { ["**Infrastructure**"](#) : &#x1F4CC; }
+- { ["**Networking Devices**"](https://github.com/SeanOhAileasa/nkp-networking-devices) : &#x1F6A7; }
 
-	- { ["**Networking Devices**"](https://github.com/SeanOhAileasa/nkp-networking-devices) : &#x1F6A7; }
+- { ["**Advanced Networking**"](https://github.com/SeanOhAileasa/nkp-advanced-networking) : &#x1F6A7; }
 
-	- { ["**Advanced Networking**"](https://github.com/SeanOhAileasa/nkp-advanced-networking) : &#x1F6A7; }
+- { ["**Network Storage and Virtualization**"](https://github.com/SeanOhAileasa/nkp-network-storage-virtualization) : &#x1F6A7; }
 
-	- { ["**Network Storage and Virtualization**"](https://github.com/SeanOhAileasa/nkp-network-storage-virtualization) : &#x1F6A7; }
-
-	- { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
+- { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
 </details> <!-- END (Infrastructure) -->
 
 <details close>
 	<summary>Network Operations &#x21A9;</summary>
 
-- { ["**Network Operations**"](#) : &#x1F4CC; }
+- { ["**Documentation and Diagram Types**"](https://github.com/SeanOhAileasa/nkp-documentation-diagram-types) : &#x1F6A7; }
 
-	- { ["**Documentation and Diagram Types**"](https://github.com/SeanOhAileasa/nkp-documentation-diagram-types) : &#x1F6A7; }
+- { ["**Disaster Recovery**"](https://github.com/SeanOhAileasa/nkp-disaster-recovery) : &#x1F6A7; }
 
-	- { ["**Disaster Recovery**"](https://github.com/SeanOhAileasa/nkp-disaster-recovery) : &#x1F6A7; }
+- { ["**Scanning and Monitoring and Patching**"](https://github.com/SeanOhAileasa/nkp-scanning-monitoring-patching) : &#x1F6A7; }
 
-	- { ["**Scanning and Monitoring and Patching**"](https://github.com/SeanOhAileasa/nkp-scanning-monitoring-patching) : &#x1F6A7; }
+- { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
 
-	- { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
-
-	- { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
+- { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
 </details> <!-- END (Network Operations) -->
 
 <details close>
 	<summary>Network Security &#x21A9;</summary>
 
-- { ["**Network Security**"](#) : &#x1F4CC; }
+- { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
 
-	- { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
+- { ["**Authentication and Access Control**"](https://github.com/SeanOhAileasa/nkp-authentication-access-control) : &#x1F6A7; }
 
-	- { ["**Authentication and Access Control**"](https://github.com/SeanOhAileasa/nkp-authentication-access-control) : &#x1F6A7; }
+- { ["**Wireless Security**"](https://github.com/SeanOhAileasa/nkp-wireless-security) : &#x1F6A7; }
 
-	- { ["**Wireless Security**"](https://github.com/SeanOhAileasa/nkp-wireless-security) : &#x1F6A7; }
+- { ["**Network Attacks**"](https://github.com/SeanOhAileasa/nkp-network-attacks) : &#x1F6A7; }
 
-	- { ["**Network Attacks**"](https://github.com/SeanOhAileasa/nkp-network-attacks) : &#x1F6A7; }
+- { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
 
-	- { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
-
-	- { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
+- { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
 </details> <!-- END (Network Security) -->
 
 <details close>
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 
-- { ["**Network Troubleshooting and Tools**"](#) : &#x1F4CC; }
+- { ["**Network Troubleshooting**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting) : &#x1F6A7; }
 
-	- { ["**Network Troubleshooting**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting) : &#x1F6A7; }
+- { ["**Network Troubleshooting Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-tools) : &#x1F6A7; }
 
-	- { ["**Network Troubleshooting Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-tools) : &#x1F6A7; }
+- { ["**Wired Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wired-connectivity-issues) : &#x1F6A7; }
 
-	- { ["**Wired Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wired-connectivity-issues) : &#x1F6A7; }
-
-	- { ["**Wireless Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wireless-connectivity-issues) : &#x1F6A7; }
+- { ["**Wireless Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wireless-connectivity-issues) : &#x1F6A7; }
 </details> <!-- END (Network Troubleshooting and Tools) -->
 
 </details> <!-- END (CompTIA Network+) -->
 
 <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA Security+</b></summary>
 <!--
 02/04/2022
@@ -1170,6 +1162,8 @@
 -->
 
 - { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Analyzing Application and Network Attacks**"](https://github.com/SeanOhAileasa/syp-analyzing-application-and-network-attacks/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA Security+) -->
 
 <br/>
