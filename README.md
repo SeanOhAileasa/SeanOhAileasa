@@ -1186,6 +1186,8 @@
 - { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Implementing Secure Protocols and Application Security Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-secure-protocols-and-application-security-solutions/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Implementing Secure Network Designs**"](https://github.com/SeanOhAileasa/syp-implementing-secure-network-designs/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA Security+) -->
 
 <br/>
