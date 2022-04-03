@@ -1196,6 +1196,8 @@
 - { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Security Policies, Regulations, Standards and Frameworks**"](https://github.com/SeanOhAileasa/syp-security-policies-regulations-standards-and-frameworks/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Risk Management, Privacy and Sensitive Data Security**"](https://github.com/SeanOhAileasa/syp-risk-management-privacy-and-sensitive-data-security/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA Security+) -->
 
 <br/>
