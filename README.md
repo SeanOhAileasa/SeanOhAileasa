@@ -1188,6 +1188,8 @@
 - { ["**Implementing Secure Protocols and Application Security Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-secure-protocols-and-application-security-solutions/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Implementing Secure Network Designs**"](https://github.com/SeanOhAileasa/syp-implementing-secure-network-designs/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA Security+) -->
 
 <br/>
