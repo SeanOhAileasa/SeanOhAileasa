@@ -1190,6 +1190,8 @@
 - { ["**Implementing Secure Network Designs**"](https://github.com/SeanOhAileasa/syp-implementing-secure-network-designs/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Organizational Security Assessment Tools and Mitigation Controls**"](https://github.com/SeanOhAileasa/syp-organizational-security-assessment-tools-and-mitigation-controls/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA Security+) -->
 
 <br/>
