@@ -1126,7 +1126,7 @@
 						- ``!=`` Response then IPv6 Address Available on Network <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Prioritizing Traffic</summary>
 
 - Networks Use Different Devices [Different Applications] <br/>
@@ -1160,11 +1160,67 @@
 				- Modifying QoS Bits within the IPv4 Header <br/>
 					- Bits Usually Set Outside of the Application <br/>
 						- Device Recognises Application [Sets Bits inside Header] <br/>
-							- Done inside Routers / Firewalls [with DiffServ capability] <br/> 
+							- Done inside Routers / Firewalls [with DiffServ capability] <br/>
 						- Differentiated Services Code Points (DSCP) <br/>
 							- Values Applied inside of IP header <br/>
 								- Specific Field [DS or Differentiated Services Field] <br/>
 	- Some Environments may take Advantage of both CoS and DiffServ <br/>
+</details>
+
+<details open>
+	<summary>Network Address Translation</summary>
+
+- IPv4 supports c. 4.29B Addresses <br/>
+	- Over 20B Devices are Connected to the Internet [Estimated] <br/>
+		- Number is Increasing [Need to be able to Communicate Between All] <br/>
+			- Exhausted IPv4 Address Space [No More Addresses that can be Assigned] <br/>
+- Private (RFC 1918) IPv4 Addresses <br/>
+	- Used inside an Organisation <br/>
+		- ``!=`` Routable accross Internet <br/>
+		![Image: IPv4 Private Addresses](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/ipv4-private-addresses.png?raw=true) <br/>
+		- Network Address Translation (NAT) <br/>
+			- Network [Single Device] <br/>
+				- Translate Private into something that is Public [Internet] <br/>
+					- Router performs NAT [``10.10.20.50`` is Private] <br/>
+					![Image: Router Performs NAT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/router-performs-nat.png?raw=true) <br/>
+						- Translates IP Address [Send Across Internet] <br/>
+							- Using (Router) External IP Address [``94.1.1.1``] <br/> 
+							![Image: Router Translates to Public Address](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/router-translates-to-public.png?raw=true) <br/>
+					- Server Receives Request [Sends Response] <br/>
+						- Destination Address is Source Address <br/>
+							- Router Check Tables [Inbound on ``94.1.1.1``] <br/>
+							![Image: Router Translates to Public Address](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/route-nat-to-source.png?raw=true) <br/>
+								- Performs another NAT [``10.10.20.50``] <br/>
+								![Image: Router Performs another NAT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/router-performs-nat-source.png?raw=true) <br/>
+			- Network [Multiple Devices] <br/>
+				- NAT Overload (Source NAT) / PAT [Port Address Translation] <br/>
+					- Perform NAT on Source IP Address <br/>
+					![Image: NAT Overload](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/nat-overload.png?raw=true) <br/>
+						- Router performs NAT <br/>
+							- Table Keeps Track of Translations <br/>
+							![Image: Route Table](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/router-nat-public-address.png?raw=true) <br/>
+			- Other Type of NAT found on Router <br/>
+				- Port Forwarding <br/>
+					- Outside [Access Inside Devices] <br/>
+						- 24x7 Access to a Service Hosted Internally <br/>
+							- Hosting [Devices have Private Addresses] <br/>
+								- Web Server <br/>
+								- Gaming Server <br/>
+								- Security System etc <br/> 
+						- External IP/Port Number Associate to an Internal IP/Port <br/>
+							- ``!-`` be the same port number <br/>
+								- Communicate to Router from Outside [External IP Address] <br/>
+									- Referred as Destination NAT or Static NAT <br/>
+										- Destination Address Translated from Public IP to Private IP <br/>
+										![Image: Port Forwarding](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/port-forwarding.png?raw=true) <br/>
+										- Given NAT is Static ``!=`` Expire or Timeout<br/>
+											- Available 24/7 <br/>
+					- Inbound Communication <br/>
+						- Internet Devices Communicate Internal Devices [Private IP] <br/>
+							- Router performs NAT <br/>
+								- Configured Inbound External Address [``66.20.1.14``] <br/>
+									- Translate to Private Address [``192.168.3.22``] <br/>
+									![Image: Port Forwarding Translation](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/port-forwarding-translation.png?raw=true) <br/> 
 </details>
 
 </details> <!-- END (Network Concepts) -->
