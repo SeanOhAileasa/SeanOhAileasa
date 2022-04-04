@@ -1167,7 +1167,7 @@
 	- Some Environments may take Advantage of both CoS and DiffServ <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Network Address Translation</summary>
 
 - IPv4 supports c. 4.29B Addresses <br/>
@@ -1188,7 +1188,7 @@
 							![Image: Router Translates to Public Address](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/router-translates-to-public.png?raw=true) <br/>
 					- Server Receives Request [Sends Response] <br/>
 						- Destination Address is Source Address <br/>
-							- Router Check Tables [Inbound on ``94.1.1.1``] <br/>
+							- Router Checks Table [Inbound on ``94.1.1.1``] <br/>
 							![Image: Router Translates to Public Address](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/route-nat-to-source.png?raw=true) <br/>
 								- Performs another NAT [``10.10.20.50``] <br/>
 								![Image: Router Performs another NAT](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/router-performs-nat-source.png?raw=true) <br/>
@@ -1196,10 +1196,9 @@
 				- NAT Overload (Source NAT) / PAT [Port Address Translation] <br/>
 					- Perform NAT on Source IP Address <br/>
 					![Image: NAT Overload](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/nat-overload.png?raw=true) <br/>
-						- Router performs NAT <br/>
-							- Table Keeps Track of Translations <br/>
-							![Image: Route Table](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/router-nat-public-address.png?raw=true) <br/>
-			- Other Type of NAT found on Router <br/>
+						- Table Keeps Track of Translations <br/>
+						![Image: Route Table](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/router-nat-public-address.png?raw=true) <br/>
+			- Other Type of NAT Found on Router <br/>
 				- Port Forwarding <br/>
 					- Outside [Access Inside Devices] <br/>
 						- 24x7 Access to a Service Hosted Internally <br/>
@@ -1208,19 +1207,73 @@
 								- Gaming Server <br/>
 								- Security System etc <br/> 
 						- External IP/Port Number Associate to an Internal IP/Port <br/>
-							- ``!-`` be the same port number <br/>
+							- Does Not have to be the Same Port Number <br/>
 								- Communicate to Router from Outside [External IP Address] <br/>
 									- Referred as Destination NAT or Static NAT <br/>
-										- Destination Address Translated from Public IP to Private IP <br/>
-										![Image: Port Forwarding](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/port-forwarding.png?raw=true) <br/>
-										- Given NAT is Static ``!=`` Expire or Timeout<br/>
-											- Available 24/7 <br/>
+									- Destination Address Translated from Public IP to Private IP <br/>
+									![Image: Port Forwarding](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/port-forwarding.png?raw=true) <br/>
+									- Given NAT is Static ``!=`` Expire or Timeout [Available 24/7] <br/>
 					- Inbound Communication <br/>
 						- Internet Devices Communicate Internal Devices [Private IP] <br/>
 							- Router performs NAT <br/>
 								- Configured Inbound External Address [``66.20.1.14``] <br/>
 									- Translate to Private Address [``192.168.3.22``] <br/>
 									![Image: Port Forwarding Translation](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/port-forwarding-translation.png?raw=true) <br/> 
+</details>
+
+<details open>
+	<summary>Access Control Lists</summary>
+
+- Access Control List (ACL) is a Packet Filter <br/>
+	- Allow or Deny Traffic <br/>
+		- Also used for Network Address Translation (NAT) <br/>
+			- Determine what IP Addresses need to be Translated <br/>
+		- Quality of Service (QoS) <br/>
+			- Know Type of Traffic needing Priority <br/>
+	- Common Configuration on Router Interface <br/>
+		- Defined on the Ingress or Egress of an Interface <br/>
+			- Traffic Incoming or Outgoing or Both <br/>
+	- Can Evaluate on Certain Criteria [Specific] <br/>
+		- Decision to Allow or Deny [Particular Packet] <br/>
+			- Examine Source IP <br/>
+			- Examine Destination IP <br/>
+			- Examine TCP Port Numbers <br/>
+			- Examine UDP Port Numbers <br/>
+			- Examine ICMP <br/>
+		- IP Address Range or TCP Ports <br/>
+			- Traffic Flow Matches Combination <br/>
+				- Deny or Permit Traffic from Router Interface <br/>
+	- Evolved Through the Years [Different Manufacturers] <br/>
+		- More Options and Features Available for Traffic Filtering <br/>
+- Rule Base inside Firewall can be considered an ACL <br/>
+	- Allow or Disallow Traffic through the Firewall <br/>
+		- Conbination of Variables [Tuple] <br/>
+			- Groupings of Tuples [Specific ACL Rule]
+				- Source IP <br/>
+				- Destination IP <br/>
+				- Port Number <br/>
+				- Time of Day / Application etc <br/>
+	- Firewall Logic normally Starts with the 1st Rule <br/>
+		- Usually top-to-bottom <br/>
+			- Match then Firewall ``!=`` Proceed Further down Rule Base <br/>
+				- Can be very General or very Specific <br/>
+					- Specific Rules are Usually at the Top <br/>
+- Most ACLs & Firewall Rule Bases written with Implicit Deny <br/>
+	- Most Firewalls include a Deny at the Bottom <br/>
+		- Default Deny is Implicit <br/>
+- Web Service Firewall Ruleset <br/>
+	- First Rule <br/>
+		- Rule Number [Tuple] <br/>
+			- Remote IP [Tuple] <br/>
+				- Allow All Traffic from Romote IP via Remote Port [Tuple] <br/>
+					- Communicating to Local Port ``22`` via Local Port [Tuple] <br/>
+						- Protocol [Tuple] <br/>
+							- TCP [Port ``22`` probably SSH Traffic] <br/>
+								- Action [Tuple] <br/>
+									- Firewall set to Allow Traffic <br/>
+									![Image: Ruleset](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/web-service-firewall-ruleset.png?raw=true) <br/>
+									- No Rule Applying then Implicit Deny at Bottom <br/>
+										- Not Matching Specific Rule Automatic Drop <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
