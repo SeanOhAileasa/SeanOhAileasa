@@ -1221,7 +1221,7 @@
 									![Image: Port Forwarding Translation](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/port-forwarding-translation.png?raw=true) <br/> 
 </details>
 
-<details open>
+<details close>
 	<summary>Access Control Lists</summary>
 
 - Access Control List (ACL) is a Packet Filter <br/>
@@ -1272,8 +1272,56 @@
 								- Action [Tuple] <br/>
 									- Firewall set to Allow Traffic <br/>
 									![Image: Ruleset](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/web-service-firewall-ruleset.png?raw=true) <br/>
-									- No Rule Applying then Implicit Deny at Bottom <br/>
-										- Not Matching Specific Rule Automatic Drop <br/>
+		- No Rule Applying then Implicit Deny at Bottom <br/>
+			- Not Matching Specific Rule Automatic Drop <br/>
+</details>
+
+<details open>
+	<summary>Circuit Switching and Packet Switching</summary>
+
+- Circuit Switching <br/>
+	- Circuit is Established between Endpoints before Data is Sent <br/>
+		- Phone Network <br/>
+			- Plain Old Telephone Service (POTS) <br/>
+			- Public Switched Telephone Network (PSTN) <br/>		
+				- Call [Circuit Established then Talk] <br/>
+		- Connection is Always There <br/> 
+			- Nobody can Use the Circuit when Idle <br/>
+				- Inefficient Use of Resources <br/>
+			- Create Circuit between x2 Remote Sites [Advantage] <br/>
+				- Not Sharing Capacity [Guaranteed] <br/>
+				- Network Always Aavailable [Not Waiting] <br/>
+		- T1 / T3 [E1 / E3 (Outside USA)] Network <br/>
+			- Circuit Created between Two Links [Wide Area Connections] <br/>
+				- Alway Available between the Two Connections <br/>
+		- Integrated Services Digital Network (ISDN) Network <br/>
+			- ISDN Modem calls Another ISDN Modem <br/>
+				- Alway Available Until the ISDN Connection is Terminated <br/>
+- Packet Switching <br/>
+	- Data is Grouped into Packets [Sent across the Network] <br/>
+	- Media is Usually Shared [Someone Else Can Use It when You are Not] <br/>
+	- Supports Qualities of Service <br/>
+		- Someone may have Higher Priority over Someone Else <br/>
+			- One Connection may have More Bandwidth Allocated <br/>
+				- How much Money would you like to spend? <br/>
+	- Technologies <br/>
+		-  Synchronous Optical Network (SONET) <br/>
+			- Physical Layer Specification for Broadband Synchronous Transmission <br/>
+				- Data over Long Distances of Fiber-optic Cabling [Speeds >1 Gbps] <br/>
+		- Asynchronous Transfer Mode (ATM) <br/>
+			- Switching Technique [Time Division Multiplexing (TDM)] <br/>
+				- ATM Networks are Connection-oriented Networks <br/>
+		- Digital Subscriber Line (DSL) <br/>
+			- Transmit Digital Data over Telephone Lines <br/>
+		- Frame Relay <br/>
+			- Standardized WAN technology <br/>
+				- Specifies the Physical and Data Link Layers of Telecom Channels <br/>
+		- Multiprotocol Label Switching (MPLS) <br/>
+			- Routing Technique <br/>
+				- Traffic from One Node to the Next using Labels [``!=`` Addresses] <br/>
+		- Cable Modem Internet Connection <br/>
+		- Satellite <br/>
+		- Wireless <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
