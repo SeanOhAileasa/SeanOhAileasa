@@ -1057,7 +1057,7 @@
 				![Image: IPv4 Address](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/ipv4-address-compression.png?raw=true) <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Configuring IPv6</summary>
 
 - Dual-stack Routing [Common Implementation] <br/>
@@ -1124,6 +1124,47 @@
 				- Test for Duplicate IPv6 Address <br/>
 					- Workstation Sends out NS for Specific IPv6 Address <br/>
 						- ``!=`` Response then IPv6 Address Available on Network <br/>
+</details>
+
+<details open>
+	<summary>Prioritizing Traffic</summary>
+
+- Networks Use Different Devices [Different Applications] <br/>
+	- Mission Critical Applications [Perform Major Functions of a Particular Job] <br/>
+	- Voice over IP (VoIP) <br/>
+	- Streaming Video / Audio <br/>
+- Different Network Requirements <br/>
+	- Voice Communication requires Real-time Data Flows <br/>
+	- Watching Streaming Video usually has a Buffer Associated <br/>
+	- Database Application usually has Interactive Input <br/>
+		- Expecting an Output within a Certain Ammount of Time <br/>
+- Might want to Prioritise Traffic Type on the Network <br/>
+	- VoIP Traffic having a Priority over YouTube videos <br/>
+- Pioritisation through Packet Shaping [Traffic Shaping] <br/>
+	- Apply Certain Bandwidth Usages (or Data Rates) to a Particular Type of Application <br/>
+		- Able to set Certain Applications to have Higher Priority than Others <br/>
+			- May be Implemented in a Firewall or a Router or a Switch <br/>
+- Quality of Service (QoS) <br/>
+	- Setting Priorities of Different Applications <br/>
+		- Prioritising Bandwidth / Traffic Rates [Application Uses] <br/>
+			- Broad Description to Define the Process of Controlling Traffic Flows <br/>
+	- Class of Service (CoS) <br/>
+		- Configure on an OSI Layer 2 Network <br/>
+			- Prioritisation Performed inside Ethernet Frame Header [``802.1Q`` Trunk] <br/>
+				- Very Specific to Communication between Switches <br/>
+					- Commonly performed inside of own Intranet <br/>
+						- ``!=`` Common to have a Trunk Connection to ISP <br/>
+	- QoS at OSI Layer 2 (Trunk) Confining [Implement DiffServ] <br/>
+		- Differentiated Services (DiffServ) <br/>
+			- Configure on an OSI Layer 3 Network <br/>
+				- Modifying QoS Bits within the IPv4 Header <br/>
+					- Bits Usually Set Outside of the Application <br/>
+						- Device Recognises Application [Sets Bits inside Header] <br/>
+							- Done inside Routers / Firewalls [with DiffServ capability] <br/> 
+						- Differentiated Services Code Points (DSCP) <br/>
+							- Values Applied inside of IP header <br/>
+								- Specific Field [DS or Differentiated Services Field] <br/>
+	- Some Environments may take Advantage of both CoS and DiffServ <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
