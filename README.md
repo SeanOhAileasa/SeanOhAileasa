@@ -1276,7 +1276,7 @@
 			- Not Matching Specific Rule Automatic Drop <br/>
 </details>
 
-<details open>
+<details close>
 	<summary>Circuit Switching and Packet Switching</summary>
 
 - Circuit Switching <br/>
@@ -1322,6 +1322,60 @@
 		- Cable Modem Internet Connection <br/>
 		- Satellite <br/>
 		- Wireless <br/>
+</details>
+
+<details open>
+	<summary>Software Defined Networking (SDN)</summary>
+
+- Networking Devices have x2 Functional Planes of Operation <br/>
+	- Control Plane <br/>
+		- Administration [ongoing Servicing] <br/>
+	- Data Plane <br/>
+		- Forwarding Data <br/>
+- Key Features <br/>
+	- Directly Programmable <br/>
+		- Data Plane Separate Process to the Control Plane <br/>
+			- Make Configuration Changes <br/>
+			- View Log Information <br/>
+	- Agile <br/>
+		- Changes made Dynamically <br/>
+			- Part of the Network get Busy [Dynamically Changed] <br/>
+	- Centrally Managed [Central Console] <br/>
+		- No Need to Log into Multiple Places to Manage Network <br/>
+			- Global View [Single Pane of Glass] <br/>
+				- Single Screen [Control Entire Network] <br/>
+	- Orchestration [No Human Intervention] <br/>
+		- Programmatically Configured <br/>
+			- Automatic Network Operation <br/>
+				- Section of Network Congested [Resources Deployed Automatically] <br/>
+	- Open Standards [Vendor Neutral] <br/>
+		- Standard Interface to the Network <br/>
+- SDN Functionality Enabled due to Virtualised Portions of Infrastructure <br/>
+	- Servers / Routers / Firewalls / Switches <br/>
+		- Network with Physical Switch [Physical World] <br/>
+			- Servers built to Host Virtual Environments [Physical World] <br/>
+				- Top of Servers (Web Server / DB Server / Test Server) [Virtual World] <br/>
+					- Challenge [Separate out Devices into there own VLANS] <br/>
+						- Test Server Separate VLAN to Web Server / DB Server <br/>
+						![Image: SDN Physical & Virtual](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/sdn-physical-virtual.png?raw=true) <br/>
+					- Challenge [Virtual Devices moving Anywhere in Network] <br/>
+						- May Need More Network Capacity [or Less Capacity] <br/>
+							- Services Moves / Allows Access along with Server <br/>
+	- Distributed Switching	<br/>
+		- Virtualised Networking <br/>
+			- Group Individual Services into own VLAN] <br/>
+				- Removing the Physical Segmentation <br/>
+					- Virtual Network Distributed across all Physical Platforms <br/>
+					- When a VM Moves then Network ``!=`` Change <br/>
+						- Servers will always Connect to the Right VLAN <br/>
+				- Physical Switch [Physical World] <br/>
+					- Physical Virtualisation Platforms (Host 1 / 2 / 3) [Physical World] <br/>
+						- Each running Virtual Servers [Virutual World] <br/>
+							- Web Server <br/>
+							- DB Server <br/>
+							- Test Server <br/>
+						- Distributed Switch <br/>
+							- Grouping Different Resources into own VLAN	<br/>		![Image: Distibuted Switch](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/distibuted-switch.png?raw=true) <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
