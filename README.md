@@ -205,7 +205,7 @@
 <details open>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA Network+</b></summary>
 <!--
 21/01/2022
@@ -1086,12 +1086,44 @@
 			- Existing IPv6 Network Tunnelling IPv4 Traffic <br/>
 	- Teredo Tunnel [Windows] <br/>
 		- Tunnel IPv6 through Network Address Translated (NAT) IPv4 [Common Configuration] <br/>
-			- End-to-end IPv6 Through an IPv4 Network <br/>
+			- End-to-end IPv6 through an IPv4 Network <br/>
 				- ``!=`` Configurations on IPv4 Routers <br/>
 				- ``!=`` IPv6 Router Required <br/>
 			- Temporary Workaround until IPv6 can be used Natively on Network (?) <br/>
 	- Miredo (Open-source Teredo) [Linux / BSD Unix / MAC OS X] <br/>
 		- Same Full Functionality as Teredo <br/>
+- Devices Find Devices <br/> 
+	- IPv4 Uses Broadcast <br/>
+		- IPv6 Uses Multicast [over ICMPv6] <br/>
+- Neighbor Discovery Protocol (NDP) [Devices find other Devices] <br/>
+	- Stateless Address Autoconfiguration (SLAAC) <br/>
+		- Automatically Configures an IP Address without a DHCP Server <br/>
+	- Duplicate Address Detection (DAD) <br/>
+		- No Duplicate IPs <br/>
+	- Discover Routers [ICMPv6 Adds NDP] <br/>
+		- Router Solicitation (RS) <br/>
+			- Sends IPv6 Multicast [``ff02::2``] <br/>
+				- Solicitation to All IPv6 Routers <br/> 
+					- Network Routers Listen for these Multicasts <br/>
+						- Router Advertisement (RA) [Unicast Frame] <br/>
+							- Sends Advertised MAC of Local Router <br/>
+							![Image: IPv6 NDP](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/ipv6-ndp.png?raw=true) <br/>
+							- Occasional Send Unsolicited RA [Multicast ``ff02::1``] <br/>
+								- Transfer IPv6 Address Information [to Workstation] <br/>
+									- Prefix Value [Network] <br/>
+									- Prefix Length [Local Subnet Mask] <br/>
+	- IPv6 ``!=`` Address Resolution Protocol (ARP) [IPv4] <br/>
+		- Neighbor Media Access Control (MAC) Discovery [Same Function as IPv4 ARP] <br/>
+			- Neighbor Solicitation (NS) <br/>
+				- Workstation Find MAC of other Workstation <br/>
+					- Sends Multicast <br/>
+						- Seek Specified MAC Address of IPv6 Address <br/>
+							- Neighbor Advertisement (NA) [Owner of IPv6 Address] <br/>
+								- Sends Back Directed Frame [Include MAC Address] <br/>
+								![Image: IPv6 Discover MAC](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/nkp/ipv6-discover-mac.png?raw=true) <br/>
+				- Test for Duplicate IPv6 Address <br/>
+					- Workstation Sends out NS for Specific IPv6 Address <br/>
+						- ``!=`` Response then IPv6 Address Available on Network <br/>
 </details>
 
 </details> <!-- END (Network Concepts) -->
@@ -1154,7 +1186,7 @@
 
 <br/>
 
-<details open>
+<details close>
 	<summary><b>CompTIA Security+</b></summary>
 <!--
 02/04/2022
