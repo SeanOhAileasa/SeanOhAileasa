@@ -436,6 +436,8 @@
 - { ["**User Account Security**"](https://github.com/SeanOhAileasa/cap-user-account-security/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Network Infrastructure Security**"](https://github.com/SeanOhAileasa/cap-network-infrastructure-security/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Software Development Security**"](https://github.com/SeanOhAileasa/cap-software-development-security/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA CySA+) -->
 
 <br/>
