@@ -410,6 +410,18 @@
 
 <br/>
 
+<details open>
+	<summary><b>CompTIA CySA+</b></summary>
+<!--
+05/04/2022
+"add repository ./cap-threat-intelligence"
+-->
+
+- { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F6A7; }
+</details> <!-- END (CompTIA CySA+) -->
+
+<br/>
+
 <details close>
 	<summary><b>Supplemental</b></summary>
 
