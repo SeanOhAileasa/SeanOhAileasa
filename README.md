@@ -273,7 +273,7 @@
 "add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
 -->
 
-<details open>
+<details close>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 05/04/2022
@@ -418,6 +418,8 @@
 -->
 
 - { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Business Continuity**"](https://github.com/SeanOhAileasa/cap-business-continuity/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA CySA+) -->
 
 <br/>
