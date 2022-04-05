@@ -422,6 +422,8 @@
 - { ["**Business Continuity**"](https://github.com/SeanOhAileasa/cap-business-continuity/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Attack Types**"](https://github.com/SeanOhAileasa/cap-attack-types/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Malware Threats**"](https://github.com/SeanOhAileasa/cap-malware-threats/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA CySA+) -->
 
 <br/>
