@@ -426,6 +426,8 @@
 - { ["**Malware Threats**"](https://github.com/SeanOhAileasa/cap-malware-threats/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Encryption and Hashing**"](https://github.com/SeanOhAileasa/cap-encryption-and-hashing/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Hardware and Security**"](https://github.com/SeanOhAileasa/cap-hardware-and-security/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA CySA+) -->
 
 <br/>
