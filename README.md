@@ -432,6 +432,8 @@
 - { ["**Cloud Computing**"](https://github.com/SeanOhAileasa/cap-cloud-computing/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Threat Monitoring**"](https://github.com/SeanOhAileasa/cap-threat-monitoring/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**User Account Security**"](https://github.com/SeanOhAileasa/cap-user-account-security/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA CySA+) -->
 
 <br/>
