@@ -430,6 +430,8 @@
 - { ["**Hardware and Security**"](https://github.com/SeanOhAileasa/cap-hardware-and-security/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Cloud Computing**"](https://github.com/SeanOhAileasa/cap-cloud-computing/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Threat Monitoring**"](https://github.com/SeanOhAileasa/cap-threat-monitoring/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA CySA+) -->
 
 <br/>
