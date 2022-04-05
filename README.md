@@ -275,6 +275,10 @@
 
 <details open>
 	<summary>Network Concepts &#x21A9;</summary>
+<!--
+05/04/2022
+"update repository ./nkp-network-concepts - Networking Addressing (Binary Math)."
+-->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
 
