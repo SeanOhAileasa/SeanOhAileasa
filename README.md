@@ -273,11 +273,11 @@
 "add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
 -->
 
-<details close>
+<details open>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
-06/04/2022
-"update repository ./nkp-network-concepts - Networking Addressing (IPv4 Addresses)."
+07/04/2022
+"update repository ./nkp-network-concepts - Networking Addressing (Classful Subnetting)."
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
@@ -410,7 +410,7 @@
 
 <br/>
 
-<details open>
+<details close>
 	<summary><b>CompTIA CySA+</b></summary>
 <!--
 05/04/2022
