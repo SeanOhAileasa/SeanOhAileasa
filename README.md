@@ -277,7 +277,7 @@
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 07/04/2022
-"update repository ./nkp-network-concepts - Networking Addressing (Calculating IPv4 Subnets and Hosts)."
+"update repository ./nkp-network-concepts - Networking Addressing (Assigning IPv4 Addresses)."
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
