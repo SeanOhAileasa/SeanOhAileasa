@@ -276,8 +276,8 @@
 <details open>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
-07/04/2022
-"update repository ./nkp-network-concepts - Networking Addressing (Assigning IPv4 Addresses)."
+08/04/2022
+"update repository ./nkp-network-concepts - Networking Addressing (Seven Second Subnetting)."
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
