@@ -277,7 +277,7 @@
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 09/04/2022
-"update repository ./nkp-network-concepts - Networking Topologies (Internet of Things Topologies)."
+"update repository ./nkp-network-concepts - Wireless Technologies (Wireless Standards)."
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
