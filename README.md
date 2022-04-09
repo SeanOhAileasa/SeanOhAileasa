@@ -277,7 +277,7 @@
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 09/04/2022
-"update repository ./nkp-network-concepts - Wireless Technologies (Wireless Standards)."
+"update repository ./nkp-network-concepts - Wireless Technologies (Cellular Network Standards)."
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
