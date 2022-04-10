@@ -277,7 +277,7 @@
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 10/04/2022
-"update repository ./nkp-network-concepts - Wireless Technologies (Wireless Network Technologies)."
+"update repository ./nkp-network-concepts - Cloud Technologies (Cloud Services and Delivery Models)." 
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
