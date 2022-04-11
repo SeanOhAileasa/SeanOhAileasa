@@ -276,8 +276,8 @@
 <details open>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
-10/04/2022
-"update repository ./nkp-network-concepts - Cloud Technologies (Cloud Services and Delivery Models)." 
+11/04/2022
+"update repository ./nkp-network-concepts - Network Services (Overview of Domain Name System - DNS)." 
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
