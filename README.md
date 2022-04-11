@@ -277,7 +277,7 @@
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 11/04/2022
-"update repository ./nkp-network-concepts - Network Services (DNS Record Types)." 
+"update repository ./nkp-network-concepts - Network Services (DHCP Addressing Overview)." 
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
