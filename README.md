@@ -276,8 +276,8 @@
 <details open>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
-11/04/2022
-"update repository ./nkp-network-concepts - Network Services (Overview of NTP)." 
+12/04/2022
+"update repository ./nkp-practice-labs - Network Concepts (Introduction to the OSI Model)." 
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
@@ -300,6 +300,7 @@
 
 	- { ["**Cabling Solutions**"](https://github.com/SeanOhAileasa/nkp-cabling-solutions) : &#x1F6A7; }
 
+- { ["**Practice Labs**"](https://github.com/SeanOhAileasa/nkp-practice-labs) : &#x1F6A7; }
 </details> <!-- END (Network Concepts) -->
 
 <details close>
