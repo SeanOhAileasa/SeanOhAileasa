@@ -415,7 +415,7 @@
 	<summary><b>CompTIA CySA+</b></summary>
 <!--
 13/04/2022
-"add repository ./cap-it-security-risk-mitigation"
+"add repository ./cap-intrusion-detection-and-traffic-analysis"
 -->
 
 - { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F6A7; }
@@ -445,6 +445,8 @@
 - { ["**Digital Forensics**"](https://github.com/SeanOhAileasa/cap-digital-forensics/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**IT Security Risk Mitigation**"](https://github.com/SeanOhAileasa/cap-it-security-risk-mitigation/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Intrusion Detection and Traffic Analysis**"](https://github.com/SeanOhAileasa/cap-intrusion-detection-and-traffic-analysis/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA CySA+) -->
 
 <br/>
