@@ -273,7 +273,7 @@
 "add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
 -->
 
-<details open>
+<details close>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 12/04/2022
@@ -414,8 +414,8 @@
 <details close>
 	<summary><b>CompTIA CySA+</b></summary>
 <!--
-05/04/2022
-"add repository ./cap-threat-intelligence"
+13/04/2022
+"add repository ./cap-data-privacy"
 -->
 
 - { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F6A7; }
@@ -439,6 +439,8 @@
 - { ["**Network Infrastructure Security**"](https://github.com/SeanOhAileasa/cap-network-infrastructure-security/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Software Development Security**"](https://github.com/SeanOhAileasa/cap-software-development-security/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Data Privacy**"](https://github.com/SeanOhAileasa/cap-data-privacy/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA CySA+) -->
 
 <br/>
