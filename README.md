@@ -205,7 +205,7 @@
 <details open>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
-<details open>
+<details close>
 	<summary><b>CompTIA Network+</b></summary>
 <!--
 21/01/2022
@@ -411,11 +411,11 @@
 
 <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA CySA+</b></summary>
 <!--
 13/04/2022
-"add repository ./cap-data-privacy"
+"add repository ./cap-digital-forensics"
 -->
 
 - { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F6A7; }
@@ -441,6 +441,8 @@
 - { ["**Software Development Security**"](https://github.com/SeanOhAileasa/cap-software-development-security/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Data Privacy**"](https://github.com/SeanOhAileasa/cap-data-privacy/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Digital Forensics**"](https://github.com/SeanOhAileasa/cap-digital-forensics/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA CySA+) -->
 
 <br/>
