@@ -276,8 +276,8 @@
 <details close>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
-12/04/2022
-"update repository ./nkp-practice-labs - Network Concepts (Introduction to the OSI Model)." 
+14/04/2022
+"update repository ./nkp-practice-labs - Network Concepts (Configure IPv4 and IPv6 Addressing)." 
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
@@ -411,7 +411,7 @@
 
 <br/>
 
-<details open>
+<details close>
 	<summary><b>CompTIA CySA+</b></summary>
 <!--
 13/04/2022
