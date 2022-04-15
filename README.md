@@ -277,7 +277,7 @@
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 15/04/2022
-"add repository ./nkp-infrastructure - Networking Devices." 
+"add repository ./nkp-infrastructure - Advanced Networking Devices." 
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
