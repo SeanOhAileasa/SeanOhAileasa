@@ -277,8 +277,9 @@
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 15/04/2022
-"add repository ./nkp-infrastructure - Virtualization." 
+"update repository ./nkp-infrastructure - WAN Technologies." 
 -->
+<br/>
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
 
@@ -305,6 +306,7 @@
 
 <details close>
 	<summary>Infrastructure &#x21A9;</summary>
+<br/>
 
 - { ["**Infrastructure**"](https://github.com/SeanOhAileasa/nkp-infrastructure) : &#x1F6A7; }
 
@@ -319,6 +321,7 @@
 
 <details close>
 	<summary>Network Operations &#x21A9;</summary>
+<br/>
 
 - { ["**Documentation and Diagram Types**"](https://github.com/SeanOhAileasa/nkp-documentation-diagram-types) : &#x1F6A7; }
 
@@ -333,6 +336,7 @@
 
 <details close>
 	<summary>Network Security &#x21A9;</summary>
+<br/>
 
 - { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
 
@@ -349,6 +353,7 @@
 
 <details close>
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
+<br/>
 
 - { ["**Network Troubleshooting**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting) : &#x1F6A7; }
 
