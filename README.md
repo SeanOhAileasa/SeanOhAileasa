@@ -205,7 +205,7 @@
 <details open>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA Network+</b></summary>
 <!--
 21/01/2022
@@ -317,11 +317,11 @@
 	- { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
 </details> <!-- END (Infrastructure) -->
 <br/>
-<details close>
+<details open>
 	<summary>Network Operations &#x21A9;</summary>
 <!--
 16/04/2022
-"update repository ./nkp-network-operations - Network Documentation." 
+"update repository ./nkp-network-operations - Business Continuity." 
 -->
 
 - { ["**Network Operations**"](https://github.com/SeanOhAileasa/nkp-network-operations) : &#x1F6A7; }
