@@ -321,7 +321,7 @@
 	<summary>Network Operations &#x21A9;</summary>
 <!--
 16/04/2022
-"update repository ./nkp-network-operations - Business Continuity." 
+"update repository ./nkp-network-operations - Network Monitoring." 
 -->
 
 - { ["**Network Operations**"](https://github.com/SeanOhAileasa/nkp-network-operations) : &#x1F6A7; }
