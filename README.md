@@ -20,8 +20,8 @@
 	<summary>&#x21A9; Galway/Mayo I.T. H.Dip (L8) Programme (Data Analytics)</summary>
 
 <!--
-26/12/2021
-"update repository ./mls-machine-learning-statistics - GMIT (Using Pandas with scikit-learn)."
+16/04/2022
+"update repository ./mls-machine-learning-statistics - Tidy GMIT (Iris Classification)."
 -->
 ###### Machine Learning and Statistics { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; } 
 
@@ -272,14 +272,9 @@
 "add repository ./nkp-wireless-connectivity-issues - Wireless Connectivity Issues."
 "add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
 -->
-
+<br/>
 <details close>
 	<summary>Network Concepts &#x21A9;</summary>
-<!--
-15/04/2022
-"update repository ./nkp-infrastructure - WAN Technologies." 
--->
-<br/>
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
 
@@ -303,10 +298,13 @@
 
 - { ["**Practice Labs**"](https://github.com/SeanOhAileasa/nkp-practice-labs) : &#x1F6A7; }
 </details> <!-- END (Network Concepts) -->
-
+<br/>
 <details close>
 	<summary>Infrastructure &#x21A9;</summary>
-<br/>
+<!--
+15/04/2022
+"update repository ./nkp-infrastructure - WAN Technologies." 
+-->
 
 - { ["**Infrastructure**"](https://github.com/SeanOhAileasa/nkp-infrastructure) : &#x1F6A7; }
 
@@ -318,25 +316,29 @@
 
 	- { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
 </details> <!-- END (Infrastructure) -->
-
+<br/>
 <details close>
 	<summary>Network Operations &#x21A9;</summary>
-<br/>
+<!--
+16/04/2022
+"update repository ./nkp-network-operations - Network Documentation." 
+-->
 
-- { ["**Documentation and Diagram Types**"](https://github.com/SeanOhAileasa/nkp-documentation-diagram-types) : &#x1F6A7; }
+- { ["**Network Operations**"](https://github.com/SeanOhAileasa/nkp-network-operations) : &#x1F6A7; }
 
-- { ["**Disaster Recovery**"](https://github.com/SeanOhAileasa/nkp-disaster-recovery) : &#x1F6A7; }
+	- { ["**Documentation and Diagram Types**"](https://github.com/SeanOhAileasa/nkp-documentation-diagram-types) : &#x1F6A7; }
 
-- { ["**Scanning and Monitoring and Patching**"](https://github.com/SeanOhAileasa/nkp-scanning-monitoring-patching) : &#x1F6A7; }
+	- { ["**Disaster Recovery**"](https://github.com/SeanOhAileasa/nkp-disaster-recovery) : &#x1F6A7; }
 
-- { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
+	- { ["**Scanning and Monitoring and Patching**"](https://github.com/SeanOhAileasa/nkp-scanning-monitoring-patching) : &#x1F6A7; }
 
-- { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
+	- { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
+
+	- { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
 </details> <!-- END (Network Operations) -->
-
+<br/>
 <details close>
 	<summary>Network Security &#x21A9;</summary>
-<br/>
 
 - { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
 
@@ -350,10 +352,9 @@
 
 - { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
 </details> <!-- END (Network Security) -->
-
+<br/>
 <details close>
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
-<br/>
 
 - { ["**Network Troubleshooting**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting) : &#x1F6A7; }
 
