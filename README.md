@@ -357,7 +357,7 @@
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 <!--
 17/04/2022
-"update repository ./nkp-network-troubleshooting-and-tools - Network Troubleshooting."
+"update repository ./nkp-network-troubleshooting-and-tools - Network Tools."
 -->
 
 - { ["**Network Troubleshooting and Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-and-tools) : &#x1F6A7; }
