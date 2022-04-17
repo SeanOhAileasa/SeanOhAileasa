@@ -355,14 +355,20 @@
 <br/>
 <details close>
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
+<!--
+17/04/2022
+"update repository ./nkp-network-troubleshooting-and-tools - Network Troubleshooting."
+-->
 
-- { ["**Network Troubleshooting**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting) : &#x1F6A7; }
+- { ["**Network Troubleshooting and Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-and-tools) : &#x1F6A7; }
 
-- { ["**Network Troubleshooting Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-tools) : &#x1F6A7; }
+	- { ["**Network Troubleshooting**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting) : &#x1F6A7; }
 
-- { ["**Wired Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wired-connectivity-issues) : &#x1F6A7; }
+	- { ["**Network Troubleshooting Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-tools) : &#x1F6A7; }
 
-- { ["**Wireless Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wireless-connectivity-issues) : &#x1F6A7; }
+	- { ["**Wired Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wired-connectivity-issues) : &#x1F6A7; }
+
+	- { ["**Wireless Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wireless-connectivity-issues) : &#x1F6A7; }
 </details> <!-- END (Network Troubleshooting and Tools) -->
 
 </details> <!-- END (CompTIA Network+) -->
