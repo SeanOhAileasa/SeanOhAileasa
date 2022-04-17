@@ -372,8 +372,8 @@
 <details close>
 	<summary><b>CompTIA Security+</b></summary>
 <!--
-02/04/2022
-"add repository ./syp-social-engineering-and-types-of-attacks"
+17/04/2022
+"update repository ./syp-social-engineering-and-types-of-attacks - Spam Attacks."
 -->
 
 - { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
