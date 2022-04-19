@@ -273,7 +273,7 @@
 "add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
 -->
 <br/>
-<details close>
+<details open>
 	<summary>Network Concepts &#x21A9;</summary>
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
@@ -317,7 +317,7 @@
 	- { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
 </details> <!-- END (Infrastructure) -->
 <br/>
-<details open>
+<details close>
 	<summary>Network Operations &#x21A9;</summary>
 <!--
 16/04/2022
@@ -356,8 +356,8 @@
 <details close>
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 <!--
-17/04/2022
-"update repository ./nkp-network-troubleshooting-and-tools - Network Tools."
+19/04/2022
+"update repository ./nkp-network-troubleshooting-and-tools - Wired Network Troubleshooting."
 -->
 
 - { ["**Network Troubleshooting and Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-and-tools) : &#x1F6A7; }
