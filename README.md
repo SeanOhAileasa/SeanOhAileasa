@@ -273,7 +273,7 @@
 "add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
 -->
 <br/>
-<details open>
+<details close>
 	<summary>Network Concepts &#x21A9;</summary>
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
@@ -337,11 +337,11 @@
 	- { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
 </details> <!-- END (Network Operations) -->
 <br/>
-<details close>
+<details open>
 	<summary>Network Security &#x21A9;</summary>
 <!--
 22/04/2022
-"update repository ./nkp-network-security - Access Control."
+"update repository ./nkp-network-security - Wireless Network Security."
 -->
 
 - { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
