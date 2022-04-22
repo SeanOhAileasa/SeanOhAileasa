@@ -339,18 +339,24 @@
 <br/>
 <details close>
 	<summary>Network Security &#x21A9;</summary>
+<!--
+22/04/2022
+"update repository ./nkp-network-security - Physical Security Devices."
+-->
 
-- { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
+- { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
 
-- { ["**Authentication and Access Control**"](https://github.com/SeanOhAileasa/nkp-authentication-access-control) : &#x1F6A7; }
+	- { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
 
-- { ["**Wireless Security**"](https://github.com/SeanOhAileasa/nkp-wireless-security) : &#x1F6A7; }
+	- { ["**Authentication and Access Control**"](https://github.com/SeanOhAileasa/nkp-authentication-access-control) : &#x1F6A7; }
 
-- { ["**Network Attacks**"](https://github.com/SeanOhAileasa/nkp-network-attacks) : &#x1F6A7; }
+	- { ["**Wireless Security**"](https://github.com/SeanOhAileasa/nkp-wireless-security) : &#x1F6A7; }
 
-- { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
+	- { ["**Network Attacks**"](https://github.com/SeanOhAileasa/nkp-network-attacks) : &#x1F6A7; }
 
-- { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
+	- { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
+
+	- { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
 </details> <!-- END (Network Security) -->
 <br/>
 <details close>
