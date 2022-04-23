@@ -275,6 +275,10 @@
 <br/>
 <details close>
 	<summary>Network Concepts &#x21A9;</summary>
+<!--
+23/04/2022
+"update repository ./nkp-network-concepts - Ports and Protocols." 
+-->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
 
