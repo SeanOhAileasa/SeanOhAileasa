@@ -277,7 +277,7 @@
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 23/04/2022
-"update repository ./nkp-network-concepts - The OSI Model." 
+"update repository ./nkp-network-concepts - Routing and Switching." 
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
