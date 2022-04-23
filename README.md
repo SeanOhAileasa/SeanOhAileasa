@@ -341,7 +341,7 @@
 	<summary>Network Security &#x21A9;</summary>
 <!--
 23/04/2022
-"update repository ./nkp-network-security - Device Hardening."
+"update repository ./nkp-network-security - Mitigation."
 -->
 
 - { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
