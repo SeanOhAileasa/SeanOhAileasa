@@ -340,8 +340,8 @@
 <details open>
 	<summary>Network Security &#x21A9;</summary>
 <!--
-22/04/2022
-"update repository ./nkp-network-security - Network Attacks."
+23/04/2022
+"update repository ./nkp-network-security - Device Hardening."
 -->
 
 - { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
