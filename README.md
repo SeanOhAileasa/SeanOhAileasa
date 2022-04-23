@@ -277,7 +277,7 @@
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 23/04/2022
-"update repository ./nkp-network-concepts - Ports and Protocols." 
+"update repository ./nkp-network-concepts - The OSI Model." 
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
@@ -341,7 +341,7 @@
 	- { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
 </details> <!-- END (Network Operations) -->
 <br/>
-<details open>
+<details close>
 	<summary>Network Security &#x21A9;</summary>
 <!--
 23/04/2022
