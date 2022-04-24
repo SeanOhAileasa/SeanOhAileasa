@@ -277,7 +277,7 @@
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 24/04/2022
-"update repository ./nkp-ports-and-protocols." 
+"update repository ./nkp-osi-layers." 
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
