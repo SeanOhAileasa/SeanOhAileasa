@@ -276,8 +276,8 @@
 <details close>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
-25/04/2022
-"update repository ./nkp-concepts-and-characteristics-of-networking." 
+26/04/2022
+"update repository ./nkp-network-concepts (Binary Math)." 
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
