@@ -146,8 +146,8 @@
 ###### Fundamentals of Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; }
 
 <!--
-01/12/2021
-"update repository ./fda-numerical - Exploratory Analysis."
+01/05/2022
+"update repository ./fda-numerical"
 -->
 * Supplemental Resources
 
@@ -158,11 +158,6 @@
 	* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb) : &#x1F4CC; } 
 
 	* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-regression/blob/main/Fundamentals-of-Data-Analysis-Regression-2020.ipynb) : &#x1F4CC; } 
-
-<!--
-07/09/2021
-"update repository ./fda-numerical - Simple averages."
--->
 
 ###### Programming for Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; }
 
