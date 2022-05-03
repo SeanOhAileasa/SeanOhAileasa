@@ -358,7 +358,7 @@
 	- { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
 </details> <!-- END (Network Security) -->
 <br/>
-<details close>
+<details open>
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 <!--
 03/05/2022
@@ -382,11 +382,11 @@
 
 <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA Security+</b></summary>
 <!--
 03/05/2022
-"update repository ./syp-social-engineering-and-types-of-attacks"
+"update repository ./syp-analyzing-application-and-network-attacks"
 -->
 
 - { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
