@@ -383,8 +383,8 @@
 <details close>
 	<summary><b>CompTIA Security+</b></summary>
 <!--
-17/04/2022
-"update repository ./syp-social-engineering-and-types-of-attacks - Diving and Surfing and Pharming."
+03/05/2022
+"update repository ./syp-social-engineering-and-types-of-attacks"
 -->
 
 - { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
