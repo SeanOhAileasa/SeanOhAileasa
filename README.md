@@ -361,8 +361,8 @@
 <details close>
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 <!--
-23/04/2022
-"update repository ./nkp-network-troubleshooting-and-tools - Network Service Troubleshooting."
+03/05/2022
+"update repository ./nkp-practice-labs - Network Troubleshooting and Tools (Troubleshoot Network Connectivity with Network Utilities - ipconfig).
 -->
 
 - { ["**Network Troubleshooting and Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-and-tools) : &#x1F6A7; }
@@ -374,6 +374,8 @@
 	- { ["**Wired Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wired-connectivity-issues) : &#x1F6A7; }
 
 	- { ["**Wireless Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wireless-connectivity-issues) : &#x1F6A7; }
+
+- { ["**Practice Labs**"](https://github.com/SeanOhAileasa/nkp-practice-labs) : &#x1F6A7; }
 </details> <!-- END (Network Troubleshooting and Tools) -->
 
 </details> <!-- END (CompTIA Network+) -->
