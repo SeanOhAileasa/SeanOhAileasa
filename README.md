@@ -361,8 +361,8 @@
 <details open>
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 <!--
-03/05/2022
-"update repository ./nkp-practice-labs - Network Troubleshooting and Tools (Troubleshoot Network Connectivity with Network Utilities - iptables).
+04/05/2022
+"update repository ./nkp-practice-labs - Network Troubleshooting and Tools (Troubleshoot Network Connectivity with Network Utilities - tcpdump).
 -->
 
 - { ["**Network Troubleshooting and Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-and-tools) : &#x1F6A7; }
