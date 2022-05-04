@@ -151,7 +151,7 @@
 -->
 * Supplemental Resources
 
-	* { ["**Numerical Reasoning**"](https://nbviewer.org/github/SeanOhAileasa/fda-numerical/blob/main/fda-numerical.ipynb) : &#x1F6A7; } 
+	* { ["**Numerical Reasoning**"](https://nbviewer.org/github/SeanOhAileasa/fda-numerical/blob/main/fda-numerical.ipynb) : &#x2623; } 
 
 * End of Semester (Dec 2020):
 
@@ -385,8 +385,8 @@
 <details open>
 	<summary><b>CompTIA Security+</b></summary>
 <!--
-03/05/2022
-"update repository ./syp-threat-actors-Intelligence-sources-and-vulnerabilities"
+04/05/2022
+"update repository ./syp-security-assessment-and-penetration-testing-techniques"
 -->
 
 - { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
