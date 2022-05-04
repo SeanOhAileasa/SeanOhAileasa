@@ -386,7 +386,7 @@
 	<summary><b>CompTIA Security+</b></summary>
 <!--
 04/05/2022
-"update repository ./syp-security-concepts-in-an-enterprise-environment"
+"update repository ./syp-implementing-cybersecurity-resilience"
 -->
 
 - { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
