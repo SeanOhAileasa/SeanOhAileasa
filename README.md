@@ -385,8 +385,8 @@
 <details open>
 	<summary><b>CompTIA Security+</b></summary>
 <!--
-04/05/2022
-"update repository ./syp-virtualization-cloud-computing-and-cloud-cybersecurity-solutions"
+05/05/2022
+"update repository ./syp-controls-and-application-development-deployment-and-automation"
 -->
 
 - { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
