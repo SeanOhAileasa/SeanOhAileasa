@@ -361,8 +361,8 @@
 <details open>
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 <!--
-04/05/2022
-"update repository ./nkp-practice-labs - Network Troubleshooting and Tools (Troubleshoot Network Connectivity with Network Utilities - nmap).
+06/05/2022
+"update repository ./nkp-practice-labs - Network Troubleshooting and Tools (Troubleshooting Network Connectivity Issues - i. Re-configure IP network bindings ii. Verify Proxy Settings).
 -->
 
 - { ["**Network Troubleshooting and Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-and-tools) : &#x1F6A7; }
