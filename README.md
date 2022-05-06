@@ -362,10 +362,12 @@
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 <!--
 06/05/2022
-"update repository ./nkp-practice-labs - Network Troubleshooting and Tools (Troubleshooting Network Connectivity Issues - i. Re-configure IP network bindings ii. Verify Proxy Settings).
+"update repository ./nkp-network-troubleshooting"
 -->
 
 - { ["**Network Troubleshooting and Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-and-tools) : &#x1F6A7; }
+
+	- { ["**Network Service Issues**"](https://github.com/SeanOhAileasa/nkp-network-service-issues) : &#x1F6A7; }
 
 	- { ["**Network Troubleshooting**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting) : &#x1F6A7; }
 
