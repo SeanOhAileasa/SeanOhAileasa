@@ -339,8 +339,8 @@
 <details close>
 	<summary>Network Security &#x21A9;</summary>
 <!--
-23/04/2022
-"update repository ./nkp-network-security - Mitigation."
+07/05/2022
+"update repository ./nkp-practice-labs - Network Security (Common Network Vulnerabilities - Spoofing a DNS Server)."
 -->
 
 - { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
@@ -356,6 +356,8 @@
 	- { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
 
 	- { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
+
+- { ["**Practice Labs**"](https://github.com/SeanOhAileasa/nkp-practice-labs) : &#x1F6A7; }
 </details> <!-- END (Network Security) -->
 <br/>
 <details open>
