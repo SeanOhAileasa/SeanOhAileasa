@@ -390,7 +390,7 @@
 	<summary><b>CompTIA Security+</b></summary>
 <!--
 08/05/2022
-"update repository ./syp-wireless-mobile-and-embedded-device-security"
+"update repository ./syp-incident-response-digital-forensics-and-supporting-investigations"
 -->
 
 - { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
