@@ -363,8 +363,8 @@
 <details open>
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 <!--
-06/05/2022
-"update repository ./nkp-practice-labs - Network Troubleshooting and Tools (Troubleshooting Network Connectivity Issues - i. Using the Hosts file ii. Refresh DNS Cache iii. Identify the IP of DNS Server on the Network iv. Identify the Name of the DNS Server v. Ensure DNS Server Connectivity vi. Verify DNS Server Settings vii. Check the Settings-Environment of the DNS Server)."
+09/05/2022
+"update repository ./nkp-network-service-issues"
 -->
 
 - { ["**Network Troubleshooting and Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-and-tools) : &#x1F6A7; }
