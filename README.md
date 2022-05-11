@@ -272,7 +272,7 @@
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 11/05/2022
-"update repository ./nkp-network-services"
+"update repository ./nkp-cabling-solutions"
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
@@ -360,7 +360,7 @@
 - { ["**Practice Labs**"](https://github.com/SeanOhAileasa/nkp-practice-labs) : &#x1F6A7; }
 </details> <!-- END (Network Security) -->
 <br/>
-<details open>
+<details close>
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 <!--
 10/05/2022
