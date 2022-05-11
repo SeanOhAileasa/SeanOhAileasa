@@ -320,7 +320,7 @@
 	<summary>Network Operations &#x21A9;</summary>
 <!--
 11/05/2022
-"update repository ./nkp-documentation-diagram-types" 
+"update repository ./nkp-disaster-recovery" 
 -->
 
 - { ["**Network Operations**"](https://github.com/SeanOhAileasa/nkp-network-operations) : &#x1F6A7; }
