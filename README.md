@@ -272,7 +272,7 @@
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 11/05/2022
-"update repository ./nkp-cloud-concepts"
+"update repository ./nkp-network-services"
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
