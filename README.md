@@ -319,8 +319,8 @@
 <details close>
 	<summary>Network Operations &#x21A9;</summary>
 <!--
-16/04/2022
-"update repository ./nkp-network-operations - Best Practices." 
+11/05/2022
+"update repository ./nkp-documentation-diagram-types" 
 -->
 
 - { ["**Network Operations**"](https://github.com/SeanOhAileasa/nkp-network-operations) : &#x1F6A7; }
