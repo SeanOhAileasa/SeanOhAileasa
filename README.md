@@ -340,7 +340,7 @@
 	<summary>Network Security &#x21A9;</summary>
 <!--
 12/05/2022
-"update repository ./nkp-physical-security-devices"
+"update repository ./nkp-authentication-access-control"
 -->
 
 - { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
