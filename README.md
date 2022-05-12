@@ -339,8 +339,8 @@
 <details close>
 	<summary>Network Security &#x21A9;</summary>
 <!--
-07/05/2022
-"update repository ./nkp-practice-labs - Network Security (Common Network Vulnerabilities - Spoofing a DNS Server)."
+12/05/2022
+"update repository ./nkp-physical-security-devices"
 -->
 
 - { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
