@@ -340,7 +340,7 @@
 	<summary>Network Security &#x21A9;</summary>
 <!--
 13/05/2022
-"update repository ./nkp-wireless-security"
+"update repository ./nkp-network-attacks"
 -->
 
 - { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
