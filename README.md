@@ -339,8 +339,8 @@
 <details close>
 	<summary>Network Security &#x21A9;</summary>
 <!--
-12/05/2022
-"update repository ./nkp-authentication-access-control"
+13/05/2022
+"update repository ./nkp-wireless-security"
 -->
 
 - { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
