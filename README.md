@@ -340,7 +340,7 @@
 	<summary>Network Security &#x21A9;</summary>
 <!--
 14/05/2022
-"update repository ./nkp-network-device-hardening"
+"update repository ./nkp-mitigation-techniques"
 -->
 
 - { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
