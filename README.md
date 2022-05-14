@@ -201,7 +201,7 @@
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
 <details open>
-	<summary><b>CompTIA Network+</b></summary>
+	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 <!--
 21/01/2022
 "add repository ./nkp-cloud-concepts - Cloud Concepts."
@@ -268,7 +268,7 @@
 "add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
 -->
 <br/>
-<details close>
+<details open>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
 11/05/2022
@@ -298,7 +298,7 @@
 - { ["**Practice Labs**"](https://github.com/SeanOhAileasa/nkp-practice-labs) : &#x1F6A7; }
 </details> <!-- END (Network Concepts) -->
 <br/>
-<details close>
+<details open>
 	<summary>Infrastructure &#x21A9;</summary>
 <!--
 15/04/2022
@@ -316,7 +316,7 @@
 	- { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
 </details> <!-- END (Infrastructure) -->
 <br/>
-<details close>
+<details open>
 	<summary>Network Operations &#x21A9;</summary>
 <!--
 11/05/2022
@@ -336,11 +336,11 @@
 	- { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
 </details> <!-- END (Network Operations) -->
 <br/>
-<details close>
+<details open>
 	<summary>Network Security &#x21A9;</summary>
 <!--
-13/05/2022
-"update repository ./nkp-network-attacks"
+14/05/2022
+"update repository ./nkp-network-device-hardening"
 -->
 
 - { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
@@ -360,10 +360,10 @@
 - { ["**Practice Labs**"](https://github.com/SeanOhAileasa/nkp-practice-labs) : &#x1F6A7; }
 </details> <!-- END (Network Security) -->
 <br/>
-<details close>
+<details open>
 	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
 <!--
-10/05/2022
+13/05/2022
 "update repository ./nkp-wired-connectivity-issues"
 -->
 
@@ -386,8 +386,8 @@
 
 <br/>
 
-<details open>
-	<summary><b>CompTIA Security+</b></summary>
+<details close>
+	<summary><b>CompTIA Security+ &#x1F4CC;</b></summary>
 <!--
 08/05/2022
 "update repository ./syp-risk-management-privacy-and-sensitive-data-security"
@@ -437,7 +437,7 @@
 <br/>
 
 <details close>
-	<summary><b>CompTIA CySA+</b></summary>
+	<summary><b>CompTIA CySA+ &#x1F4CC;</b></summary>
 <!--
 13/04/2022
 "add repository ./cap-intrusion-detection-and-traffic-analysis"
