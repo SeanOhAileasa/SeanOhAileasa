@@ -301,8 +301,8 @@
 <details open>
 	<summary>Infrastructure &#x21A9;</summary>
 <!--
-15/04/2022
-"update repository ./nkp-infrastructure - WAN Technologies." 
+16/04/2022
+"update repository ./nkp-networking-devices" 
 -->
 
 - { ["**Infrastructure**"](https://github.com/SeanOhAileasa/nkp-infrastructure) : &#x1F6A7; }
