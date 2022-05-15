@@ -302,7 +302,7 @@
 	<summary>Infrastructure &#x21A9;</summary>
 <!--
 16/04/2022
-"update repository ./nkp-networking-devices" 
+"update repository ./nkp-advanced-networking" 
 -->
 
 - { ["**Infrastructure**"](https://github.com/SeanOhAileasa/nkp-infrastructure) : &#x1F6A7; }
