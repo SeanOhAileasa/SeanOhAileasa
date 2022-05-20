@@ -50,10 +50,14 @@
 -->
 * Supplemental Resources
 
+	* { ["**DataCamp (Python)**"](#) : &#x2623; } 
+
+	* { ["**DataCamp (ML & Stats)**"](#) : &#x2623; } 
+<!--	
 	* { ["**DataCamp (Python)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-python/blob/main/dcp-python.ipynb) : &#x1F6A7; } 
 
 	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
-
+-->
 <!--
 "HOURS:1 - [README]: Complete and ready for submission."
 -->
@@ -151,8 +155,11 @@
 -->
 * Supplemental Resources
 
+	* { ["**Numerical Reasoning**"](#) : &#x2623; } 
+<!--
+	* { ["**Numerical Reasoning**"](https://github.com/SeanOhAileasa/fda-numerical) : &#x2623; } 
 	* { ["**Numerical Reasoning**"](https://nbviewer.org/github/SeanOhAileasa/fda-numerical/blob/main/fda-numerical.ipynb) : &#x2623; } 
-
+-->
 * End of Semester (Dec 2020):
 
 	* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb) : &#x1F4CC; } 
@@ -192,12 +199,12 @@
 |Stage|**ICT Associate Apprenticeship Cybersecurity:**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
 | 1     | CompTIA IT Fundamentals+                        | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://www.credly.com/badges/d628d8c9-4469-47b1-98d3-cded57ab813b/public_url)|
-| 1     | <br/>CompTIA Network+<br/><br/>                                |   WIP   |
-| 1     | <br/>CompTIA Security+<br/><br/>                               |   WIP   |
+| 1     | <br/>CompTIA Network+<br/><br/>                                |   &#x1F6A7;   |
+| 1     | <br/>CompTIA Security+<br/><br/>                               |   &#x1F6A7;   |
 | 2     | <br/>CompTIA CySA+ (2-Day College)<br/><br/>                   |   O/S   |
 | 3     | <br/>CompTIA PenTest+ (1-Day College)<br/><br/>                |   O/S   |
 
-<details open>
+<details close>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
 <details open>
@@ -546,3 +553,14 @@
 </details> <!-- END (Supplemental) -->
 
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
+
+### References - Acronyms and Abbreviations - Miscellaneous
+
+<details close>
+	<summary>&#x21A9; Open</summary> <br/>
+
+- &#x1F4CC; Subject / Theme / Topic
+- &#x21A9; Expand / Dropdown List
+- &#x1F6A7; Work-in-Progress / WIP
+- &#x2623; Private Repository / Exit
+</details>
