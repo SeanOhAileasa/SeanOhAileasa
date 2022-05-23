@@ -275,11 +275,14 @@
 "add repository ./nkp-policies-best-practice-guidelines - Policies and Best Practice Guidelines."
 -->
 <br/>
+
+- { ["**Practice Labs**"](https://github.com/SeanOhAileasa/nkp-practice-labs) : &#x1F6A7; }
+
 <details open>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
-11/05/2022
-"update repository ./nkp-cabling-solutions"
+23/05/2022
+"update repository ./nkp-practice-labs"
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
@@ -301,8 +304,6 @@
 	- { ["**Network Services**"](https://github.com/SeanOhAileasa/nkp-network-services) : &#x1F6A7; }
 
 	- { ["**Cabling Solutions**"](https://github.com/SeanOhAileasa/nkp-cabling-solutions) : &#x1F6A7; }
-
-- { ["**Practice Labs**"](https://github.com/SeanOhAileasa/nkp-practice-labs) : &#x1F6A7; }
 </details> <!-- END (Network Concepts) -->
 <br/>
 <details open>
@@ -363,8 +364,6 @@
 	- { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
 
 	- { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
-
-- { ["**Practice Labs**"](https://github.com/SeanOhAileasa/nkp-practice-labs) : &#x1F6A7; }
 </details> <!-- END (Network Security) -->
 <br/>
 <details open>
@@ -385,8 +384,6 @@
 	- { ["**Wired Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wired-connectivity-issues) : &#x1F6A7; }
 
 	- { ["**Wireless Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wireless-connectivity-issues) : &#x1F6A7; }
-
-- { ["**Practice Labs**"](https://github.com/SeanOhAileasa/nkp-practice-labs) : &#x1F6A7; }
 </details> <!-- END (Network Troubleshooting and Tools) -->
 
 </details> <!-- END (CompTIA Network+) -->
