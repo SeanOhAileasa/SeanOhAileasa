@@ -477,11 +477,22 @@
 </details>
 <br/>
 
-- { ["**Security Policies, Regulations, Standards and Frameworks**"](https://github.com/SeanOhAileasa/syp-security-policies-regulations-standards-and-frameworks/blob/main/README.md) : &#x1F6A7; }
+<details open>
+	<summary>Governance and Risk and Compliance &#x21A9;</summary>
+<!--
+24/05/2022
+"add repository ./syp-governance-risk-and-compliance"
+-->
 
-- { ["**Risk Management, Privacy and Sensitive Data Security**"](https://github.com/SeanOhAileasa/syp-risk-management-privacy-and-sensitive-data-security/blob/main/README.md) : &#x1F6A7; }
+- { ["**Governance and Risk and Compliance**"](https://github.com/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Monitoring, Visibility, & Reporting**"](https://github.com/SeanOhAileasa/syp-monitoring-visibility-and-reporting/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Security Policies, Regulations, Standards and Frameworks**"](https://github.com/SeanOhAileasa/syp-security-policies-regulations-standards-and-frameworks/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Risk Management, Privacy and Sensitive Data Security**"](https://github.com/SeanOhAileasa/syp-risk-management-privacy-and-sensitive-data-security/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Monitoring, Visibility, & Reporting**"](https://github.com/SeanOhAileasa/syp-monitoring-visibility-and-reporting/blob/main/README.md) : &#x1F6A7; }
+</details> 
+
 </details> <!-- END (CompTIA Security+) -->
 
 <br/>
