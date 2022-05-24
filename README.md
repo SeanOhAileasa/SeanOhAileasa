@@ -397,11 +397,27 @@
 "update repository ./syp-risk-management-privacy-and-sensitive-data-security"
 -->
 
-- { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
+<br/>
+<!--
+- { ["**Practice Labs**"](https://github.com/SeanOhAileasa/syp-practice-labs) : &#x1F6A7; }
+-->
 
-- { ["**Analyzing Application and Network Attacks**"](https://github.com/SeanOhAileasa/syp-analyzing-application-and-network-attacks/blob/main/README.md) : &#x1F6A7; }
+<details open>
+	<summary>Attacks and Threats and Vulnerabilities &#x21A9;</summary>
+<!--
+24/05/2022
+"add repository ./syp-attacks-threats-and-vulnerabilities"
+-->
 
-- { ["**Threat Actors, Intelligence Sources and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-threat-actors-Intelligence-sources-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
+- { ["**Attacks and Threats and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-attacks-threats-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Analyzing Application and Network Attacks**"](https://github.com/SeanOhAileasa/syp-analyzing-application-and-network-attacks/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Threat Actors, Intelligence Sources and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-threat-actors-Intelligence-sources-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
+</details>
+<br/>
 
 - { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F6A7; }
 
