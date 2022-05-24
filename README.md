@@ -464,8 +464,18 @@
 	- { ["**Organizational Security Assessment Tools and Mitigation Controls**"](https://github.com/SeanOhAileasa/syp-organizational-security-assessment-tools-and-mitigation-controls/blob/main/README.md) : &#x1F6A7; }
 </details>
 <br/>
+<details open>
+	<summary>Operations and Incident Response &#x21A9;</summary>
+<!--
+24/05/2022
+"add repository ./syp-operations-and-incident-response"
+-->
 
-- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F6A7; }
+- { ["**Operations and Incident Response**"](https://github.com/SeanOhAileasa/syp-operations-and-incident-response/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F6A7; }
+</details>
+<br/>
 
 - { ["**Security Policies, Regulations, Standards and Frameworks**"](https://github.com/SeanOhAileasa/syp-security-policies-regulations-standards-and-frameworks/blob/main/README.md) : &#x1F6A7; }
 
