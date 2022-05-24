@@ -390,7 +390,7 @@
 
 <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA Security+ &#x1F4CC;</b></summary>
 <!--
 08/05/2022
@@ -416,26 +416,36 @@
 	- { ["**Analyzing Application and Network Attacks**"](https://github.com/SeanOhAileasa/syp-analyzing-application-and-network-attacks/blob/main/README.md) : &#x1F6A7; }
 
 	- { ["**Threat Actors, Intelligence Sources and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-threat-actors-Intelligence-sources-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F6A7; }
 </details>
 <br/>
+<details open>
+	<summary>Architecture and Design &#x21A9;</summary>
+<!--
+24/05/2022
+"add repository ./syp-architecture-and-design"
+-->
 
-- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F6A7; }
+- { ["**Architecture and Design**"](https://github.com/SeanOhAileasa/syp-architecture-and-design/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Security Concepts in an Enterprise Environment**"](https://github.com/SeanOhAileasa/syp-security-concepts-in-an-enterprise-environment/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Security Concepts in an Enterprise Environment**"](https://github.com/SeanOhAileasa/syp-security-concepts-in-an-enterprise-environment/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Implementing Cybersecurity Resilience**"](https://github.com/SeanOhAileasa/syp-implementing-cybersecurity-resilience/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Implementing Cybersecurity Resilience**"](https://github.com/SeanOhAileasa/syp-implementing-cybersecurity-resilience/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Virtualization, Cloud Computing and Cloud Cybersecurity Solutions**"](https://github.com/SeanOhAileasa/syp-virtualization-cloud-computing-and-cloud-cybersecurity-solutions/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Virtualization, Cloud Computing and Cloud Cybersecurity Solutions**"](https://github.com/SeanOhAileasa/syp-virtualization-cloud-computing-and-cloud-cybersecurity-solutions/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Controls and Application Development Deployment and Automation**"](https://github.com/SeanOhAileasa/syp-controls-and-application-development-deployment-and-automation/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Controls and Application Development Deployment and Automation**"](https://github.com/SeanOhAileasa/syp-controls-and-application-development-deployment-and-automation/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Authentication and Authorization Design Concepts**"](https://github.com/SeanOhAileasa/syp-authentication-and-authorization-design-concepts/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Authentication and Authorization Design Concepts**"](https://github.com/SeanOhAileasa/syp-authentication-and-authorization-design-concepts/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Implementing Identity and Account Management and AAA Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-identity-and-account-management-and-aaa-solutions/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Implementing Identity and Account Management and AAA Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-identity-and-account-management-and-aaa-solutions/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Physical Security Controls**"](https://github.com/SeanOhAileasa/syp-physical-security-controls/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Physical Security Controls**"](https://github.com/SeanOhAileasa/syp-physical-security-controls/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F6A7; }
+</details>
+<br/>
 
 - { ["**Implementing Secure Protocols and Application Security Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-secure-protocols-and-application-security-solutions/blob/main/README.md) : &#x1F6A7; }
 
