@@ -1,199 +1,3 @@
-### Higher Diploma in Science in Computing (in Data Analytics)
-
-| **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade   |
-| :--------------------------------------------------------------|:-------:|:-------:|
-| Machine Learning and Statistics (Python)                       | 5       | 79%     |
-| Multi-Paradigm Programming (C/Java/Python)                     | 5       | 73%     |
-| Data Representation (JS/API with Python)                       | 5       | 71%     |
-| Programming and Scripting (Python)                             | 10      | 75%     |
-| Computer Architecture and Technology Convergence               | 5       | 80%     |
-| Web Application Development (HTML/CSS/JavaScript)              | 5       | 80%     |
-| Applied Databases (SQL/MongoDB/Python)                         | 5       | 80%     |
-| Programming for Data Analysis (Python)                         | 10      | 75%     |
-| Fundamentals of Data Analysis (Python)                         | 5       | 83%     |
-| Computational Thinking with Algorithms (Python)                | 5       | 85%     |
-| Work Placement (Graded Pass/Fail)                              | 15      | PASS    |
-
-### GMIT Overall Result: First Class Honours (1.1) - Grade: 77.6%
-
-<details close>
-	<summary>&#x21A9; Galway/Mayo I.T. H.Dip (L8) Programme (Data Analytics)</summary>
-
-<!--
-16/04/2022
-"update repository ./mls-machine-learning-statistics - Tidy GMIT (Iris Classification)."
--->
-###### Machine Learning and Statistics { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; } 
-
-<!--
-04/12/2021
-"add repository ./mls-scikit-learn - An introduction to machine learning with scikit-learn."
--->
-* { [``scikit-learn``](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-scikit-learn/blob/main/mls-scikit-learn.ipynb) : &#x1F6A7; }
-
-	* { ["**Classification**"](https://nbviewer.org/github/SeanOhAileasa/pda-scikit-learn-classification/blob/main/pda-scikit-learn-classification.ipynb) : &#x1F6A7; }
-
-	* { ["**Regression**"](https://nbviewer.org/github/SeanOhAileasa/mls-scikit-learn-regression/blob/main/mls-scikit-learn-regression.ipynb) : &#x1F6A7; }
-
-	* { ["**Clustering**"](https://nbviewer.org/github/SeanOhAileasa/mls-scikit-learn-clustering/blob/main/mls-scikit-learn-clustering.ipynb) : &#x1F6A7; }
-
-<!--
-06/11/2021
-"update repository ./mls-t-test - A t-test on some real-world data (sleep dataset). Overview of not just t-tests but an overview of the typical way to use statistics to do things like hypothesis testing (traditional old way of doing statistics)."
--->
-* ``scipy-stats``
-<!--
-	* { ["**T-Test**"](https://nbviewer.org/github/SeanOhAileasa/mls-t-test/blob/main/mls-t-test.ipynb) : &#x1F6A7; }
--->
-<!--
-"add repository ./dcp-machine-learning-statistics - Statistical Thinking in Python (Part 1) (Graphical Exploratory Data Analysis)."
--->
-* Supplemental Resources
-
-	* { ["**DataCamp (Python)**"](#) : &#x2623; } 
-
-	* { ["**DataCamp (ML & Stats)**"](#) : &#x2623; } 
-<!--	
-	* { ["**DataCamp (Python)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-python/blob/main/dcp-python.ipynb) : &#x1F6A7; } 
-
-	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
--->
-<!--
-"HOURS:1 - [README]: Complete and ready for submission."
--->
-* End of Semester (Dec 2021):
-
-	* { ["**Assessment**"](https://github.com/SeanOhAileasa/mls-scikit-learn-scipy-stats) : &#x1F4CC; }
-
-<!--
-09/01/2021
-"update repository ./mpp-multi-paradigm-programming - GMIT Multi-Paradigm Programming module 30% MCS & written quiz completed."
--->
-###### Multi-Paradigm Programming { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F4CC; }
-
-<!--
-20/12/2021
-"update repository ./fubar-c - GMIT Multi-Paradigm Programming module Assessment: Link to repository mpp-multi-paradigm-programming."
--->
-* { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
-
-<!--
-"..."
--->
-* { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F6A7; }
-
-<!--
-22/12/2021
-"update repository ./mpp-multi-paradigm-programming - GMIT Multi-Paradigm Programming module Assessment (Report) completed."
--->
-* End of Semester (Dec 2021):
-
-	* { ["**Assessment**"](https://nbviewer.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb#Winter-21/22-Assessment) : &#x1F4CC; }
-
-<!--
-26/11/2021
-"update repository ./drp-data-representation - Packages for APIs."
--->
-###### Data Representation { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F4CC; } 
-
-<!--
-05/01/2022
-"update repository ./drp-app-server - Ooops password displayed (now changed). Updated: i. script db.py and ii. README."
--->
-* { ["**App-server (``flask``)**"](https://nbviewer.org/github/SeanOhAileasa/drp-app-server/blob/main/drp-app-server.ipynb) : &#x1F4CC; }
-
-<!--
-26/11/2021
-"update repository ./data-representation-courseware - Week 8 Quiz (Server side)." 
--->
-* End of Semester (Dec 2021):
-
-	* { ["**Assessment**"](https://github.com/SeanOhAileasa/data-representation-courseware) : &#x1F4CC; } 
-
-###### Computational Thinking with Algorithms
-
-<!--
-22/05/2021
-"update repository ./cta-analysing"
--->
-* { ["**Analysing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-analysing/blob/main/cta-analysing.ipynb) : &#x1F4CC; } 
-
-<!-- 
-23/08/2021
-""
-"update repository ./cta-recursion - Fix links."
--->
-* { ["**Recursion**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-recursion/blob/main/cta-recursion.ipynb) : &#x1F4CC; } 
-
-<!--
-26/05/2021
-"update repository ./cta-sorting"
--->
-* { ["**Sorting**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-sorting/blob/main/cta-sorting.ipynb) : &#x1F4CC; } 
-
-<!-- 
-25/04/2021
-"update repository ./cta-searching - Overview of binary search with performance comparison over linear search. Pseudocode along with iterative implementation (recursive implementation outstanding). Walkthrough of iterative and recursion approaches completed in Java."
--->
-* { ["**Searching**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-searching/blob/main/cta-searching.ipynb) : &#x1F4CC; } 
-
-<!--
-26/05/2021
-"add repository ./cta-benchmark-algorithms - Python application to benchmark five different sorting algorithms. In addition, the report introduces the algorithms chosen and discusses the results of the benchmarking process."
--->
-* End of Semester (May 2021):
-
-	* { ["**Project (pdf)**"](https://raw.githubusercontent.com/SeanOhAileasa/cta-benchmark-algorithms/main/Computational-Thinking-with-Algorithms-Project-2021.pdf) : &#x1F4CC; } 
-
-		* { ["**Project (src)**"](https://github.com/SeanOhAileasa/cta-benchmark-algorithms) : &#x1F4CC; } 
-
-###### Fundamentals of Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; }
-
-<!--
-01/05/2022
-"update repository ./fda-numerical"
--->
-* Supplemental Resources
-
-	* { ["**Numerical Reasoning**"](#) : &#x2623; } 
-<!--
-	* { ["**Numerical Reasoning**"](https://github.com/SeanOhAileasa/fda-numerical) : &#x2623; } 
-	* { ["**Numerical Reasoning**"](https://nbviewer.org/github/SeanOhAileasa/fda-numerical/blob/main/fda-numerical.ipynb) : &#x2623; } 
--->
-* End of Semester (Dec 2020):
-
-	* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb) : &#x1F4CC; } 
-
-	* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-regression/blob/main/Fundamentals-of-Data-Analysis-Regression-2020.ipynb) : &#x1F4CC; } 
-
-###### Programming for Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; }
-
-* End of Semester (Dec 2020):
-
-	* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : &#x1F4CC; } 
-
-	* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb) : &#x1F4CC; } 
-
-###### Applied Databases
-
-<!--
-05/07/2021
-"add repository ./adb-MySQL"
--->
-* { ["**MySQL**"](https://nbviewer.org/github/SeanOhAileasa/adb-MySQL/blob/main/adb-MySQL.ipynb) : &#x1F4CC; }
-
-<!--
-06/07/2021
-"add repository ./adb-mongodb"
--->
-* { ["**MongoDB**"](https://nbviewer.org/github/SeanOhAileasa/adb-mongodb/blob/main/adb-mongodb.ipynb) : &#x1F4CC; }
-
-* End of Semester (Aug 2020):
-
-	* { ["**Project**"](https://github.com/SeanOhAileasa/adb-sql-mongodb) : &#x1F4CC; } 
-
-</details>
-
 ### Cybersecurity Associate Candidate (Apprenticeship NFQ L6)
 
 |Stage|**ICT Associate Apprenticeship Cybersecurity:**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
@@ -405,8 +209,8 @@
 <details open>
 	<summary>Attacks and Threats and Vulnerabilities &#x21A9;</summary>
 <!--
-24/05/2022
-"add repository ./syp-attacks-threats-and-vulnerabilities"
+29/05/2022
+"updata repository ./syp-attacks-threats-and-vulnerabilities"
 -->
 
 - { ["**Attacks and Threats and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-attacks-threats-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
@@ -589,14 +393,6 @@
 -->
 * { ["**Machine Learning for Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
 
-* { ["**App-server (``flask``)**"](https://github.com/SeanOhAileasa/cwe-app-server) : &#x1F6A7; }
-
-<!--
-03/12/2021
-"update repository ./mls-cyber-security - IOT Device Detection."
--->
-* { ["**Machine Learning for Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
-
 ###### Programming Languages for Cybersecurity (Self-Learning)
 
 <!--
@@ -607,6 +403,202 @@
 </details> <!-- END (Supplemental) -->
 
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
+
+### Higher Diploma in Science in Computing (in Data Analytics)
+
+| **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade   |
+| :--------------------------------------------------------------|:-------:|:-------:|
+| Machine Learning and Statistics (Python)                       | 5       | 79%     |
+| Multi-Paradigm Programming (C/Java/Python)                     | 5       | 73%     |
+| Data Representation (JS/API with Python)                       | 5       | 71%     |
+| Programming and Scripting (Python)                             | 10      | 75%     |
+| Computer Architecture and Technology Convergence               | 5       | 80%     |
+| Web Application Development (HTML/CSS/JavaScript)              | 5       | 80%     |
+| Applied Databases (SQL/MongoDB/Python)                         | 5       | 80%     |
+| Programming for Data Analysis (Python)                         | 10      | 75%     |
+| Fundamentals of Data Analysis (Python)                         | 5       | 83%     |
+| Computational Thinking with Algorithms (Python)                | 5       | 85%     |
+| Work Placement (Graded Pass/Fail)                              | 15      | PASS    |
+
+### GMIT Overall Result: First Class Honours (1.1) - Grade: 77.6%
+
+<details close>
+	<summary>&#x21A9; Galway/Mayo I.T. H.Dip (L8) Programme (Data Analytics)</summary>
+
+<!--
+16/04/2022
+"update repository ./mls-machine-learning-statistics - Tidy GMIT (Iris Classification)."
+-->
+###### Machine Learning and Statistics { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; } 
+
+<!--
+04/12/2021
+"add repository ./mls-scikit-learn - An introduction to machine learning with scikit-learn."
+-->
+* { [``scikit-learn``](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-scikit-learn/blob/main/mls-scikit-learn.ipynb) : &#x1F6A7; }
+
+	* { ["**Classification**"](https://nbviewer.org/github/SeanOhAileasa/pda-scikit-learn-classification/blob/main/pda-scikit-learn-classification.ipynb) : &#x1F6A7; }
+
+	* { ["**Regression**"](https://nbviewer.org/github/SeanOhAileasa/mls-scikit-learn-regression/blob/main/mls-scikit-learn-regression.ipynb) : &#x1F6A7; }
+
+	* { ["**Clustering**"](https://nbviewer.org/github/SeanOhAileasa/mls-scikit-learn-clustering/blob/main/mls-scikit-learn-clustering.ipynb) : &#x1F6A7; }
+
+<!--
+06/11/2021
+"update repository ./mls-t-test - A t-test on some real-world data (sleep dataset). Overview of not just t-tests but an overview of the typical way to use statistics to do things like hypothesis testing (traditional old way of doing statistics)."
+-->
+* ``scipy-stats``
+<!--
+	* { ["**T-Test**"](https://nbviewer.org/github/SeanOhAileasa/mls-t-test/blob/main/mls-t-test.ipynb) : &#x1F6A7; }
+-->
+<!--
+"add repository ./dcp-machine-learning-statistics - Statistical Thinking in Python (Part 1) (Graphical Exploratory Data Analysis)."
+-->
+* Supplemental Resources
+
+	* { ["**DataCamp (Python)**"](#) : &#x2623; } 
+
+	* { ["**DataCamp (ML & Stats)**"](#) : &#x2623; } 
+<!--	
+	* { ["**DataCamp (Python)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-python/blob/main/dcp-python.ipynb) : &#x1F6A7; } 
+
+	* { ["**DataCamp (ML & Stats)**"](https://nbviewer.org/github/SeanOhAileasa/dcp-machine-learning-statistics/blob/main/dcp-machine-learning-statistics.ipynb) : &#x1F6A7; } 
+-->
+<!--
+"HOURS:1 - [README]: Complete and ready for submission."
+-->
+* End of Semester (Dec 2021):
+
+	* { ["**Assessment**"](https://github.com/SeanOhAileasa/mls-scikit-learn-scipy-stats) : &#x1F4CC; }
+
+<!--
+09/01/2021
+"update repository ./mpp-multi-paradigm-programming - GMIT Multi-Paradigm Programming module 30% MCS & written quiz completed."
+-->
+###### Multi-Paradigm Programming { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F4CC; }
+
+<!--
+20/12/2021
+"update repository ./fubar-c - GMIT Multi-Paradigm Programming module Assessment: Link to repository mpp-multi-paradigm-programming."
+-->
+* { ["**C**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-c/blob/main/fubar-c.ipynb) : &#x1F6A7; } 
+
+<!--
+"..."
+-->
+* { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F6A7; }
+
+<!--
+22/12/2021
+"update repository ./mpp-multi-paradigm-programming - GMIT Multi-Paradigm Programming module Assessment (Report) completed."
+-->
+* End of Semester (Dec 2021):
+
+	* { ["**Assessment**"](https://nbviewer.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb#Winter-21/22-Assessment) : &#x1F4CC; }
+
+<!--
+26/11/2021
+"update repository ./drp-data-representation - Packages for APIs."
+-->
+###### Data Representation { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F4CC; } 
+
+<!--
+05/01/2022
+"update repository ./drp-app-server - Ooops password displayed (now changed). Updated: i. script db.py and ii. README."
+-->
+* { ["**App-server (``flask``)**"](https://nbviewer.org/github/SeanOhAileasa/drp-app-server/blob/main/drp-app-server.ipynb) : &#x1F4CC; }
+
+<!--
+26/11/2021
+"update repository ./data-representation-courseware - Week 8 Quiz (Server side)." 
+-->
+* End of Semester (Dec 2021):
+
+	* { ["**Assessment**"](https://github.com/SeanOhAileasa/data-representation-courseware) : &#x1F4CC; } 
+
+###### Computational Thinking with Algorithms
+
+<!--
+22/05/2021
+"update repository ./cta-analysing"
+-->
+* { ["**Analysing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-analysing/blob/main/cta-analysing.ipynb) : &#x1F4CC; } 
+
+<!-- 
+23/08/2021
+""
+"update repository ./cta-recursion - Fix links."
+-->
+* { ["**Recursion**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-recursion/blob/main/cta-recursion.ipynb) : &#x1F4CC; } 
+
+<!--
+26/05/2021
+"update repository ./cta-sorting"
+-->
+* { ["**Sorting**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-sorting/blob/main/cta-sorting.ipynb) : &#x1F4CC; } 
+
+<!-- 
+25/04/2021
+"update repository ./cta-searching - Overview of binary search with performance comparison over linear search. Pseudocode along with iterative implementation (recursive implementation outstanding). Walkthrough of iterative and recursion approaches completed in Java."
+-->
+* { ["**Searching**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-searching/blob/main/cta-searching.ipynb) : &#x1F4CC; } 
+
+<!--
+26/05/2021
+"add repository ./cta-benchmark-algorithms - Python application to benchmark five different sorting algorithms. In addition, the report introduces the algorithms chosen and discusses the results of the benchmarking process."
+-->
+* End of Semester (May 2021):
+
+	* { ["**Project (pdf)**"](https://raw.githubusercontent.com/SeanOhAileasa/cta-benchmark-algorithms/main/Computational-Thinking-with-Algorithms-Project-2021.pdf) : &#x1F4CC; } 
+
+		* { ["**Project (src)**"](https://github.com/SeanOhAileasa/cta-benchmark-algorithms) : &#x1F4CC; } 
+
+###### Fundamentals of Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; }
+
+<!--
+01/05/2022
+"update repository ./fda-numerical"
+-->
+* Supplemental Resources
+
+	* { ["**Numerical Reasoning**"](#) : &#x2623; } 
+<!--
+	* { ["**Numerical Reasoning**"](https://github.com/SeanOhAileasa/fda-numerical) : &#x2623; } 
+	* { ["**Numerical Reasoning**"](https://nbviewer.org/github/SeanOhAileasa/fda-numerical/blob/main/fda-numerical.ipynb) : &#x2623; } 
+-->
+* End of Semester (Dec 2020):
+
+	* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb) : &#x1F4CC; } 
+
+	* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-regression/blob/main/Fundamentals-of-Data-Analysis-Regression-2020.ipynb) : &#x1F4CC; } 
+
+###### Programming for Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; }
+
+* End of Semester (Dec 2020):
+
+	* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : &#x1F4CC; } 
+
+	* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb) : &#x1F4CC; } 
+
+###### Applied Databases
+
+<!--
+05/07/2021
+"add repository ./adb-MySQL"
+-->
+* { ["**MySQL**"](https://nbviewer.org/github/SeanOhAileasa/adb-MySQL/blob/main/adb-MySQL.ipynb) : &#x1F4CC; }
+
+<!--
+06/07/2021
+"add repository ./adb-mongodb"
+-->
+* { ["**MongoDB**"](https://nbviewer.org/github/SeanOhAileasa/adb-mongodb/blob/main/adb-mongodb.ipynb) : &#x1F4CC; }
+
+* End of Semester (Aug 2020):
+
+	* { ["**Project**"](https://github.com/SeanOhAileasa/adb-sql-mongodb) : &#x1F4CC; } 
+
+</details>
 
 ### References - Acronyms and Abbreviations - Miscellaneous
 
