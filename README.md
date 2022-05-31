@@ -12,6 +12,19 @@
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
 <details close>
+<!--
+31/05/2022
+"add repository ./itf-cybersecurity-apprenticeship (Computer Operating Systems - Microsoft Windows - Apple macOS - Motherboard Components - GNU Linux Overview)"
+-->
+	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
+<!--
+- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/itf-cybersecurity-apprenticeship) : &#x2623; }
+-->
+
+- { ["**Cybersecurity Apprenticeship**"](#) : &#x2623; }
+</details>
+<br/>
+<details close>
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 <!--
 21/01/2022
