@@ -14,7 +14,7 @@
 <details close>
 <!--
 31/05/2022
-"add repository ./itf-cybersecurity-apprenticeship (Computer Operating Systems - Microsoft Windows - Apple macOS - Motherboard Components - GNU Linux Overview)"
+"add repository ./itf-cybersecurity-apprenticeship (Software Usage Requirements - Cable - 568A - 568B - RJ-45 v RJ-11 - Business & Productivity Software - Cables - Cat5 - Cat5e - Cat6 - Cat6a - Cat7 - Single-mode - Multi-mode Fibre - ST - LC Connector and SC Connector - Auto-MDIX)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 <!--
