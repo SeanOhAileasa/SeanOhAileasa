@@ -14,7 +14,7 @@
 <details close>
 <!--
 31/05/2022
-"add repository ./itf-cybersecurity-apprenticeship (Software Usage Requirements - Cable - 568A - 568B - RJ-45 v RJ-11 - Business & Productivity Software - Cables - Cat5 - Cat5e - Cat6 - Cat6a - Cat7 - Single-mode - Multi-mode Fibre - ST - LC Connector and SC Connector - Auto-MDIX)"
+"add repository ./itf-cybersecurity-apprenticeship (Collaboration Software - Ports - CIA Triad - OSI - Kali Linux - Hash - Web Browser Settings - Cookies - Session Hijacking - Extension - Honey - IP address - Ports - MAC address - Cookie - IPv4 address and IPv6 address - IPv4 v IPv6 - Switch - Router - Web Browser Settings)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 <!--
