@@ -13,8 +13,8 @@
 
 <details close>
 <!--
-31/05/2022
-"add repository ./itf-cybersecurity-apprenticeship (Collaboration Software - Ports - CIA Triad - OSI - Kali Linux - Hash - Web Browser Settings - Cookies - Session Hijacking - Extension - Honey - IP address - Ports - MAC address - Cookie - IPv4 address and IPv6 address - IPv4 v IPv6 - Switch - Router - Web Browser Settings)"
+03/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (Programming Concepts - Developing with Python)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 <!--
