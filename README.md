@@ -240,8 +240,8 @@
 <details open>
 	<summary>Architecture and Design &#x21A9;</summary>
 <!--
-03/06/2022
-"update repository ./syp-architecture-and-design (Enterprise Security)"
+04/06/2022
+"update repository ./syp-architecture-and-design (Virtualization and Cloud Computing)"
 -->
 
 - { ["**Architecture and Design**"](https://github.com/SeanOhAileasa/syp-architecture-and-design/blob/main/README.md) : &#x1F6A7; }
