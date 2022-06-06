@@ -241,7 +241,7 @@
 	<summary>Architecture and Design &#x21A9;</summary>
 <!--
 06/06/2022
-"update repository ./syp-architecture-and-design (Embedded Systems)"
+"update repository ./syp-architecture-and-design (Physical Security Controls)"
 -->
 
 - { ["**Architecture and Design**"](https://github.com/SeanOhAileasa/syp-architecture-and-design/blob/main/README.md) : &#x1F6A7; }
