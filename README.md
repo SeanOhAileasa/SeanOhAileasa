@@ -13,8 +13,8 @@
 
 <details close>
 <!--
-03/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (Programming Concepts - Developing with Python)"
+07/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (Central Processing Unit [Core Hardware Components - Network Devices - Network Protocols - TCP and UDP Protocols - TCP/IP - Common Hardware] - Quiz - OSI Model - Common Hardware)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 <!--
