@@ -13,8 +13,8 @@
 
 <details close>
 <!--
-07/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (Central Processing Unit [Core Hardware Components - Network Devices - Network Protocols - TCP and UDP Protocols - TCP/IP - Common Hardware] - Quiz - OSI Model - Common Hardware)"
+08/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (Peripheral Devices - Device Driver - Quiz - [RJ-45 - T568A - T568B] - Display Hardware)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 
