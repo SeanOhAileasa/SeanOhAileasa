@@ -13,8 +13,8 @@
 
 <details close>
 <!--
-08/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (Peripheral Devices - Device Driver - Quiz - [RJ-45 - T568A - T568B] - Display Hardware)"
+12/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (Dundalk - AMTCE)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 
