@@ -264,8 +264,8 @@
 <details open>
 	<summary>Implementation &#x21A9;</summary>
 <!--
-24/05/2022
-"add repository ./syp-implementation"
+12/06/2022
+"update repository ./syp-implementation (Secure Protocols)"
 -->
 
 - { ["**Implementation**"](https://github.com/SeanOhAileasa/syp-implementation/blob/main/README.md) : &#x1F6A7; }
