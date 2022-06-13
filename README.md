@@ -13,8 +13,8 @@
 
 <details close>
 <!--
-12/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (Dundalk - AMTCE)"
+13/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (Configuring a Wireless Router - Configuring a Wireless Router Pt. 2 - Network Concepts and Technologies - Quiz - Connection & Service Types - Connection & Services Types Pt. 2 - Database Concepts)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 
