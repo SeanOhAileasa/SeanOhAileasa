@@ -13,8 +13,8 @@
 
 <details close>
 <!--
-13/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (Configuring a Wireless Router - Configuring a Wireless Router Pt. 2 - Network Concepts and Technologies - Quiz - Connection & Service Types - Connection & Services Types Pt. 2 - Database Concepts)"
+14/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (Querying a Database - Table Design - Database Fundamentals - SQL - Basic Security Principles - CIA Triad - Basic Security Principles Pt. 2)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 
