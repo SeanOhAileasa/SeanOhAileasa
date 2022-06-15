@@ -353,6 +353,18 @@
 <br/>
 
 <details close>
+	<summary><b>CompTIA PenTest+ &#x1F4CC;</b></summary>
+<!--
+15/06/2022
+"add repository ./ptp-scoping-and-engagement"
+-->
+
+- { ["**Scoping and Engagement**"](https://github.com/SeanOhAileasa/ptp-scoping-and-engagement/blob/main/README.md) : &#x1F6A7; }
+</details> <!-- END (CompTIA PenTest+) -->
+
+<br/>
+
+<details close>
 	<summary><b>Supplemental</b></summary>
 
 <!-- 
