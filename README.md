@@ -13,8 +13,8 @@
 
 <details close>
 <!--
-14/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (Querying a Database - Table Design - Database Fundamentals - SQL - Basic Security Principles - CIA Triad - Basic Security Principles Pt. 2)"
+15/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (VirusTotal - Security Best Practices - Security Best Practices Pt. 2 - Security Best Practices Pt. 3 - [Man-in-the-middle - Replay - Impersonation - Unauthorised Information Alteration - Integrity Concerns - Viruses - Worms - Trojan Horses - Adware - Spyware - Ransonware - Rootkits - Backdoors - Spam - Password Cracking] - Security Concepts and Threats - Troubleshooting Methodology)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 
