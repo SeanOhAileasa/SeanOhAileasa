@@ -6,15 +6,15 @@
 | 1     | <br/>CompTIA Network+<br/><br/>                                |   &#x1F6A7;   |
 | 1     | <br/>CompTIA Security+<br/><br/>                               |   &#x1F6A7;   |
 | 2     | <br/>CompTIA CySA+ (2-Day College)<br/><br/>                   |   O/S   |
-| 3     | <br/>CompTIA PenTest+ (1-Day College)<br/><br/>                |   O/S   |
+| 3     | <br/>CompTIA PenTest+ (1-Day College)<br/><br/>                |   &#x1F6A7;   |
 
 <details close>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
 <details close>
 <!--
-15/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (VirusTotal - Security Best Practices - Security Best Practices Pt. 2 - Security Best Practices Pt. 3 - [Man-in-the-middle - Replay - Impersonation - Unauthorised Information Alteration - Integrity Concerns - Viruses - Worms - Trojan Horses - Adware - Spyware - Ransonware - Rootkits - Backdoors - Spam - Password Cracking] - Security Concepts and Threats - Troubleshooting Methodology)"
+16/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (Troubleshooting Methodology Pt. 2 - Troubleshooting Example - [(arp - ping - nslookup - dig - [tracert - traceroute] - ipconfig - ipconfig /all - ifconfig)] - Troubleshooting Methodology)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 
