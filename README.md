@@ -13,8 +13,8 @@
 
 <details close>
 <!--
-16/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (Troubleshooting Methodology Pt. 2 - Troubleshooting Example - [(arp - ping - nslookup - dig - [tracert - traceroute] - ipconfig - ipconfig /all - ifconfig)] - Troubleshooting Methodology)"
+17/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (Security Best Practices - Exam Topics)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 
