@@ -265,7 +265,7 @@
 	<summary>Implementation &#x21A9;</summary>
 <!--
 19/06/2022
-"update repository ./syp-implementation (Wireless Security)"
+"update repository ./syp-implementation (Mobile Security)"
 -->
 
 - { ["**Implementation**"](https://github.com/SeanOhAileasa/syp-implementation/blob/main/README.md) : &#x1F6A7; }
