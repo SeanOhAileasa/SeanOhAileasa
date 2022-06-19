@@ -264,8 +264,8 @@
 <details open>
 	<summary>Implementation &#x21A9;</summary>
 <!--
-17/06/2022
-"update repository ./syp-implementation (Host and Application Security)"
+19/06/2022
+"update repository ./syp-implementation (Secure Network Designs)"
 -->
 
 - { ["**Implementation**"](https://github.com/SeanOhAileasa/syp-implementation/blob/main/README.md) : &#x1F6A7; }
