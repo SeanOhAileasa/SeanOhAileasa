@@ -13,8 +13,8 @@
 
 <details close>
 <!--
-17/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (Security Best Practices - Exam Topics)"
+20/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (Quiz - [Password Length - Password Complexity - Password History - Password Expiration - Password Reuse across Sites - Password Managers - Password Reset Process - What is PII and PIM - Data at Rest - Data in Motion/Transit - HTTP v HTTPS])"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 
