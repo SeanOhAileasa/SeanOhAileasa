@@ -13,8 +13,8 @@
 
 <details close>
 <!--
-21/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (Physical Security - Shadow IT - Quiz - [arp - ping - nslookup - dig - [tracert - traceroute] - ipconfig - ipconfig /all - ifconfig])"
+22/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (Cloudflare outage on June 21, 2022 - OSI Model - Layer 1 - Physical Layer - Quiz)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 
