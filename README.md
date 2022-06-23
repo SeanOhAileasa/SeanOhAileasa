@@ -13,8 +13,8 @@
 
 <details close>
 <!--
-22/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (Cloudflare outage on June 21, 2022 - OSI Model - Layer 1 - Physical Layer - Quiz)"
+23/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (Location: Dundalk: Quizes (IT Fundamentatals) [Layer 2 - Data Link Layer])"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
 
