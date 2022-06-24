@@ -13,8 +13,8 @@
 
 <details close>
 <!--
-23/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (Location: Dundalk: Quizes (IT Fundamentatals) [Layer 2 - Data Link Layer])"
+24/06/2022
+"update repository ./itf-cybersecurity-apprenticeship (Exam - CompITA IT Fundaments)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x2705;</b></summary>
 
