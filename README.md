@@ -16,9 +16,20 @@
 23/06/2022
 "update repository ./itf-cybersecurity-apprenticeship (Location: Dundalk: Quizes (IT Fundamentatals) [Layer 2 - Data Link Layer])"
 -->
-	<summary><b>CompTIA IT Fundamentals &#x1F4CC;</b></summary>
+	<summary><b>CompTIA IT Fundamentals &#x2705;</b></summary>
 
-- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/itf-cybersecurity-apprenticeship) : &#x1F6A7; }
+- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/itf-cybersecurity-apprenticeship) : &#x2705; }
+
+</details>
+<br/>
+<details close>
+<!--
+24/06/2022
+"add repository ./ecb-cybersecurity-apprenticeship"
+-->
+	<summary><b>Effective Communication in Business &#x1F4CC;</b></summary>
+
+- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/ecb-cybersecurity-apprenticeship) : &#x1F6A7; }
 
 </details>
 <br/>
