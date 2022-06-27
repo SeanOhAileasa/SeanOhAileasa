@@ -107,8 +107,8 @@
 <details open>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
-23/05/2022
-"update repository ./nkp-practice-labs"
+27/06/2022
+"update repository ./nkp-subnetting-and-supernetting"
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
