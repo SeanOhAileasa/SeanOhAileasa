@@ -24,8 +24,8 @@
 <br/>
 <details close>
 <!--
-24/06/2022
-"add repository ./ecb-cybersecurity-apprenticeship"
+27/06/2022
+"update repository ./ecb-cybersecurity-apprenticeship (Unit aims and outcomes - Introduction to Communication - Communication cycle - Communication types - Benefits of different types of communication - Marketing Communication - Electronic Communication - Effective communication and motivation in business - Finding Information - Effective Writing - Business Correspondence - Effective written communication for different business audiences)"
 -->
 	<summary><b>Effective Communication in Business &#x1F4CC;</b></summary>
 
