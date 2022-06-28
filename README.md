@@ -24,8 +24,8 @@
 <br/>
 <details close>
 <!--
-27/06/2022
-"update repository ./ecb-cybersecurity-apprenticeship (Unit aims and outcomes - Introduction to Communication - Communication cycle - Communication types - Benefits of different types of communication - Marketing Communication - Electronic Communication - Effective communication and motivation in business - Finding Information - Effective Writing - Business Correspondence - Effective written communication for different business audiences)"
+28/06/2022
+"update repository ./ecb-cybersecurity-apprenticeship (Styles and tones of written communication - Evaluating verbal communication - Business benefits of active listening - Overcoming barriers to verbal communication - Recognition of and response to non-verbal communication in business environments - Using effective non-verbal communication to build rapport within a business environment)"
 -->
 	<summary><b>Effective Communication in Business &#x1F4CC;</b></summary>
 
