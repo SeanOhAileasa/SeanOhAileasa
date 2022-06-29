@@ -24,8 +24,8 @@
 <br/>
 <details close>
 <!--
-28/06/2022
-"update repository ./ecb-cybersecurity-apprenticeship (Styles and tones of written communication - Evaluating verbal communication - Business benefits of active listening - Overcoming barriers to verbal communication - Recognition of and response to non-verbal communication in business environments - Using effective non-verbal communication to build rapport within a business environment)"
+29/06/2022
+"update repository ./ecb-cybersecurity-apprenticeship (Evaluation of feedback methods for successful communications - Using feedback to develop communication skills)"
 -->
 	<summary><b>Effective Communication in Business &#x1F4CC;</b></summary>
 
