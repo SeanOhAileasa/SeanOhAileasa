@@ -2,8 +2,8 @@
 
 |Stage|**ICT Associate Apprenticeship Cybersecurity:**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
-| 1     | CompTIA IT Fundamentals+                        | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://www.credly.com/badges/d628d8c9-4469-47b1-98d3-cded57ab813b/public_url)|
-| 1     | <br/>CompTIA Network+<br/><br/>                                |   &#x1F6A7;   |
+| 1     | [CompTIA ITF+](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)                        |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://www.credly.com/badges/d628d8c9-4469-47b1-98d3-cded57ab813b/public_url)|
+| 1     | <br/>[CompTIA Network+](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://www.credly.com/badges/5015af40-c397-4374-82e6-80956b84fd27)|
 | 1     | <br/>CompTIA Security+<br/><br/>                               |   &#x1F6A7;   |
 | 2     | <br/>CompTIA CySA+ (2-Day College)<br/><br/>                   |   O/S   |
 | 3     | <br/>CompTIA PenTest+ (1-Day College)<br/><br/>                |   &#x1F6A7;   |
@@ -107,8 +107,8 @@
 <details open>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
-27/06/2022
-"update repository ./nkp-subnetting-and-supernetting"
+30/06/2022
+"CompTIA Network+ Certification Exam - Status: Pass."
 -->
 
 - { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
