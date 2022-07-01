@@ -24,8 +24,8 @@
 <br/>
 <details close>
 <!--
-30/06/2022
-"update repository ./ecb-cybersecurity-apprenticeship (Revision [Dundalk - 7 July 2022 Exam] - Evaluation of feedback methods for successful communications - Using feedback to develop communication skills)"
+01/07/2022
+"update repository ./ecb-cybersecurity-apprenticeship (IP Addresses Explained - TCP/IP Model OBJ. 1.1 - IP Addressing and Subnetting)"
 -->
 	<summary><b>Effective Communication in Business &#x1F4CC;</b></summary>
 
