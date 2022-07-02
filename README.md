@@ -2,8 +2,8 @@
 
 |Stage|**ICT Associate Apprenticeship Cybersecurity:**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
-| 1     | [CompTIA ITF+](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)                        |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://www.credly.com/badges/d628d8c9-4469-47b1-98d3-cded57ab813b/public_url)|
-| 1     | <br/>[CompTIA Network+](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://www.credly.com/badges/5015af40-c397-4374-82e6-80956b84fd27)|
+| 1     | CompTIA ITF+                       |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
+| 1     | <br/>CompTIA Network+<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
 | 1     | <br/>CompTIA Security+<br/><br/>                               |   &#x1F6A7;   |
 | 2     | <br/>CompTIA CySA+ (2-Day College)<br/><br/>                   |   O/S   |
 | 3     | <br/>CompTIA PenTest+ (1-Day College)<br/><br/>                |   &#x1F6A7;   |
@@ -275,8 +275,8 @@
 <details open>
 	<summary>Implementation &#x21A9;</summary>
 <!--
-01/07/2022
-"update repository ./syp-implementation (Identity and Account Management)"
+02/07/2022
+"update repository ./syp-implementation (Authentication and Authorization Services)"
 -->
 
 - { ["**Implementation**"](https://github.com/SeanOhAileasa/syp-implementation/blob/main/README.md) : &#x1F6A7; }
