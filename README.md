@@ -24,8 +24,8 @@
 <br/>
 <details close>
 <!--
-01/07/2022
-"update repository ./ecb-cybersecurity-apprenticeship (IP Addresses Explained - TCP/IP Model OBJ. 1.1 - IP Addressing and Subnetting)"
+04/07/2022
+"update repository ./ecb-cybersecurity-apprenticeship (Unit aims and outcomes - Communication cycle - Professional Communication Skills - The capabilities of our cable-laying vessels - How a Few Undersea Cables Connect the Entire Internet - How Submarine Fiber Cable Installed? - How do Satellites work?)"
 -->
 	<summary><b>Effective Communication in Business &#x1F4CC;</b></summary>
 
