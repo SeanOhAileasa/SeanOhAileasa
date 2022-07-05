@@ -1,12 +1,13 @@
 ### Cybersecurity Associate Candidate (Apprenticeship NFQ L6)
 
-|Stage|**ICT Associate Apprenticeship Cybersecurity:**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|Provider|**ICT Associate Apprenticeship Cybersecurity:**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
-| 1     | CompTIA ITF+                       |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
-| 1     | <br/>CompTIA Network+<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
-| 1     | <br/>CompTIA Security+<br/><br/>                               |   &#x1F6A7;   |
-| 2     | <br/>CompTIA CySA+ (2-Day College)<br/><br/>                   |   O/S   |
-| 3     | <br/>CompTIA PenTest+ (1-Day College)<br/><br/>                |   &#x1F6A7;   |
+| [CompTIA](https://www.comptia.org/certifications/it-fundamentals) | CompTIA ITF+                       |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
+| [eCollege](https://www.ecollege.ie/) | <br/>CompTIA Network+<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
+| [eCollege](https://www.ecollege.ie/) | <br/>CompTIA Security+<br/><br/>                               |   &#x1F6A7;   |
+| [KCETB](https://kilkennycarlow.etb.ie/)     | <br/>CompTIA CySA+<br/><br/>                   | Sept '22 |
+| [DDLETB](https://loughlinstowntrainingcentre.ie/) | <br/>CompTIA Cloud+ (Mon/Wed 5pm-7pm)<br/><br/>                | July '22 |
+| [DDLETB](https://www.ddletb.ie/) | <br/>CompTIA PenTest+ (Mon/Wed 7pm-9pm)<br/><br/>                |   &#x1F6A7;   |
 
 <details close>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
@@ -24,8 +25,8 @@
 <br/>
 <details close>
 <!--
-04/07/2022
-"update repository ./ecb-cybersecurity-apprenticeship (Unit aims and outcomes - Communication cycle - Professional Communication Skills - The capabilities of our cable-laying vessels - How a Few Undersea Cables Connect the Entire Internet - How Submarine Fiber Cable Installed? - How do Satellites work?)"
+05/07/2022
+"update repository ./ecb-cybersecurity-apprenticeship (Interview with renowned hacker Kevin Mitnick - Ethernet Fundamentals (OBJ. 1.3, 2.3, & 5.5) - Why Microsoft Has Underwater Data Centers - How do we communicate with space? - How The Internet Travels Across Oceans)"
 -->
 	<summary><b>Effective Communication in Business &#x1F4CC;</b></summary>
 
