@@ -1,6 +1,6 @@
 ### Cybersecurity Associate Candidate (Apprenticeship NFQ L6)
 
-|Provider|**ICT Associate Apprenticeship Cybersecurity:**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|Provider|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
 | [CompTIA](https://www.comptia.org/certifications/it-fundamentals) | CompTIA ITF+                       |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
 | [eCollege](https://www.ecollege.ie/) | <br/>CompTIA Network+<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
@@ -25,8 +25,8 @@
 <br/>
 <details close>
 <!--
-05/07/2022
-"update repository ./ecb-cybersecurity-apprenticeship (Interview with renowned hacker Kevin Mitnick - Ethernet Fundamentals (OBJ. 1.3, 2.3, & 5.5) - Why Microsoft Has Underwater Data Centers - How do we communicate with space? - How The Internet Travels Across Oceans)"
+06/07/2022
+"update repository ./ecb-cybersecurity-apprenticeship (Building a Cable (OBJ. 1.3) - Network Infrastructure Devices (Overview) (OBJ. 2.1) - darknetdiaries.com - EP 120: Voulnet)"
 -->
 	<summary><b>Effective Communication in Business &#x1F4CC;</b></summary>
 
