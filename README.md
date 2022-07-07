@@ -6,10 +6,9 @@
 | [eCollege](https://www.ecollege.ie/) | <br/>CompTIA Network+<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
 | [eCollege](https://www.ecollege.ie/) | <br/>CompTIA Security+<br/><br/>                               |   &#x1F6A7;   |
 | [KCETB](https://kilkennycarlow.etb.ie/)     | <br/>CompTIA CySA+<br/><br/>                   | Sept '22 |
-| [DDLETB](https://loughlinstowntrainingcentre.ie/) | <br/>CompTIA Cloud+ (Mon/Wed 5pm-7pm)<br/><br/>                | July '22 |
 | [DDLETB](https://www.ddletb.ie/) | <br/>CompTIA PenTest+ (Mon/Wed 7pm-9pm)<br/><br/>                |   &#x1F6A7;   |
 
-<details close>
+<details open>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
 
 <details close>
@@ -25,8 +24,8 @@
 <br/>
 <details close>
 <!--
-06/07/2022
-"update repository ./ecb-cybersecurity-apprenticeship (Building a Cable (OBJ. 1.3) - Network Infrastructure Devices (Overview) (OBJ. 2.1) - darknetdiaries.com - EP 120: Voulnet)"
+07/07/2022
+"update repository ./ecb-cybersecurity-apprenticeship (Assessment)"
 -->
 	<summary><b>Effective Communication in Business &#x1F4CC;</b></summary>
 
@@ -35,7 +34,7 @@
 </details>
 <br/>
 <details close>
-	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
+	<summary><b>CompTIA Network+ &#x1F6A7;</b></summary>
 <!--
 21/01/2022
 "add repository ./nkp-cloud-concepts - Cloud Concepts."
@@ -218,7 +217,7 @@
 <br/>
 
 <details close>
-	<summary><b>CompTIA Security+ &#x1F4CC;</b></summary>
+	<summary><b>CompTIA Security+ &#x1F6A7;</b></summary>
 <!--
 08/05/2022
 "update repository ./syp-risk-management-privacy-and-sensitive-data-security"
@@ -325,7 +324,7 @@
 <br/>
 
 <details close>
-	<summary><b>CompTIA CySA+ &#x1F4CC;</b></summary>
+	<summary><b>CompTIA CySA+ &#x1F6A7;</b></summary>
 <!--
 13/04/2022
 "add repository ./cap-intrusion-detection-and-traffic-analysis"
@@ -365,7 +364,7 @@
 <br/>
 
 <details close>
-	<summary><b>CompTIA PenTest+ &#x1F4CC;</b></summary>
+	<summary><b>CompTIA PenTest+ &#x1F6A7;</b></summary>
 <!--
 15/06/2022
 "add repository ./ptp-scoping-and-engagement"
@@ -376,64 +375,18 @@
 
 <br/>
 
+<details open>
+	<summary>Supplementary Courses</summary>
+
+<br/>
+
+|Provider|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|:-----:| :-----------------------------------------------|:-----:|
+| [DDLETB](https://loughlinstowntrainingcentre.ie/)     | <br/>CompTIA Cloud+<br/><br/>                   | July '22 |
+
 <details close>
-	<summary><b>Supplemental</b></summary>
-
-<!-- 
-### HSE Ransomware Research
-
-17/05/2021
-"add repository ./unc1878"
--->
-<!--
-### GMIT - Higher Diploma in Science in Computing (Software Dev.)
-
-###### Supplemental Course Material (without Formal Assessment or Qualification) &#x1F6A7;
-
-* { ["**Java**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-java/blob/main/fubar-java.ipynb) : &#x1F4CC; }
-
-10/06/2021
-"add repository ./fubar-java"
--->
-<!--
-### GMIT - Certificate in Cybersecurity Operations (SPA - NFQ: L9)
-
-###### Supplemental Course Material (without Formal Assessment or Qualification) &#x1F6A7;
-
-* { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F4CC; } 
-
-14/07/2021
-"update repository ./fubar-python"
--->
-
-###### Case Studies (Self-Learning)
-
-<!--
-17/01/2022
-"add repository ./hse-cyber-attack"
--->
-* { ["**HSE Cyber Attack**"](https://github.com/SeanOhAileasa/hse-cyber-attack) : &#x1F6A7; }
-
-###### Supplemental Resources (Self-Learning)
-
-<!--
-17/01/2022
-"add repository ./cwe-app-server"
--->
-* { ["**App-server (``flask``)**"](https://github.com/SeanOhAileasa/cwe-app-server) : &#x1F6A7; }
-
-<!--
-03/12/2021
-"update repository ./mls-cyber-security - IOT Device Detection."
--->
-* { ["**Machine Learning for Cyber Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } 
-
-###### Programming Languages for Cybersecurity (Self-Learning)
-
-<!--
-"..."
--->
-* { ["**Python**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fubar-python/blob/main/fubar-python.ipynb) : &#x1F6A7; }
+	<summary>CompTIA Cloud+ &#x1F6A7;</summary>
+</details> <!-- END (CompTIA Cloud+) -->
 
 </details> <!-- END (Supplemental) -->
 
