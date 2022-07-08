@@ -27,14 +27,21 @@
 08/07/2022
 "update repository ./ecb-cybersecurity-apprenticeship (Ransomware Criminals Targeted in Ukrainian Police Raids - Cybersecurity Career Roadmap - Fiber Media (OBJ. 1.3) - Additional Ethernet Switch Features (OBJ. 2.3 & 4.4) - OSI Model Explained | Real World Example)"
 -->
-	<summary><b>Effective Communication in Business &#x1F4CC;</b></summary>
+	<summary><b>Effective Communication in Business &#x2705;</b></summary>
 
-- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/ecb-cybersecurity-apprenticeship) : &#x1F6A7; }
+- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/ecb-cybersecurity-apprenticeship) : &#x2705; }
 
 </details>
 <br/>
 <details close>
-	<summary><b>CompTIA Network+ &#x1F6A7;</b></summary>
+	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
+	
+<!--
+08/07/2022
+"add repository ./nkp-cybersecurity-apprenticeship"
+-->
+- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F6A7; }
+
 <!--
 21/01/2022
 "add repository ./nkp-cloud-concepts - Cloud Concepts."
