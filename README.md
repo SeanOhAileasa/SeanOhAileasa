@@ -24,8 +24,8 @@
 <br/>
 <details close>
 <!--
-07/07/2022
-"update repository ./ecb-cybersecurity-apprenticeship (Assessment)"
+08/07/2022
+"update repository ./ecb-cybersecurity-apprenticeship (Ransomware Criminals Targeted in Ukrainian Police Raids - Cybersecurity Career Roadmap - Fiber Media (OBJ. 1.3) - Additional Ethernet Switch Features (OBJ. 2.3 & 4.4) - OSI Model Explained | Real World Example)"
 -->
 	<summary><b>Effective Communication in Business &#x1F4CC;</b></summary>
 
@@ -382,7 +382,7 @@
 
 |Provider|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
-| [DDLETB](https://loughlinstowntrainingcentre.ie/)     | <br/>CompTIA Cloud+<br/><br/>                   | July '22 |
+| [DDLETB](https://loughlinstowntrainingcentre.ie/)     | <br/>CompTIA Cloud+ (Mon/Wed 7pm-9pm)<br/><br/>                   | &#x1F6A7; |
 
 <details close>
 	<summary>CompTIA Cloud+ &#x1F6A7;</summary>
