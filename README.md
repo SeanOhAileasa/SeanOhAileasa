@@ -40,7 +40,7 @@
 08/07/2022
 "add repository ./nkp-cybersecurity-apprenticeship"
 -->
-- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F6A7; }
+- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
 <!--
 21/01/2022
@@ -300,8 +300,8 @@
 <details open>
 	<summary>Operations and Incident Response &#x21A9;</summary>
 <!--
-24/05/2022
-"add repository ./syp-operations-and-incident-response"
+11/07/2022
+"add repository ./syp-operations-and-incident-response (Security Tools - Reconnaissance Tools)"
 -->
 
 - { ["**Operations and Incident Response**"](https://github.com/SeanOhAileasa/syp-operations-and-incident-response/blob/main/README.md) : &#x1F6A7; }
