@@ -333,9 +333,21 @@
 <details close>
 	<summary><b>CompTIA CySA+ &#x1F6A7;</b></summary>
 <!--
-13/04/2022
-"add repository ./cap-intrusion-detection-and-traffic-analysis"
+12/07/2022
+"add repository ./cap-practice-labs (Vulnerabilities - Conducting a Software Vulnerability Scan Using AlienVault)"
 -->
+<br/>
+<details open>
+	<summary>Practice Labs &#x21A9;</summary>
+<br/>
+<details close>
+	<summary>Vulnerabilities &#x21A9;</summary>
+
+- [Conducting a Software Vulnerability Scan Using AlienVault](https://www.github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise1ConductingaSoftwareVulnerabilityScanUsingAlienVault.ipynb) &#x2705; <br/>		
+</details>	<!-- END (CompTIA CySA+ - Vulnerabilities) -->
+
+</details> <!-- END (CompTIA CySA+ - Practice Labs) -->
+<br/>
 
 - { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F6A7; }
 
