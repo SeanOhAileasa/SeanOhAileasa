@@ -250,7 +250,7 @@
 
 	- { ["**Threat Actors, Intelligence Sources and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-threat-actors-Intelligence-sources-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
 
-	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F6A7; }	
 </details>
 <br/>
 <details open>
@@ -300,8 +300,8 @@
 <details open>
 	<summary>Operations and Incident Response &#x21A9;</summary>
 <!--
-11/07/2022
-"add repository ./syp-operations-and-incident-response (Security Tools - Reconnaissance Tools)"
+12/07/2022
+"add repository ./syp-operations-and-incident-response (Security Tools - File Manipulation Tools)"
 -->
 
 - { ["**Operations and Incident Response**"](https://github.com/SeanOhAileasa/syp-operations-and-incident-response/blob/main/README.md) : &#x1F6A7; }
@@ -393,6 +393,8 @@
 
 <details close>
 	<summary>CompTIA Cloud+ &#x1F6A7;</summary>
+
+- { ["**Cloud Terminology**"](https://github.com/SeanOhAileasa/ptp-scoping-and-engagement/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA Cloud+) -->
 
 </details> <!-- END (Supplemental) -->
