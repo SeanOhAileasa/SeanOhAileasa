@@ -334,7 +334,7 @@
 	<summary><b>CompTIA CySA+ &#x1F6A7;</b></summary>
 <!--
 12/07/2022
-"update repository ./cap-practice-labs (Vulnerabilities - Conducting a Software Vulnerability Scan using Nessus)"
+"update repository ./cap-practice-labs (Vulnerabilities - Define Different Web Application Software Vulnerabilities)"
 -->
 <br/>
 <details open>
@@ -344,7 +344,8 @@
 	<summary>Vulnerabilities &#x21A9;</summary>
 
 - [Conducting a Software Vulnerability Scan Using AlienVault](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise1ConductingaSoftwareVulnerabilityScanUsingAlienVault.ipynb) &#x2705; <br/>
-- [Conducting a Software Vulnerability Scan using Nessus](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise2ConductingaSoftwareVulnerabilityScanusingNessus.ipynb) &#x2705; <br/>		
+- [Conducting a Software Vulnerability Scan using Nessus](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise2ConductingaSoftwareVulnerabilityScanusingNessus.ipynb) &#x2705; <br/>
+- [Define Different Web Application Software Vulnerabilities](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise3DefineDifferentWebApplicationSoftwareVulnerabilities.pdf) &#x2705; <br/>
 </details>	<!-- END (CompTIA CySA+ - Vulnerabilities) -->
 
 </details> <!-- END (CompTIA CySA+ - Practice Labs) -->
