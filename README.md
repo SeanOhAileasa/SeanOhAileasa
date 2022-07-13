@@ -334,7 +334,7 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 13/07/2022
-"update repository ./cap-practice-labs (Attack Types - Additional Cybersecurity Attack Types)"
+"update repository ./cap-practice-labs (Information Gathering and Sharing)"
 -->
 <br/>
 <details open>
@@ -353,9 +353,14 @@
 - [Web Application Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise1WebApplicationExploits.ipynb) &#x2705; <br/>
 - [Database Attack Types and Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise2DatabaseAttackTypesandExploits.ipynb) &#x2705; <br/>
 - [Additional Cybersecurity Attack Types](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise3AdditionalCybersecurityAttackTypes.pdf) &#x2705; <br/>
-> Supplemental Resources:
-- [App-server (``flask``)](https://github.com/SeanOhAileasa/cwe-app-server) &#x1F6A7;
+- Supplemental Resources:
+	- [App-server (``flask``)](https://github.com/SeanOhAileasa/cwe-app-server) &#x1F6A7;
 </details>	<!-- END (CompTIA CySA+ - Attack Types) -->
+<details open>
+	<summary>Information Gathering and Sharing &#x21A9;</summary>
+
+- [Information Gathering and Sharing](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/information-gathering-and-sharing/cap-Information-Gathering-and-Sharing.pdf) &#x2705; <br/>
+</details>	<!-- END (CompTIA CySA+ - Information Gathering and Sharing) -->
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
