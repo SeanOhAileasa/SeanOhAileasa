@@ -224,7 +224,7 @@
 <br/>
 
 <details close>
-	<summary><b>CompTIA Security+ &#x1F6A7;</b></summary>
+	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 08/05/2022
 "update repository ./syp-risk-management-privacy-and-sensitive-data-security"
@@ -331,23 +331,30 @@
 <br/>
 
 <details close>
-	<summary><b>CompTIA CySA+ &#x1F6A7;</b></summary>
+	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
-12/07/2022
-"update repository ./cap-practice-labs (Vulnerabilities - Define Different Web Application Software Vulnerabilities)"
+13/07/2022
+"update repository ./cap-practice-labs (Attack Types - Web Application Exploits)"
 -->
 <br/>
 <details open>
 	<summary>Practice Labs &#x21A9;</summary>
-<br/>
+<br/>	
 <details close>
 	<summary>Vulnerabilities &#x21A9;</summary>
 
 - [Conducting a Software Vulnerability Scan Using AlienVault](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise1ConductingaSoftwareVulnerabilityScanUsingAlienVault.ipynb) &#x2705; <br/>
 - [Conducting a Software Vulnerability Scan using Nessus](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise2ConductingaSoftwareVulnerabilityScanusingNessus.ipynb) &#x2705; <br/>
-- [Define Different Web Application Software Vulnerabilities](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise3DefineDifferentWebApplicationSoftwareVulnerabilities.pdf) &#x2705; <br/>
+- [Define Different Web Application Software Vulnerabilities](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise3DefineDifferentWebApplicationSoftwareVulnerabilities.pdf) &#x2705;
 </details>	<!-- END (CompTIA CySA+ - Vulnerabilities) -->
+<details close>
+	<summary>Attack Types &#x21A9;</summary>
 
+- [Web Application Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise1WebApplicationExploits.ipynb) &#x2705; <br/>
+</details>	<!-- END (CompTIA CySA+ - Attack Types) -->
+<!-- ********** CompTIA CySA+ - Practice Labs ********** -->
+<!-- ********** CompTIA CySA+ - Practice Labs ********** -->
+<!-- ********** CompTIA CySA+ - Practice Labs ********** -->
 </details> <!-- END (CompTIA CySA+ - Practice Labs) -->
 
 - { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F6A7; }
@@ -384,7 +391,7 @@
 <br/>
 
 <details close>
-	<summary><b>CompTIA PenTest+ &#x1F6A7;</b></summary>
+	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary>
 <!--
 15/06/2022
 "add repository ./ptp-scoping-and-engagement"
