@@ -334,7 +334,7 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 13/07/2022
-"update repository ./cap-practice-labs (Attack Types - Web Application Exploits)"
+"update repository ./cap-practice-labs (Attack Types - Database Attack Types and Exploits)"
 -->
 <br/>
 <details open>
@@ -351,6 +351,7 @@
 	<summary>Attack Types &#x21A9;</summary>
 
 - [Web Application Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise1WebApplicationExploits.ipynb) &#x2705; <br/>
+- [Database Attack Types and Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise2DatabaseAttackTypesandExploits.ipynb) &#x2705; <br/>
 </details>	<!-- END (CompTIA CySA+ - Attack Types) -->
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
