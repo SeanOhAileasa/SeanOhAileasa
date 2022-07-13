@@ -330,28 +330,31 @@
 
 <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 13/07/2022
-"update repository ./cap-practice-labs (Attack Types - Database Attack Types and Exploits)"
+"update repository ./cap-practice-labs (Attack Types - Additional Cybersecurity Attack Types)"
 -->
 <br/>
 <details open>
 	<summary>Practice Labs &#x21A9;</summary>
 <br/>	
-<details close>
+<details open>
 	<summary>Vulnerabilities &#x21A9;</summary>
 
 - [Conducting a Software Vulnerability Scan Using AlienVault](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise1ConductingaSoftwareVulnerabilityScanUsingAlienVault.ipynb) &#x2705; <br/>
 - [Conducting a Software Vulnerability Scan using Nessus](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise2ConductingaSoftwareVulnerabilityScanusingNessus.ipynb) &#x2705; <br/>
 - [Define Different Web Application Software Vulnerabilities](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise3DefineDifferentWebApplicationSoftwareVulnerabilities.pdf) &#x2705;
 </details>	<!-- END (CompTIA CySA+ - Vulnerabilities) -->
-<details close>
+<details open>
 	<summary>Attack Types &#x21A9;</summary>
 
 - [Web Application Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise1WebApplicationExploits.ipynb) &#x2705; <br/>
 - [Database Attack Types and Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise2DatabaseAttackTypesandExploits.ipynb) &#x2705; <br/>
+- [Additional Cybersecurity Attack Types](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise3AdditionalCybersecurityAttackTypes.pdf) &#x2705; <br/>
+> Supplemental Resources:
+- [App-server (``flask``)](https://github.com/SeanOhAileasa/cwe-app-server) &#x1F6A7;
 </details>	<!-- END (CompTIA CySA+ - Attack Types) -->
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
