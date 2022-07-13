@@ -421,9 +421,13 @@
 | [DDLETB](https://loughlinstowntrainingcentre.ie/)     | <br/>CompTIA Cloud+ (Mon/Wed 7pm-9pm)<br/><br/>                   | &#x1F6A7; |
 
 <details close>
-	<summary>CompTIA Cloud+ &#x1F6A7;</summary>
+	<summary>CompTIA Cloud+ &#x21A9;</summary>
+<!--
+13/07/2022
+"add repository ./cdp-configurations-and-deployments (Thursday 7th July 2022 - Monday 11th July 2022: Introducing Cloud Computing - Creating and Validating a Cloud Deployment - Verifying System Requirements - VMware Hypervisor Type II)"
+-->
 
-- { ["**Cloud Terminology**"](https://github.com/SeanOhAileasa/ptp-scoping-and-engagement/blob/main/README.md) : &#x1F6A7; }
+- { ["**Configurations and Deployments**"](https://github.com/SeanOhAileasa/cdp-configurations-and-deployments/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (CompTIA Cloud+) -->
 
 </details> <!-- END (Supplemental) -->
