@@ -334,7 +334,7 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 14/07/2022
-"update repository ./cap-practice-labs (Supporting Organizational Security - Threat Modeling Methodologies)"
+"update repository ./cap-practice-labs (Supporting Organizational Security - Threat Intelligence Sharing with Supported Functions)"
 -->
 <br/>
 <details open>
@@ -368,6 +368,7 @@
 - [Attack Frameworks](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-attack-frameworks.ipynb) &#x2705; <br/>
 - [Threat Research](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-research.ipynb) &#x2705; <br/>
 - [Threat Modeling Methodologies](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-modeling-methodologies.ipynb) &#x2705; <br/>
+- [Threat Intelligence Sharing with Supported Functions](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-intelligence-sharing-with-supported-functions.ipynb) &#x2705; <br/>
 </details> <!-- END (CompTIA CySA+ - Supporting Organizational Security) -->
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
