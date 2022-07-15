@@ -226,14 +226,18 @@
 <details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-08/05/2022
-"update repository ./syp-risk-management-privacy-and-sensitive-data-security"
+15/07/2022
+"add repository ./syp-practice-labs (Identifying Different Cyber Attacks - Malware)"
 -->
 <br/>
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
 <br/>
+<details open>
+	<summary>Identifying Different Cyber Attacks &#x21A9;</summary>
 
+- [Malware](https://nbviewer.org/github/SeanOhAileasa/syp-practice-labs/blob/main/rc/identifying-different-cyber-attacks/syp-malware.ipynb) &#x2705; <br/>
+</details>
 <!-- ********** CompTIA Security+ - Practice Labs ********** -->
 <!-- ********** CompTIA Security+ - Practice Labs ********** -->
 <!-- ********** CompTIA Security+ - Practice Labs ********** -->
