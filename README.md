@@ -226,8 +226,8 @@
 <details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-15/07/2022
-"add repository ./syp-practice-labs (Identifying Different Cyber Attacks - Malware)"
+16/07/2022
+"update repository ./syp-operations-and-incident-response (Security Tools)"
 -->
 <br/>
 <details close>
@@ -237,6 +237,7 @@
 	<summary>Identifying Different Cyber Attacks &#x21A9;</summary>
 
 - [Malware](https://nbviewer.org/github/SeanOhAileasa/syp-practice-labs/blob/main/rc/identifying-different-cyber-attacks/syp-malware.ipynb) &#x2705; <br/>
+- [Creating Standalone Payloads with Msfvenom](https://nbviewer.org/github/SeanOhAileasa/syp-practice-labs/blob/main/rc/identifying-different-cyber-attacks/syp-creating-standalone-payloads-with-msfvenom.ipynb) &#x2705; <br/>
 </details>
 <!-- ********** CompTIA Security+ - Practice Labs ********** -->
 <!-- ********** CompTIA Security+ - Practice Labs ********** -->
