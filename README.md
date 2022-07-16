@@ -227,7 +227,7 @@
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 16/07/2022
-"update repository ./syp-operations-and-incident-response (Security Tools)"
+"update repository ./syp-operations-and-incident-response (Incident Response)"
 -->
 <br/>
 <details close>
