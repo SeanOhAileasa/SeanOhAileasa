@@ -38,7 +38,7 @@
 	
 <!--
 18/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Introduction to Networking - [MANs and WANs - The Seven-Layer OSI Model - Layer 7 to Layer 1 - PDU - Summary of How the Layers Work Together - Safety Procedures and Policies - Emergency Procedures - Troubleshooting Network Problems - Summary)"
+"update repository ./nkp-cybersecurity-apprenticeship (Infrastructure and Documentation - [Components of Structured Cabling - From the Demarc to a Workstation (11 of 11) - Cabling (5 of 5)] - OSI and TCP-IP Models)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
@@ -361,7 +361,7 @@
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 18/07/2022
-"update repository ./syp-operations-and-incident-response (Investigations)"
+"update repository ./syp-operations-and-incident-response (Securing an Environment)"
 -->
 <br/>
 <details close>
