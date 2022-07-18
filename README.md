@@ -38,7 +38,7 @@
 	
 <!--
 18/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (OSI Model)"
+"update repository ./nkp-cybersecurity-apprenticeship (Introduction to Networking - [MANs and WANs - The Seven-Layer OSI Model - Layer 7 to Layer 1 - PDU - Summary of How the Layers Work Together - Safety Procedures and Policies - Emergency Procedures - Troubleshooting Network Problems - Summary)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
