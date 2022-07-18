@@ -361,7 +361,7 @@
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 18/07/2022
-"update repository ./syp-operations-and-incident-response (Securing an Environment)"
+"update repository ./syp-operations-and-incident-response (Securing an Environment)" 
 -->
 <br/>
 <details close>
