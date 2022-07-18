@@ -38,7 +38,7 @@
 	
 <!--
 18/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Introduction to Networking - [Network Models - Peer-to-Peer Network Model - Client-Server Network Model - Client-Server Applications - Network Services and Their Protocols - Network Hardware - LANs and Their Hardware])"
+"update repository ./nkp-cybersecurity-apprenticeship (OSI Model)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
