@@ -360,8 +360,8 @@
 <details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-16/07/2022
-"update repository ./syp-practice-labs"
+18/07/2022
+"update repository ./syp-operations-and-incident-response (Investigations)"
 -->
 <br/>
 <details close>
