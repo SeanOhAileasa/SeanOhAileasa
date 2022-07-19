@@ -982,7 +982,14 @@
 - [``dig``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb#2) &#x2705; <br/>
 - [``whois``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb#3) &#x2705; <br/>
 </details>
+<details open>
+	<summary>Open Source Intelligence Tools &#x21A9;</summary>
 
+- [``Maltego``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#2) &#x2705; <br/>
+- [``recon-ng``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#3) &#x2705; <br/>
+- [``theHarvester``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#4) &#x2705; <br/>
+- [``Google Dorks``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#5) &#x2705; <br/>
+</details>
 <!-- ********** CompTIA PenTest+ - Practice Labs ********** -->
 <!-- ********** CompTIA PenTest+ - Practice Labs ********** -->
 <!-- ********** CompTIA PenTest+ - Practice Labs ********** -->
