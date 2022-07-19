@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-18/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Infrastructure and Documentation - [Components of Structured Cabling - From the Demarc to a Workstation (11 of 11) - Cabling (5 of 5)] - OSI and TCP-IP Models)"
+19/07/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Encapsulation)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
