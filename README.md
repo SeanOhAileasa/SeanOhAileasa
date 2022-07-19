@@ -38,7 +38,7 @@
 	
 <!--
 19/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Network Types)"
+"update repository ./nkp-cybersecurity-apprenticeship (Infrastructure and Documentation [Monitoring the Environment and Security - Network Documentation - Network Diagrams - Operating Procedures - Inventory Management - Labeling and Naming Conventions - Business Documents - Change Management - Software and Hardware Changes - Change Management Documentation])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
