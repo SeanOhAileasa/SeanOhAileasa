@@ -969,7 +969,7 @@
 	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary>
 <!--
 19/07/2022
-"add repository ./ptp-practice-labs (Open Source Intelligence Tools)"
+"add repository ./ptp-..."
 -->
 <br/>
 <details close>
@@ -996,6 +996,37 @@
 </details> <!-- END (CompTIA PenTest+ - Practice Labs) -->
 
 - { ["**Scoping and Engagement**"](https://github.com/SeanOhAileasa/ptp-scoping-and-engagement/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Professionalism and Integrity**](https://github.com/SeanOhAileasa/ptp-professionalism-and-integrity/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Passive Reconnaissance**](https://github.com/SeanOhAileasa/ptp-passive-reconnaissance/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Active Reconnaissance**](https://github.com/SeanOhAileasa/ptp-active-reconnaissance/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Vulnerability Scanning**](https://github.com/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Network Attacks and Exploits**](https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Wireless Attacks**](https://github.com/SeanOhAileasa/ptp-wireless-attacks/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Application-based Attacks**](https://github.com/SeanOhAileasa/ptp-application-based-attacks/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Attacks on Cloud Technologies**](https://github.com/SeanOhAileasa/ptp-attacks-on-cloud-technologies/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Attacks on Specialized Systems**](https://github.com/SeanOhAileasa/ptp-attacks-on-specialized-systems/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Social Engineering Attacks**](https://github.com/SeanOhAileasa/ptp-social-engineering-attacks/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Post-Exploitation Techniques**](https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Written Reports**](https://github.com/SeanOhAileasa/ptp-written-reports/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Communication & Post-Report Activities**](https://github.com/SeanOhAileasa/ptp-communication-and-post-report-activities/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Analyzing Tool & Script Output**](https://github.com/SeanOhAileasa/ptp-analyzing-tool-and-script-output/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Penetration Testing Tools**](https://github.com/SeanOhAileasa/ptp-penetration-testing-tools/blob/main/README.md) : &#x1F6A7; }
+
 </details> <!-- END (CompTIA PenTest+) -->
 
 <br/>
