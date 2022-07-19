@@ -14,7 +14,7 @@
 <details close>
 <!--
 24/06/2022
-"update repository ./itf-cybersecurity-apprenticeship (Exam - CompITA IT Fundaments)"
+"update repository ./itf-cybersecurity-apprenticeship (Exam - CompITA IT Fundamentals)"
 -->
 	<summary><b>CompTIA IT Fundamentals &#x2705;</b></summary>
 
@@ -38,7 +38,7 @@
 	
 <!--
 19/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Encapsulation)"
+"update repository ./nkp-cybersecurity-apprenticeship (Network Topologies)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
@@ -968,18 +968,21 @@
 <details close>
 	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary>
 <!--
-15/06/2022
-"add repository ./ptp-practice-labs (nslookup dig whois)"
+19/07/2022
+"add repository ./ptp-practice-labs (Open Source Intelligence Tools)"
 -->
 <br/>
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
 <br/>
 <details open>
-	<summary>Nslookup Dig Whois &#x21A9;</summary>
+	<summary>Reconnaissance Tools &#x21A9;</summary>
 
-- [``nslookup`` ``dig`` ``whois``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb) &#x2705; <br/>
+- [``nslookup``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb#1) &#x2705; <br/>
+- [``dig``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb#2) &#x2705; <br/>
+- [``whois``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb#3) &#x2705; <br/>
 </details>
+
 <!-- ********** CompTIA PenTest+ - Practice Labs ********** -->
 <!-- ********** CompTIA PenTest+ - Practice Labs ********** -->
 <!-- ********** CompTIA PenTest+ - Practice Labs ********** -->
