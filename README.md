@@ -38,7 +38,7 @@
 	
 <!--
 19/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Network Topologies)"
+"update repository ./nkp-cybersecurity-apprenticeship (Network Types)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
