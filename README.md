@@ -38,7 +38,7 @@
 	
 <!--
 20/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Introduce Addressing - Service Provider Links)"
+"update repository ./nkp-cybersecurity-apprenticeship (Copper Cables and Connections)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
