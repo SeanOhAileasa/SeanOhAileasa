@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-19/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Virtualization)"
+20/07/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Introduce Addressing - Service Provider Links)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
