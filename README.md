@@ -38,7 +38,7 @@
 	
 <!--
 21/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Copper Cables and Connections)"
+"update repository ./nkp-cybersecurity-apprenticeship (Port Numbers Explained - DNS Explained | Domain Name System - IP Addressing Schemes and Contexts)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
