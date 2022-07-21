@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-20/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Copper Cables and Connections)"
+21/07/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Addressing [IPv6 Addresses (1 of 2) - Types of IPv6 Addresses - Ports and Sockets - Domain Names and DNS - Namespace Databases - Name Servers - Resource Records in a DNS Database - DNS Server Software - Troubleshooting Address Problems - Troubleshooting Tools - Common Network Issues])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
