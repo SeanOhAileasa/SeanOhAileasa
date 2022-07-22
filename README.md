@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-21/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (IP Addressing IPv4)"
+22/07/2022
+"update repository ./nkp-cybersecurity-apprenticeship (IP Addressing IPv4 - IP Addressing IPv6)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
