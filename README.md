@@ -722,7 +722,7 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 24/07/2022
-"add repository ./cap-practice-labs (Threat Data)"
+"update repository ./cap-threat-and-vulnerability-management (Threat Intelligence and Organizational Security)"
 -->
 
 <!--
@@ -762,6 +762,7 @@ cap-frameworks-policies-procedures-and-controls
 	<summary>Threat and Vulnerability Management &#x21A9;</summary>
 
 - { ["**Threat and Data Intelligence**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-data-and-intelligence.ipynb) : &#x1F6A7; } <br/> 
+- { ["**Threat Intelligence and Organizational Security**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-intelligence-and-organizational-security.ipynb) : &#x1F6A7; } <br/> 
 </details>
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
