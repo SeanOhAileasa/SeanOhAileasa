@@ -722,41 +722,9 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 24/07/2022
-"update repository ./cap-practice-labs (Wireless and Cloud Assessment Tools)"
+"update repository ./cap-practice-labs (Attack Types - Vulnerabilities)"
 -->
 
-<!--
-> cap-threat-and-vulnerability-management
-cap-threat-data-and-intelligence
-cap-threat-intelligence-and-organizational-security
-cap-vulnerability-management
-cap-vulnerability-scanning-enumeration-and-assessment
-cap-vulnerabilities-in-specialized-technology
-cap-cloud-service-model-vulnerabilities
-cap-software-vulnerabilities
-
-> cap-software-and-systems-security
-cap-infrastructure-management-solutions
-cap-software-assurance
-cap-hardware-assurance
-
-> cap-security-operations-and-monitoring
-cap-security-monitoring
-cap-configuration-controls
-cap-threat-hunting
-cap-automation
-
-> cap-incident-response
-cap-incident-response-process
-cap-applying-incident-response-procedures
-cap-indicators-of-compromise-iocs
-cap-digital-forensics-techniques
-
-> cap-compliance-and-assessment
-cap-data-and-privacy-controls
-cap-organizational-risk-mitigation
-cap-frameworks-policies-procedures-and-controls
--->
 <br/>
 <details close>
 	<summary>Threat and Vulnerability Management &#x21A9;</summary>
@@ -767,6 +735,7 @@ cap-frameworks-policies-procedures-and-controls
 - { ["**Vulnerability Scanning and Enumeration and Assessment**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-scanning-and-enumeration-and-assessment.ipynb) : &#x1F6A7; } <br/> 
 - { ["**Vulnerabilities in Specialized Technology**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerabilities-in-specialized-technology.ipynb) : &#x1F6A7; } <br/>
 - { ["**Cloud Service Model Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-cloud-service-model-vulnerabilities.ipynb) : &#x1F6A7; } <br/> 
+- { ["**Software Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-software-vulnerabilities.ipynb) : &#x1F6A7; } <br/> 
 </details>
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
@@ -850,7 +819,7 @@ cap-frameworks-policies-procedures-and-controls
 
 - [Wireless Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#WirelessAssessmentTools) &#x274C; <br/>
 - [Cloud Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudModels) &#x274C; <br/>
-- [Cloud Infrastructure Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudInfrastructureAssessmentTools) &#x274C; <br/>
+- [Cloud Infrastructure Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudAssessmentTools) &#x274C; <br/>
 </details>
 <details open>
     <summary>Vulnerabilities in Specialized Technology &#x21A9;</summary>
