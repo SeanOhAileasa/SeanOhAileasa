@@ -360,8 +360,8 @@
 <details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-18/07/2022
-"update repository ./syp-operations-and-incident-response (Securing an Environment)" 
+24/07/2022
+"update repository ./syp-operations-and-incident-response (Digital Forensics)" 
 -->
 <br/>
 <details close>
@@ -1261,11 +1261,14 @@
 
 ### References - Acronyms and Abbreviations - Miscellaneous
 
-<details close>
+<details open>
 	<summary>&#x21A9; Open</summary> <br/>
 
-- &#x1F4CC; Subject / Theme / Topic
 - &#x21A9; Expand / Dropdown List
+- &#x1F4CC; Subject / Theme / Topic
 - &#x1F6A7; Work-in-Progress / WIP
+- &#x1F513; Read / Skimming Content 
+- &#x1F512; Live Lab Completed (1st)  
+- &#x2705; Module / Lab (2nd) Finish
 - &#x2623; Private Repository / Exit
 </details>
