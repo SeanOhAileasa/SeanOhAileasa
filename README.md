@@ -722,7 +722,7 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 24/07/2022
-"update repository ./cap-threat-and-vulnerability-management (Threat Intelligence and Organizational Security)"
+"update repository ./cap-practice-labs (Supporting Organizational Security)"
 -->
 
 <!--
