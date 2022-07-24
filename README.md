@@ -722,7 +722,7 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 24/07/2022
-"update repository ./cap-threat-and-vulnerability-management (Vulnerabilities in Specialized Technology)"
+"update repository ./cap-practice-labs (Vulnerabilities in Specialized Technology)"
 -->
 
 <!--
@@ -854,7 +854,7 @@ cap-frameworks-policies-procedures-and-controls
 <details open>
     <summary>Vulnerabilities in Specialized Technology &#x21A9;</summary>
 
-- [Vulnerabilities in Specialized Technology](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities-in-specialized-technology/VulnerabilitiesinSpecializedTechnology.html#) &#x274C; <br/>
+- [Vulnerabilities in Specialized Technology](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities-in-specialized-technology/VulnerabilitiesinSpecializedTechnology.html#VulnerabilitiesinSpecializedTechnology) &#x274C; <br/>
 </details>
 <details open>
     <summary>Log Monitoring and Review &#x21A9;</summary>
