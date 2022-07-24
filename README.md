@@ -722,7 +722,7 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 24/07/2022
-"update repository ./cap-threat-and-vulnerability-management (Vulnerability Management)"
+"update repository ./cap-threat-and-vulnerability-management (Vulnerability Scanning and Enumeration and Assessment)"
 -->
 
 <!--
@@ -764,6 +764,7 @@ cap-frameworks-policies-procedures-and-controls
 - { ["**Threat and Data Intelligence**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-data-and-intelligence.ipynb) : &#x1F6A7; } <br/> 
 - { ["**Threat Intelligence and Organizational Security**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-intelligence-and-organizational-security.ipynb) : &#x1F6A7; } <br/>
 - { ["**Vulnerability Management**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-management.ipynb) : &#x1F6A7; } <br/> 
+- { ["**Vulnerability Scanning and Enumeration and Assessment**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-and-vulnerability-management.ipynb) : &#x1F6A7; } <br/> 
 </details>
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
