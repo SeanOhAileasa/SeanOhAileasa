@@ -721,10 +721,48 @@
 <details close>
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
-16/07/2022
-"update repository ./cap-practice-labs"
+24/07/2022
+"add repository ./cap-threat-and-vulnerability-management (Threat and Data Intelligence)"
+-->
+
+<!--
+> cap-threat-and-vulnerability-management
+cap-threat-data-and-intelligence
+cap-threat-intelligence-and-organizational-security
+cap-vulnerability-management
+cap-vulnerability-scanning-enumeration-and-assessment
+cap-vulnerabilities-in-specialized-technology
+cap-cloud-service-model-vulnerabilities
+cap-software-vulnerabilities
+
+> cap-software-and-systems-security
+cap-infrastructure-management-solutions
+cap-software-assurance
+cap-hardware-assurance
+
+> cap-security-operations-and-monitoring
+cap-security-monitoring
+cap-configuration-controls
+cap-threat-hunting
+cap-automation
+
+> cap-incident-response
+cap-incident-response-process
+cap-applying-incident-response-procedures
+cap-indicators-of-compromise-iocs
+cap-digital-forensics-techniques
+
+> cap-compliance-and-assessment
+cap-data-and-privacy-controls
+cap-organizational-risk-mitigation
+cap-frameworks-policies-procedures-and-controls
 -->
 <br/>
+<details close>
+	<summary>Threat and Vulnerability Management &#x21A9;</summary>
+
+- { ["**Threat and Data Intelligence**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-data-and-intelligence.ipynb) : &#x1F6A7; } <br/> 
+</details>
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
 <br/>	
@@ -768,7 +806,7 @@
 <details open>
     <summary>Threat Data &#x21A9;</summary>
 
-- [Threat Data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/threat-data/ThreatData.html#ThreatData) &#x274C; <br/>
+- [Threat Data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/threat-data/ThreatData.html#ThreatData) &#x1F513; <br/>
 </details>
 <details open>
     <summary>Types of Scanning &#x21A9;</summary>
@@ -932,6 +970,9 @@
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
 </details> <!-- END (CompTIA CySA+ - Practice Labs) -->
 
+<details close>
+    <summary>Supplemental &#x21A9;</summary>
+
 - { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Business Continuity**"](https://github.com/SeanOhAileasa/cap-business-continuity/blob/main/README.md) : &#x1F6A7; }
@@ -961,6 +1002,7 @@
 - { ["**IT Security Risk Mitigation**"](https://github.com/SeanOhAileasa/cap-it-security-risk-mitigation/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Intrusion Detection and Traffic Analysis**"](https://github.com/SeanOhAileasa/cap-intrusion-detection-and-traffic-analysis/blob/main/README.md) : &#x1F6A7; }
+</details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA CySA+) -->
 
 <br/>
@@ -995,6 +1037,9 @@
 <!-- ********** CompTIA PenTest+ - Practice Labs ********** -->
 </details> <!-- END (CompTIA PenTest+ - Practice Labs) -->
 
+<details close>
+    <summary>Supplemental &#x21A9;</summary>
+
 - { ["**Scoping and Engagement**"](https://github.com/SeanOhAileasa/ptp-scoping-and-engagement/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Professionalism and Integrity**](https://github.com/SeanOhAileasa/ptp-professionalism-and-integrity/blob/main/README.md) : &#x1F6A7; }
@@ -1026,7 +1071,7 @@
 - { ["**Analyzing Tool & Script Output**](https://github.com/SeanOhAileasa/ptp-analyzing-tool-and-script-output/blob/main/README.md) : &#x1F6A7; }
 
 - { ["**Penetration Testing Tools**](https://github.com/SeanOhAileasa/ptp-penetration-testing-tools/blob/main/README.md) : &#x1F6A7; }
-
+</details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
 
 <br/>
