@@ -722,7 +722,7 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 24/07/2022
-"update repository ./cap-practice-labs (Vulnerabilities in Specialized Technology)"
+"update repository ./cap-threat-and-vulnerability-management (Cloud Service Model Vulnerabilities)"
 -->
 
 <!--
@@ -765,7 +765,8 @@ cap-frameworks-policies-procedures-and-controls
 - { ["**Threat Intelligence and Organizational Security**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-intelligence-and-organizational-security.ipynb) : &#x1F6A7; } <br/>
 - { ["**Vulnerability Management**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-management.ipynb) : &#x1F6A7; } <br/> 
 - { ["**Vulnerability Scanning and Enumeration and Assessment**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-scanning-and-enumeration-and-assessment.ipynb) : &#x1F6A7; } <br/> 
-- { ["**Vulnerabilities in Specialized Technology**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerabilities-in-specialized-technology.ipynb) : &#x1F6A7; } <br/> 
+- { ["**Vulnerabilities in Specialized Technology**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerabilities-in-specialized-technology.ipynb) : &#x1F6A7; } <br/>
+- { ["**Cloud Service Model Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-cloud-service-model-vulnerabilities.ipynb) : &#x1F6A7; } <br/> 
 </details>
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
