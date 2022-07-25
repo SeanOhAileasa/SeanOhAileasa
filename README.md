@@ -361,7 +361,7 @@
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 25/07/2022
-"update repository ./syp-governance-risk-and-compliance (Security Controls)" 
+"update repository ./syp-governance-risk-and-compliance (Regulations and Standards and Frameworks)" 
 -->
 <br/>
 <details close>
