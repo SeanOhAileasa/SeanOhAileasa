@@ -38,7 +38,7 @@
 	
 <!--
 25/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Protocols and Ports)"
+"update repository ./nkp-cybersecurity-apprenticeship (Dion Training - TCP/IP Model - Ports and Protocols)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
