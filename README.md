@@ -360,8 +360,8 @@
 <details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-24/07/2022
-"update repository ./syp-operations-and-incident-response (Digital Forensics)" 
+25/07/2022
+"update repository ./syp-governance-risk-and-compliance (Security Controls)" 
 -->
 <br/>
 <details close>
@@ -722,7 +722,7 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 24/07/2022
-"update repository ./cap-threat-and-vulnerability-management (Software Vulnerabilities)"
+"update repository ./cap-practice-lab (Attack Types - Vulnerabilities)"
 -->
 
 <br/>
