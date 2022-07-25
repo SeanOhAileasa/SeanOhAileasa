@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-22/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (IP Addressing IPv4 - IP Addressing IPv6)"
+25/07/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Protocols and Ports)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
@@ -361,7 +361,7 @@
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 25/07/2022
-"update repository ./syp-governance-risk-and-compliance (Regulations and Standards and Frameworks)" 
+"update repository ./syp-governance-risk-and-compliance (Organizational Security Policies)" 
 -->
 <br/>
 <details close>
