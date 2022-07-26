@@ -38,7 +38,7 @@
 	
 <!--
 26/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Virtualization, SAN, and Cloud Services)"
+"update repository ./nkp-cybersecurity-apprenticeship (Simple Packet Tracer Demonstration - Cloud and Networking Concepts)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
