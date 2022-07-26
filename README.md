@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-25/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Policies and Best Practices - Network Services)"
+26/07/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Cisco Packet Tracer - Datacenter Network Architecture - What is software-defined networking (SDN)?)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
