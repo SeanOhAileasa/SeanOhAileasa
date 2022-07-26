@@ -38,7 +38,7 @@
 	
 <!--
 26/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Cisco Packet Tracer - Datacenter Network Architecture - What is software-defined networking (SDN)?)"
+"update repository ./nkp-cybersecurity-apprenticeship (Virtualization, SAN, and Cloud Services)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
