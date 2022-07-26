@@ -360,8 +360,8 @@
 <details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-25/07/2022
-"update repository ./syp-governance-risk-and-compliance (Organizational Security Policies)" 
+26/07/2022
+"update repository ./syp-governance-risk-and-compliance (Organizational Security Policies)"
 -->
 <br/>
 <details close>
