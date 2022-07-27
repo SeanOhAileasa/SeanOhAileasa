@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-26/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Simple Packet Tracer Demonstration - Cloud and Networking Concepts)"
+27/07/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Subnetting)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
