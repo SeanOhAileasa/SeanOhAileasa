@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-27/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Subnetting)"
+28/07/2022
+"update repository ./nkp-cybersecurity-apprenticeship (IP Addressing Subnetting Scenarios - IP Addressing (007) - Recording - Packet Tracer Demonstration - Internet Protocol - IP Addressing - 007 - Continued)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
