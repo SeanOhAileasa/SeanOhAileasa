@@ -361,7 +361,7 @@
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 28/07/2022
-"update repository ./syp-governance-risk-and-compliance (Data Privacy)"
+"update repository ./syp-social-engineering-and-types-of-attacks (Social Engineering and Types of Attacks)"
 -->
 <br/>
 <details close>
