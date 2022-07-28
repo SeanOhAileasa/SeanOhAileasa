@@ -38,7 +38,7 @@
 	
 <!--
 28/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (IP Addressing Subnetting Scenarios - IP Addressing (007) - Recording - Packet Tracer Demonstration - Internet Protocol - IP Addressing - 007 - Continued)"
+"update repository ./nkp-cybersecurity-apprenticeship (Classless IPv4 Addressing)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 
@@ -634,11 +634,11 @@
 
 	- { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x1F6A7; }
 
-	- { ["**Analyzing Application and Network Attacks**"](https://github.com/SeanOhAileasa/syp-analyzing-application-and-network-attacks/blob/main/README.md) : &#x1F6A7; }
-
 	- { ["**Threat Actors, Intelligence Sources and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-threat-actors-Intelligence-sources-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
 
-	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F6A7; }	
+		- { ["**Analyzing Application and Network Attacks**"](https://github.com/SeanOhAileasa/syp-analyzing-application-and-network-attacks/blob/main/README.md) : &#x1F6A7; }
+	
+	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F6A7; }
 </details>
 <br/>
 <details open>
@@ -681,8 +681,6 @@
 	- { ["**Implementing Secure Network Designs**"](https://github.com/SeanOhAileasa/syp-implementing-secure-network-designs/blob/main/README.md) : &#x1F6A7; }
 
 	- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Organizational Security Assessment Tools and Mitigation Controls**"](https://github.com/SeanOhAileasa/syp-organizational-security-assessment-tools-and-mitigation-controls/blob/main/README.md) : &#x1F6A7; }
 </details>
 <br/>
 <details open>
@@ -693,6 +691,8 @@
 -->
 
 - { ["**Operations and Incident Response**"](https://github.com/SeanOhAileasa/syp-operations-and-incident-response/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Organizational Security Assessment Tools and Mitigation Controls**"](https://github.com/SeanOhAileasa/syp-organizational-security-assessment-tools-and-mitigation-controls/blob/main/README.md) : &#x1F6A7; }
 
 	- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F6A7; }
 </details>
