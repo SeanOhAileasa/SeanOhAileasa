@@ -718,15 +718,15 @@
 
 <br/>
 
-<details open>
+<details close>
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 31/07/2022
-"update repository ./cap-threat-and-vulnerability-management (Vulnerability Scanning and Enumeration and Assessment)"
+"add repository ./cap-software-and-systems-security"
 -->
 
 <br/>
-<details open>
+<details close>
 	<summary>Threat and Vulnerability Management &#x21A9;</summary>
 <br/>
 
@@ -770,47 +770,54 @@
 
 - { ["**Vulnerabilities in Specialized Technology**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerabilities-in-specialized-technology.ipynb) : &#x1F6A7; } <br/>
 
+> &#x1F52C; [Vulnerabilities in Specialized Technology](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities-in-specialized-technology/VulnerabilitiesinSpecializedTechnology.html#VulnerabilitiesinSpecializedTechnology) &#x274C; <br/> <!-- LAB -->
+
 - { ["**Cloud Service Model Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-cloud-service-model-vulnerabilities.ipynb) : &#x1F6A7; } <br/> 
 
+> &#x1F52C; Wireless and Cloud Assessment Tools <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Wireless Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#WirelessAssessmentTools) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cloud Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudModels) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cloud Infrastructure Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudAssessmentTools) &#x274C; <br/> <!-- LAB -->
+
 - { ["**Software Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-software-vulnerabilities.ipynb) : &#x1F6A7; } <br/> 
-</details>
+
+> &#x1F52C; Attack Types <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Application Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise1WebApplicationExploits.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Database Attack Types and Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise2DatabaseAttackTypesandExploits.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Additional Cybersecurity Attack Types](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise3AdditionalCybersecurityAttackTypes.pdf) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supplemental Resources: <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [App-server (``flask``)](https://github.com/SeanOhAileasa/cwe-app-server) &#x1F6A7; <br/> <!-- LAB -->
+
+> &#x1F52C; Vulnerabilities <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Conducting a Software Vulnerability Scan Using AlienVault](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise1ConductingaSoftwareVulnerabilityScanUsingAlienVault.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Conducting a Software Vulnerability Scan using Nessus](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise2ConductingaSoftwareVulnerabilityScanusingNessus.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Define Different Web Application Software Vulnerabilities](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise3DefineDifferentWebApplicationSoftwareVulnerabilities.pdf) &#x2705; <br/> <!-- LAB -->
+</details>	<!-- END (CompTIA CySA+ - Threat and Vulnerability Management) -->
+<details close>
+	<summary>Software and Systems Security &#x21A9;</summary>
+&#x1F6A7;
+</details><!-- END (CompTIA CySA+ - Software and Systems Security) -->
+<details close>
+	<summary>Security Operations and Monitoring &#x21A9;</summary>
+&#x1F6A7;
+</details><!-- END (CompTIA CySA+ - Security Operations and Monitoring) -->
+<details close>
+	<summary>Incident Response &#x21A9;</summary>
+&#x1F6A7;
+</details><!-- END (CompTIA CySA+ - Incident Response) -->
+<details close>
+	<summary>Compliance and Assessment &#x21A9;</summary>
+&#x1F6A7;
+</details><!-- END (CompTIA CySA+ - Compliance and Assessment) -->
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
-<br/>	
-<details open>
-	<summary>Vulnerabilities &#x21A9;</summary>
-
-- [Conducting a Software Vulnerability Scan Using AlienVault](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise1ConductingaSoftwareVulnerabilityScanUsingAlienVault.ipynb) &#x2705; <br/>
-- [Conducting a Software Vulnerability Scan using Nessus](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise2ConductingaSoftwareVulnerabilityScanusingNessus.ipynb) &#x2705; <br/>
-- [Define Different Web Application Software Vulnerabilities](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise3DefineDifferentWebApplicationSoftwareVulnerabilities.pdf) &#x2705;
-</details>	<!-- END (CompTIA CySA+ - Vulnerabilities) -->
-<details open>
-	<summary>Attack Types &#x21A9;</summary>
-
-- [Web Application Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise1WebApplicationExploits.ipynb) &#x2705; <br/>
-- [Database Attack Types and Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise2DatabaseAttackTypesandExploits.ipynb) &#x2705; <br/>
-- [Additional Cybersecurity Attack Types](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise3AdditionalCybersecurityAttackTypes.pdf) &#x2705; <br/>
-- Supplemental Resources:
-	- [App-server (``flask``)](https://github.com/SeanOhAileasa/cwe-app-server) &#x1F6A7;
-</details>	<!-- END (CompTIA CySA+ - Attack Types) -->
+<br/>
 <details open>
     <summary>Scripting &#x21A9;</summary>
 
 - [Search](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#PerformSearch) &#x274C; <br/>
 - [Scripting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Scripting) &#x274C; <br/>
 - [Piping](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Piping) &#x274C; <br/>
-</details>
-<details open>
-    <summary>Wireless and Cloud Assessment Tools &#x21A9;</summary>
-
-- [Wireless Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#WirelessAssessmentTools) &#x274C; <br/>
-- [Cloud Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudModels) &#x274C; <br/>
-- [Cloud Infrastructure Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudAssessmentTools) &#x274C; <br/>
-</details>
-<details open>
-    <summary>Vulnerabilities in Specialized Technology &#x21A9;</summary>
-
-- [Vulnerabilities in Specialized Technology](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities-in-specialized-technology/VulnerabilitiesinSpecializedTechnology.html#VulnerabilitiesinSpecializedTechnology) &#x274C; <br/>
 </details>
 <details open>
     <summary>Log Monitoring and Review &#x21A9;</summary>
