@@ -718,11 +718,11 @@
 
 <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
-24/07/2022
-"update repository ./cap-practice-lab (Attack Types - Vulnerabilities)"
+31/07/2022
+"update repository ./cap-threat-and-vulnerability-management (Threat and Data Intelligence)"
 -->
 
 <br/>
@@ -730,6 +730,8 @@
 	<summary>Threat and Vulnerability Management &#x21A9;</summary>
 
 - { ["**Threat and Data Intelligence**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-data-and-intelligence.ipynb) : &#x1F6A7; } <br/> 
+&#x1F52C; [Threat Data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/threat-data/ThreatData.html#ThreatData) &#x1F513; <br/> <!-- LAB -->
+&#x1F52C; [Information Gathering and Sharing](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/information-gathering-and-sharing/cap-Information-Gathering-and-Sharing.pdf) &#x2705; <br/><br/> <!-- LAB -->
 - { ["**Threat Intelligence and Organizational Security**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-intelligence-and-organizational-security.ipynb) : &#x1F6A7; } <br/>
 - { ["**Vulnerability Management**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-management.ipynb) : &#x1F6A7; } <br/> 
 - { ["**Vulnerability Scanning and Enumeration and Assessment**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-scanning-and-enumeration-and-assessment.ipynb) : &#x1F6A7; } <br/> 
@@ -757,12 +759,6 @@
 	- [App-server (``flask``)](https://github.com/SeanOhAileasa/cwe-app-server) &#x1F6A7;
 </details>	<!-- END (CompTIA CySA+ - Attack Types) -->
 <details open>
-	<summary>Information Gathering and Sharing &#x21A9;</summary>
-
-- [Information Gathering and Sharing](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/information-gathering-and-sharing/cap-Information-Gathering-and-Sharing.pdf) &#x2705; <br/>
-</details>	<!-- END (CompTIA CySA+ - Information Gathering and Sharing) -->
-
-<details open>
 	<summary>Supporting Organizational Security &#x21A9;</summary>
 
 - [Attack Frameworks](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-attack-frameworks.ipynb) &#x2705; <br/>
@@ -776,11 +772,6 @@
 - [Search](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#PerformSearch) &#x274C; <br/>
 - [Scripting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Scripting) &#x274C; <br/>
 - [Piping](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Piping) &#x274C; <br/>
-</details>
-<details open>
-    <summary>Threat Data &#x21A9;</summary>
-
-- [Threat Data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/threat-data/ThreatData.html#ThreatData) &#x1F513; <br/>
 </details>
 <details open>
     <summary>Types of Scanning &#x21A9;</summary>
