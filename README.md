@@ -722,7 +722,7 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 31/07/2022
-"update repository ./cap-threat-and-vulnerability-management (Threat and Data Intelligence)"
+"update repository ./cap-threat-and-vulnerability-management (Threat Intelligence and Organizational Security)"
 -->
 
 <br/>
@@ -732,7 +732,14 @@
 - { ["**Threat and Data Intelligence**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-data-and-intelligence.ipynb) : &#x1F6A7; } <br/> 
 &#x1F52C; [Threat Data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/threat-data/ThreatData.html#ThreatData) &#x1F513; <br/> <!-- LAB -->
 &#x1F52C; [Information Gathering and Sharing](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/information-gathering-and-sharing/cap-Information-Gathering-and-Sharing.pdf) &#x2705; <br/><br/> <!-- LAB -->
+
 - { ["**Threat Intelligence and Organizational Security**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-intelligence-and-organizational-security.ipynb) : &#x1F6A7; } <br/>
+&#x1F52C; Supporting Organizational Security &#x1F513; <br/>
+	- [Attack Frameworks](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-attack-frameworks.ipynb) &#x2705; <br/>
+	- [Threat Research](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-research.ipynb) &#x2705; <br/>
+	- [Threat Modeling Methodologies](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-modeling-methodologies.ipynb) &#x2705; <br/>
+	- [Threat Intelligence Sharing with Supported Functions](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-intelligence-sharing-with-supported-functions.ipynb) &#x2705; <br/><br/> <!-- LAB -->
+
 - { ["**Vulnerability Management**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-management.ipynb) : &#x1F6A7; } <br/> 
 - { ["**Vulnerability Scanning and Enumeration and Assessment**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-scanning-and-enumeration-and-assessment.ipynb) : &#x1F6A7; } <br/> 
 - { ["**Vulnerabilities in Specialized Technology**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerabilities-in-specialized-technology.ipynb) : &#x1F6A7; } <br/>
@@ -758,14 +765,6 @@
 - Supplemental Resources:
 	- [App-server (``flask``)](https://github.com/SeanOhAileasa/cwe-app-server) &#x1F6A7;
 </details>	<!-- END (CompTIA CySA+ - Attack Types) -->
-<details open>
-	<summary>Supporting Organizational Security &#x21A9;</summary>
-
-- [Attack Frameworks](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-attack-frameworks.ipynb) &#x2705; <br/>
-- [Threat Research](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-research.ipynb) &#x2705; <br/>
-- [Threat Modeling Methodologies](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-modeling-methodologies.ipynb) &#x2705; <br/>
-- [Threat Intelligence Sharing with Supported Functions](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-intelligence-sharing-with-supported-functions.ipynb) &#x2705; <br/>
-</details> <!-- END (CompTIA CySA+ - Supporting Organizational Security) -->
 <details open>
     <summary>Scripting &#x21A9;</summary>
 
