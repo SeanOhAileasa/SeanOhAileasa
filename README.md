@@ -722,36 +722,56 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 31/07/2022
-"update repository ./cap-threat-and-vulnerability-management (Vulnerability Management)"
+"update repository ./cap-threat-and-vulnerability-management (Vulnerability Scanning and Enumeration and Assessment)"
 -->
 
 <br/>
-<details close>
+<details open>
 	<summary>Threat and Vulnerability Management &#x21A9;</summary>
+<br/>
 
 - { ["**Threat and Data Intelligence**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-data-and-intelligence.ipynb) : &#x1F6A7; } <br/> 
-&#x1F52C; [Threat Data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/threat-data/ThreatData.html#ThreatData) &#x1F513; <br/> <!-- LAB -->
-&#x1F52C; [Information Gathering and Sharing](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/information-gathering-and-sharing/cap-Information-Gathering-and-Sharing.pdf) &#x2705; <br/><br/> <!-- LAB -->
+
+> &#x1F52C; [Threat Data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/threat-data/ThreatData.html#ThreatData) &#x1F513; <br/> <!-- LAB -->
+
+> &#x1F52C; [Information Gathering and Sharing](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/information-gathering-and-sharing/cap-Information-Gathering-and-Sharing.pdf) &#x2705; <br/> <!-- LAB -->
 
 - { ["**Threat Intelligence and Organizational Security**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-intelligence-and-organizational-security.ipynb) : &#x1F6A7; } <br/>
-&#x1F52C; Supporting Organizational Security &#x1F513; <br/>
-	- [Attack Frameworks](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-attack-frameworks.ipynb) &#x2705; <br/>
-	- [Threat Research](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-research.ipynb) &#x2705; <br/>
-	- [Threat Modeling Methodologies](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-modeling-methodologies.ipynb) &#x2705; <br/>
-	- [Threat Intelligence Sharing with Supported Functions](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-intelligence-sharing-with-supported-functions.ipynb) &#x2705; <br/><br/> <!-- LAB -->
+
+> &#x1F52C; Supporting Organizational Security <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Attack Frameworks](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-attack-frameworks.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Threat Research](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-research.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Threat Modeling Methodologies](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-modeling-methodologies.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Threat Intelligence Sharing with Supported Functions](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-intelligence-sharing-with-supported-functions.ipynb) &#x2705; <br/> <!-- LAB -->
 
 - { ["**Vulnerability Management**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-management.ipynb) : &#x1F6A7; } <br/> 
-&#x1F52C; [Scanning Parameters and Criteria](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/types-of-scanning/TypesofScanning.html#ScanningParametersandCriteria) &#x274C; <br/> <!-- LAB -->
-&#x1F52C; Vulnerability Identification and Remediation &#x274C; <br/>
-	- [Vulnerability Identification](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#VulnerabilityIdentification) &#x274C; <br/>
-	- [Validation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Validation) &#x274C; <br/>
-	- [Remediation Mitigation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#RemediationMitigation) &#x274C; <br/>
-	- [Inhibitors to Remediation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#InhibitorstoRemediation) &#x274C; <br/>
-	- [Patching](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Patching) &#x274C; <br/><br/> <!-- LAB -->
+
+> &#x1F52C; [Scanning Parameters and Criteria](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/types-of-scanning/TypesofScanning.html#ScanningParametersandCriteria) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Vulnerability Identification and Remediation <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Vulnerability Identification](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#VulnerabilityIdentification) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Validation) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Remediation Mitigation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#RemediationMitigation) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Inhibitors to Remediation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#InhibitorstoRemediation) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Patching](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Patching) &#x274C; <br/> <!-- LAB -->
 
 - { ["**Vulnerability Scanning and Enumeration and Assessment**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-scanning-and-enumeration-and-assessment.ipynb) : &#x1F6A7; } <br/> 
+> &#x1F52C; Web Application Scanners <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Application scanner](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/web-application-scanners/WebApplicationScanners.html#WebApplicationScanner) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Software assessment tools and techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/web-application-scanners/WebApplicationScanners.html#SoftwareAssessmentToolsandTechniques) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Infrastructure Vulnerability Scanners <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Nessus](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-vulnerability-scanners/InfrastructureVulnerabilityScanners.html#Nessus) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OpenVAS](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-vulnerability-scanners/InfrastructureVulnerabilityScanners.html#OpenVAS) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Enumeration <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Enumeration](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/enumeration/Enumeration.html#Enumeration) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Leveraging the Gathered Information](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/enumeration/Enumeration.html#LeveragingtheGatheredInformation) &#x274C; <br/> <!-- LAB -->
+
 - { ["**Vulnerabilities in Specialized Technology**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerabilities-in-specialized-technology.ipynb) : &#x1F6A7; } <br/>
+
 - { ["**Cloud Service Model Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-cloud-service-model-vulnerabilities.ipynb) : &#x1F6A7; } <br/> 
+
 - { ["**Software Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-software-vulnerabilities.ipynb) : &#x1F6A7; } <br/> 
 </details>
 <details close>
@@ -779,24 +799,6 @@
 - [Search](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#PerformSearch) &#x274C; <br/>
 - [Scripting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Scripting) &#x274C; <br/>
 - [Piping](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Piping) &#x274C; <br/>
-</details>
-<details open>
-    <summary>Web Application Scanners &#x21A9;</summary>
-
-- [Web Application scanner](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/web-application-scanners/WebApplicationScanners.html#WebApplicationScanner) &#x274C; <br/>
-- [Software assessment tools and techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/web-application-scanners/WebApplicationScanners.html#SoftwareAssessmentToolsandTechniques) &#x274C; <br/>
-</details>
-<details open>
-    <summary>Infrastructure Vulnerability Scanners &#x21A9;</summary>
-
-- [Nessus](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-vulnerability-scanners/InfrastructureVulnerabilityScanners.html#Nessus) &#x274C; <br/>
-- [OpenVAS](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-vulnerability-scanners/InfrastructureVulnerabilityScanners.html#OpenVAS) &#x274C; <br/>
-</details>
-<details open>
-    <summary>Enumeration &#x21A9;</summary>
-
-- [Enumeration](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/enumeration/Enumeration.html#Enumeration) &#x274C; <br/>
-- [Leveraging the Gathered Information](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/enumeration/Enumeration.html#LeveragingtheGatheredInformation) &#x274C; <br/>
 </details>
 <details open>
     <summary>Wireless and Cloud Assessment Tools &#x21A9;</summary>
@@ -1269,7 +1271,7 @@
 
 - &#x21A9; Expand / Dropdown List
 - &#x1F4CC; Subject / Theme / Topic
-- &#x1F52C; Practice Laboratory
+- &#x1F52C; Walkthrough / Practice Lab
 - &#x1F6A7; Work-in-Progress / WIP
 - &#x1F513; Read / Skimming Content 
 - &#x1F512; Live Lab Completed (1st)  
