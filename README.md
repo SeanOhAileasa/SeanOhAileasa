@@ -722,7 +722,7 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 31/07/2022
-"update repository ./cap-threat-and-vulnerability-management (Threat Intelligence and Organizational Security)"
+"update repository ./cap-threat-and-vulnerability-management (Vulnerability Management)"
 -->
 
 <br/>
@@ -741,6 +741,14 @@
 	- [Threat Intelligence Sharing with Supported Functions](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-intelligence-sharing-with-supported-functions.ipynb) &#x2705; <br/><br/> <!-- LAB -->
 
 - { ["**Vulnerability Management**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-management.ipynb) : &#x1F6A7; } <br/> 
+&#x1F52C; [Scanning Parameters and Criteria](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/types-of-scanning/TypesofScanning.html#ScanningParametersandCriteria) &#x274C; <br/> <!-- LAB -->
+&#x1F52C; Vulnerability Identification and Remediation &#x274C; <br/>
+	- [Vulnerability Identification](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#VulnerabilityIdentification) &#x274C; <br/>
+	- [Validation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Validation) &#x274C; <br/>
+	- [Remediation Mitigation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#RemediationMitigation) &#x274C; <br/>
+	- [Inhibitors to Remediation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#InhibitorstoRemediation) &#x274C; <br/>
+	- [Patching](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Patching) &#x274C; <br/><br/> <!-- LAB -->
+
 - { ["**Vulnerability Scanning and Enumeration and Assessment**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-scanning-and-enumeration-and-assessment.ipynb) : &#x1F6A7; } <br/> 
 - { ["**Vulnerabilities in Specialized Technology**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerabilities-in-specialized-technology.ipynb) : &#x1F6A7; } <br/>
 - { ["**Cloud Service Model Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-cloud-service-model-vulnerabilities.ipynb) : &#x1F6A7; } <br/> 
@@ -771,20 +779,6 @@
 - [Search](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#PerformSearch) &#x274C; <br/>
 - [Scripting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Scripting) &#x274C; <br/>
 - [Piping](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Piping) &#x274C; <br/>
-</details>
-<details open>
-    <summary>Types of Scanning &#x21A9;</summary>
-
-- [Scanning Parameters and Criteria](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/types-of-scanning/TypesofScanning.html#ScanningParametersandCriteria) &#x274C; <br/>
-</details>
-<details open>
-    <summary>Vulnerability Identification and Remediation &#x21A9;</summary>
-
-- [Vulnerability Identification](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#VulnerabilityIdentification) &#x274C; <br/>
-- [Validation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Validation) &#x274C; <br/>
-- [Remediation Mitigation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#RemediationMitigation) &#x274C; <br/>
-- [Inhibitors to Remediation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#InhibitorstoRemediation) &#x274C; <br/>
-- [Patching](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Patching) &#x274C; <br/>
 </details>
 <details open>
     <summary>Web Application Scanners &#x21A9;</summary>
@@ -1275,6 +1269,7 @@
 
 - &#x21A9; Expand / Dropdown List
 - &#x1F4CC; Subject / Theme / Topic
+- &#x1F52C; Practice Laboratory
 - &#x1F6A7; Work-in-Progress / WIP
 - &#x1F513; Read / Skimming Content 
 - &#x1F512; Live Lab Completed (1st)  
