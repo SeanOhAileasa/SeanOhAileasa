@@ -722,7 +722,7 @@
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 31/07/2022
-"add repository ./cap-security-operations-and-monitoring"
+"add repository ./cap-incident-response"
 -->
 
 <br/>
