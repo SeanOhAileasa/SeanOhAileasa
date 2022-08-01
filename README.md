@@ -626,8 +626,8 @@
 <details open>
 	<summary>Attacks and Threats and Vulnerabilities &#x21A9;</summary>
 <!--
-29/05/2022
-"updata repository ./syp-attacks-threats-and-vulnerabilities"
+01/08/2022
+"updata repository ./syp-analyzing-application-and-network-attacks"
 -->
 
 - { ["**Attacks and Threats and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-attacks-threats-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
