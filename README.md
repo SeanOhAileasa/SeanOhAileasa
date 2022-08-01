@@ -41,12 +41,110 @@
 "update repository ./nkp-cybersecurity-apprenticeship (krebsonsecurity.com - DHCP and APIPA - Classless IPv4 Addressing Part 2)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
-
-<!--
-16/07/2022
-"update repository ./nkp-practice-labs"
--->
 <br/>
+<details close>
+	<summary>Network Concepts &#x21A9;</summary>
+<!--
+30/06/2022
+"CompTIA Network+ Certification Exam - Status: Pass."
+-->
+
+- { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
+
+	- { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
+
+	- { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
+
+	- { ["**Concepts and Characteristics of Networking**"](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking) : &#x1F6A7; }
+
+	- { ["**Subnetting and Supernetting**"](https://github.com/SeanOhAileasa/nkp-subnetting-and-supernetting) : &#x1F6A7; }
+
+	- { ["**Network Topologies**"](https://github.com/SeanOhAileasa/nkp-network-topologies) : &#x1F6A7; }
+
+	- { ["**Wireless Technologies**"](https://github.com/SeanOhAileasa/nkp-wireless-technologies) : &#x1F6A7; }
+
+	- { ["**Cloud Concepts**"](https://github.com/SeanOhAileasa/nkp-cloud-concepts) : &#x1F6A7; }
+
+	- { ["**Network Services**"](https://github.com/SeanOhAileasa/nkp-network-services) : &#x1F6A7; }
+
+	- { ["**Cabling Solutions**"](https://github.com/SeanOhAileasa/nkp-cabling-solutions) : &#x1F6A7; }
+</details> <!-- END (Network Concepts) -->
+<details close>
+	<summary>Infrastructure &#x21A9;</summary>
+<!--
+16/04/2022
+"update repository ./nkp-advanced-networking" 
+-->
+
+- { ["**Infrastructure**"](https://github.com/SeanOhAileasa/nkp-infrastructure) : &#x1F6A7; }
+
+	- { ["**Networking Devices**"](https://github.com/SeanOhAileasa/nkp-networking-devices) : &#x1F6A7; }
+
+	- { ["**Advanced Networking**"](https://github.com/SeanOhAileasa/nkp-advanced-networking) : &#x1F6A7; }
+
+	- { ["**Network Storage and Virtualization**"](https://github.com/SeanOhAileasa/nkp-network-storage-virtualization) : &#x1F6A7; }
+
+	- { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
+</details> <!-- END (Infrastructure) -->
+<details close>
+	<summary>Network Operations &#x21A9;</summary>
+<!--
+11/05/2022
+"update repository ./nkp-disaster-recovery" 
+-->
+
+- { ["**Network Operations**"](https://github.com/SeanOhAileasa/nkp-network-operations) : &#x1F6A7; }
+
+	- { ["**Documentation and Diagram Types**"](https://github.com/SeanOhAileasa/nkp-documentation-diagram-types) : &#x1F6A7; }
+
+	- { ["**Disaster Recovery**"](https://github.com/SeanOhAileasa/nkp-disaster-recovery) : &#x1F6A7; }
+
+	- { ["**Scanning and Monitoring and Patching**"](https://github.com/SeanOhAileasa/nkp-scanning-monitoring-patching) : &#x1F6A7; }
+
+	- { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
+
+	- { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
+</details> <!-- END (Network Operations) -->
+<details close>
+	<summary>Network Security &#x21A9;</summary>
+<!--
+14/05/2022
+"update repository ./nkp-mitigation-techniques"
+-->
+
+- { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
+
+	- { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
+
+	- { ["**Authentication and Access Control**"](https://github.com/SeanOhAileasa/nkp-authentication-access-control) : &#x1F6A7; }
+
+	- { ["**Wireless Security**"](https://github.com/SeanOhAileasa/nkp-wireless-security) : &#x1F6A7; }
+
+	- { ["**Network Attacks**"](https://github.com/SeanOhAileasa/nkp-network-attacks) : &#x1F6A7; }
+
+	- { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
+
+	- { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
+</details> <!-- END (Network Security) -->
+<details close>
+	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
+<!--
+06/07/2022
+"update repository ./nkp-network-troubleshooting-and-tools (network-tools/nkp-command-line-tools)"
+-->
+
+- { ["**Network Troubleshooting and Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-and-tools) : &#x1F6A7; }
+
+	- { ["**Network Service Issues**"](https://github.com/SeanOhAileasa/nkp-network-service-issues) : &#x1F6A7; }
+
+	- { ["**Network Troubleshooting**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting) : &#x1F6A7; }
+
+	- { ["**Network Troubleshooting Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-tools) : &#x1F6A7; }
+
+	- { ["**Wired Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wired-connectivity-issues) : &#x1F6A7; }
+
+	- { ["**Wireless Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wireless-connectivity-issues) : &#x1F6A7; }
+</details> <!-- END (Network Troubleshooting and Tools) -->
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
 <br/>	
@@ -243,116 +341,7 @@
 
 - [Running MBSA to Detect System Vulnerabilities](https://www.github.com/SeanOhAileasa/nkp-practice-labs/blob/main/rc/assess-network-vulnerabilities-and-threats-using-mbsa/01-Running-MBSA-to-Detect-System-Vulnerabilities.pdf) &#x274C; <br/>
 </details>
-</details>
-
-<details open>
-	<summary>Network Concepts &#x21A9;</summary>
-<!--
-30/06/2022
-"CompTIA Network+ Certification Exam - Status: Pass."
--->
-
-- { ["**Network Concepts**"](https://github.com/SeanOhAileasa/nkp-network-concepts) : &#x1F6A7; }
-
-	- { ["**Ports and Protocols**"](https://github.com/SeanOhAileasa/nkp-ports-and-protocols) : &#x1F6A7; }
-
-	- { ["**OSI Layers**"](https://github.com/SeanOhAileasa/nkp-osi-layers) : &#x1F6A7; }
-
-	- { ["**Concepts and Characteristics of Networking**"](https://github.com/SeanOhAileasa/nkp-concepts-and-characteristics-of-networking) : &#x1F6A7; }
-
-	- { ["**Subnetting and Supernetting**"](https://github.com/SeanOhAileasa/nkp-subnetting-and-supernetting) : &#x1F6A7; }
-
-	- { ["**Network Topologies**"](https://github.com/SeanOhAileasa/nkp-network-topologies) : &#x1F6A7; }
-
-	- { ["**Wireless Technologies**"](https://github.com/SeanOhAileasa/nkp-wireless-technologies) : &#x1F6A7; }
-
-	- { ["**Cloud Concepts**"](https://github.com/SeanOhAileasa/nkp-cloud-concepts) : &#x1F6A7; }
-
-	- { ["**Network Services**"](https://github.com/SeanOhAileasa/nkp-network-services) : &#x1F6A7; }
-
-	- { ["**Cabling Solutions**"](https://github.com/SeanOhAileasa/nkp-cabling-solutions) : &#x1F6A7; }
-</details> <!-- END (Network Concepts) -->
-<br/>
-<details open>
-	<summary>Infrastructure &#x21A9;</summary>
-<!--
-16/04/2022
-"update repository ./nkp-advanced-networking" 
--->
-
-- { ["**Infrastructure**"](https://github.com/SeanOhAileasa/nkp-infrastructure) : &#x1F6A7; }
-
-	- { ["**Networking Devices**"](https://github.com/SeanOhAileasa/nkp-networking-devices) : &#x1F6A7; }
-
-	- { ["**Advanced Networking**"](https://github.com/SeanOhAileasa/nkp-advanced-networking) : &#x1F6A7; }
-
-	- { ["**Network Storage and Virtualization**"](https://github.com/SeanOhAileasa/nkp-network-storage-virtualization) : &#x1F6A7; }
-
-	- { ["**Wide Area Network**"](https://github.com/SeanOhAileasa/nkp-wide-area-network) : &#x1F6A7; }
-</details> <!-- END (Infrastructure) -->
-<br/>
-<details open>
-	<summary>Network Operations &#x21A9;</summary>
-<!--
-11/05/2022
-"update repository ./nkp-disaster-recovery" 
--->
-
-- { ["**Network Operations**"](https://github.com/SeanOhAileasa/nkp-network-operations) : &#x1F6A7; }
-
-	- { ["**Documentation and Diagram Types**"](https://github.com/SeanOhAileasa/nkp-documentation-diagram-types) : &#x1F6A7; }
-
-	- { ["**Disaster Recovery**"](https://github.com/SeanOhAileasa/nkp-disaster-recovery) : &#x1F6A7; }
-
-	- { ["**Scanning and Monitoring and Patching**"](https://github.com/SeanOhAileasa/nkp-scanning-monitoring-patching) : &#x1F6A7; }
-
-	- { ["**Remote Access Methods**"](https://github.com/SeanOhAileasa/nkp-remote-access-methods) : &#x1F6A7; }
-
-	- { ["**Policies and Best Practice Guidelines**"](https://github.com/SeanOhAileasa/nkp-policies-best-practice-guidelines) : &#x1F6A7; }
-</details> <!-- END (Network Operations) -->
-<br/>
-<details open>
-	<summary>Network Security &#x21A9;</summary>
-<!--
-14/05/2022
-"update repository ./nkp-mitigation-techniques"
--->
-
-- { ["**Network Security**"](https://github.com/SeanOhAileasa/nkp-network-security) : &#x1F6A7; }
-
-	- { ["**Physical Security Devices**"](https://github.com/SeanOhAileasa/nkp-physical-security-devices) : &#x1F6A7; }
-
-	- { ["**Authentication and Access Control**"](https://github.com/SeanOhAileasa/nkp-authentication-access-control) : &#x1F6A7; }
-
-	- { ["**Wireless Security**"](https://github.com/SeanOhAileasa/nkp-wireless-security) : &#x1F6A7; }
-
-	- { ["**Network Attacks**"](https://github.com/SeanOhAileasa/nkp-network-attacks) : &#x1F6A7; }
-
-	- { ["**Network Device Hardening**"](https://github.com/SeanOhAileasa/nkp-network-device-hardening) : &#x1F6A7; }
-
-	- { ["**Mitigation Techniques**"](https://github.com/SeanOhAileasa/nkp-mitigation-techniques) : &#x1F6A7; }
-</details> <!-- END (Network Security) -->
-<br/>
-<details open>
-	<summary>Network Troubleshooting and Tools &#x21A9;</summary>
-<!--
-06/07/2022
-"update repository ./nkp-network-troubleshooting-and-tools (network-tools/nkp-command-line-tools)"
--->
-
-- { ["**Network Troubleshooting and Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-and-tools) : &#x1F6A7; }
-
-	- { ["**Network Service Issues**"](https://github.com/SeanOhAileasa/nkp-network-service-issues) : &#x1F6A7; }
-
-	- { ["**Network Troubleshooting**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting) : &#x1F6A7; }
-
-	- { ["**Network Troubleshooting Tools**"](https://github.com/SeanOhAileasa/nkp-network-troubleshooting-tools) : &#x1F6A7; }
-
-	- { ["**Wired Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wired-connectivity-issues) : &#x1F6A7; }
-
-	- { ["**Wireless Connectivity Issues**"](https://github.com/SeanOhAileasa/nkp-wireless-connectivity-issues) : &#x1F6A7; }
-</details> <!-- END (Network Troubleshooting and Tools) -->
-
+</details> <!-- Practice Labs -->
 </details> <!-- END (CompTIA Network+) -->
 
 <br/>
@@ -364,6 +353,91 @@
 "update repository ./syp-social-engineering-and-types-of-attacks (syp-threat-actors-Intelligence-sources-and-vulnerabilities)"
 -->
 <br/>
+<details close>
+	<summary>Attacks and Threats and Vulnerabilities &#x21A9;</summary>
+<!--
+01/08/2022
+"updata repository ./syp-security-assessment-and-penetration-testing-techniques"
+-->
+
+- { ["**Attacks and Threats and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-attacks-threats-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x2705; }
+
+	- { ["**Threat Actors, Intelligence Sources and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-threat-actors-Intelligence-sources-and-vulnerabilities/blob/main/README.md) : &#x2705; }
+
+		- { ["**Analyzing Application and Network Attacks**"](https://github.com/SeanOhAileasa/syp-analyzing-application-and-network-attacks/blob/main/README.md) : &#x2705; }
+	
+	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F513; }
+</details>
+<details close>
+	<summary>Architecture and Design &#x21A9;</summary>
+<!--
+12/06/2022
+"update repository ./syp-architecture-and-design (Cryptographic Concepts)"
+-->
+
+- { ["**Architecture and Design**"](https://github.com/SeanOhAileasa/syp-architecture-and-design/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Security Concepts in an Enterprise Environment**"](https://github.com/SeanOhAileasa/syp-security-concepts-in-an-enterprise-environment/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Implementing Cybersecurity Resilience**"](https://github.com/SeanOhAileasa/syp-implementing-cybersecurity-resilience/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Virtualization, Cloud Computing and Cloud Cybersecurity Solutions**"](https://github.com/SeanOhAileasa/syp-virtualization-cloud-computing-and-cloud-cybersecurity-solutions/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Controls and Application Development Deployment and Automation**"](https://github.com/SeanOhAileasa/syp-controls-and-application-development-deployment-and-automation/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Authentication and Authorization Design Concepts**"](https://github.com/SeanOhAileasa/syp-authentication-and-authorization-design-concepts/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Implementing Identity and Account Management and AAA Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-identity-and-account-management-and-aaa-solutions/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Physical Security Controls**"](https://github.com/SeanOhAileasa/syp-physical-security-controls/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F6A7; }
+</details>
+<details close>
+	<summary>Implementation &#x21A9;</summary>
+<!--
+03/07/2022
+"update repository ./syp-implementation (Public Key Infrastructure)"
+-->
+
+- { ["**Implementation**"](https://github.com/SeanOhAileasa/syp-implementation/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Implementing Secure Protocols and Application Security Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-secure-protocols-and-application-security-solutions/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Implementing Secure Network Designs**"](https://github.com/SeanOhAileasa/syp-implementing-secure-network-designs/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F6A7; }
+</details>
+<details close>
+	<summary>Operations and Incident Response &#x21A9;</summary>
+<!--
+12/07/2022
+"add repository ./syp-operations-and-incident-response (Security Tools - File Manipulation Tools)"
+-->
+
+- { ["**Operations and Incident Response**"](https://github.com/SeanOhAileasa/syp-operations-and-incident-response/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Organizational Security Assessment Tools and Mitigation Controls**"](https://github.com/SeanOhAileasa/syp-organizational-security-assessment-tools-and-mitigation-controls/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F6A7; }
+</details>
+<details close>
+	<summary>Governance and Risk and Compliance &#x21A9;</summary>
+<!--
+24/05/2022
+"add repository ./syp-governance-risk-and-compliance"
+-->
+
+- { ["**Governance and Risk and Compliance**"](https://github.com/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Security Policies, Regulations, Standards and Frameworks**"](https://github.com/SeanOhAileasa/syp-security-policies-regulations-standards-and-frameworks/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Risk Management, Privacy and Sensitive Data Security**"](https://github.com/SeanOhAileasa/syp-risk-management-privacy-and-sensitive-data-security/blob/main/README.md) : &#x1F6A7; }
+
+	- { ["**Monitoring, Visibility, & Reporting**"](https://github.com/SeanOhAileasa/syp-monitoring-visibility-and-reporting/blob/main/README.md) : &#x1F6A7; }
+</details> 
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
 <br/>
@@ -622,98 +696,6 @@
 <!-- ********** CompTIA Security+ - Practice Labs ********** -->
 <!-- ********** CompTIA Security+ - Practice Labs ********** -->
 </details> <!-- END (CompTIA Security+ - Practice Labs) -->
-
-<details open>
-	<summary>Attacks and Threats and Vulnerabilities &#x21A9;</summary>
-<!--
-01/08/2022
-"updata repository ./syp-security-assessment-and-penetration-testing-techniques"
--->
-
-- { ["**Attacks and Threats and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-attacks-threats-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x2705; }
-
-	- { ["**Threat Actors, Intelligence Sources and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-threat-actors-Intelligence-sources-and-vulnerabilities/blob/main/README.md) : &#x2705; }
-
-		- { ["**Analyzing Application and Network Attacks**"](https://github.com/SeanOhAileasa/syp-analyzing-application-and-network-attacks/blob/main/README.md) : &#x2705; }
-	
-	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F513; }
-</details>
-<br/>
-<details open>
-	<summary>Architecture and Design &#x21A9;</summary>
-<!--
-12/06/2022
-"update repository ./syp-architecture-and-design (Cryptographic Concepts)"
--->
-
-- { ["**Architecture and Design**"](https://github.com/SeanOhAileasa/syp-architecture-and-design/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Security Concepts in an Enterprise Environment**"](https://github.com/SeanOhAileasa/syp-security-concepts-in-an-enterprise-environment/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Implementing Cybersecurity Resilience**"](https://github.com/SeanOhAileasa/syp-implementing-cybersecurity-resilience/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Virtualization, Cloud Computing and Cloud Cybersecurity Solutions**"](https://github.com/SeanOhAileasa/syp-virtualization-cloud-computing-and-cloud-cybersecurity-solutions/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Controls and Application Development Deployment and Automation**"](https://github.com/SeanOhAileasa/syp-controls-and-application-development-deployment-and-automation/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Authentication and Authorization Design Concepts**"](https://github.com/SeanOhAileasa/syp-authentication-and-authorization-design-concepts/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Implementing Identity and Account Management and AAA Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-identity-and-account-management-and-aaa-solutions/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Physical Security Controls**"](https://github.com/SeanOhAileasa/syp-physical-security-controls/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F6A7; }
-</details>
-<br/>
-<details open>
-	<summary>Implementation &#x21A9;</summary>
-<!--
-03/07/2022
-"update repository ./syp-implementation (Public Key Infrastructure)"
--->
-
-- { ["**Implementation**"](https://github.com/SeanOhAileasa/syp-implementation/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Implementing Secure Protocols and Application Security Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-secure-protocols-and-application-security-solutions/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Implementing Secure Network Designs**"](https://github.com/SeanOhAileasa/syp-implementing-secure-network-designs/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F6A7; }
-</details>
-<br/>
-<details open>
-	<summary>Operations and Incident Response &#x21A9;</summary>
-<!--
-12/07/2022
-"add repository ./syp-operations-and-incident-response (Security Tools - File Manipulation Tools)"
--->
-
-- { ["**Operations and Incident Response**"](https://github.com/SeanOhAileasa/syp-operations-and-incident-response/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Organizational Security Assessment Tools and Mitigation Controls**"](https://github.com/SeanOhAileasa/syp-organizational-security-assessment-tools-and-mitigation-controls/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F6A7; }
-</details>
-<br/>
-
-<details open>
-	<summary>Governance and Risk and Compliance &#x21A9;</summary>
-<!--
-24/05/2022
-"add repository ./syp-governance-risk-and-compliance"
--->
-
-- { ["**Governance and Risk and Compliance**"](https://github.com/SeanOhAileasa/syp-governance-risk-and-compliance/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Security Policies, Regulations, Standards and Frameworks**"](https://github.com/SeanOhAileasa/syp-security-policies-regulations-standards-and-frameworks/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Risk Management, Privacy and Sensitive Data Security**"](https://github.com/SeanOhAileasa/syp-risk-management-privacy-and-sensitive-data-security/blob/main/README.md) : &#x1F6A7; }
-
-	- { ["**Monitoring, Visibility, & Reporting**"](https://github.com/SeanOhAileasa/syp-monitoring-visibility-and-reporting/blob/main/README.md) : &#x1F6A7; }
-</details> 
-
 </details> <!-- END (CompTIA Security+) -->
 
 <br/>
@@ -725,99 +707,104 @@
 "update repository ./cap-practice-labs"
 -->
 
-<br/>
-<details close>
-	<summary>Threat and Vulnerability Management &#x21A9;</summary>
-<br/>
+- { ["**Threat and Vulnerability Management**"](https://github.com/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/README.md) : &#x1F6A7; } <br/> 
+ 
+- { ["**Software and Systems Security**"](https://github.com/SeanOhAileasa/cap-software-and-systems-security/blob/main/README.md) : &#x1F6A7; } <br/> 
 
-- { ["**Threat and Data Intelligence**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-data-and-intelligence.ipynb) : &#x1F6A7; } <br/> 
+- { ["**Security Operations and Monitoring**"](https://github.com/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/README.md) : &#x1F6A7; } <br/> 
 
-> &#x1F52C; [Threat Data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/threat-data/ThreatData.html#ThreatData) &#x1F513; <br/> <!-- LAB -->
+- { ["**Incident Response**"](https://github.com/SeanOhAileasa/cap-incident-response/blob/main/README.md) : &#x1F6A7; } <br/> 
 
-> &#x1F52C; [Information Gathering and Sharing](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/information-gathering-and-sharing/cap-Information-Gathering-and-Sharing.pdf) &#x2705; <br/> <!-- LAB -->
+- { ["**Compliance and Assessment**"](https://github.com/SeanOhAileasa/cap-compliance-and-assessment/blob/main/README.md) : &#x1F6A7; } <br/> 
 
-- { ["**Threat Intelligence and Organizational Security**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-intelligence-and-organizational-security.ipynb) : &#x1F6A7; } <br/>
-
-> &#x1F52C; Supporting Organizational Security <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Attack Frameworks](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-attack-frameworks.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Threat Research](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-research.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Threat Modeling Methodologies](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-modeling-methodologies.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Threat Intelligence Sharing with Supported Functions](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-intelligence-sharing-with-supported-functions.ipynb) &#x2705; <br/> <!-- LAB -->
-
-- { ["**Vulnerability Management**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-management.ipynb) : &#x1F6A7; } <br/> 
-
-> &#x1F52C; [Scanning Parameters and Criteria](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/types-of-scanning/TypesofScanning.html#ScanningParametersandCriteria) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Vulnerability Identification and Remediation <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Vulnerability Identification](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#VulnerabilityIdentification) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Validation) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Remediation Mitigation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#RemediationMitigation) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Inhibitors to Remediation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#InhibitorstoRemediation) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Patching](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Patching) &#x274C; <br/> <!-- LAB -->
-
-- { ["**Vulnerability Scanning and Enumeration and Assessment**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-scanning-and-enumeration-and-assessment.ipynb) : &#x1F6A7; } <br/> 
-> &#x1F52C; Web Application Scanners <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Application scanner](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/web-application-scanners/WebApplicationScanners.html#WebApplicationScanner) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Software assessment tools and techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/web-application-scanners/WebApplicationScanners.html#SoftwareAssessmentToolsandTechniques) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Infrastructure Vulnerability Scanners <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Nessus](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-vulnerability-scanners/InfrastructureVulnerabilityScanners.html#Nessus) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OpenVAS](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-vulnerability-scanners/InfrastructureVulnerabilityScanners.html#OpenVAS) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Enumeration <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Enumeration](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/enumeration/Enumeration.html#Enumeration) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Leveraging the Gathered Information](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/enumeration/Enumeration.html#LeveragingtheGatheredInformation) &#x274C; <br/> <!-- LAB -->
-
-- { ["**Vulnerabilities in Specialized Technology**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerabilities-in-specialized-technology.ipynb) : &#x1F6A7; } <br/>
-
-> &#x1F52C; [Vulnerabilities in Specialized Technology](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities-in-specialized-technology/VulnerabilitiesinSpecializedTechnology.html#VulnerabilitiesinSpecializedTechnology) &#x274C; <br/> <!-- LAB -->
-
-- { ["**Cloud Service Model Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-cloud-service-model-vulnerabilities.ipynb) : &#x1F6A7; } <br/> 
-
-> &#x1F52C; Wireless and Cloud Assessment Tools <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Wireless Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#WirelessAssessmentTools) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cloud Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudModels) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cloud Infrastructure Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudAssessmentTools) &#x274C; <br/> <!-- LAB -->
-
-- { ["**Software Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-software-vulnerabilities.ipynb) : &#x1F6A7; } <br/> 
-
-> &#x1F52C; Attack Types <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Application Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise1WebApplicationExploits.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Database Attack Types and Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise2DatabaseAttackTypesandExploits.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Additional Cybersecurity Attack Types](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise3AdditionalCybersecurityAttackTypes.pdf) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supplemental Resources: <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [App-server (``flask``)](https://github.com/SeanOhAileasa/cwe-app-server) &#x1F6A7; <br/> <!-- LAB -->
-
-> &#x1F52C; Vulnerabilities <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Conducting a Software Vulnerability Scan Using AlienVault](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise1ConductingaSoftwareVulnerabilityScanUsingAlienVault.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Conducting a Software Vulnerability Scan using Nessus](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise2ConductingaSoftwareVulnerabilityScanusingNessus.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Define Different Web Application Software Vulnerabilities](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise3DefineDifferentWebApplicationSoftwareVulnerabilities.pdf) &#x2705; <br/> <!-- LAB -->
-</details>	<!-- END (CompTIA CySA+ - Threat and Vulnerability Management) -->
-<details close>
-	<summary>Software and Systems Security &#x21A9;</summary>
-&#x1F6A7;
-</details><!-- END (CompTIA CySA+ - Software and Systems Security) -->
-<details close>
-	<summary>Security Operations and Monitoring &#x21A9;</summary>
-&#x1F6A7;
-</details><!-- END (CompTIA CySA+ - Security Operations and Monitoring) -->
-<details close>
-	<summary>Incident Response &#x21A9;</summary>
-&#x1F6A7;
-</details><!-- END (CompTIA CySA+ - Incident Response) -->
-<details close>
-	<summary>Compliance and Assessment &#x21A9;</summary>
-&#x1F6A7;
-</details><!-- END (CompTIA CySA+ - Compliance and Assessment) -->
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
-<br/>
+<br/>	
+<details open>
+	<summary>Vulnerabilities &#x21A9;</summary>
+
+- [Conducting a Software Vulnerability Scan Using AlienVault](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise1ConductingaSoftwareVulnerabilityScanUsingAlienVault.ipynb) &#x2705; <br/>
+- [Conducting a Software Vulnerability Scan using Nessus](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise2ConductingaSoftwareVulnerabilityScanusingNessus.ipynb) &#x2705; <br/>
+- [Define Different Web Application Software Vulnerabilities](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise3DefineDifferentWebApplicationSoftwareVulnerabilities.pdf) &#x2705;
+</details>	<!-- END (CompTIA CySA+ - Vulnerabilities) -->
+<details open>
+	<summary>Attack Types &#x21A9;</summary>
+
+- [Web Application Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise1WebApplicationExploits.ipynb) &#x2705; <br/>
+- [Database Attack Types and Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise2DatabaseAttackTypesandExploits.ipynb) &#x2705; <br/>
+- [Additional Cybersecurity Attack Types](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise3AdditionalCybersecurityAttackTypes.pdf) &#x2705; <br/>
+- Supplemental Resources:
+	- [App-server (``flask``)](https://github.com/SeanOhAileasa/cwe-app-server) &#x1F6A7;
+</details>	<!-- END (CompTIA CySA+ - Attack Types) -->
+<details open>
+	<summary>Information Gathering and Sharing &#x21A9;</summary>
+
+- [Information Gathering and Sharing](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/information-gathering-and-sharing/cap-Information-Gathering-and-Sharing.pdf) &#x2705; <br/>
+</details>	<!-- END (CompTIA CySA+ - Information Gathering and Sharing) -->
+
+<details open>
+	<summary>Supporting Organizational Security &#x21A9;</summary>
+
+- [Attack Frameworks](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-attack-frameworks.ipynb) &#x2705; <br/>
+- [Threat Research](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-research.ipynb) &#x2705; <br/>
+- [Threat Modeling Methodologies](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-modeling-methodologies.ipynb) &#x2705; <br/>
+- [Threat Intelligence Sharing with Supported Functions](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-intelligence-sharing-with-supported-functions.ipynb) &#x2705; <br/>
+</details> <!-- END (CompTIA CySA+ - Supporting Organizational Security) -->
 <details open>
     <summary>Scripting &#x21A9;</summary>
 
 - [Search](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#PerformSearch) &#x274C; <br/>
 - [Scripting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Scripting) &#x274C; <br/>
 - [Piping](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Piping) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Threat Data &#x21A9;</summary>
+
+- [Threat Data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/threat-data/ThreatData.html#ThreatData) &#x1F513; <br/>
+</details>
+<details open>
+    <summary>Types of Scanning &#x21A9;</summary>
+
+- [Scanning Parameters and Criteria](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/types-of-scanning/TypesofScanning.html#ScanningParametersandCriteria) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Vulnerability Identification and Remediation &#x21A9;</summary>
+
+- [Vulnerability Identification](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#VulnerabilityIdentification) &#x274C; <br/>
+- [Validation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Validation) &#x274C; <br/>
+- [Remediation Mitigation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#RemediationMitigation) &#x274C; <br/>
+- [Inhibitors to Remediation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#InhibitorstoRemediation) &#x274C; <br/>
+- [Patching](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Patching) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Web Application Scanners &#x21A9;</summary>
+
+- [Web Application scanner](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/web-application-scanners/WebApplicationScanners.html#WebApplicationScanner) &#x274C; <br/>
+- [Software assessment tools and techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/web-application-scanners/WebApplicationScanners.html#SoftwareAssessmentToolsandTechniques) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Infrastructure Vulnerability Scanners &#x21A9;</summary>
+
+- [Nessus](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-vulnerability-scanners/InfrastructureVulnerabilityScanners.html#Nessus) &#x274C; <br/>
+- [OpenVAS](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-vulnerability-scanners/InfrastructureVulnerabilityScanners.html#OpenVAS) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Enumeration &#x21A9;</summary>
+
+- [Enumeration](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/enumeration/Enumeration.html#Enumeration) &#x274C; <br/>
+- [Leveraging the Gathered Information](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/enumeration/Enumeration.html#LeveragingtheGatheredInformation) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Wireless and Cloud Assessment Tools &#x21A9;</summary>
+
+- [Wireless Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#WirelessAssessmentTools) &#x274C; <br/>
+- [Cloud Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudModels) &#x274C; <br/>
+- [Cloud Infrastructure Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudAssessmentTools) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Vulnerabilities in Specialized Technology &#x21A9;</summary>
+
+- [Vulnerabilities in Specialized Technology](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities-in-specialized-technology/VulnerabilitiesinSpecializedTechnology.html#VulnerabilitiesinSpecializedTechnology) &#x274C; <br/>
 </details>
 <details open>
     <summary>Log Monitoring and Review &#x21A9;</summary>
@@ -975,12 +962,14 @@
 <br/>
 
 <details close>
-	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary>
+	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary><br/>
 <!--
-19/07/2022
-"add repository ./ptp-..."
+01/08/2022
+"add repository ./ptp-pentest"
 -->
-<br/>
+
+- { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
+
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
 <br/>
