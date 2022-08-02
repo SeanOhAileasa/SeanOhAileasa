@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-29/07/2022
-"update repository ./nkp-cybersecurity-apprenticeship (krebsonsecurity.com - DHCP and APIPA - Classless IPv4 Addressing Part 2)"
+02/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Classless IPv4 Addressing Part 3 - 007 - Mindfulness Session - Network+ Exam Prep Practice Questions - Continue...Classless IPv4 Addressing Part 3 - 007)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
@@ -703,6 +703,9 @@
 <details close>
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
+eC=Lesson 6-Automation Concepts
+-->	
+<!--
 31/07/2022
 "update repository ./cap-practice-labs"
 -->
@@ -963,6 +966,9 @@
 
 <details close>
 	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary><br/>
+<!--
+eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
+-->
 <!--
 01/08/2022
 "add repository ./ptp-pentest"
