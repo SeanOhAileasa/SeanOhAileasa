@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-02/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Classless IPv4 Addressing Part 3 - 007 - Mindfulness Session - Network+ Exam Prep Practice Questions - Continue...Classless IPv4 Addressing Part 3 - 007)"
+03/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship ([Variable Length Subnet Mask - VLSM] - Classless IPv4 Addressing Part 4 - 007)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
