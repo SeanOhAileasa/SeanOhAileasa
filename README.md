@@ -38,7 +38,7 @@
 	
 <!--
 03/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Variable Length Subnet Mask - VLSM] - Classless IPv4 Addressing Part 4 - 007)"
+"update repository ./nkp-cybersecurity-apprenticeship (Recording - Revision [OSI Model - TCP Model - Ports] - Continue...Classless IPv4 Addressing Part 4 - 007)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
