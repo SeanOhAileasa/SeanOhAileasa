@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-03/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Recording - Revision [OSI Model - TCP Model - Ports] - Continue...Classless IPv4 Addressing Part 4 - 007)"
+04/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Recording [Krebs on Security - No SOCKS, No Shoes, No Malware Proxy Services!] - [Revision - Subnetting])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
