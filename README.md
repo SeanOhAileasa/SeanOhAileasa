@@ -38,7 +38,7 @@
 	
 <!--
 04/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Recording [Krebs on Security - No SOCKS, No Shoes, No Malware Proxy Services!] - [Revision - Subnetting])"
+"update repository ./nkp-cybersecurity-apprenticeship (Subnetting Step-by-Step - Cisco Packet Tracer)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
