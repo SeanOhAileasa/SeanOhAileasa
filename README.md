@@ -706,8 +706,8 @@
 eC=Lesson 6-Automation Concepts
 -->	
 <!--
-04/08/2022
-"update repository ./cap-threat-and-vulnerability-management (cap-cloud-service-model-vulnerabilities)"
+05/08/2022
+"update repository ./cap-threat-and-vulnerability-management (Software Vulnerabilities)"
 -->
 
 - { ["**Threat and Vulnerability Management**"](https://github.com/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/README.md) : &#x1F6A7; } <br/> 
