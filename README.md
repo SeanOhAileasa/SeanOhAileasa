@@ -38,7 +38,7 @@
 	
 <!--
 05/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Routing - [Recording - Packet Tracer Demonstration - VLSM Group Lab])"
+"update repository ./nkp-cybersecurity-apprenticeship (TCP and UDP)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
