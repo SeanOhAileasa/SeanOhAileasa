@@ -5,7 +5,7 @@
 | [CompTIA](https://www.comptia.org/certifications/it-fundamentals) | CompTIA ITF+                       |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
 | [eCollege](https://www.ecollege.ie/) | <br/>CompTIA Network+<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
 | [eCollege](https://www.ecollege.ie/) | <br/>CompTIA Security+<br/><br/>                               |   &#x1F6A7;   |
-| [KCETB](https://kilkennycarlow.etb.ie/)     | <br/>CompTIA CySA+<br/><br/>                   | Sept '22 |
+| [KCETB](https://kilkennycarlow.etb.ie/)     | <br/>CompTIA CySA+<br/><br/>                   | &#x1F6A7; |
 | [DDLETB](https://www.ddletb.ie/) | <br/>CompTIA PenTest+ (Mon/Wed 7pm-9pm)<br/><br/>                |   &#x1F6A7;   |
 
 <details open>
@@ -356,8 +356,8 @@
 <details close>
 	<summary>Attacks and Threats and Vulnerabilities &#x21A9;</summary>
 <!--
-01/08/2022
-"updata repository ./syp-security-assessment-and-penetration-testing-techniques"
+06/08/2022
+"updata repository ./syp-security-concepts-in-an-enterprise-environment"
 -->
 
 - { ["**Attacks and Threats and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-attacks-threats-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
@@ -379,7 +379,7 @@
 
 - { ["**Architecture and Design**"](https://github.com/SeanOhAileasa/syp-architecture-and-design/blob/main/README.md) : &#x1F6A7; }
 
-	- { ["**Security Concepts in an Enterprise Environment**"](https://github.com/SeanOhAileasa/syp-security-concepts-in-an-enterprise-environment/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Security Concepts in an Enterprise Environment**"](https://github.com/SeanOhAileasa/syp-security-concepts-in-an-enterprise-environment/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Implementing Cybersecurity Resilience**"](https://github.com/SeanOhAileasa/syp-implementing-cybersecurity-resilience/blob/main/README.md) : &#x1F6A7; }
 
