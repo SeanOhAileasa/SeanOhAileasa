@@ -970,8 +970,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-01/08/2022
-"add repository ./ptp-pentest"
+06/08/2022
+"update repository ./ptp-pentest (Define Organizational Pentesting)"
 -->
 
 - { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
