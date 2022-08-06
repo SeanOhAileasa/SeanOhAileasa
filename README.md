@@ -971,7 +971,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 06/08/2022
-"update repository ./ptp-pentest (Compare Standards and Methodologies)"
+"update repository ./ptp-pentest (Maintain Professionalism)"
 -->
 
 - { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
