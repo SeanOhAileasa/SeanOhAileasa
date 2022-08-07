@@ -971,7 +971,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 07/08/2022
-"update repository ./ptp-pentest (Footprinting and Gathering Intelligence - Gather Essential Data)"
+"update repository ./ptp-pentest (Footprinting and Gathering Intelligence - Discover Open-Source Intelligence Tools)"
 -->
 
 - { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
