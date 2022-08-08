@@ -970,8 +970,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-07/08/2022
-"update repository ./ptp-pentest (Footprinting and Gathering Intelligence - Discover Open-Source Intelligence Tools)"
+08/08/2022
+"update repository ./ptp-pentest (Evaluating Human and Physical Vulnerabilities Intelligence - Exploit the Human Psyche)"
 -->
 
 - { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
