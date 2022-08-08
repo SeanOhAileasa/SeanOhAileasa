@@ -38,7 +38,7 @@
 	
 <!--
 08/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Packet Tracer Demonstration)"
+"update repository ./nkp-cybersecurity-apprenticeship (krebsonsecurity.com - Name Resolution and IPAM)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
