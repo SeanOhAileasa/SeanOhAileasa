@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-05/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (TCP and UDP)"
+08/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Network Services DNS - Networking and Networked Devices)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
