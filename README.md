@@ -38,7 +38,7 @@
 	
 <!--
 08/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Network Services DNS - Networking and Networked Devices)"
+"update repository ./nkp-cybersecurity-apprenticeship (VLSM Group Lab)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
