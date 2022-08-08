@@ -971,7 +971,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 08/08/2022
-"update repository ./ptp-pentest (Evaluating Human and Physical Vulnerabilities Intelligence - Exploit the Human Psyche)"
+"update repository ./ptp-pentest (Evaluating Human and Physical Vulnerabilities Intelligence - Summarize Physical Attacks)"
 -->
 
 - { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
