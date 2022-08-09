@@ -38,7 +38,7 @@
 	
 <!--
 09/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Routing and Bandwidth Management)"
+"update repository ./nkp-cybersecurity-apprenticeship (Recording - Packet Tracer Demonstration)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
