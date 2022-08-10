@@ -707,7 +707,7 @@ eC=Lesson 6-Automation Concepts
 -->	
 <!--
 10/08/2022
-"update repository ./cap-software-and-systems-security (Software Assurance)"
+"update repository ./cap-software-and-systems-security (Hardware Assurance)"
 -->
 
 - { ["**Threat and Vulnerability Management**"](https://github.com/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/README.md) : &#x1F6A7; } <br/> 
