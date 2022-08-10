@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-09/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (VLSM Group Lab - Summary of Subnets Configurations - Network+ Exam Prep Practice Questions)"
+10/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Ethernet Switching - Updated Schedule)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
