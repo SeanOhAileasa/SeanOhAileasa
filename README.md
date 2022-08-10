@@ -38,7 +38,7 @@
 	
 <!--
 10/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Ethernet Switching - Updated Schedule)"
+"update repository ./nkp-cybersecurity-apprenticeship ([Recording - MAC Address Walkthrough] - Wireless Infrastructure - [Network+ Exam Prep - Simulation Question - Practice Questions])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
