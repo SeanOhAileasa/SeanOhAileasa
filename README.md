@@ -38,7 +38,7 @@
 	
 <!--
 11/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Address Resolution Protocol - Packet Tracer Demonstration] - [Cybersecurity News - Former Twitter Employee Found Guilty of Spying for Saudi Arabia - Facebook Blenderbot] - Switching)"
+"update repository ./nkp-cybersecurity-apprenticeship (Wireless Networking)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
