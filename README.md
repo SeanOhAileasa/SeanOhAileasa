@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-10/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Wireless Encryption Standards - 802.11 Standards)"
+11/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship ([Address Resolution Protocol - Packet Tracer Demonstration] - [Cybersecurity News - Former Twitter Employee Found Guilty of Spying for Saudi Arabia - Facebook Blenderbot] - Switching)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
