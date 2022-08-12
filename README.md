@@ -349,8 +349,8 @@
 <details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-30/07/2022
-"update repository ./syp-social-engineering-and-types-of-attacks (syp-threat-actors-Intelligence-sources-and-vulnerabilities)"
+12/08/2022
+"update repository ./syp-implementing-cybersecurity-resilience"
 -->
 <br/>
 <details close>
@@ -381,7 +381,7 @@
 
 	- { ["**Security Concepts in an Enterprise Environment**"](https://github.com/SeanOhAileasa/syp-security-concepts-in-an-enterprise-environment/blob/main/README.md) : &#x1F513; }
 
-	- { ["**Implementing Cybersecurity Resilience**"](https://github.com/SeanOhAileasa/syp-implementing-cybersecurity-resilience/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Implementing Cybersecurity Resilience**"](https://github.com/SeanOhAileasa/syp-implementing-cybersecurity-resilience/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Virtualization, Cloud Computing and Cloud Cybersecurity Solutions**"](https://github.com/SeanOhAileasa/syp-virtualization-cloud-computing-and-cloud-cybersecurity-solutions/blob/main/README.md) : &#x1F6A7; }
 
@@ -1272,7 +1272,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 	<summary>&#x21A9; Open</summary> <br/>
 
 - &#x21A9; Expand / Dropdown List
-- &#x1F4CC; Subject / Theme / Topic
+- &#x1F4CC; Apprenticeship / Progress
 - &#x1F52C; Walkthrough / Practice Lab
 - &#x1F6A7; Work-in-Progress / WIP
 - &#x1F513; Read / Skimming Content 
