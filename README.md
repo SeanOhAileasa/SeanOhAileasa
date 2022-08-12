@@ -38,7 +38,7 @@
 	
 <!--
 12/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Cybersecurity News - Cisco] - Cellular Technologies - Performance Metrics)"
+"update repository ./nkp-cybersecurity-apprenticeship (Interface Statistics - [Packet Tracer Demonstration - ping -c - ping -n - Reviewing CLI)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
