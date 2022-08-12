@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-11/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Wireless Networking)"
+12/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship ([Cybersecurity News - Cisco] - Cellular Technologies - Performance Metrics)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
