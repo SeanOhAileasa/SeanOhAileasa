@@ -346,11 +346,11 @@
 
 <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-12/08/2022
-"update repository ./syp-implementing-cybersecurity-resilience"
+15/08/2022
+"update repository ./syp-basic-cryptography-and-public-key-infrastructure"
 -->
 <br/>
 <details close>
@@ -370,7 +370,7 @@
 	
 	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F513; }
 </details>
-<details close>
+<details open>
 	<summary>Architecture and Design &#x21A9;</summary>
 <!--
 12/06/2022
@@ -393,7 +393,7 @@
 
 	- { ["**Physical Security Controls**"](https://github.com/SeanOhAileasa/syp-physical-security-controls/blob/main/README.md) : &#x1F6A7; }
 
-	- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F513; }
 </details>
 <details close>
 	<summary>Implementation &#x21A9;</summary>
