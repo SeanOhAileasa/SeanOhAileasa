@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-12/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Interface Statistics - [Packet Tracer Demonstration - ping -c - ping -n - Reviewing CLI)"
+15/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship ([Recording - Cybersecurity News - Krebs on Security - The Hacker News] - SNMP)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
