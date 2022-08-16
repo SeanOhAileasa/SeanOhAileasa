@@ -38,7 +38,7 @@
 	
 <!--
 16/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Wildcard Masks in ACLs - [Plans and Procedures - Business Continuity Disaster Recovery])"
+"update repository ./nkp-cybersecurity-apprenticeship (Fault Tolerance and Redundancy - Recovery Sites] - Security Policies - Organizational Documentation - [Recording - Review: Packet Tracer Demonstration)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
