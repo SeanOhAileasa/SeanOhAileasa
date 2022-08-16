@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-15/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Environmental Factors - Data Center HVAC - Cooling systems - Plans and Procedures - Plans and procedures - BCDR)"
+16/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Wildcard Masks in ACLs - [Plans and Procedures - Business Continuity Disaster Recovery])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
 <br/>
