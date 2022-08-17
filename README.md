@@ -37,10 +37,10 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-16/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Fault Tolerance and Redundancy - Recovery Sites] - Security Policies - Organizational Documentation - [Recording - Review: Packet Tracer Demonstration)"
+17/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship (High Availability and Disaster Recovery - Disaster Recovery and High Availability Concepts - Spanning Tree Protocol Explained - Network Architecture - Security Concepts)"
 -->
-- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/nkp-cybersecurity-apprenticeship) : &#x1F4CC; }
+- { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
 <details close>
 	<summary>Network Concepts &#x21A9;</summary>
