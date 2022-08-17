@@ -349,8 +349,8 @@
 <details open>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-15/08/2022
-"update repository ./syp-basic-cryptography-and-public-key-infrastructure"
+17/08/2022
+"update repository ./syp-virtualization-cloud-computing-and-cloud-cybersecurity-solutions"
 -->
 <br/>
 <details close>
@@ -383,7 +383,7 @@
 
 	- { ["**Implementing Cybersecurity Resilience**"](https://github.com/SeanOhAileasa/syp-implementing-cybersecurity-resilience/blob/main/README.md) : &#x1F513; }
 
-	- { ["**Virtualization, Cloud Computing and Cloud Cybersecurity Solutions**"](https://github.com/SeanOhAileasa/syp-virtualization-cloud-computing-and-cloud-cybersecurity-solutions/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Virtualization, Cloud Computing and Cloud Cybersecurity Solutions**"](https://github.com/SeanOhAileasa/syp-virtualization-cloud-computing-and-cloud-cybersecurity-solutions/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Controls and Application Development Deployment and Automation**"](https://github.com/SeanOhAileasa/syp-controls-and-application-development-deployment-and-automation/blob/main/README.md) : &#x1F6A7; }
 
