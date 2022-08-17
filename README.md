@@ -38,7 +38,7 @@
 	
 <!--
 17/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (High Availability and Disaster Recovery - Disaster Recovery and High Availability Concepts - Spanning Tree Protocol Explained - Network Architecture - Security Concepts)"
+"update repository ./nkp-cybersecurity-apprenticeship (Subnetting)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
