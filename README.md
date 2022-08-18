@@ -38,7 +38,7 @@
 	
 <!--
 18/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([How HTTPS Works (...and SSL/TLS too)] - [Security - Defense in Depth] - [Reading - Official CompTIA Network+ Student Guide - Firewall Uses and Types])"
+"update repository ./nkp-cybersecurity-apprenticeship ([Security - Authentication Methods] - Network+ Exam Prep - Practice Questions)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
