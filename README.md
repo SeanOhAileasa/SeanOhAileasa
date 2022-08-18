@@ -38,7 +38,7 @@
 	
 <!--
 18/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Cybersecurity News - Cisco Confirms It's Been Hacked by Yanluowang Ransomware Gang - When Efforts to Contain a Data Breach Backfire - Apple Releases Security Updates to Patch Two New Zero-Day Vulnerabilities] - Security - Cryptography Basics)"
+"update repository ./nkp-cybersecurity-apprenticeship ([How HTTPS Works (...and SSL/TLS too)] - [Security - Defense in Depth] - [Reading - Official CompTIA Network+ Student Guide - Firewall Uses and Types])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
