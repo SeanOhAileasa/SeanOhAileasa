@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-17/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Subnetting)"
+18/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship ([Cybersecurity News - Cisco Confirms It's Been Hacked by Yanluowang Ransomware Gang - When Efforts to Contain a Data Breach Backfire - Apple Releases Security Updates to Patch Two New Zero-Day Vulnerabilities] - Security - Cryptography Basics)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
