@@ -349,8 +349,8 @@
 <details open>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-17/08/2022
-"update repository ./syp-virtualization-cloud-computing-and-cloud-cybersecurity-solutions"
+18/08/2022
+"update repository ./syp-controls-and-application-development-deployment-and-automation"
 -->
 <br/>
 <details close>
@@ -385,7 +385,7 @@
 
 	- { ["**Virtualization, Cloud Computing and Cloud Cybersecurity Solutions**"](https://github.com/SeanOhAileasa/syp-virtualization-cloud-computing-and-cloud-cybersecurity-solutions/blob/main/README.md) : &#x1F513; }
 
-	- { ["**Controls and Application Development Deployment and Automation**"](https://github.com/SeanOhAileasa/syp-controls-and-application-development-deployment-and-automation/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Controls and Application Development Deployment and Automation**"](https://github.com/SeanOhAileasa/syp-controls-and-application-development-deployment-and-automation/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Authentication and Authorization Design Concepts**"](https://github.com/SeanOhAileasa/syp-authentication-and-authorization-design-concepts/blob/main/README.md) : &#x1F6A7; }
 
