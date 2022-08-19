@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-18/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Security - Authentication Methods] - Network+ Exam Prep - Practice Questions)"
+19/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship ([Security - Assessment Types] - [Planning and Scoping - Planning an Engagement])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
