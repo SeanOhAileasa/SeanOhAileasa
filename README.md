@@ -38,7 +38,7 @@
 	
 <!--
 19/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Security - Assessment Types] - [Planning and Scoping - Planning an Engagement])"
+"update repository ./nkp-cybersecurity-apprenticeship ([Security - Assessment Types] - [Planning and Scoping - Planning an Engagement] - Risk Management - Technology-based Attacks)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
@@ -1095,7 +1095,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 16/04/2022
 "update repository ./mls-machine-learning-statistics - Tidy GMIT (Iris Classification)."
 -->
-###### Machine Learning and Statistics { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; } 
+###### Machine Learning and Statistics { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x2705; } 
 
 <!--
 04/12/2021
@@ -1135,13 +1135,13 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 * End of Semester (Dec 2021):
 
-	* { ["**Assessment**"](https://github.com/SeanOhAileasa/mls-scikit-learn-scipy-stats) : &#x1F4CC; }
+	* { ["**Assessment**"](https://github.com/SeanOhAileasa/mls-scikit-learn-scipy-stats) : &#x2705; }
 
 <!--
 09/01/2021
 "update repository ./mpp-multi-paradigm-programming - GMIT Multi-Paradigm Programming module 30% MCS & written quiz completed."
 -->
-###### Multi-Paradigm Programming { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x1F4CC; }
+###### Multi-Paradigm Programming { ["**mpp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb) : &#x2705; }
 
 <!--
 20/12/2021
@@ -1160,19 +1160,19 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 * End of Semester (Dec 2021):
 
-	* { ["**Assessment**"](https://nbviewer.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb#Winter-21/22-Assessment) : &#x1F4CC; }
+	* { ["**Assessment**"](https://nbviewer.org/github/SeanOhAileasa/mpp-multi-paradigm-programming/blob/main/mpp-multi-paradigm-programming.ipynb#Winter-21/22-Assessment) : &#x2705; }
 
 <!--
 26/11/2021
 "update repository ./drp-data-representation - Packages for APIs."
 -->
-###### Data Representation { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x1F4CC; } 
+###### Data Representation { ["**drp**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/drp-data-representation/blob/main/drp-data-representation.ipynb) : &#x2705; } 
 
 <!--
 05/01/2022
 "update repository ./drp-app-server - Ooops password displayed (now changed). Updated: i. script db.py and ii. README."
 -->
-* { ["**App-server (``flask``)**"](https://nbviewer.org/github/SeanOhAileasa/drp-app-server/blob/main/drp-app-server.ipynb) : &#x1F4CC; }
+* { ["**App-server (``flask``)**"](https://nbviewer.org/github/SeanOhAileasa/drp-app-server/blob/main/drp-app-server.ipynb) : &#x2705; }
 
 <!--
 26/11/2021
@@ -1180,7 +1180,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 * End of Semester (Dec 2021):
 
-	* { ["**Assessment**"](https://github.com/SeanOhAileasa/data-representation-courseware) : &#x1F4CC; } 
+	* { ["**Assessment**"](https://github.com/SeanOhAileasa/data-representation-courseware) : &#x2705; } 
 
 ###### Computational Thinking with Algorithms
 
@@ -1188,26 +1188,26 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 22/05/2021
 "update repository ./cta-analysing"
 -->
-* { ["**Analysing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-analysing/blob/main/cta-analysing.ipynb) : &#x1F4CC; } 
+* { ["**Analysing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-analysing/blob/main/cta-analysing.ipynb) : &#x2705; } 
 
 <!-- 
 23/08/2021
 ""
 "update repository ./cta-recursion - Fix links."
 -->
-* { ["**Recursion**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-recursion/blob/main/cta-recursion.ipynb) : &#x1F4CC; } 
+* { ["**Recursion**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-recursion/blob/main/cta-recursion.ipynb) : &#x2705; } 
 
 <!--
 26/05/2021
 "update repository ./cta-sorting"
 -->
-* { ["**Sorting**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-sorting/blob/main/cta-sorting.ipynb) : &#x1F4CC; } 
+* { ["**Sorting**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-sorting/blob/main/cta-sorting.ipynb) : &#x2705; } 
 
 <!-- 
 25/04/2021
 "update repository ./cta-searching - Overview of binary search with performance comparison over linear search. Pseudocode along with iterative implementation (recursive implementation outstanding). Walkthrough of iterative and recursion approaches completed in Java."
 -->
-* { ["**Searching**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-searching/blob/main/cta-searching.ipynb) : &#x1F4CC; } 
+* { ["**Searching**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cta-searching/blob/main/cta-searching.ipynb) : &#x2705; } 
 
 <!--
 26/05/2021
@@ -1215,11 +1215,11 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 * End of Semester (May 2021):
 
-	* { ["**Project (pdf)**"](https://raw.githubusercontent.com/SeanOhAileasa/cta-benchmark-algorithms/main/Computational-Thinking-with-Algorithms-Project-2021.pdf) : &#x1F4CC; } 
+	* { ["**Project (pdf)**"](https://raw.githubusercontent.com/SeanOhAileasa/cta-benchmark-algorithms/main/Computational-Thinking-with-Algorithms-Project-2021.pdf) : &#x2705; } 
 
-		* { ["**Project (src)**"](https://github.com/SeanOhAileasa/cta-benchmark-algorithms) : &#x1F4CC; } 
+		* { ["**Project (src)**"](https://github.com/SeanOhAileasa/cta-benchmark-algorithms) : &#x2705; } 
 
-###### Fundamentals of Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; }
+###### Fundamentals of Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x2705; }
 
 <!--
 01/05/2022
@@ -1234,17 +1234,17 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 * End of Semester (Dec 2020):
 
-	* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb) : &#x1F4CC; } 
+	* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-tasks/blob/main/Fundamentals-of-Data-Analysis-Tasks-2020.ipynb) : &#x2705; } 
 
-	* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-regression/blob/main/Fundamentals-of-Data-Analysis-Regression-2020.ipynb) : &#x1F4CC; } 
+	* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/fda-regression/blob/main/Fundamentals-of-Data-Analysis-Regression-2020.ipynb) : &#x2705; } 
 
-###### Programming for Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x1F4CC; }
+###### Programming for Data Analysis { ["**mls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/mls-machine-learning-statistics/blob/main/mls-machine-learning-statistics.ipynb) : &#x2705; }
 
 * End of Semester (Dec 2020):
 
-	* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : &#x1F4CC; } 
+	* { ["**Tasks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random/blob/main/Programming-for-Data-Analysis-Assignment-2020.ipynb) : &#x2705; } 
 
-	* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb) : &#x1F4CC; } 
+	* { ["**Project**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/pda-numpy-random-simulation/blob/main/Programming-for-Data-Analysis-Project-2020.ipynb) : &#x2705; } 
 
 ###### Applied Databases
 
@@ -1252,17 +1252,17 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 05/07/2021
 "add repository ./adb-MySQL"
 -->
-* { ["**MySQL**"](https://nbviewer.org/github/SeanOhAileasa/adb-MySQL/blob/main/adb-MySQL.ipynb) : &#x1F4CC; }
+* { ["**MySQL**"](https://nbviewer.org/github/SeanOhAileasa/adb-MySQL/blob/main/adb-MySQL.ipynb) : &#x2705; }
 
 <!--
 06/07/2021
 "add repository ./adb-mongodb"
 -->
-* { ["**MongoDB**"](https://nbviewer.org/github/SeanOhAileasa/adb-mongodb/blob/main/adb-mongodb.ipynb) : &#x1F4CC; }
+* { ["**MongoDB**"](https://nbviewer.org/github/SeanOhAileasa/adb-mongodb/blob/main/adb-mongodb.ipynb) : &#x2705; }
 
 * End of Semester (Aug 2020):
 
-	* { ["**Project**"](https://github.com/SeanOhAileasa/adb-sql-mongodb) : &#x1F4CC; } 
+	* { ["**Project**"](https://github.com/SeanOhAileasa/adb-sql-mongodb) : &#x2705; } 
 
 </details>
 
