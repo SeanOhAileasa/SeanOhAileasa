@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-19/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Security - Assessment Types] - [Planning and Scoping - Planning an Engagement] - Risk Management - Technology-based Attacks)"
+22/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Remote Connections - [Official CompTIA Network+ Student Guide - Secure Shell Servers and Terminal Emulators])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
