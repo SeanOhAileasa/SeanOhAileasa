@@ -38,7 +38,7 @@
 	
 <!--
 22/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Remote Connections - [Official CompTIA Network+ Student Guide - Secure Shell Servers and Terminal Emulators])"
+"update repository ./nkp-cybersecurity-apprenticeship (Social Engineering - [Recording - Network Security] - Virtual Private Networks)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
