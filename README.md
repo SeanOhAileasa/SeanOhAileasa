@@ -349,8 +349,8 @@
 <details open>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-18/08/2022
-"update repository ./syp-controls-and-application-development-deployment-and-automation"
+23/08/2022
+"update repository ./syp-authentication-and-authorization-design-concepts"
 -->
 <br/>
 <details close>
@@ -387,7 +387,7 @@
 
 	- { ["**Controls and Application Development Deployment and Automation**"](https://github.com/SeanOhAileasa/syp-controls-and-application-development-deployment-and-automation/blob/main/README.md) : &#x1F513; }
 
-	- { ["**Authentication and Authorization Design Concepts**"](https://github.com/SeanOhAileasa/syp-authentication-and-authorization-design-concepts/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Authentication and Authorization Design Concepts**"](https://github.com/SeanOhAileasa/syp-authentication-and-authorization-design-concepts/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Implementing Identity and Account Management and AAA Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-identity-and-account-management-and-aaa-solutions/blob/main/README.md) : &#x1F6A7; }
 
