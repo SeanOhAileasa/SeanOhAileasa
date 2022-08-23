@@ -38,7 +38,7 @@
 	
 <!--
 23/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Physical Security - [Reading - Official CompTIA Network+ Student Guide - Asset Disposal] - [Network+ Exam Prep - Practice Questions - examtopics.com])"
+"update repository ./nkp-cybersecurity-apprenticeship ([Recording - Revision - Ports] - [Network+ Exam Prep - Practice Questions - examtopics.com - x5 Questions])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
