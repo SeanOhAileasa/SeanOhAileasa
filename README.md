@@ -38,7 +38,7 @@
 	
 <!--
 24/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Recording - Cybersecurity News - PayPal Phishing Scam Uses Invoices Sent Via PayPal - How to Hover Over a Link to Check its Validity] - [Network Hardening - Best Practices])"
+"update repository ./nkp-cybersecurity-apprenticeship ([Network Hardening - Best Practices] - Monitoring and Scanning - [Reading - Official CompTIA Network+ Student Guide - Infrastructure Topology and Wireless Access Points] - Network+ Exam Prep - Practice Questions))"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
