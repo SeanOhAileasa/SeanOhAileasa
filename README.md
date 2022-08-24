@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-23/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Recording - Revision - Ports] - [Network+ Exam Prep - Practice Questions - examtopics.com - x5 Questions])"
+24/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship ([Recording - Cybersecurity News - PayPal Phishing Scam Uses Invoices Sent Via PayPal - How to Hover Over a Link to Check its Validity] - [Network Hardening - Best Practices])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
