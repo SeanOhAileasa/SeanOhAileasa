@@ -33,7 +33,7 @@
 
 </details>
 <br/>
-<details close>
+<details open>
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
@@ -349,8 +349,8 @@
 <details open>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-23/08/2022
-"update repository ./syp-authentication-and-authorization-design-concepts"
+24/08/2022
+"update repository ./syp-implementing-identity-and-account-management-and-aaa-solutions"
 -->
 <br/>
 <details close>
@@ -389,7 +389,7 @@
 
 	- { ["**Authentication and Authorization Design Concepts**"](https://github.com/SeanOhAileasa/syp-authentication-and-authorization-design-concepts/blob/main/README.md) : &#x1F513; }
 
-	- { ["**Implementing Identity and Account Management and AAA Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-identity-and-account-management-and-aaa-solutions/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Implementing Identity and Account Management and AAA Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-identity-and-account-management-and-aaa-solutions/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Physical Security Controls**"](https://github.com/SeanOhAileasa/syp-physical-security-controls/blob/main/README.md) : &#x1F6A7; }
 
