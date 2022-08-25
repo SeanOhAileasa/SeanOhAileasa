@@ -38,7 +38,7 @@
 	
 <!--
 25/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Recording - Presentation - Security in Network Design] - [Network+ Exam Prep - Practice Questions < Lunch])"
+"update repository ./nkp-cybersecurity-apprenticeship ([Network+ Exam Prep - Practice Questions > Lunch] - [Revision - Review - Above x50 Network+ Exam Prep - Practice Questions])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
