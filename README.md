@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-24/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Network+ Exam Prep - Practice Questions > Lunch] - [Revision - Review - Above x50 Network+ Exam Prep - Practice Questions])"
+25/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship ([Network Hardening - Wireless Security] - [Official CompTIA Network+ Student Guide - Extensible Authentication Protocol and IEEE 802.1X] - [Network+ Exam Prep - Simulation Question] - [Toubleshooting - Identify the problem])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
@@ -1275,7 +1275,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 - &#x1F4CC; Apprenticeship / Progress
 - &#x1F52C; Walkthrough / Practice Lab
 - &#x1F6A7; Work-in-Progress / WIP
-- &#x1F513; Read / Skimming Content 
+- &#x1F513; Read / Review / Revision 
 - &#x1F512; Live Lab Completed (1st)  
 - &#x2705; Module / Lab (2nd) Finish
 - &#x2623; Private Repository / Exit
