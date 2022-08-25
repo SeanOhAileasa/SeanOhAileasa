@@ -349,8 +349,8 @@
 <details open>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-24/08/2022
-"update repository ./syp-implementing-identity-and-account-management-and-aaa-solutions"
+25/08/2022
+"update repository ./syp-physical-security-controls"
 -->
 <br/>
 <details close>
@@ -391,7 +391,7 @@
 
 	- { ["**Implementing Identity and Account Management and AAA Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-identity-and-account-management-and-aaa-solutions/blob/main/README.md) : &#x1F513; }
 
-	- { ["**Physical Security Controls**"](https://github.com/SeanOhAileasa/syp-physical-security-controls/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Physical Security Controls**"](https://github.com/SeanOhAileasa/syp-physical-security-controls/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F513; }
 </details>
