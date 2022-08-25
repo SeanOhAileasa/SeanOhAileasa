@@ -346,7 +346,7 @@
 
 <br/>
 
-<details open>
+<details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 25/08/2022
@@ -700,14 +700,14 @@
 
 <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 eC=Lesson 6-Automation Concepts
 -->	
 <!--
-10/08/2022
-"update repository ./cap-software-and-systems-security (Hardware Assurance)"
+25/08/2022
+"update repository ./cap-threat-intelligence"
 -->
 
 - { ["**Threat and Vulnerability Management**"](https://github.com/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/README.md) : &#x1F6A7; } <br/> 
@@ -927,10 +927,10 @@ eC=Lesson 6-Automation Concepts
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
 </details> <!-- END (CompTIA CySA+ - Practice Labs) -->
 
-<details close>
+<details open>
     <summary>Supplemental &#x21A9;</summary>
 
-- { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F6A7; }
+- { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F513; }
 
 - { ["**Business Continuity**"](https://github.com/SeanOhAileasa/cap-business-continuity/blob/main/README.md) : &#x1F6A7; }
 
