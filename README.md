@@ -38,7 +38,7 @@
 	
 <!--
 25/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Network Hardening - Wireless Security] - [Official CompTIA Network+ Student Guide - Extensible Authentication Protocol and IEEE 802.1X] - [Network+ Exam Prep - Simulation Question] - [Toubleshooting - Identify the problem])"
+"update repository ./nkp-cybersecurity-apprenticeship ([Recording - Presentation - Security in Network Design] - [Network+ Exam Prep - Practice Questions < Lunch])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
