@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-25/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Network+ Exam Prep - Practice Questions > Lunch] - [Revision - Review - Above x50 Network+ Exam Prep - Practice Questions])"
+26/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship ([Recording - CySa+ Lab Walkthrough - Open a Capture File in Wireshark - Analyse the Capture File to Find the Attack(s)] - [Troubleshooting - Establish and Test a Theory] - [Troubleshooting - Plan and Implement a Solution] - [Reading - Professor Messer’s CompTIA N10-007 Network+ Course Notes - 802.11 Wireless Standards] - [Reading - Official CompTIA Network+ Student Guide - Auto MDI/MD-X - Power Over Ethernet])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <br/>
@@ -370,7 +370,7 @@
 	
 	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F513; }
 </details>
-<details open>
+<details close>
 	<summary>Architecture and Design &#x21A9;</summary>
 <!--
 12/06/2022
