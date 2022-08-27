@@ -349,8 +349,8 @@
 <details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-25/08/2022
-"update repository ./syp-physical-security-controls"
+26/08/2022
+"update repository ./syp-implementing-secure-protocols-and-application-security-solutions"
 -->
 <br/>
 <details close>
@@ -404,7 +404,7 @@
 
 - { ["**Implementation**"](https://github.com/SeanOhAileasa/syp-implementation/blob/main/README.md) : &#x1F6A7; }
 
-	- { ["**Implementing Secure Protocols and Application Security Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-secure-protocols-and-application-security-solutions/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Implementing Secure Protocols and Application Security Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-secure-protocols-and-application-security-solutions/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Implementing Secure Network Designs**"](https://github.com/SeanOhAileasa/syp-implementing-secure-network-designs/blob/main/README.md) : &#x1F6A7; }
 
