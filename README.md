@@ -349,8 +349,8 @@
 <details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-26/08/2022
-"update repository ./syp-implementing-secure-protocols-and-application-security-solutions"
+27/08/2022
+"update repository ./syp-implementing-secure-network-designs"
 -->
 <br/>
 <details close>
@@ -406,7 +406,7 @@
 
 	- { ["**Implementing Secure Protocols and Application Security Solutions**"](https://github.com/SeanOhAileasa/syp-implementing-secure-protocols-and-application-security-solutions/blob/main/README.md) : &#x1F513; }
 
-	- { ["**Implementing Secure Network Designs**"](https://github.com/SeanOhAileasa/syp-implementing-secure-network-designs/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Implementing Secure Network Designs**"](https://github.com/SeanOhAileasa/syp-implementing-secure-network-designs/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F6A7; }
 </details>
