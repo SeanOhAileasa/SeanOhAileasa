@@ -349,8 +349,8 @@
 <details open>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-27/08/2022
-"update repository ./syp-wireless-mobile-and-embedded-device-security"
+28/08/2022
+"update repository ./syp-organizational-security-assessment-tools-and-mitigation-controls"
 -->
 <br/>
 <details close>
@@ -419,7 +419,7 @@
 
 - { ["**Operations and Incident Response**"](https://github.com/SeanOhAileasa/syp-operations-and-incident-response/blob/main/README.md) : &#x1F6A7; }
 
-	- { ["**Organizational Security Assessment Tools and Mitigation Controls**"](https://github.com/SeanOhAileasa/syp-organizational-security-assessment-tools-and-mitigation-controls/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Organizational Security Assessment Tools and Mitigation Controls**"](https://github.com/SeanOhAileasa/syp-organizational-security-assessment-tools-and-mitigation-controls/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F6A7; }
 </details>
