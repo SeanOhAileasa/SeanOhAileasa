@@ -350,7 +350,7 @@
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 28/08/2022
-"update repository ./syp-organizational-security-assessment-tools-and-mitigation-controls"
+"update repository ./syp-incident-response-digital-forensics-and-supporting-investigations"
 -->
 <br/>
 <details close>
@@ -395,7 +395,7 @@
 
 	- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F513; }
 </details>
-<details open>
+<details close>
 	<summary>Implementation &#x21A9;</summary>
 <!--
 03/07/2022
@@ -410,7 +410,7 @@
 
 	- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F513; }
 </details>
-<details close>
+<details open>
 	<summary>Operations and Incident Response &#x21A9;</summary>
 <!--
 12/07/2022
@@ -421,7 +421,7 @@
 
 	- { ["**Organizational Security Assessment Tools and Mitigation Controls**"](https://github.com/SeanOhAileasa/syp-organizational-security-assessment-tools-and-mitigation-controls/blob/main/README.md) : &#x1F513; }
 
-	- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F513; }
 </details>
 <details close>
 	<summary>Governance and Risk and Compliance &#x21A9;</summary>
