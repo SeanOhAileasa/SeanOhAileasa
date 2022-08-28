@@ -346,11 +346,11 @@
 
 <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 27/08/2022
-"update repository ./syp-implementing-secure-network-designs"
+"update repository ./syp-wireless-mobile-and-embedded-device-security"
 -->
 <br/>
 <details close>
@@ -395,7 +395,7 @@
 
 	- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F513; }
 </details>
-<details close>
+<details open>
 	<summary>Implementation &#x21A9;</summary>
 <!--
 03/07/2022
@@ -408,7 +408,7 @@
 
 	- { ["**Implementing Secure Network Designs**"](https://github.com/SeanOhAileasa/syp-implementing-secure-network-designs/blob/main/README.md) : &#x1F513; }
 
-	- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F513; }
 </details>
 <details close>
 	<summary>Operations and Incident Response &#x21A9;</summary>
@@ -700,7 +700,7 @@
 
 <br/>
 
-<details open>
+<details close>
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
 eC=Lesson 6-Automation Concepts
