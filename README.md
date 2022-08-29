@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-26/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Recording - CySa+ Lab Walkthrough - Open a Capture File in Wireshark - Analyse the Capture File to Find the Attack(s)] - [Troubleshooting - Establish and Test a Theory] - [Troubleshooting - Plan and Implement a Solution] - [Reading - Professor Messer’s CompTIA N10-007 Network+ Course Notes - 802.11 Wireless Standards] - [Reading - Official CompTIA Network+ Student Guide - Auto MDI/MD-X - Power Over Ethernet])"
+29/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship ([Troubleshooting - Verify System Functionality] - [Troubleshooting - Document the Issue])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
