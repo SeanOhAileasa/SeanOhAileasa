@@ -4,9 +4,9 @@
 |:-----:| :-----------------------------------------------|:-----:|
 | [CompTIA](https://www.comptia.org/certifications/it-fundamentals) | CompTIA ITF+                       |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
 | [eCollege](https://www.ecollege.ie/) | <br/>CompTIA Network+<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
-| [eCollege](https://www.ecollege.ie/) | <br/>CompTIA Security+<br/><br/>                               |   &#x1F6A7;   |
-|  | <br/>CompTIA CySA+<br/><br/>                   | &#x1F6A7; |
-|  | <br/>CompTIA PenTest+ (Mon/Wed 7pm-9pm)<br/><br/>                |   &#x1F6A7;   |
+| [eCollege](https://www.ecollege.ie/) | <br/>CompTIA Security+<br/><br/>                               |  &#x1F201; |
+| &#x1F6A7; | <br/>CompTIA CySA+<br/><br/>                   | &#x1F22F; |
+| &#x1F6A7; | <br/>CompTIA PenTest+ (Mon/Wed 7pm-9pm)<br/><br/>                | &#x1F23A;  |
 
 <details open>
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
@@ -47,7 +47,7 @@
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 29/08/2022
-"update repository ./syp-security-policies-regulations-standards-and-frameworks"
+"update repository ./syp-risk-management-privacy-and-sensitive-data-security"
 -->
 <br/>
 <details close>
@@ -131,7 +131,7 @@
 
 	- { ["**Security Policies, Regulations, Standards and Frameworks**"](https://github.com/SeanOhAileasa/syp-security-policies-regulations-standards-and-frameworks/blob/main/README.md) : &#x1F513; }
 
-	- { ["**Risk Management, Privacy and Sensitive Data Security**"](https://github.com/SeanOhAileasa/syp-risk-management-privacy-and-sensitive-data-security/blob/main/README.md) : &#x1F6A7; }
+	- { ["**Risk Management, Privacy and Sensitive Data Security**"](https://github.com/SeanOhAileasa/syp-risk-management-privacy-and-sensitive-data-security/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Monitoring, Visibility, & Reporting**"](https://github.com/SeanOhAileasa/syp-monitoring-visibility-and-reporting/blob/main/README.md) : &#x1F513; }
 </details> 
