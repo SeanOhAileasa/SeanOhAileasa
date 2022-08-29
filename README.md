@@ -38,7 +38,7 @@
 	
 <!--
 29/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Troubleshooting - Verify System Functionality] - [Troubleshooting - Document the Issue])"
+"update repository ./nkp-cybersecurity-apprenticeship ([Recording - Revision - OSI Model - Ports] - [Cabling Tools])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
