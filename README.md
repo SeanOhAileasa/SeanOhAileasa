@@ -38,7 +38,7 @@
 	
 <!--
 30/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Reading - Official CompTIA CySa+ Student Guide - Firewall Configuration Changes] - [Network+ Exam Prep - Practice Questions < Lunch])"
+"update repository ./nkp-cybersecurity-apprenticeship (Cabling Issues - Network Software Tools)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
