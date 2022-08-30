@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-29/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Network+ Exam Prep - Practice Questions x50)"
+30/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Network Address Translation - Firewalls - [Recording - Cybersecurity News - New Golang-based 'Agenda Ransomware' Can Be Customized For Each Victim - Presentation - Performance and Recovery])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
@@ -50,7 +50,7 @@
 "update repository ./syp-risk-management-privacy-and-sensitive-data-security"
 -->
 <br/>
-<details close>
+<details open>
 	<summary>Attacks and Threats and Vulnerabilities &#x21A9;</summary>
 <!--
 06/08/2022
@@ -67,7 +67,7 @@
 	
 	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F513; }
 </details>
-<details close>
+<details open>
 	<summary>Architecture and Design &#x21A9;</summary>
 <!--
 12/06/2022
