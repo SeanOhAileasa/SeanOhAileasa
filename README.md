@@ -38,7 +38,7 @@
 	
 <!--
 30/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Network Address Translation - Firewalls - [Recording - Cybersecurity News - New Golang-based 'Agenda Ransomware' Can Be Customized For Each Victim - Presentation - Performance and Recovery])"
+"update repository ./nkp-cybersecurity-apprenticeship ([Reading - Official CompTIA CySa+ Student Guide - Firewall Configuration Changes] - [Network+ Exam Prep - Practice Questions < Lunch])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
