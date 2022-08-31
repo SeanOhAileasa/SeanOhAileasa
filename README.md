@@ -38,7 +38,7 @@
 	
 <!--
 31/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Troubleshooting with Ping - [Official CompTIA Network+ Student Guide - Internet Control Message Protocol and ping])"
+"update repository ./nkp-cybersecurity-apprenticeship ([Recording - Performance and Recovery] - [Network+ Exam Prep - Practice Questions < Lunch])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
