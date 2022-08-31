@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	
 <!--
-30/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Cabling Issues - Network Software Tools)"
+31/08/2022
+"update repository ./nkp-cybersecurity-apprenticeship (Troubleshooting with Ping - [Official CompTIA Network+ Student Guide - Internet Control Message Protocol and ping])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
@@ -138,22 +138,6 @@
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
 <br/>
-<details open>
-	<summary>Identifying Different Cyber Attacks &#x21A9;</summary> 
-
-- [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x2705; <br/> 
-- [Creating Standalone Payloads with Msfvenom](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#CreatingStandalonePayloadswithMsfvenom) &#x274C; <br/>
-- [Performing Online Password Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#PerformingOnlinePasswordAttacks) &#x274C; <br/> 
-- [Performing Offline Password Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#PerformingOfflinePasswordAttacks) &#x274C; <br/> 
-- [Explaining Physical and Other Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#ExplainingPhysicalandOtherAttacks) &#x274C; <br/> 
-</details>
-<details open>
-	<summary>Social Engineering Techniques and Exploits &#x21A9;</summary> 
-
-- [Social Engineering](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SocialEngineeringTechniquesandExploits.html#SocialEngineering) &#x274C; <br/>
-- [Social Engineering Principles](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SocialEngineeringTechniquesandExploits.html#SocialEngineeringPrinciples) &#x274C; <br/>
-- [Reconnaissance](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SocialEngineeringTechniquesandExploits.html#Reconnaissance) &#x274C; <br/> 
-</details>
 <details open>
 	<summary>Identifying Indicators of a Network Attack &#x21A9;</summary> 
 
