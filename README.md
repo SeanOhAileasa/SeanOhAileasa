@@ -38,7 +38,7 @@
 	
 <!--
 31/08/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Recording - Performance and Recovery] - [Network+ Exam Prep - Practice Questions < Lunch])"
+"update repository ./nkp-cybersecurity-apprenticeship (DNS Troubleshooting Commands - [Network+ Exam Prep - Simulation Questions - x2])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
