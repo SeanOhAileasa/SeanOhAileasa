@@ -35,10 +35,10 @@
 <br/>
 <details open>
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
-	
+	 
 <!--
 01/09/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Recording - Audio - Five Minute Military - Cyberwarfare and Ukraine - Article - Richard Clarke is sounding the alarm about another kind of 9/11] - Route Troubleshooting Commands - [Network+ Exam Prep - Practice Questions < Lunch])"
+"update repository ./nkp-cybersecurity-apprenticeship ([Network+ Exam Prep - Simulation Question x1] - [Group Practice - Network+ Exam Prep - Questions])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
