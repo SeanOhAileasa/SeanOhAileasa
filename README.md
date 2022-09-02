@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	 
 <!--
-01/09/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Network+ Exam Prep - Simulation Question x1] - [Group Practice - Network+ Exam Prep - Questions])"
+02/09/2022
+"update repository ./nkp-cybersecurity-apprenticeship ([Individual Practice Test - Network+ Exam Prep - Practice Questions] - [Group Practice Test - Network+ Exam Prep - Practice Questions])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
