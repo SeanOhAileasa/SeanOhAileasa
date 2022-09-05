@@ -38,7 +38,7 @@
 	 
 <!--
 05/09/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Additional Network Commands - [Recording - Packet Tracer Demonstration - Review - arp])"
+"update repository ./nkp-cybersecurity-apprenticeship ([Network Security Design - Packet Sniffers and Taps - Screen Subnet] - [CompTIA CertMaster Practice - 1.2 Network Topologies and Network Types])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
