@@ -38,7 +38,7 @@
 	 
 <!--
 05/09/2022
-"update repository ./nkp-cybersecurity-apprenticeship (Information Gathering Commands - [Reading - Official CompTIA Network+ Student Guide - Packet Sniffers and Taps] - [Official CompTIA CySa+ Student Guide - Standard TCP Ports])"
+"update repository ./nkp-cybersecurity-apprenticeship (Additional Network Commands - [Recording - Packet Tracer Demonstration - Review - arp])"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
