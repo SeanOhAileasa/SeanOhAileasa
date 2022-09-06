@@ -38,7 +38,7 @@
 	 
 <!--
 06/09/2022
-"update repository ./nkp-cybersecurity-apprenticeship (<Lunch)"
+"update repository ./nkp-cybersecurity-apprenticeship"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
