@@ -37,8 +37,8 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	 
 <!--
-05/09/2022
-"update repository ./nkp-cybersecurity-apprenticeship ([Network Security Design - Packet Sniffers and Taps - Screen Subnet] - [CompTIA CertMaster Practice - 1.2 Network Topologies and Network Types])"
+06/09/2022
+"update repository ./nkp-cybersecurity-apprenticeship (<Lunch)"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 </details>
