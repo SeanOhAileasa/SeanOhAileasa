@@ -6,10 +6,10 @@
 | [eCollege](https://www.ecollege.ie/) | <br/>CompTIA Network+<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
 | [eCollege](https://www.ecollege.ie/) | <br/>CompTIA Security+<br/><br/>                               |  &#x1F201; |
 | &#x1F6A7; | <br/>CompTIA CySA+<br/><br/>                   | &#x1F530; |
-| &#x1F6A7; | <br/>CompTIA PenTest+ (Mon/Wed 7pm-9pm)<br/><br/>                | &#x1F23A;  |
+| &#x1F6A7; | <br/>CompTIA PenTest+ <br/><br/>                | &#x1F23A;  |
 
 <details open>
-	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity)</summary> <br/>
+	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity) &#x1F6A7;</summary> <br/>
 
 <details close>
 <!--
@@ -33,7 +33,7 @@
 
 </details>
 <br/>
-<details open>
+<details close>
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	 
 <!--
@@ -41,8 +41,7 @@
 "update repository ./nkp-cybersecurity-apprenticeship"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
-</details>
-<br/>
+
 <details close>
 	<summary><b>eCollege</b> &#x21A9;</summary>
 <details close>
@@ -347,8 +346,9 @@
 </details> <!-- Practice Labs -->
 </details> <!-- END (CompTIA Network+) -->
 </details> <!-- eCollege -->
+
 <br/>
-<details open>
+<details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 29/08/2022
@@ -950,17 +950,67 @@ eC=Lesson 6-Automation Concepts
 
 <br/>
 
-<details close>
+<details open>
 	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-08/08/2022
-"update repository ./ptp-pentest (Evaluating Human and Physical Vulnerabilities Intelligence - Summarize Physical Attacks)"
+10/09/2022
+"update repository ./ptp-scoping-and-engagement"
 -->
 
-- { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
+<details open>
+	<summary>Planning and Scoping &#x21A9; <b>14%</b></summary>
+
+- { ["**Scoping and Engagement**"](https://github.com/SeanOhAileasa/ptp-scoping-and-engagement/blob/main/README.md) : &#x2705; }
+
+- { ["**Professionalism and Integrity**](https://github.com/SeanOhAileasa/ptp-professionalism-and-integrity/blob/main/README.md) : &#x1F6A7; }
+</details>
+
+<details open>
+	<summary>Information Gathering and Vulnerability Scanning &#x21A9; <b>22%</b></summary>
+
+- { ["**Passive Reconnaissance**](https://github.com/SeanOhAileasa/ptp-passive-reconnaissance/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Active Reconnaissance**](https://github.com/SeanOhAileasa/ptp-active-reconnaissance/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Vulnerability Scanning**](https://github.com/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/README.md) : &#x1F6A7; }
+</details>
+
+<details open>
+	<summary>Attacks and Exploits &#x21A9; <b>30%</b></summary>
+
+- { ["**Network Attacks and Exploits**](https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Wireless Attacks**](https://github.com/SeanOhAileasa/ptp-wireless-attacks/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Application-based Attacks**](https://github.com/SeanOhAileasa/ptp-application-based-attacks/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Attacks on Cloud Technologies**](https://github.com/SeanOhAileasa/ptp-attacks-on-cloud-technologies/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Attacks on Specialized Systems**](https://github.com/SeanOhAileasa/ptp-attacks-on-specialized-systems/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Social Engineering Attacks**](https://github.com/SeanOhAileasa/ptp-social-engineering-attacks/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Post-Exploitation Techniques**](https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques/blob/main/README.md) : &#x1F6A7; }
+</details>
+
+<details open>
+	<summary>Reporting and Communication &#x21A9; <b>18%</b></summary>
+
+- { ["**Written Reports**](https://github.com/SeanOhAileasa/ptp-written-reports/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Communication & Post-Report Activities**](https://github.com/SeanOhAileasa/ptp-communication-and-post-report-activities/blob/main/README.md) : &#x1F6A7; }
+</details>
+
+<details open>
+	<summary>Tools and Code Analysis &#x21A9; <b>16%</b></summary>
+
+- { ["**Analyzing Tool & Script Output**](https://github.com/SeanOhAileasa/ptp-analyzing-tool-and-script-output/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Penetration Testing Tools**](https://github.com/SeanOhAileasa/ptp-penetration-testing-tools/blob/main/README.md) : &#x1F6A7; }
+</details>
 
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
@@ -988,50 +1038,21 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details close>
     <summary>Supplemental &#x21A9;</summary>
 
-- { ["**Scoping and Engagement**"](https://github.com/SeanOhAileasa/ptp-scoping-and-engagement/blob/main/README.md) : &#x1F6A7; }
+- { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Professionalism and Integrity**](https://github.com/SeanOhAileasa/ptp-professionalism-and-integrity/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Passive Reconnaissance**](https://github.com/SeanOhAileasa/ptp-passive-reconnaissance/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Active Reconnaissance**](https://github.com/SeanOhAileasa/ptp-active-reconnaissance/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Vulnerability Scanning**](https://github.com/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Network Attacks and Exploits**](https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Wireless Attacks**](https://github.com/SeanOhAileasa/ptp-wireless-attacks/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Application-based Attacks**](https://github.com/SeanOhAileasa/ptp-application-based-attacks/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Attacks on Cloud Technologies**](https://github.com/SeanOhAileasa/ptp-attacks-on-cloud-technologies/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Attacks on Specialized Systems**](https://github.com/SeanOhAileasa/ptp-attacks-on-specialized-systems/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Social Engineering Attacks**](https://github.com/SeanOhAileasa/ptp-social-engineering-attacks/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Post-Exploitation Techniques**](https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Written Reports**](https://github.com/SeanOhAileasa/ptp-written-reports/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Communication & Post-Report Activities**](https://github.com/SeanOhAileasa/ptp-communication-and-post-report-activities/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Analyzing Tool & Script Output**](https://github.com/SeanOhAileasa/ptp-analyzing-tool-and-script-output/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Penetration Testing Tools**](https://github.com/SeanOhAileasa/ptp-penetration-testing-tools/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
 
 <br/>
 
-<details open>
+<details close>
 	<summary>Supplementary Courses</summary>
 
 <br/>
 
 |Provider|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
-| [DDLETB](https://loughlinstowntrainingcentre.ie/)     | <br/>CompTIA Cloud+ (Mon/Wed 7pm-9pm)<br/><br/>                   | &#x1F6A7; |
+| [DDLETB](https://loughlinstowntrainingcentre.ie/)     | <br/>CompTIA Cloud+ (Mon/Wed 7pm-9pm)<br/><br/>                   | &#x1F232; |
 
 <details close>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
@@ -1075,7 +1096,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 ### GMIT Overall Result: First Class Honours (1.1) - Grade: 77.6%
 
 <details close>
-	<summary>&#x21A9; Galway/Mayo I.T. H.Dip (L8) Programme (Data Analytics)</summary>
+	<summary>&#x21A9; Galway/Mayo I.T. H.Dip (L8) Programme (Data Analytics) &#x2705;</summary>
 
 <!--
 16/04/2022
@@ -1259,10 +1280,14 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - &#x21A9; Expand / Dropdown List
 - &#x1F4CC; Apprenticeship / Progress
-- &#x1F52C; Walkthrough / Practice Lab
 - &#x1F6A7; Work-in-Progress / WIP
-- &#x1F513; Read / Review / Revision 
+- &#x1F201; Here / Revision / Review
+- &#x1F530; Beginner / Future Priority
+- &#x1F23A; Open for Business / &#x1F6A7;
+- &#x1F232; Prohibited / Low Priority
+- &#x1F52C; Walkthrough / Practice
+- &#x1F513; Read / Review / Skim &#x1F6A7;
 - &#x1F512; Live Lab Completed (1st)  
-- &#x2705; Module / Lab (2nd) Finish
+- &#x2705; Semester / Topic Finished
 - &#x2623; Private Repository / Exit
 </details>
