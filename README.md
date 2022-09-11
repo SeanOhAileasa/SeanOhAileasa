@@ -956,8 +956,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-10/09/2022
-"update repository ./ptp-scoping-and-engagement"
+11/09/2022
+"update repository ./ptp-professionalism-and-integrity"
 -->
 
 <details open>
@@ -965,7 +965,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - { ["**Scoping and Engagement**"](https://github.com/SeanOhAileasa/ptp-scoping-and-engagement/blob/main/README.md) : &#x2705; }
 
-- { ["**Professionalism and Integrity**](https://github.com/SeanOhAileasa/ptp-professionalism-and-integrity/blob/main/README.md) : &#x1F6A7; }
+- { ["**Professionalism and Integrity**](https://github.com/SeanOhAileasa/ptp-professionalism-and-integrity/blob/main/README.md) : &#x1F513; }
 </details>
 
 <details open>
