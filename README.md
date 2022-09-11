@@ -356,7 +356,7 @@
 -->
 <br/>
 <details open>
-	<summary>Attacks and Threats and Vulnerabilities &#x21A9;</summary>
+	<summary>Attacks and Threats and Vulnerabilities &#x21A9; 24%</summary>
 <!--
 06/08/2022
 "updata repository ./syp-security-concepts-in-an-enterprise-environment"
@@ -373,7 +373,7 @@
 	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F513; }
 </details>
 <details open>
-	<summary>Architecture and Design &#x21A9;</summary>
+	<summary>Architecture and Design &#x21A9; 21%</summary>
 <!--
 12/06/2022
 "update repository ./syp-architecture-and-design (Cryptographic Concepts)"
@@ -398,7 +398,7 @@
 	- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F513; }
 </details>
 <details open>
-	<summary>Implementation &#x21A9;</summary>
+	<summary>Implementation &#x21A9; 25%</summary>
 <!--
 03/07/2022
 "update repository ./syp-implementation (Public Key Infrastructure)"
@@ -413,7 +413,7 @@
 	- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F513; }
 </details>
 <details open>
-	<summary>Operations and Incident Response &#x21A9;</summary>
+	<summary>Operations and Incident Response &#x21A9; 16%</summary>
 <!--
 12/07/2022
 "add repository ./syp-operations-and-incident-response (Security Tools - File Manipulation Tools)"
@@ -426,7 +426,7 @@
 	- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F513; }
 </details>
 <details open>
-	<summary>Governance and Risk and Compliance &#x21A9;</summary>
+	<summary>Governance and Risk and Compliance &#x21A9; 14%</summary>
 <!--
 24/05/2022
 "add repository ./syp-governance-risk-and-compliance"
@@ -695,17 +695,31 @@ eC=Lesson 6-Automation Concepts
 25/08/2022
 "update repository ./cap-threat-intelligence"
 -->
+<details open>
+	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
 
 - { ["**Threat and Vulnerability Management**"](https://github.com/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/README.md) : &#x1F6A7; } <br/> 
- 
+</details>
+<details open>
+	<summary> Software and Systems Security &#x21A9; 18%</summary>
+
 - { ["**Software and Systems Security**"](https://github.com/SeanOhAileasa/cap-software-and-systems-security/blob/main/README.md) : &#x1F6A7; } <br/> 
+</details>
+<details open>
+	<summary> Security Operations and Monitoring &#x21A9; 25%</summary>
 
 - { ["**Security Operations and Monitoring**"](https://github.com/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/README.md) : &#x1F6A7; } <br/> 
+</details>
+<details open>
+	<summary> Incident Response &#x21A9; 22%</summary>
 
 - { ["**Incident Response**"](https://github.com/SeanOhAileasa/cap-incident-response/blob/main/README.md) : &#x1F6A7; } <br/> 
+</details>
+<details open>
+	<summary> Compliance and Assessment &#x21A9; 13%</summary>
 
 - { ["**Compliance and Assessment**"](https://github.com/SeanOhAileasa/cap-compliance-and-assessment/blob/main/README.md) : &#x1F6A7; } <br/> 
-
+</details>
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
 <br/>	
@@ -913,7 +927,7 @@ eC=Lesson 6-Automation Concepts
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
 </details> <!-- END (CompTIA CySA+ - Practice Labs) -->
 
-<details open>
+<details close>
     <summary>Supplemental &#x21A9;</summary>
 
 - { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F513; }
@@ -957,7 +971,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 11/09/2022
-"update repository ./ptp-active-reconnaissance"
+"update repository ./ptp-vulnerability-scanning (Vulnerability Scanning Practices - Scanning Targets for Vulnerabilities)"
 -->
 
 <details open>
@@ -975,7 +989,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - { ["**Active Reconnaissance**](https://github.com/SeanOhAileasa/ptp-active-reconnaissance/blob/main/README.md) : &#x1F513; }
 
-- { ["**Vulnerability Scanning**](https://github.com/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/README.md) : &#x1F6A7; }
+- { ["**Vulnerability Scanning**](https://github.com/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/README.md) : &#x1F23A; }
 </details>
 
 <details open>
