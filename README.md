@@ -957,7 +957,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 11/09/2022
-"update repository ./ptp-professionalism-and-integrity"
+"update repository ./ptp-passive-reconnaissance"
 -->
 
 <details open>
@@ -971,7 +971,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details open>
 	<summary>Information Gathering and Vulnerability Scanning &#x21A9; <b>22%</b></summary>
 
-- { ["**Passive Reconnaissance**](https://github.com/SeanOhAileasa/ptp-passive-reconnaissance/blob/main/README.md) : &#x1F6A7; }
+- { ["**Passive Reconnaissance**](https://github.com/SeanOhAileasa/ptp-passive-reconnaissance/blob/main/README.md) : &#x1F513; }
 
 - { ["**Active Reconnaissance**](https://github.com/SeanOhAileasa/ptp-active-reconnaissance/blob/main/README.md) : &#x1F6A7; }
 
