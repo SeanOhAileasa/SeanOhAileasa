@@ -970,8 +970,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-11/09/2022
-"update repository ./ptp-vulnerability-scanning (Vulnerability Scanning Practices - Scanning Targets for Vulnerabilities)"
+12/09/2022
+"update repository ./ptp-vulnerability-scanning"
 -->
 
 <details open>
@@ -989,7 +989,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - { ["**Active Reconnaissance**](https://github.com/SeanOhAileasa/ptp-active-reconnaissance/blob/main/README.md) : &#x1F513; }
 
-- { ["**Vulnerability Scanning**](https://github.com/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/README.md) : &#x1F23A; }
+- { ["**Vulnerability Scanning**](https://github.com/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/README.md) : &#x1F513; }
 </details>
 
 <details open>
