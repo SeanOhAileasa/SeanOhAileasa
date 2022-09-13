@@ -971,7 +971,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 13/09/2022
-"update repository ./ptp-vulnerability-scanning (File size limitation (nbviewer) - Split)"
+"update repository ./ptp-scope-and-engagement (File size limitation (nbviewer) - Split)"
 -->
 
 <details open>
