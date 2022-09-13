@@ -970,8 +970,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-12/09/2022
-"update repository ./ptp-vulnerability-scanning"
+13/09/2022
+"update repository ./ptp-vulnerability-scanning (File size limitation (nbviewer) - Split)"
 -->
 
 <details open>
@@ -985,45 +985,50 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details open>
 	<summary>Information Gathering and Vulnerability Scanning &#x21A9; <b>22%</b></summary>
 
-- { ["**Passive Reconnaissance**](https://github.com/SeanOhAileasa/ptp-passive-reconnaissance/blob/main/README.md) : &#x1F513; }
+- { ["**Passive Reconnaissance**"](https://github.com/SeanOhAileasa/ptp-passive-reconnaissance/blob/main/README.md) : &#x1F513; }
 
-- { ["**Active Reconnaissance**](https://github.com/SeanOhAileasa/ptp-active-reconnaissance/blob/main/README.md) : &#x1F513; }
+- { ["**Active Reconnaissance**"](https://github.com/SeanOhAileasa/ptp-active-reconnaissance/blob/main/README.md) : &#x1F513; }
 
-- { ["**Vulnerability Scanning**](https://github.com/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/README.md) : &#x1F513; }
+- { ["**Vulnerability Scanning**"](https://github.com/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/README.md) : &#x1F513; }
+
+	- { ["**Scan**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/ptp-perform-vulnerability-scanning-analysis.ipynb#K) : &#x2705; }
+
+		- { ["**Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/ptp-perform-vulnerability-scanning-analysis.ipynb#L) : &#x2705; }
+
 </details>
 
 <details open>
 	<summary>Attacks and Exploits &#x21A9; <b>30%</b></summary>
 
-- { ["**Network Attacks and Exploits**](https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits/blob/main/README.md) : &#x1F6A7; }
+- { ["**Network Attacks and Exploits**"](https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Wireless Attacks**](https://github.com/SeanOhAileasa/ptp-wireless-attacks/blob/main/README.md) : &#x1F6A7; }
+- { ["**Wireless Attacks**"](https://github.com/SeanOhAileasa/ptp-wireless-attacks/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Application-based Attacks**](https://github.com/SeanOhAileasa/ptp-application-based-attacks/blob/main/README.md) : &#x1F6A7; }
+- { ["**Application-based Attacks**"](https://github.com/SeanOhAileasa/ptp-application-based-attacks/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Attacks on Cloud Technologies**](https://github.com/SeanOhAileasa/ptp-attacks-on-cloud-technologies/blob/main/README.md) : &#x1F6A7; }
+- { ["**Attacks on Cloud Technologies**"](https://github.com/SeanOhAileasa/ptp-attacks-on-cloud-technologies/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Attacks on Specialized Systems**](https://github.com/SeanOhAileasa/ptp-attacks-on-specialized-systems/blob/main/README.md) : &#x1F6A7; }
+- { ["**Attacks on Specialized Systems**"](https://github.com/SeanOhAileasa/ptp-attacks-on-specialized-systems/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Social Engineering Attacks**](https://github.com/SeanOhAileasa/ptp-social-engineering-attacks/blob/main/README.md) : &#x1F6A7; }
+- { ["**Social Engineering Attacks**"](https://github.com/SeanOhAileasa/ptp-social-engineering-attacks/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Post-Exploitation Techniques**](https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques/blob/main/README.md) : &#x1F6A7; }
+- { ["**Post-Exploitation Techniques**"](https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques/blob/main/README.md) : &#x1F6A7; }
 </details>
 
 <details open>
 	<summary>Reporting and Communication &#x21A9; <b>18%</b></summary>
 
-- { ["**Written Reports**](https://github.com/SeanOhAileasa/ptp-written-reports/blob/main/README.md) : &#x1F6A7; }
+- { ["**Written Reports**"](https://github.com/SeanOhAileasa/ptp-written-reports/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Communication & Post-Report Activities**](https://github.com/SeanOhAileasa/ptp-communication-and-post-report-activities/blob/main/README.md) : &#x1F6A7; }
+- { ["**Communication & Post-Report Activities**"](https://github.com/SeanOhAileasa/ptp-communication-and-post-report-activities/blob/main/README.md) : &#x1F6A7; }
 </details>
 
 <details open>
 	<summary>Tools and Code Analysis &#x21A9; <b>16%</b></summary>
 
-- { ["**Analyzing Tool & Script Output**](https://github.com/SeanOhAileasa/ptp-analyzing-tool-and-script-output/blob/main/README.md) : &#x1F6A7; }
+- { ["**Analyzing Tool & Script Output**"](https://github.com/SeanOhAileasa/ptp-analyzing-tool-and-script-output/blob/main/README.md) : &#x1F6A7; }
 
-- { ["**Penetration Testing Tools**](https://github.com/SeanOhAileasa/ptp-penetration-testing-tools/blob/main/README.md) : &#x1F6A7; }
+- { ["**Penetration Testing Tools**"](https://github.com/SeanOhAileasa/ptp-penetration-testing-tools/blob/main/README.md) : &#x1F6A7; }
 </details>
 
 <details close>
