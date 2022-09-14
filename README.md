@@ -37,7 +37,7 @@
 	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
 	 
 <!--
-13/09/2022
+14/09/2022
 "update repository ./nkp-cybersecurity-apprenticeship"
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
