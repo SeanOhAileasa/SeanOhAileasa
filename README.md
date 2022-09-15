@@ -970,8 +970,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-13/09/2022
-"update repository ./ptp-scope-and-engagement (File size limitation (nbviewer) - Split)"
+15/09/2022
+"update repository ./ptp-network-attacks-and-exploits"
 -->
 
 <details open>
@@ -1000,7 +1000,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details open>
 	<summary>Attacks and Exploits &#x21A9; <b>30%</b></summary>
 
-- { ["**Network Attacks and Exploits**"](https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits/blob/main/README.md) : &#x1F6A7; }
+- { ["**Network Attacks and Exploits**"](https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits/blob/main/README.md) : &#x1F513; }
 
 - { ["**Wireless Attacks**"](https://github.com/SeanOhAileasa/ptp-wireless-attacks/blob/main/README.md) : &#x1F6A7; }
 
