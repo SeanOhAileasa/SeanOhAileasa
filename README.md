@@ -971,7 +971,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 15/09/2022
-"update repository ./ptp-network-attacks-and-exploits"
+"update repository ./ptp-wireless-attacks"
 -->
 
 <details open>
@@ -1002,7 +1002,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - { ["**Network Attacks and Exploits**"](https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits/blob/main/README.md) : &#x1F513; }
 
-- { ["**Wireless Attacks**"](https://github.com/SeanOhAileasa/ptp-wireless-attacks/blob/main/README.md) : &#x1F6A7; }
+- { ["**Wireless Attacks**"](https://github.com/SeanOhAileasa/ptp-wireless-attacks/blob/main/README.md) : &#x1F513; }
 
 - { ["**Application-based Attacks**"](https://github.com/SeanOhAileasa/ptp-application-based-attacks/blob/main/README.md) : &#x1F6A7; }
 
