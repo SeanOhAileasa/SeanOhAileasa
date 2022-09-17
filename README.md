@@ -971,7 +971,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 17/09/2022
-"update repository ./ptp-application-based-attacks"
+"update repository ./ptp-attacks-on-cloud-technologies"
 -->
 
 <details open>
@@ -1006,7 +1006,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - { ["**Application-based Attacks**"](https://github.com/SeanOhAileasa/ptp-application-based-attacks/blob/main/README.md) : &#x1F513; }
 
-- { ["**Attacks on Cloud Technologies**"](https://github.com/SeanOhAileasa/ptp-attacks-on-cloud-technologies/blob/main/README.md) : &#x1F6A7; }
+- { ["**Attacks on Cloud Technologies**"](https://github.com/SeanOhAileasa/ptp-attacks-on-cloud-technologies/blob/main/README.md) : &#x1F513; }
 
 - { ["**Attacks on Specialized Systems**"](https://github.com/SeanOhAileasa/ptp-attacks-on-specialized-systems/blob/main/README.md) : &#x1F6A7; }
 
