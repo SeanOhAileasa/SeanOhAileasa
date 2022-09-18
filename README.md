@@ -970,8 +970,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-17/09/2022
-"update repository ./ptp-attacks-on-cloud-technologies"
+18/09/2022
+"update repository ./ptp-attacks-on-specialized-systems"
 -->
 
 <details open>
@@ -1008,7 +1008,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - { ["**Attacks on Cloud Technologies**"](https://github.com/SeanOhAileasa/ptp-attacks-on-cloud-technologies/blob/main/README.md) : &#x1F513; }
 
-- { ["**Attacks on Specialized Systems**"](https://github.com/SeanOhAileasa/ptp-attacks-on-specialized-systems/blob/main/README.md) : &#x1F6A7; }
+- { ["**Attacks on Specialized Systems**"](https://github.com/SeanOhAileasa/ptp-attacks-on-specialized-systems/blob/main/README.md) : &#x1F513; }
 
 - { ["**Social Engineering Attacks**"](https://github.com/SeanOhAileasa/ptp-social-engineering-attacks/blob/main/README.md) : &#x1F6A7; }
 
