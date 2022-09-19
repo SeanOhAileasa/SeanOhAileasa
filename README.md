@@ -8,7 +8,7 @@
 | &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CySA+<br/><br/>                   | &#x1F530; |
 | &nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA PenTest+ <br/><br/>                | &#x1F23A;  |
 
-<details open>
+<details open> 
 	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity) &#x1F6A7;</summary> <br/>
 
 <details close>
@@ -970,8 +970,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-18/09/2022
-"update repository ./ptp-attacks-on-specialized-systems"
+19/09/2022
+"update repository ./ptp-social-engineering-attacks"
 -->
 
 <details open>
@@ -1010,7 +1010,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - { ["**Attacks on Specialized Systems**"](https://github.com/SeanOhAileasa/ptp-attacks-on-specialized-systems/blob/main/README.md) : &#x1F513; }
 
-- { ["**Social Engineering Attacks**"](https://github.com/SeanOhAileasa/ptp-social-engineering-attacks/blob/main/README.md) : &#x1F6A7; }
+- { ["**Social Engineering Attacks**"](https://github.com/SeanOhAileasa/ptp-social-engineering-attacks/blob/main/README.md) : &#x1F513; }
 
 - { ["**Post-Exploitation Techniques**"](https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques/blob/main/README.md) : &#x1F6A7; }
 </details>
