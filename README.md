@@ -970,8 +970,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-20/09/2022
-"update repository ./ptp-post-exploitation-techniques"
+21/09/2022
+"update repository ./ptp-written-reports"
 -->
 
 <details open>
@@ -1018,7 +1018,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details open>
 	<summary>Reporting and Communication &#x21A9; <b>18%</b></summary>
 
-- { ["**Written Reports**"](https://github.com/SeanOhAileasa/ptp-written-reports/blob/main/README.md) : &#x1F6A7; }
+- { ["**Written Reports**"](https://github.com/SeanOhAileasa/ptp-written-reports/blob/main/README.md) : &#x1F513; }
 
 - { ["**Communication & Post-Report Activities**"](https://github.com/SeanOhAileasa/ptp-communication-and-post-report-activities/blob/main/README.md) : &#x1F6A7; }
 </details>
