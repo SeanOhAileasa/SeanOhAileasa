@@ -38,7 +38,7 @@
 	 
 <!--
 23/09/2022
-"update repository ./nkp-cybersecurity-apprenticeship"
+ 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 
@@ -970,8 +970,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-22/09/2022
-"update repository ./ptp-communication-and-post-report-activities"
+23/09/2022
+"update repository ./ptp-analyzing-tool-and-script-output"
 -->
 
 <details open>
@@ -1026,7 +1026,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details open>
 	<summary>Tools and Code Analysis &#x21A9; <b>16%</b></summary>
 
-- { ["**Analyzing Tool & Script Output**"](https://github.com/SeanOhAileasa/ptp-analyzing-tool-and-script-output/blob/main/README.md) : &#x1F6A7; }
+- { ["**Analyzing Tool & Script Output**"](https://github.com/SeanOhAileasa/ptp-analyzing-tool-and-script-output/blob/main/README.md) : &#x1F513; }
 
 - { ["**Penetration Testing Tools**"](https://github.com/SeanOhAileasa/ptp-penetration-testing-tools/blob/main/README.md) : &#x1F6A7; }
 </details>
