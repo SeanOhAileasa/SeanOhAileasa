@@ -970,8 +970,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-23/09/2022
-"update repository ./ptp-analyzing-tool-and-script-output"
+24/09/2022
+"update repository ./ptp-penetration-testing-tools"
 -->
 
 <details open>
@@ -1028,7 +1028,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - { ["**Analyzing Tool & Script Output**"](https://github.com/SeanOhAileasa/ptp-analyzing-tool-and-script-output/blob/main/README.md) : &#x1F513; }
 
-- { ["**Penetration Testing Tools**"](https://github.com/SeanOhAileasa/ptp-penetration-testing-tools/blob/main/README.md) : &#x1F6A7; }
+- { ["**Penetration Testing Tools**"](https://github.com/SeanOhAileasa/ptp-penetration-testing-tools/blob/main/README.md) : &#x1F513; }
 </details>
 
 <details close>
