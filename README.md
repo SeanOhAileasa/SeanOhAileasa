@@ -971,7 +971,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 27/09/2022
-"update repository ./ptp-practice-labs (Understanding Nmap Common Usage - Nmap Basics)"
+"update repository ./ptp-practice-labs (Understanding Nmap Common Usage - Nmap Scan Types)"
 -->
 
 <details open>
@@ -1017,7 +1017,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 	<summary>Understanding Nmap Common Usage &#x21A9;</summary>
 
 - [``Nmap Basics``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#1) &#x2705; <br/>
-- [``Nmap Scan Types``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#2) &#x274C; <br/>
+- [``Nmap Scan Types``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#2) &#x2705; <br/>
 - [``Advanced Nmap Features``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#3) &#x274C; <br/>
 </details>
 <details open>
