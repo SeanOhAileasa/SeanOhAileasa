@@ -1,6 +1,6 @@
 ### Cybersecurity Associate Candidate (Apprenticeship NFQ L6)
 
-|Prefix|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|Prefix|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;[ [``Diary``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
 | &nbsp;&nbsp;&nbsp;``itf-``&nbsp;&nbsp; | CompTIA ITF+                       |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
@@ -971,7 +971,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 27/09/2022
-"update repository ./ptp-practice-labs (Understanding Nmap Common Usage - Nmap Scan Types)"
+"update repository ./ptp-practice-labs (Understanding Nmap Common Usage - Advanced Nmap Features)"
 -->
 
 <details open>
@@ -995,7 +995,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 		- { ["**Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/ptp-perform-vulnerability-scanning-analysis.ipynb#L) : &#x2705; }
 
-<details close>
+<details open>
 	<summary>&#x1F52C; &#x21A9;</summary>
 
 <details open>
@@ -1018,7 +1018,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - [``Nmap Basics``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#1) &#x2705; <br/>
 - [``Nmap Scan Types``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#2) &#x2705; <br/>
-- [``Advanced Nmap Features``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#3) &#x274C; <br/>
+- [``Advanced Nmap Features``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#3) &#x2705; <br/>
 </details>
 <details open>
 	<summary>Enumerate Network Hosts &#x21A9;</summary>
