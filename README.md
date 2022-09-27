@@ -970,8 +970,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-25/09/2022
-"update repository ./ptp-practice-labs"
+27/09/2022
+"update repository ./ptp-practice-labs (Understanding Nmap Common Usage - Nmap Basics)"
 -->
 
 <details open>
@@ -1014,6 +1014,13 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 - [``Google Dorks``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#4) &#x2705; <br/>
 </details>
 <details open>
+	<summary>Understanding Nmap Common Usage &#x21A9;</summary>
+
+- [``Nmap Basics``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#1) &#x2705; <br/>
+- [``Nmap Scan Types``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#2) &#x274C; <br/>
+- [``Advanced Nmap Features``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#3) &#x274C; <br/>
+</details>
+<details open>
 	<summary>Enumerate Network Hosts &#x21A9;</summary>
 
 - [``Run Nmap Scan``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/enumerate-network-hosts/ptp-enumerate-network-hosts.ipynb#1) &#x274C; <br/>
@@ -1047,14 +1054,6 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 - [``SQL Injection Attack``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-sql-injection/ptp-using-sql-injection.ipynb#1) &#x274C; <br/>
 - [``Blind SQL Injection``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-sql-injection/ptp-using-sql-injection.ipynb#2) &#x274C; <br/>
 </details>
-<details open>
-	<summary>Understanding Nmap Common Usage &#x21A9;</summary>
-
-- [``Nmap Basics``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#1) &#x274C; <br/>
-- [``Nmap Scan Types``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#2) &#x274C; <br/>
-- [``Advanced Nmap Features``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#3) &#x274C; <br/>
-</details>
-
 </details> <!-- END: Information Gathering and Vulnerability Scanning -->
 </details> <!-- END: Labs -->
 <hr width=25%;>
