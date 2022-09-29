@@ -970,7 +970,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 29/09/2022
-"update repository ./ptp-practice-labs (Enumerate Network Hosts - Using Redirection Operators)"
+"update repository ./ptp-practice-labs (Enumerate Network Hosts - Nmap Output Formats)"
 -->
 
 <details open>
@@ -1024,7 +1024,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - [``Run Nmap Scan``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/enumerate-network-hosts/ptp-enumerate-network-hosts.ipynb#1) &#x2705; <br/>
 - [``Using Redirection Operators``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/enumerate-network-hosts/ptp-enumerate-network-hosts.ipynb#2) &#x2705; <br/>
-- [``Nmap Output Formats``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/enumerate-network-hosts/ptp-enumerate-network-hosts.ipynb#3) &#x274C; <br/>
+- [``Nmap Output Formats``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/enumerate-network-hosts/ptp-enumerate-network-hosts.ipynb#3) &#x2705; <br/>
 </details>
 <details open>
 	<summary>Demonstrating Enumeration Techniques &#x21A9;</summary>
