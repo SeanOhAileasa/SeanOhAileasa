@@ -970,7 +970,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 29/09/2022
-"update repository ./ptp-practice-labs (Enumerate Network Hosts - Nmap Output Formats)"
+"update repository ./ptp-practice-labs (Demonstrating Enumeration Techniques - Enumerating Hosts)"
 -->
 
 <details open>
@@ -1029,7 +1029,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details open>
 	<summary>Demonstrating Enumeration Techniques &#x21A9;</summary>
 
-- [``Enumerating Hosts``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#1) &#x274C; <br/>
+- [``Enumerating Hosts``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#1) &#x2705; <br/>
 - [``Enumerating Ports``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#1) &#x274C; <br/>
 - [``Enumerating Web Directories``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#3) &#x274C; <br/>
 </details>
