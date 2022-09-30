@@ -970,8 +970,8 @@ eC=Lesson 6-Automation Concepts
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-29/09/2022
-"update repository ./ptp-practice-labs (Demonstrating Enumeration Techniques - Enumerating Web Directories)"
+30/09/2022
+"update repository ./ptp-practice-labs (Using Web Scanners - Web Scanners)"
 -->
 
 <details open>
@@ -1037,7 +1037,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details open>
 	<summary>Using Web Scanners &#x21A9;</summary>
 
-- [``Web Scanners``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#1) &#x274C; <br/>
+- [``Web Scanners``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#1) &#x2705; <br/>
 - [``nikto``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#2) &#x274C; <br/>
 - [``dirb``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#3) &#x274C; <br/>
 </details>
