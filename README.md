@@ -10,7 +10,7 @@
 | &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [Funded by HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
 
 <details open> 
-	<summary>&#x1F6A7; ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </summary> <br/><br/>
+	<summary>&#x1F6A7; ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </summary> <br/>
 
 <details close>
 <!--
@@ -690,7 +690,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 01/10/2022
-"update repository ./ptp-practice-labs (Exploring OpenVAS - Setting up and Starting OpenVAS)"
+"update repository ./ptp-practice-labs (Exploring OpenVAS - Performing an OpenVAS Vulnerabilty Scan)"
 -->
 
 <details open>
@@ -764,7 +764,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 	<summary>Exploring OpenVAS &#x21A9;</summary>
 
 - [``Setting up and Starting OpenVAS``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x2705; <br/>
-- [``Performing an OpenVAS Vulnerabilty Scan``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x274C; <br/>
+- [``Performing an OpenVAS Vulnerabilty Scan``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x2705; <br/>
 - [``OpenVAS Scan Results``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x274C; <br/>
 </details>
 <details open>
