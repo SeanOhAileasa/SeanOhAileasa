@@ -3,38 +3,40 @@
 |Prefix|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
 | &nbsp;&nbsp;&nbsp;``itf-``&nbsp;&nbsp; | CompTIA ITF+                       |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
-| &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
+| &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+ &#x1F4CC;<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>CompTIA Security+<br/><br/>                               |  &#x1F201; |
 | &nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA PenTest+ <br/><br/>                | &#x1F23A;  |
 | &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CySA+<br/><br/>                   | &#x1F530; |
 | &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [Funded by HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
 
 <details open> 
-	<summary>&#x21A9; ICT Associate Apprenticeship Programme (Cybersecurity) &#x1F6A7;</summary> <br/>
+	<summary>&#x1F6A7; ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </summary> <br/>
 
 <details close>
 <!--
 24/06/2022
 "update repository ./itf-cybersecurity-apprenticeship (Exam - CompITA IT Fundamentals)"
 -->
-	<summary><b>CompTIA IT Fundamentals &#x2705;</b></summary>
+	<summary><b>&#x2705; CompTIA IT Fundamentals &#x21A9; </b></summary>
 
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/itf-cybersecurity-apprenticeship) : &#x2705; }
 </details>
-<br/>
+<hr width=33%;>
+<hr width=33%;>
 <details close>
 <!--
 08/07/2022
 "update repository ./ecb-cybersecurity-apprenticeship (Ransomware Criminals Targeted in Ukrainian Police Raids - Cybersecurity Career Roadmap - Fiber Media (OBJ. 1.3) - Additional Ethernet Switch Features (OBJ. 2.3 & 4.4) - OSI Model Explained | Real World Example)"
 -->
-	<summary><b>Effective Communication in Business &#x2705;</b></summary>
+	<summary><b>&#x2705; Effective Communication in Business &#x21A9; </b></summary>
 
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/ecb-cybersecurity-apprenticeship) : &#x2705; }
 
 </details>
-<br/>
+<hr width=33%;>
+<hr width=33%;>
 <details close>
-	<summary><b>CompTIA Network+ &#x1F4CC;</b></summary>
+	<summary><b>&#x1F4CC; CompTIA Network+ &#x21A9; </b></summary>
 	 
 <!--
 29/09/2022
@@ -346,8 +348,8 @@
 </details> <!-- Practice Labs -->
 </details> <!-- END (CompTIA Network+) -->
 </details> <!-- eCollege -->
-
-<br/>
+<hr width=33%;>
+<hr width=33%;>
 <details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
@@ -683,9 +685,239 @@
 <!-- ********** CompTIA Security+ - Practice Labs ********** -->
 </details> <!-- END (CompTIA Security+ - Practice Labs) -->
 </details> <!-- END (CompTIA Security+) -->
+<hr width=33%;>
+<hr width=33%;>
+<details close>
+	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary><br/>
+<!--
+eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
+-->
+<!--
+01/09/2022
+"update repository ./ptp-practice-labs (Using Web Scanners - nikto)"
+-->
 
-<br/>
+<details open>
+	<summary>Planning and Scoping &#x21A9; <b>14%</b></summary>
 
+- { ["**Scoping and Engagement**"](https://github.com/SeanOhAileasa/ptp-scoping-and-engagement/blob/main/README.md) : &#x2705; }
+
+- { ["**Professionalism and Integrity**](https://github.com/SeanOhAileasa/ptp-professionalism-and-integrity/blob/main/README.md) : &#x1F513; }
+</details>
+<hr width=25%;>
+<details open>
+	<summary>Information Gathering and Vulnerability Scanning &#x21A9; <b>22%</b></summary>
+
+- { ["**Passive Reconnaissance**"](https://github.com/SeanOhAileasa/ptp-passive-reconnaissance/blob/main/README.md) : &#x1F513; }
+
+- { ["**Active Reconnaissance**"](https://github.com/SeanOhAileasa/ptp-active-reconnaissance/blob/main/README.md) : &#x1F513; }
+
+- { ["**Vulnerability Scanning**"](https://github.com/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/README.md) : &#x1F513; }
+
+	- { ["**Scan**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/ptp-perform-vulnerability-scanning-analysis.ipynb#K) : &#x2705; }
+
+		- { ["**Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/ptp-perform-vulnerability-scanning-analysis.ipynb#L) : &#x2705; }
+
+<details open>
+	<summary>&#x1F52C; &#x21A9;</summary>
+
+<details open>
+	<summary>Reconnaissance Tools &#x21A9;</summary>
+
+- [``nslookup``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb#1) &#x2705; <br/>
+- [``dig``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb#2) &#x2705; <br/>
+- [``whois``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb#3) &#x2705; <br/>
+</details>
+<details open>
+	<summary>Open Source Intelligence Tools &#x21A9;</summary>
+
+- [``Maltego``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#1) &#x2705; <br/>
+- [``recon-ng``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#2) &#x2705; <br/>
+- [``theHarvester``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#3) &#x2705; <br/>
+- [``Google Dorks``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#4) &#x2705; <br/>
+</details>
+<details open>
+	<summary>Understanding Nmap Common Usage &#x21A9;</summary>
+
+- [``Nmap Basics``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#1) &#x2705; <br/>
+- [``Nmap Scan Types``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#2) &#x2705; <br/>
+- [``Advanced Nmap Features``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#3) &#x2705; <br/>
+</details>
+<details open>
+	<summary>Enumerate Network Hosts &#x21A9;</summary>
+
+- [``Run Nmap Scan``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/enumerate-network-hosts/ptp-enumerate-network-hosts.ipynb#1) &#x2705; <br/>
+- [``Using Redirection Operators``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/enumerate-network-hosts/ptp-enumerate-network-hosts.ipynb#2) &#x2705; <br/>
+- [``Nmap Output Formats``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/enumerate-network-hosts/ptp-enumerate-network-hosts.ipynb#3) &#x2705; <br/>
+</details>
+<details open>
+	<summary>Demonstrating Enumeration Techniques &#x21A9;</summary>
+
+- [``Enumerating Hosts``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#1) &#x2705; <br/>
+- [``Enumerating Ports``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#1) &#x2705; <br/>
+- [``Enumerating Web Directories``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#3) &#x2705; <br/>
+</details>
+<details open>
+	<summary>Using Web Scanners &#x21A9;</summary>
+
+- [``Web Scanners``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#1) &#x2705; <br/>
+- [``nikto``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#2) &#x2705; <br/>
+- [``dirb``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#3) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Exploring OpenVAS &#x21A9;</summary>
+
+- [``Setting up and Starting OpenVAS``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x274C; <br/>
+- [``Performing an OpenVAS Vulnerabilty Scan``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x274C; <br/>
+- [``OpenVAS Scan Results``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Using SQL Injection &#x21A9;</summary>
+
+- [``SQL Injection Attack``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-sql-injection/ptp-using-sql-injection.ipynb#1) &#x274C; <br/>
+- [``Blind SQL Injection``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-sql-injection/ptp-using-sql-injection.ipynb#2) &#x274C; <br/>
+</details>
+</details> <!-- END: Information Gathering and Vulnerability Scanning -->
+</details> <!-- END: Labs -->
+<hr width=25%;>
+<details open>
+	<summary>Attacks and Exploits &#x21A9; <b>30%</b></summary>
+
+- { ["**Network Attacks and Exploits**"](https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits/blob/main/README.md) : &#x1F513; }
+
+- { ["**Wireless Attacks**"](https://github.com/SeanOhAileasa/ptp-wireless-attacks/blob/main/README.md) : &#x1F513; }
+
+- { ["**Application-based Attacks**"](https://github.com/SeanOhAileasa/ptp-application-based-attacks/blob/main/README.md) : &#x1F513; }
+
+- { ["**Attacks on Cloud Technologies**"](https://github.com/SeanOhAileasa/ptp-attacks-on-cloud-technologies/blob/main/README.md) : &#x1F513; }
+
+- { ["**Attacks on Specialized Systems**"](https://github.com/SeanOhAileasa/ptp-attacks-on-specialized-systems/blob/main/README.md) : &#x1F513; }
+
+- { ["**Social Engineering Attacks**"](https://github.com/SeanOhAileasa/ptp-social-engineering-attacks/blob/main/README.md) : &#x1F513; }
+
+- { ["**Post-Exploitation Techniques**"](https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques/blob/main/README.md) : &#x1F513; }
+<details close>
+	<summary>&#x1F52C; &#x21A9;</summary>
+
+<details open>
+	<summary>Exploring the Basics of Metasploit &#x21A9;</summary>
+
+- [``Metasploit Framework``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#1) &#x274C; <br/>
+- [``Discovery Scans using Integrated Nmap``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#2) &#x274C; <br/>
+- [``Using Attack Modules in Metasploit``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#3) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Scanning a Vulnerable System &#x21A9;</summary>
+
+- [``Finding and Identifying the Target``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#1) &#x274C; <br/>
+- [``Analyzing the Web Server``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#2) &#x274C; <br/>
+- [``OpenVAS Scanning``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#3) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Discovering IoT devices with Shodan &#x21A9;</summary>
+
+- [``shodan-io``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/discovering-iot-devices-with-shodan/ptp-discovering-iot-devices-with-shodan.ipynb#1) &#x274C; <br/>
+- [``Utilizing Search Filters``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/discovering-iot-devices-with-shodan/ptp-discovering-iot-devices-with-shodan.ipynb#2) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Monitoring with Aircrack-ng &#x21A9;</summary>
+
+- [``aircrack-ng``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/monitoring-with-aircrack-ng/ptp-monitoring-with-aircrack-ng.ipynb#1) &#x274C; <br/>
+- [``Setting Up``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/monitoring-with-aircrack-ng/ptp-monitoring-with-aircrack-ng.ipynb#2) &#x274C; <br/>
+- [``Using Tools``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/monitoring-with-aircrack-ng/ptp-monitoring-with-aircrack-ng.ipynb#3) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Analyzing Exploit Code &#x21A9;</summary>
+
+- [``Public Exploit Sites Exploit Database``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#1) &#x274C; <br/>
+- [``Public Exploit Sites National Vulnerability Database``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#2) &#x274C; <br/>
+- [``Metasploit Exploits``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#3) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Exploring Password Attacks with john the Ripper and Hydra &#x21A9;</summary>
+
+- [``john-the-ripper``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-password-attacks-with-john-the-ripper-and-hydra/ptp-exploring-password-attacks-with-john-the-ripper-and-hydra.ipynb#1) &#x274C; <br/>
+- [``hydra``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-password-attacks-with-john-the-ripper-and-hydra/ptp-exploring-password-attacks-with-john-the-ripper-and-hydra.ipynb#2) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Understanding Social Engineering Toolkit (SET) &#x21A9;</summary>
+
+- [``Explore SET``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-social-engineering-toolkit-set/ptp-understanding-social-engineering-toolkit-set.ipynb#1) &#x274C; <br/>
+- [``Use Spear Phishing``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-social-engineering-toolkit-set/ptp-understanding-social-engineering-toolkit-set.ipynb#2) &#x274C; <br/>
+- [``Set Listeners``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-social-engineering-toolkit-set/ptp-understanding-social-engineering-toolkit-set.ipynb#3) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Understanding Spear Phishing and Credentials Attack &#x21A9;</summary>
+
+- [``Setting up a Credential Harvest Attack``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-spear-phishing-and-credentials-attack/ptp-understanding-spear-phishing-and-credentials-attack.ipynb#1) &#x274C; <br/>
+- [``Creating a Spear Phishing Attack``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-spear-phishing-and-credentials-attack/ptp-understanding-spear-phishing-and-credentials-attack.ipynb#2) &#x274C; <br/>
+- [``Credential Harvesting Spear Phishing Attacks in the Real-world``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-spear-phishing-and-credentials-attack/ptp-understanding-spear-phishing-and-credentials-attack.ipynb#3) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Using Reverse and Bind Shells &#x21A9;</summary>
+
+- [``bind-shells``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-reverse-and-bind-shells/ptp-using-reverse-and-bind-shells.ipynb#1) &#x274C; <br/>
+- [``reverse-shells``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-reverse-and-bind-shells/ptp-using-reverse-and-bind-shells.ipynb#2) &#x274C; <br/>
+- [``Shells via Command Injection``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-reverse-and-bind-shells/ptp-using-reverse-and-bind-shells.ipynb#3) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Navigating Steganography Tools &#x21A9;</summary>
+
+- [``steghide``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/navigating-steganography-tools/ptp-navigating-steganography-tools.ipynb#1) &#x274C; <br/>
+- [``Embedding File Using Steghide``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/navigating-steganography-tools/ptp-navigating-steganography-tools.ipynb#2) &#x274C; <br/>
+</details>
+</details> <!-- END: Labs -->
+</details>
+<hr width=25%;>
+<details open>
+	<summary>Reporting and Communication &#x21A9; <b>18%</b></summary>
+
+- { ["**Written Reports**"](https://github.com/SeanOhAileasa/ptp-written-reports/blob/main/README.md) : &#x1F513; }
+
+- { ["**Communication & Post-Report Activities**"](https://github.com/SeanOhAileasa/ptp-communication-and-post-report-activities/blob/main/README.md) : &#x1F513; }
+</details>
+<hr width=25%;>
+<details open>
+	<summary>Tools and Code Analysis &#x21A9; <b>16%</b></summary>
+
+- { ["**Analyzing Tool & Script Output**"](https://github.com/SeanOhAileasa/ptp-analyzing-tool-and-script-output/blob/main/README.md) : &#x1F513; }
+
+- { ["**Penetration Testing Tools**"](https://github.com/SeanOhAileasa/ptp-penetration-testing-tools/blob/main/README.md) : &#x1F513; }
+
+<details close>
+	<summary>&#x1F52C; &#x21A9;</summary>
+<details open>
+	<summary>Exploring Programming Shells &#x21A9;</summary>
+
+- [``bash``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-programming-shells/ptp-exploring-programming-shells.ipynb#1) &#x274C; <br/>
+- [``Simple Bash Script``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-programming-shells/ptp-exploring-programming-shells.ipynb#2) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Applying PenTest Automation &#x21A9;</summary>
+
+- [``Automated Reporting in Bash``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/applying-pentest-automation/ptp-applying-pentest-automation.ipynb#1) &#x274C; <br/>
+- [``Automated Port Scanner in Python``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/applying-pentest-automation/ptp-applying-pentest-automation.ipynb#2) &#x274C; <br/>
+- [``python``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/applying-pentest-automation/ptp-applying-pentest-automation.ipynb#3) &#x274C; <br/>
+- [``Simple Bash Script``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/applying-pentest-automation/ptp-applying-pentest-automation.ipynb#4) &#x274C; <br/>
+</details>
+<details open>
+	<summary>Using VSFTP Manual and Metasploit &#x21A9;</summary>
+
+- [``The VSFTP Backdoor``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-vsftp-manual-and-metasploit/ptp-using-vsftp-manual-and-metasploit.ipynb#1) &#x274C; <br/>
+- [``Using Metasploit to Attack the VSFTP Backdoor``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-vsftp-manual-and-metasploit/ptp-using-vsftp-manual-and-metasploit.ipynb#2) &#x274C; <br/>
+</details>
+</details> <!-- END: Labs -->
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Supplemental &#x21A9;</summary>
+
+- { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
+
+</details> <!-- END (Skillsoft) -->
+</details> <!-- END (CompTIA PenTest+) -->
+<hr width=33%;>
+<hr width=33%;>
 <details close>
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
 <!--
@@ -961,239 +1193,8 @@ eC=Lesson 6-Automation Concepts
 - { ["**Intrusion Detection and Traffic Analysis**"](https://github.com/SeanOhAileasa/cap-intrusion-detection-and-traffic-analysis/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA CySA+) -->
-
-<br/>
-
-<details open>
-	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary><br/>
-<!--
-eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
--->
-<!--
-30/09/2022
-"update repository ./ptp-practice-labs (Using Web Scanners - Web Scanners)"
--->
-
-<details open>
-	<summary>Planning and Scoping &#x21A9; <b>14%</b></summary>
-
-- { ["**Scoping and Engagement**"](https://github.com/SeanOhAileasa/ptp-scoping-and-engagement/blob/main/README.md) : &#x2705; }
-
-- { ["**Professionalism and Integrity**](https://github.com/SeanOhAileasa/ptp-professionalism-and-integrity/blob/main/README.md) : &#x1F513; }
-</details>
-<hr width=25%;>
-<details open>
-	<summary>Information Gathering and Vulnerability Scanning &#x21A9; <b>22%</b></summary>
-
-- { ["**Passive Reconnaissance**"](https://github.com/SeanOhAileasa/ptp-passive-reconnaissance/blob/main/README.md) : &#x1F513; }
-
-- { ["**Active Reconnaissance**"](https://github.com/SeanOhAileasa/ptp-active-reconnaissance/blob/main/README.md) : &#x1F513; }
-
-- { ["**Vulnerability Scanning**"](https://github.com/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/README.md) : &#x1F513; }
-
-	- { ["**Scan**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/ptp-perform-vulnerability-scanning-analysis.ipynb#K) : &#x2705; }
-
-		- { ["**Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/ptp-perform-vulnerability-scanning-analysis.ipynb#L) : &#x2705; }
-
-<details open>
-	<summary>&#x1F52C; &#x21A9;</summary>
-
-<details open>
-	<summary>Reconnaissance Tools &#x21A9;</summary>
-
-- [``nslookup``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb#1) &#x2705; <br/>
-- [``dig``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb#2) &#x2705; <br/>
-- [``whois``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb#3) &#x2705; <br/>
-</details>
-<details open>
-	<summary>Open Source Intelligence Tools &#x21A9;</summary>
-
-- [``Maltego``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#1) &#x2705; <br/>
-- [``recon-ng``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#2) &#x2705; <br/>
-- [``theHarvester``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#3) &#x2705; <br/>
-- [``Google Dorks``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/open-source-intelligence-tools/ptp-open-source-intelligence-tools.ipynb#4) &#x2705; <br/>
-</details>
-<details open>
-	<summary>Understanding Nmap Common Usage &#x21A9;</summary>
-
-- [``Nmap Basics``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#1) &#x2705; <br/>
-- [``Nmap Scan Types``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#2) &#x2705; <br/>
-- [``Advanced Nmap Features``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-nmap-common-usage/ptp-understanding-nmap-common-usage.ipynb#3) &#x2705; <br/>
-</details>
-<details open>
-	<summary>Enumerate Network Hosts &#x21A9;</summary>
-
-- [``Run Nmap Scan``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/enumerate-network-hosts/ptp-enumerate-network-hosts.ipynb#1) &#x2705; <br/>
-- [``Using Redirection Operators``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/enumerate-network-hosts/ptp-enumerate-network-hosts.ipynb#2) &#x2705; <br/>
-- [``Nmap Output Formats``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/enumerate-network-hosts/ptp-enumerate-network-hosts.ipynb#3) &#x2705; <br/>
-</details>
-<details open>
-	<summary>Demonstrating Enumeration Techniques &#x21A9;</summary>
-
-- [``Enumerating Hosts``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#1) &#x2705; <br/>
-- [``Enumerating Ports``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#1) &#x2705; <br/>
-- [``Enumerating Web Directories``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#3) &#x2705; <br/>
-</details>
-<details open>
-	<summary>Using Web Scanners &#x21A9;</summary>
-
-- [``Web Scanners``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#1) &#x2705; <br/>
-- [``nikto``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#2) &#x274C; <br/>
-- [``dirb``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#3) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Exploring OpenVAS &#x21A9;</summary>
-
-- [``Setting up and Starting OpenVAS``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x274C; <br/>
-- [``Performing an OpenVAS Vulnerabilty Scan``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x274C; <br/>
-- [``OpenVAS Scan Results``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Using SQL Injection &#x21A9;</summary>
-
-- [``SQL Injection Attack``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-sql-injection/ptp-using-sql-injection.ipynb#1) &#x274C; <br/>
-- [``Blind SQL Injection``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-sql-injection/ptp-using-sql-injection.ipynb#2) &#x274C; <br/>
-</details>
-</details> <!-- END: Information Gathering and Vulnerability Scanning -->
-</details> <!-- END: Labs -->
-<hr width=25%;>
-<details open>
-	<summary>Attacks and Exploits &#x21A9; <b>30%</b></summary>
-
-- { ["**Network Attacks and Exploits**"](https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits/blob/main/README.md) : &#x1F513; }
-
-- { ["**Wireless Attacks**"](https://github.com/SeanOhAileasa/ptp-wireless-attacks/blob/main/README.md) : &#x1F513; }
-
-- { ["**Application-based Attacks**"](https://github.com/SeanOhAileasa/ptp-application-based-attacks/blob/main/README.md) : &#x1F513; }
-
-- { ["**Attacks on Cloud Technologies**"](https://github.com/SeanOhAileasa/ptp-attacks-on-cloud-technologies/blob/main/README.md) : &#x1F513; }
-
-- { ["**Attacks on Specialized Systems**"](https://github.com/SeanOhAileasa/ptp-attacks-on-specialized-systems/blob/main/README.md) : &#x1F513; }
-
-- { ["**Social Engineering Attacks**"](https://github.com/SeanOhAileasa/ptp-social-engineering-attacks/blob/main/README.md) : &#x1F513; }
-
-- { ["**Post-Exploitation Techniques**"](https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques/blob/main/README.md) : &#x1F513; }
-<details close>
-	<summary>&#x1F52C; &#x21A9;</summary>
-
-<details open>
-	<summary>Exploring the Basics of Metasploit &#x21A9;</summary>
-
-- [``Metasploit Framework``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#1) &#x274C; <br/>
-- [``Discovery Scans using Integrated Nmap``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#2) &#x274C; <br/>
-- [``Using Attack Modules in Metasploit``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#3) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Scanning a Vulnerable System &#x21A9;</summary>
-
-- [``Finding and Identifying the Target``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#1) &#x274C; <br/>
-- [``Analyzing the Web Server``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#2) &#x274C; <br/>
-- [``OpenVAS Scanning``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#3) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Discovering IoT devices with Shodan &#x21A9;</summary>
-
-- [``shodan-io``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/discovering-iot-devices-with-shodan/ptp-discovering-iot-devices-with-shodan.ipynb#1) &#x274C; <br/>
-- [``Utilizing Search Filters``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/discovering-iot-devices-with-shodan/ptp-discovering-iot-devices-with-shodan.ipynb#2) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Monitoring with Aircrack-ng &#x21A9;</summary>
-
-- [``aircrack-ng``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/monitoring-with-aircrack-ng/ptp-monitoring-with-aircrack-ng.ipynb#1) &#x274C; <br/>
-- [``Setting Up``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/monitoring-with-aircrack-ng/ptp-monitoring-with-aircrack-ng.ipynb#2) &#x274C; <br/>
-- [``Using Tools``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/monitoring-with-aircrack-ng/ptp-monitoring-with-aircrack-ng.ipynb#3) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Analyzing Exploit Code &#x21A9;</summary>
-
-- [``Public Exploit Sites Exploit Database``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#1) &#x274C; <br/>
-- [``Public Exploit Sites National Vulnerability Database``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#2) &#x274C; <br/>
-- [``Metasploit Exploits``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#3) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Exploring Password Attacks with john the Ripper and Hydra &#x21A9;</summary>
-
-- [``john-the-ripper``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-password-attacks-with-john-the-ripper-and-hydra/ptp-exploring-password-attacks-with-john-the-ripper-and-hydra.ipynb#1) &#x274C; <br/>
-- [``hydra``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-password-attacks-with-john-the-ripper-and-hydra/ptp-exploring-password-attacks-with-john-the-ripper-and-hydra.ipynb#2) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Understanding Social Engineering Toolkit (SET) &#x21A9;</summary>
-
-- [``Explore SET``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-social-engineering-toolkit-set/ptp-understanding-social-engineering-toolkit-set.ipynb#1) &#x274C; <br/>
-- [``Use Spear Phishing``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-social-engineering-toolkit-set/ptp-understanding-social-engineering-toolkit-set.ipynb#2) &#x274C; <br/>
-- [``Set Listeners``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-social-engineering-toolkit-set/ptp-understanding-social-engineering-toolkit-set.ipynb#3) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Understanding Spear Phishing and Credentials Attack &#x21A9;</summary>
-
-- [``Setting up a Credential Harvest Attack``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-spear-phishing-and-credentials-attack/ptp-understanding-spear-phishing-and-credentials-attack.ipynb#1) &#x274C; <br/>
-- [``Creating a Spear Phishing Attack``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-spear-phishing-and-credentials-attack/ptp-understanding-spear-phishing-and-credentials-attack.ipynb#2) &#x274C; <br/>
-- [``Credential Harvesting Spear Phishing Attacks in the Real-world``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/understanding-spear-phishing-and-credentials-attack/ptp-understanding-spear-phishing-and-credentials-attack.ipynb#3) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Using Reverse and Bind Shells &#x21A9;</summary>
-
-- [``bind-shells``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-reverse-and-bind-shells/ptp-using-reverse-and-bind-shells.ipynb#1) &#x274C; <br/>
-- [``reverse-shells``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-reverse-and-bind-shells/ptp-using-reverse-and-bind-shells.ipynb#2) &#x274C; <br/>
-- [``Shells via Command Injection``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-reverse-and-bind-shells/ptp-using-reverse-and-bind-shells.ipynb#3) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Navigating Steganography Tools &#x21A9;</summary>
-
-- [``steghide``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/navigating-steganography-tools/ptp-navigating-steganography-tools.ipynb#1) &#x274C; <br/>
-- [``Embedding File Using Steghide``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/navigating-steganography-tools/ptp-navigating-steganography-tools.ipynb#2) &#x274C; <br/>
-</details>
-</details> <!-- END: Labs -->
-</details>
-<hr width=25%;>
-<details open>
-	<summary>Reporting and Communication &#x21A9; <b>18%</b></summary>
-
-- { ["**Written Reports**"](https://github.com/SeanOhAileasa/ptp-written-reports/blob/main/README.md) : &#x1F513; }
-
-- { ["**Communication & Post-Report Activities**"](https://github.com/SeanOhAileasa/ptp-communication-and-post-report-activities/blob/main/README.md) : &#x1F513; }
-</details>
-<hr width=25%;>
-<details open>
-	<summary>Tools and Code Analysis &#x21A9; <b>16%</b></summary>
-
-- { ["**Analyzing Tool & Script Output**"](https://github.com/SeanOhAileasa/ptp-analyzing-tool-and-script-output/blob/main/README.md) : &#x1F513; }
-
-- { ["**Penetration Testing Tools**"](https://github.com/SeanOhAileasa/ptp-penetration-testing-tools/blob/main/README.md) : &#x1F513; }
-
-<details close>
-	<summary>&#x1F52C; &#x21A9;</summary>
-<details open>
-	<summary>Exploring Programming Shells &#x21A9;</summary>
-
-- [``bash``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-programming-shells/ptp-exploring-programming-shells.ipynb#1) &#x274C; <br/>
-- [``Simple Bash Script``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-programming-shells/ptp-exploring-programming-shells.ipynb#2) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Applying PenTest Automation &#x21A9;</summary>
-
-- [``Automated Reporting in Bash``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/applying-pentest-automation/ptp-applying-pentest-automation.ipynb#1) &#x274C; <br/>
-- [``Automated Port Scanner in Python``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/applying-pentest-automation/ptp-applying-pentest-automation.ipynb#2) &#x274C; <br/>
-- [``python``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/applying-pentest-automation/ptp-applying-pentest-automation.ipynb#3) &#x274C; <br/>
-- [``Simple Bash Script``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/applying-pentest-automation/ptp-applying-pentest-automation.ipynb#4) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Using VSFTP Manual and Metasploit &#x21A9;</summary>
-
-- [``The VSFTP Backdoor``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-vsftp-manual-and-metasploit/ptp-using-vsftp-manual-and-metasploit.ipynb#1) &#x274C; <br/>
-- [``Using Metasploit to Attack the VSFTP Backdoor``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-vsftp-manual-and-metasploit/ptp-using-vsftp-manual-and-metasploit.ipynb#2) &#x274C; <br/>
-</details>
-</details> <!-- END: Labs -->
-</details>
-<hr width=25%;>
-<details close>
-    <summary>Supplemental &#x21A9;</summary>
-
-- { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
-
-</details> <!-- END (Skillsoft) -->
-</details> <!-- END (CompTIA PenTest+) -->
-<hr width=50%;>
+<hr width=33%;>
+<hr width=33%;>
 <details close>
 	<summary>Supplementary Courses</summary>
 
@@ -1245,7 +1246,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 ### GMIT Overall Result: First Class Honours (1.1) - Grade: 77.6%
 
 <details close>
-	<summary>&#x21A9; Galway/Mayo I.T. H.Dip (L8) Programme (Data Analytics) &#x2705;</summary>
+	<summary>&#x2705; Galway/Mayo I.T. H.Dip (L8) Programme (Data Analytics) &#x21A9;</summary>
 
 <!--
 16/04/2022
@@ -1424,7 +1425,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 ### References - Acronyms and Abbreviations - Miscellaneous
 
-<details open>
+<details close>
 	<summary>&#x21A9; Open</summary> <br/>
 
 - &#x21A9; Expand / Dropdown List
