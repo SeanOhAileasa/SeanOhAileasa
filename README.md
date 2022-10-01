@@ -690,7 +690,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 01/10/2022
-"update repository ./ptp-practice-labs (Exploring OpenVAS - OpenVAS Scan Results)"
+"update repository ./ptp-practice-labs (Using SQL Injection - SQL Injection Attack)"
 -->
 
 <details open>
@@ -770,7 +770,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details open>
 	<summary>Using SQL Injection &#x21A9;</summary>
 
-- [``SQL Injection Attack``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-sql-injection/ptp-using-sql-injection.ipynb#1) &#x274C; <br/>
+- [``SQL Injection Attack``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-sql-injection/ptp-using-sql-injection.ipynb#1) &#x2705; <br/>
 - [``Blind SQL Injection``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-sql-injection/ptp-using-sql-injection.ipynb#2) &#x274C; <br/>
 </details>
 </details> <!-- END: Information Gathering and Vulnerability Scanning -->
