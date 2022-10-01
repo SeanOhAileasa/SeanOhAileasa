@@ -351,7 +351,7 @@
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 01/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Hoaxes)"
+"update repository ./syp-attacks-threats-and-vulnerabilities (Watering Hole Attacks)"
 -->
 <br/>
 <details open>
