@@ -10,7 +10,7 @@
 | &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [Funded by HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
 
 <details open> 
-	<summary>&#x1F6A7; ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </summary> <br/>
+	<summary>&#x1F6A7; ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </summary> <br/><br/>
 
 <details close>
 <!--
@@ -350,8 +350,8 @@
 <details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
-29/08/2022
-"update repository ./syp-risk-management-privacy-and-sensitive-data-security"
+01/10/2022
+"update repository ./syp-attacks-threats-and-vulnerabilities (Phishing)"
 -->
 <br/>
 <details open>
@@ -361,7 +361,7 @@
 "updata repository ./syp-security-concepts-in-an-enterprise-environment"
 -->
 
-- { ["**Attacks and Threats and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-attacks-threats-and-vulnerabilities/blob/main/README.md) : &#x1F6A7; }
+- { ["**Attacks and Threats and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-attacks-threats-and-vulnerabilities/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x2705; }
 
