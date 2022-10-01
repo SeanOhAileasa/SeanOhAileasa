@@ -22,7 +22,6 @@
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/itf-cybersecurity-apprenticeship) : &#x2705; }
 </details>
 <hr width=33%;>
-<hr width=33%;>
 <details close>
 <!--
 08/07/2022
@@ -33,7 +32,6 @@
 - { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/ecb-cybersecurity-apprenticeship) : &#x2705; }
 
 </details>
-<hr width=33%;>
 <hr width=33%;>
 <details close>
 	<summary><b>&#x1F4CC; CompTIA Network+ &#x21A9; </b></summary>
@@ -348,7 +346,6 @@
 </details> <!-- Practice Labs -->
 </details> <!-- END (CompTIA Network+) -->
 </details> <!-- eCollege -->
-<hr width=33%;>
 <hr width=33%;>
 <details close>
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
@@ -686,15 +683,14 @@
 </details> <!-- END (CompTIA Security+ - Practice Labs) -->
 </details> <!-- END (CompTIA Security+) -->
 <hr width=33%;>
-<hr width=33%;>
 <details close>
 	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-01/09/2022
-"update repository ./ptp-practice-labs (Using Web Scanners - nikto)"
+01/10/2022
+"update repository ./ptp-practice-labs (Using Web Scanners - dirb)"
 -->
 
 <details open>
@@ -762,7 +758,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - [``Web Scanners``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#1) &#x2705; <br/>
 - [``nikto``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#2) &#x2705; <br/>
-- [``dirb``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#3) &#x274C; <br/>
+- [``dirb``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-web-scanners/ptp-using-web-scanners.ipynb#3) &#x2705; <br/>
 </details>
 <details open>
 	<summary>Exploring OpenVAS &#x21A9;</summary>
@@ -916,7 +912,6 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
-<hr width=33%;>
 <hr width=33%;>
 <details close>
 	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
@@ -1193,7 +1188,6 @@ eC=Lesson 6-Automation Concepts
 - { ["**Intrusion Detection and Traffic Analysis**"](https://github.com/SeanOhAileasa/cap-intrusion-detection-and-traffic-analysis/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA CySA+) -->
-<hr width=33%;>
 <hr width=33%;>
 <details close>
 	<summary>Supplementary Courses</summary>
