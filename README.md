@@ -351,7 +351,7 @@
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 01/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Dumpster Diving)"
+"update repository ./syp-attacks-threats-and-vulnerabilities (Shoulder Surfing)"
 -->
 <br/>
 <details open>
