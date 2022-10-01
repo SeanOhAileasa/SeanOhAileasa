@@ -690,7 +690,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 01/10/2022
-"update repository ./ptp-practice-labs (Exploring OpenVAS - Performing an OpenVAS Vulnerabilty Scan)"
+"update repository ./ptp-practice-labs (Exploring OpenVAS - OpenVAS Scan Results)"
 -->
 
 <details open>
@@ -750,7 +750,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 	<summary>Demonstrating Enumeration Techniques &#x21A9;</summary>
 
 - [``Enumerating Hosts``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#1) &#x2705; <br/>
-- [``Enumerating Ports``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#1) &#x2705; <br/>
+- [``Enumerating Ports``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#2) &#x2705; <br/>
 - [``Enumerating Web Directories``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/demonstrating-enumeration-techniques/ptp-demonstrating-enumeration-techniques.ipynb#3) &#x2705; <br/>
 </details>
 <details open>
@@ -764,8 +764,8 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 	<summary>Exploring OpenVAS &#x21A9;</summary>
 
 - [``Setting up and Starting OpenVAS``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x2705; <br/>
-- [``Performing an OpenVAS Vulnerabilty Scan``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x2705; <br/>
-- [``OpenVAS Scan Results``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#1) &#x274C; <br/>
+- [``Performing an OpenVAS Vulnerabilty Scan``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#2) &#x2705; <br/>
+- [``OpenVAS Scan Results``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-openvas/ptp-exploring-openvas.ipynb#3) &#x2705; <br/>
 </details>
 <details open>
 	<summary>Using SQL Injection &#x21A9;</summary>
