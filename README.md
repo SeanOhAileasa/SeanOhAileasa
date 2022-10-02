@@ -690,7 +690,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 02/10/2022
-"update repository ./ptp-practice-labs (Scanning a Vulnerable System - Analyzing the Web Server)"
+"update repository ./ptp-practice-labs (Scanning a Vulnerable System - OpenVAS Scanning)"
 -->
 
 <details open>
@@ -807,7 +807,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - [``Finding and Identifying the Target``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#1) &#x2705; <br/>
 - [``Analyzing the Web Server``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#2) &#x2705; <br/>
-- [``OpenVAS Scanning``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#3) &#x274C; <br/>
+- [``OpenVAS Scanning``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#3) &#x2705; <br/>
 </details>
 <details open>
 	<summary>Discovering IoT devices with Shodan &#x21A9;</summary>
