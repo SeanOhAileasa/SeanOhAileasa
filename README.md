@@ -351,7 +351,7 @@
 	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
 <!--
 02/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Ransomware and Crypto-malware)"
+"update repository ./syp-attacks-threats-and-vulnerabilities (Trojans and RATs)"
 -->
 <br/>
 <details open>
