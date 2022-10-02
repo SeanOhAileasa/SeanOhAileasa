@@ -690,7 +690,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 02/10/2022
-"update repository ./ptp-practice-labs (Exploring the Basics of Metasploit - Discovery Scans using Integrated Nmap)"
+"update repository ./ptp-practice-labs (Exploring the Basics of Metasploit - Using Attack Modules in Metasploit)"
 -->
 
 <details open>
@@ -800,7 +800,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 - [``Metasploit Framework``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#1) &#x2705; <br/>
 - [``Discovery Scans using Integrated Nmap``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#2) &#x2705; <br/>
-- [``Using Attack Modules in Metasploit``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#3) &#x274C; <br/>
+- [``Using Attack Modules in Metasploit``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#3) &#x2705; <br/>
 </details>
 <details open>
 	<summary>Scanning a Vulnerable System &#x21A9;</summary>
