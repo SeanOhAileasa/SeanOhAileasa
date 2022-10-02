@@ -690,7 +690,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 02/10/2022
-"update repository ./ptp-practice-labs (Scanning a Vulnerable System - OpenVAS Scanning)"
+"update repository ./ptp-practice-labs (Discovering IoT devices with Shodan - shodan-io)"
 -->
 
 <details open>
@@ -812,7 +812,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details open>
 	<summary>Discovering IoT devices with Shodan &#x21A9;</summary>
 
-- [``shodan-io``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/discovering-iot-devices-with-shodan/ptp-discovering-iot-devices-with-shodan.ipynb#1) &#x274C; <br/>
+- [``shodan-io``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/discovering-iot-devices-with-shodan/ptp-discovering-iot-devices-with-shodan.ipynb#1) &#x2705; <br/>
 - [``Utilizing Search Filters``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/discovering-iot-devices-with-shodan/ptp-discovering-iot-devices-with-shodan.ipynb#2) &#x274C; <br/>
 </details>
 <details open>
