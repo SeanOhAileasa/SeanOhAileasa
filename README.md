@@ -690,7 +690,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 02/10/2022
-"update repository ./ptp-practice-labs (Discovering IoT devices with Shodan - Utilizing Search Filters)"
+"update repository ./ptp-practice-labs (Monitoring with Aircrack-ng - aircrack-ng)"
 -->
 
 <details open>
@@ -818,7 +818,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details open>
 	<summary>Monitoring with Aircrack-ng &#x21A9;</summary>
 
-- [``aircrack-ng``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/monitoring-with-aircrack-ng/ptp-monitoring-with-aircrack-ng.ipynb#1) &#x274C; <br/>
+- [``aircrack-ng``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/monitoring-with-aircrack-ng/ptp-monitoring-with-aircrack-ng.ipynb#1) &#x2705; <br/>
 - [``Setting Up``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/monitoring-with-aircrack-ng/ptp-monitoring-with-aircrack-ng.ipynb#2) &#x274C; <br/>
 - [``Using Tools``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/monitoring-with-aircrack-ng/ptp-monitoring-with-aircrack-ng.ipynb#3) &#x274C; <br/>
 </details>
