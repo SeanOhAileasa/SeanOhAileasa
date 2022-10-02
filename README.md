@@ -689,8 +689,8 @@
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-01/10/2022
-"update repository ./ptp-practice-labs (Using SQL Injection - Blind SQL Injection)"
+02/10/2022
+"update repository ./ptp-practice-labs (Exploring the Basics of Metasploit - Metasploit Framework)"
 -->
 
 <details open>
@@ -714,7 +714,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 
 		- { ["**Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/ptp-vulnerability-scanning/blob/main/ptp-perform-vulnerability-scanning-analysis.ipynb#L) : &#x2705; }
 
-<details open>
+<details close>
 	<summary>&#x1F52C; &#x21A9;</summary>
 
 <details open>
@@ -792,13 +792,13 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 - { ["**Social Engineering Attacks**"](https://github.com/SeanOhAileasa/ptp-social-engineering-attacks/blob/main/README.md) : &#x1F513; }
 
 - { ["**Post-Exploitation Techniques**"](https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques/blob/main/README.md) : &#x1F513; }
-<details close>
+<details open>
 	<summary>&#x1F52C; &#x21A9;</summary>
 
 <details open>
 	<summary>Exploring the Basics of Metasploit &#x21A9;</summary>
 
-- [``Metasploit Framework``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#1) &#x274C; <br/>
+- [``Metasploit Framework``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#1) &#x2705; <br/>
 - [``Discovery Scans using Integrated Nmap``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#2) &#x274C; <br/>
 - [``Using Attack Modules in Metasploit``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-the-basics-of-metasploit/ptp-exploring-the-basics-of-metasploit.ipynb#3) &#x274C; <br/>
 </details>
