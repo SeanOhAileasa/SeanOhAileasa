@@ -690,7 +690,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 02/10/2022
-"update repository ./ptp-practice-labs (Scanning a Vulnerable System - Finding and Identifying the Target)"
+"update repository ./ptp-practice-labs (Scanning a Vulnerable System - Analyzing the Web Server)"
 -->
 
 <details open>
@@ -806,7 +806,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 	<summary>Scanning a Vulnerable System &#x21A9;</summary>
 
 - [``Finding and Identifying the Target``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#1) &#x2705; <br/>
-- [``Analyzing the Web Server``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#2) &#x274C; <br/>
+- [``Analyzing the Web Server``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#2) &#x2705; <br/>
 - [``OpenVAS Scanning``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/scanning-a-vulnerable-system/ptp-scanning-a-vulnerable-system.ipynb#3) &#x274C; <br/>
 </details>
 <details open>
