@@ -690,7 +690,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 02/10/2022
-"update repository ./ptp-practice-labs (Discovering IoT devices with Shodan - shodan-io)"
+"update repository ./ptp-practice-labs (Discovering IoT devices with Shodan - Utilizing Search Filters)"
 -->
 
 <details open>
@@ -813,7 +813,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 	<summary>Discovering IoT devices with Shodan &#x21A9;</summary>
 
 - [``shodan-io``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/discovering-iot-devices-with-shodan/ptp-discovering-iot-devices-with-shodan.ipynb#1) &#x2705; <br/>
-- [``Utilizing Search Filters``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/discovering-iot-devices-with-shodan/ptp-discovering-iot-devices-with-shodan.ipynb#2) &#x274C; <br/>
+- [``Utilizing Search Filters``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/discovering-iot-devices-with-shodan/ptp-discovering-iot-devices-with-shodan.ipynb#2) &#x2705; <br/>
 </details>
 <details open>
 	<summary>Monitoring with Aircrack-ng &#x21A9;</summary>
