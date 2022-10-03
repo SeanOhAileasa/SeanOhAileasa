@@ -38,8 +38,8 @@
 	<summary><b>&#x1F4CC; CompTIA Network+ &#x21A9; </b></summary>
 	 
 <!--
-30/09/2022
-"update repository ./nkp-cybersecurity-apprenticeship (30/09/2022)" 
+03/10/2022
+"update repository ./nkp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 
@@ -690,7 +690,7 @@
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-02/10/2022
+03/10/2022
 "update repository ./ptp-practice-labs (Monitoring with Aircrack-ng - Setting Up)"
 -->
 
