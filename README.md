@@ -1,4 +1,5 @@
-### Cybersecurity Associate Candidate (Apprenticeship NFQ L6)
+<details open> 
+	<summary><h3>Cybersecurity Associate Candidate (Apprenticeship NFQ L6) &#x21A9; </h3> </summary>
 
 |Prefix|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
@@ -10,7 +11,7 @@
 | &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [Funded by HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
 
 <details open> 
-	<summary>&#x1F6A7; ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </summary> <br/>
+	<summary><h4>&#x1F6A7; ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary> <br/>
 
 <details close>
 <!--
@@ -37,8 +38,8 @@
 	<summary><b>&#x1F4CC; CompTIA Network+ &#x21A9; </b></summary>
 	 
 <!--
-29/09/2022
-"update repository ./nkp-cybersecurity-apprenticeship" 
+30/09/2022
+"update repository ./nkp-cybersecurity-apprenticeship (30/09/2022)" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 
@@ -1219,10 +1220,13 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END (CompTIA Cloud+) -->
 
 </details> <!-- END (Supplemental) -->
-
+<hr width=33%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
 
-### Higher Diploma in Science in Computing (in Data Analytics)
+</details> <!-- END (Cybersecurity Associate Candidate (Apprenticeship NFQ L6)) -->
+
+<details close> 
+	<summary><h3>Higher Diploma in Science in Computing (in Data Analytics) &#x21A9; </h3> </summary>
 
 | **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade   |
 | :--------------------------------------------------------------|:-------:|:-------:|
@@ -1241,7 +1245,7 @@ eC=Lesson 6-Automation Concepts
 ### GMIT Overall Result: First Class Honours (1.1) - Grade: 77.6%
 
 <details close>
-	<summary>&#x2705; Galway/Mayo I.T. H.Dip (L8) Programme (Data Analytics) &#x21A9;</summary>
+	<summary><h4>&#x2705; Galway/Mayo I.T. H.Dip (L8) Programme (Data Analytics) &#x21A9; </h4></summary>
 
 <!--
 16/04/2022
@@ -1418,10 +1422,13 @@ eC=Lesson 6-Automation Concepts
 
 </details>
 
-### References - Acronyms and Abbreviations - Miscellaneous
+</details> <!-- END: Higher Diploma in Science in Computing (in Data Analytics) -->
+
+<details close> 
+	<summary><h3>References - Acronyms and Abbreviations - (Miscellaneous) &#x21A9; </h3> </summary>
 
 <details close>
-	<summary>&#x21A9; Open</summary> <br/>
+	<summary>&#x21A9; Guide</summary> <br/>
 
 - &#x21A9; Expand / Dropdown List
 - &#x1F4CC; Apprenticeship / Progress
@@ -1436,3 +1443,5 @@ eC=Lesson 6-Automation Concepts
 - &#x2705; Semester / Topic Finished
 - &#x2623; Private Repository / Exit
 </details>
+
+</details> <!-- END: References - Acronyms and Abbreviations - (Miscellaneous) -->
