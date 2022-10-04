@@ -684,17 +684,17 @@
 </details> <!-- END (CompTIA Security+ - Practice Labs) -->
 </details> <!-- END (CompTIA Security+) -->
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-03/10/2022
-"update repository ./ptp-practice-labs (Monitoring with Aircrack-ng - Setting Up)"
+04/10/2022
+"update repository ./ptp-pentest (Review/Summary)"
 -->
 
-<details open>
+<details close>
 	<summary>Planning and Scoping &#x21A9; <b>14%</b></summary>
 
 - { ["**Scoping and Engagement**"](https://github.com/SeanOhAileasa/ptp-scoping-and-engagement/blob/main/README.md) : &#x2705; }
@@ -702,7 +702,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 - { ["**Professionalism and Integrity**](https://github.com/SeanOhAileasa/ptp-professionalism-and-integrity/blob/main/README.md) : &#x1F513; }
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary>Information Gathering and Vulnerability Scanning &#x21A9; <b>22%</b></summary>
 
 - { ["**Passive Reconnaissance**"](https://github.com/SeanOhAileasa/ptp-passive-reconnaissance/blob/main/README.md) : &#x1F513; }
@@ -718,7 +718,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details close>
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
-<details open>
+<details close>
 	<summary>Reconnaissance Tools &#x21A9;</summary>
 
 - [``nslookup``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/nslookup-dig-whois/ptp-nslookup-dig-whois.ipynb#1) &#x2705; <br/>
@@ -777,7 +777,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 </details> <!-- END: Information Gathering and Vulnerability Scanning -->
 </details> <!-- END: Labs -->
 <hr width=25%;>
-<details open>
+<details close>
 	<summary>Attacks and Exploits &#x21A9; <b>30%</b></summary>
 
 - { ["**Network Attacks and Exploits**"](https://github.com/SeanOhAileasa/ptp-network-attacks-and-exploits/blob/main/README.md) : &#x1F513; }
@@ -866,7 +866,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 </details> <!-- END: Labs -->
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary>Reporting and Communication &#x21A9; <b>18%</b></summary>
 
 - { ["**Written Reports**"](https://github.com/SeanOhAileasa/ptp-written-reports/blob/main/README.md) : &#x1F513; }
@@ -874,7 +874,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 - { ["**Communication & Post-Report Activities**"](https://github.com/SeanOhAileasa/ptp-communication-and-post-report-activities/blob/main/README.md) : &#x1F513; }
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary>Tools and Code Analysis &#x21A9; <b>16%</b></summary>
 
 - { ["**Analyzing Tool & Script Output**"](https://github.com/SeanOhAileasa/ptp-analyzing-tool-and-script-output/blob/main/README.md) : &#x1F513; }
@@ -907,7 +907,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 </details> <!-- END: Labs -->
 </details>
 <hr width=25%;>
-<details close>
+<details open>
     <summary>Supplemental &#x21A9;</summary>
 
 - { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
