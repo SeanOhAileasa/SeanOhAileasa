@@ -691,7 +691,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 06/10/2022
-"update repository ./ptp-practice-labs (Public Exploit Sites Exploit Database)"
+"update repository ./ptp-practice-labs (Public Exploit Sites National Vulnerability Database)"
 -->
 
 <details close>
