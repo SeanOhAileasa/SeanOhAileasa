@@ -691,7 +691,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 06/10/2022
-"update repository ./ptp-practice-labs (Metasploit Exploits)"
+"update repository ./ptp-practice-labs (Exploring Password Attacks with john the Ripper and Hydra - John the Ripper)"
 -->
 
 <details close>
@@ -833,7 +833,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details open>
 	<summary>Exploring Password Attacks with john the Ripper and Hydra &#x21A9;</summary>
 
-- [``john-the-ripper``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-password-attacks-with-john-the-ripper-and-hydra/ptp-exploring-password-attacks-with-john-the-ripper-and-hydra.ipynb#1) &#x274C; <br/>
+- [``John the Ripper``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-password-attacks-with-john-the-ripper-and-hydra/ptp-exploring-password-attacks-with-john-the-ripper-and-hydra.ipynb#1) &#x1F513; <br/>
 - [``hydra``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/exploring-password-attacks-with-john-the-ripper-and-hydra/ptp-exploring-password-attacks-with-john-the-ripper-and-hydra.ipynb#2) &#x274C; <br/>
 </details>
 <details open>
