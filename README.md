@@ -690,8 +690,8 @@
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-04/10/2022
-"update repository ./ptp-pentest (Review/Summary)"
+06/10/2022
+"update repository ./ptp-practice-labs (Public Exploit Sites Exploit Database)"
 -->
 
 <details close>
@@ -826,7 +826,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 <details open>
 	<summary>Analyzing Exploit Code &#x21A9;</summary>
 
-- [``Public Exploit Sites Exploit Database``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#1) &#x274C; <br/>
+- [``Public Exploit Sites Exploit Database``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#1) &#x1F513; <br/>
 - [``Public Exploit Sites National Vulnerability Database``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#2) &#x274C; <br/>
 - [``Metasploit Exploits``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#3) &#x274C; <br/>
 </details>
