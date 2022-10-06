@@ -691,7 +691,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
 06/10/2022
-"update repository ./ptp-practice-labs (Public Exploit Sites National Vulnerability Database)"
+"update repository ./ptp-practice-labs (Metasploit Exploits)"
 -->
 
 <details close>
@@ -827,8 +827,8 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 	<summary>Analyzing Exploit Code &#x21A9;</summary>
 
 - [``Public Exploit Sites Exploit Database``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#1) &#x1F513; <br/>
-- [``Public Exploit Sites National Vulnerability Database``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#2) &#x274C; <br/>
-- [``Metasploit Exploits``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#3) &#x274C; <br/>
+- [``Public Exploit Sites National Vulnerability Database``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#2) &#x1F513; <br/>
+- [``Metasploit Exploits``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/analyzing-exploit-code/ptp-analyzing-exploit-code.ipynb#3) &#x1F513; <br/>
 </details>
 <details open>
 	<summary>Exploring Password Attacks with john the Ripper and Hydra &#x21A9;</summary>
