@@ -6,7 +6,7 @@
 | &nbsp;&nbsp;&nbsp;``itf-``&nbsp;&nbsp; | CompTIA ITF+                       |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+ &#x1F4CC;<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>CompTIA Security+<br/><br/>                               |  &#x1F201; |
-| &nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA PenTest+ <br/><br/>                | &#x1F23A;  |
+| &nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA PenTest+ <br/><br/>                |  |
 | &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CySA+<br/><br/>                   | &#x1F530; |
 | &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [Funded by HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
 
@@ -684,7 +684,7 @@
 </details> <!-- END (CompTIA Security+ - Practice Labs) -->
 </details> <!-- END (CompTIA Security+) -->
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
@@ -907,7 +907,7 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 </details> <!-- END: Labs -->
 </details>
 <hr width=25%;>
-<details open>
+<details close>
     <summary>Supplemental &#x21A9;</summary>
 
 - { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
@@ -915,40 +915,81 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
 <hr width=33%;>
-<details close>
-	<summary><b>CompTIA CySA+ &#x21A9;</b></summary>
+<details open>
+	<summary><b>CompTIA CySA+ &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 6-Automation Concepts
 -->	
 <!--
-25/08/2022
-"update repository ./cap-threat-intelligence"
+08/10/2022
+"update repository ./cap-threat-and-vulnerability-management (Threat Data and Intelligence)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
 
 - { ["**Threat and Vulnerability Management**"](https://github.com/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/README.md) : &#x1F6A7; } <br/> 
+
+	- { ["**Threat and Data Intelligence**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-data-and-intelligence.ipynb) : &#x1F6A7; } <br/> 
 </details>
-<details open>
+<hr width=25%;>
+<details close>
 	<summary> Software and Systems Security &#x21A9; 18%</summary>
 
 - { ["**Software and Systems Security**"](https://github.com/SeanOhAileasa/cap-software-and-systems-security/blob/main/README.md) : &#x1F6A7; } <br/> 
 </details>
-<details open>
+<hr width=25%;>
+<details close>
 	<summary> Security Operations and Monitoring &#x21A9; 25%</summary>
 
 - { ["**Security Operations and Monitoring**"](https://github.com/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/README.md) : &#x1F6A7; } <br/> 
 </details>
-<details open>
+<hr width=25%;>
+<details close>
 	<summary> Incident Response &#x21A9; 22%</summary>
 
 - { ["**Incident Response**"](https://github.com/SeanOhAileasa/cap-incident-response/blob/main/README.md) : &#x1F6A7; } <br/> 
 </details>
-<details open>
+<hr width=25%;>
+<details close>
 	<summary> Compliance and Assessment &#x21A9; 13%</summary>
 
 - { ["**Compliance and Assessment**"](https://github.com/SeanOhAileasa/cap-compliance-and-assessment/blob/main/README.md) : &#x1F6A7; } <br/> 
 </details>
+<hr width=25%;>
+<details close>
+    <summary>Supplemental &#x21A9;</summary>
+
+- { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F513; }
+
+- { ["**Business Continuity**"](https://github.com/SeanOhAileasa/cap-business-continuity/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Attack Types**"](https://github.com/SeanOhAileasa/cap-attack-types/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Malware Threats**"](https://github.com/SeanOhAileasa/cap-malware-threats/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Encryption and Hashing**"](https://github.com/SeanOhAileasa/cap-encryption-and-hashing/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Hardware and Security**"](https://github.com/SeanOhAileasa/cap-hardware-and-security/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Cloud Computing**"](https://github.com/SeanOhAileasa/cap-cloud-computing/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Threat Monitoring**"](https://github.com/SeanOhAileasa/cap-threat-monitoring/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**User Account Security**"](https://github.com/SeanOhAileasa/cap-user-account-security/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Network Infrastructure Security**"](https://github.com/SeanOhAileasa/cap-network-infrastructure-security/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Software Development Security**"](https://github.com/SeanOhAileasa/cap-software-development-security/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Data Privacy**"](https://github.com/SeanOhAileasa/cap-data-privacy/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Digital Forensics**"](https://github.com/SeanOhAileasa/cap-digital-forensics/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**IT Security Risk Mitigation**"](https://github.com/SeanOhAileasa/cap-it-security-risk-mitigation/blob/main/README.md) : &#x1F6A7; }
+
+- { ["**Intrusion Detection and Traffic Analysis**"](https://github.com/SeanOhAileasa/cap-intrusion-detection-and-traffic-analysis/blob/main/README.md) : &#x1F6A7; }
+</details> <!-- END (Skillsoft) -->
+<hr width=25%;>
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
 <br/>	
@@ -1155,40 +1196,6 @@ eC=Lesson 6-Automation Concepts
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
 </details> <!-- END (CompTIA CySA+ - Practice Labs) -->
-
-<details close>
-    <summary>Supplemental &#x21A9;</summary>
-
-- { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F513; }
-
-- { ["**Business Continuity**"](https://github.com/SeanOhAileasa/cap-business-continuity/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Attack Types**"](https://github.com/SeanOhAileasa/cap-attack-types/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Malware Threats**"](https://github.com/SeanOhAileasa/cap-malware-threats/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Encryption and Hashing**"](https://github.com/SeanOhAileasa/cap-encryption-and-hashing/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Hardware and Security**"](https://github.com/SeanOhAileasa/cap-hardware-and-security/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Cloud Computing**"](https://github.com/SeanOhAileasa/cap-cloud-computing/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Threat Monitoring**"](https://github.com/SeanOhAileasa/cap-threat-monitoring/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**User Account Security**"](https://github.com/SeanOhAileasa/cap-user-account-security/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Network Infrastructure Security**"](https://github.com/SeanOhAileasa/cap-network-infrastructure-security/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Software Development Security**"](https://github.com/SeanOhAileasa/cap-software-development-security/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Data Privacy**"](https://github.com/SeanOhAileasa/cap-data-privacy/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Digital Forensics**"](https://github.com/SeanOhAileasa/cap-digital-forensics/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**IT Security Risk Mitigation**"](https://github.com/SeanOhAileasa/cap-it-security-risk-mitigation/blob/main/README.md) : &#x1F6A7; }
-
-- { ["**Intrusion Detection and Traffic Analysis**"](https://github.com/SeanOhAileasa/cap-intrusion-detection-and-traffic-analysis/blob/main/README.md) : &#x1F6A7; }
-</details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA CySA+) -->
 <hr width=33%;>
 <details close>
