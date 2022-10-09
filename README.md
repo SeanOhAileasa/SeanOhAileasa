@@ -922,7 +922,7 @@ eC=Lesson 6-Automation Concepts
 -->	
 <!--
 09/10/2022
-"update repository ./cap-threat-and-vulnerability-management (Threat Intelligence and Organizational Security)"
+"update repository ./cap-threat-and-vulnerability-management (Vulnerability Management)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -931,6 +931,7 @@ eC=Lesson 6-Automation Concepts
 
 	- { ["**Threat and Data Intelligence**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-data-and-intelligence.ipynb) : &#x1F513; } <br/><br/> 
 	- { ["**Threat Intelligence and Organizational Security**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-intelligence-and-organizational-security.ipynb) : &#x1F513; } <br/><br/> 
+    - { ["**Vulnerability Management**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-management.ipynb) : &#x1F513; } <br/>		
 </details>
 <hr width=25%;>
 <details close>
