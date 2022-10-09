@@ -1,13 +1,13 @@
 <details open> 
 	<summary><h3>Cybersecurity Associate Candidate (Apprenticeship NFQ L6) &#x21A9; </h3> </summary>
 
-|Prefix|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
+|Prefix|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
 | &nbsp;&nbsp;&nbsp;``itf-``&nbsp;&nbsp; | CompTIA ITF+                       |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
-| &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+ &#x1F4CC;<br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
-| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>CompTIA Security+<br/><br/>                               |  &#x1F201; |
+| &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+ <br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
+| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>CompTIA Security+ &#x1F4CC; [``10th Oct:9th Dec``]<br/><br/>                               |   |
 | &nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA PenTest+ <br/><br/>                | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-pentest-pt-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-PenTest-plus-certificate.pdf) |
-| &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CySA+<br/><br/>                   | &#x1F530; |
+| &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA Cybersecurity Analyst (CySA+)<br/><br/>                   |  |
 | &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [Funded by HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
 
 <details open> 
@@ -35,7 +35,7 @@
 </details>
 <hr width=33%;>
 <details close>
-	<summary><b>&#x1F4CC; CompTIA Network+ &#x21A9; </b></summary>
+	<summary><b>&#x2705; CompTIA Network+ &#x21A9; </b></summary>
 	 
 <!--
 04/10/2022
@@ -349,7 +349,7 @@
 </details> <!-- eCollege -->
 <hr width=33%;>
 <details close>
-	<summary><b>CompTIA Security+ &#x21A9;</b></summary>
+	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 <!--
 02/10/2022
 "update repository ./syp-attacks-threats-and-vulnerabilities (Rootkits)"
@@ -690,8 +690,8 @@
 eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 -->
 <!--
-06/10/2022
-"update repository ./ptp-practice-labs (Exploring Password Attacks with john the Ripper and Hydra - Hydra)"
+07/10/2022
+CompTIA PenTest+ Certification Exam - Status: Pass.
 -->
 
 <details close>
@@ -916,20 +916,21 @@ eC=Lesson 11-Exploiting the Network Vulnerabilities Lab
 </details> <!-- END (CompTIA PenTest+) -->
 <hr width=33%;>
 <details open>
-	<summary><b>CompTIA CySA+ &#x21A9;</b></summary><br/>
+	<summary><b>CompTIA Cybersecurity Analyst (CySA+) &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 6-Automation Concepts
 -->	
 <!--
-08/10/2022
-"update repository ./cap-threat-and-vulnerability-management (Threat Data and Intelligence)"
+09/10/2022
+"update repository ./cap-threat-and-vulnerability-management (Threat Intelligence and Organizational Security)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
 
 - { ["**Threat and Vulnerability Management**"](https://github.com/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/README.md) : &#x1F6A7; } <br/> 
 
-	- { ["**Threat and Data Intelligence**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-data-and-intelligence.ipynb) : &#x1F6A7; } <br/> 
+	- { ["**Threat and Data Intelligence**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-data-and-intelligence.ipynb) : &#x1F513; } <br/><br/> 
+	- { ["**Threat Intelligence and Organizational Security**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-intelligence-and-organizational-security.ipynb) : &#x1F513; } <br/><br/> 
 </details>
 <hr width=25%;>
 <details close>
