@@ -922,7 +922,7 @@ eC=Lesson 6-Automation Concepts
 -->	
 <!--
 10/10/2022
-"update repository ./cap-threat-and-vulnerability-management (Vulnerabilities in Specialized Technology)"
+"update repository ./cap-threat-and-vulnerability-management (Cloud Service Model Vulnerabilities)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -933,7 +933,8 @@ eC=Lesson 6-Automation Concepts
 	- { ["**Threat Intelligence and Organizational Security**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-intelligence-and-organizational-security.ipynb) : &#x1F513; } <br/><br/> 
     - { ["**Vulnerability Management**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-management.ipynb) : &#x1F513; } <br/><br/>		
     - { ["**Vulnerability Scanning and Enumeration and Assessment**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-scanning-and-enumeration-and-assessment.ipynb) : &#x1F513; } <br/><br/>
-    - { ["**Vulnerabilities in Specialized Technology**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerabilities-in-specialized-technology.ipynb) : &#x1F513; } <br/>
+    - { ["**Vulnerabilities in Specialized Technology**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerabilities-in-specialized-technology.ipynb) : &#x1F513; } <br/><br/>
+    - { ["**Cloud Service Model Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-cloud-service-model-vulnerabilities.ipynb) : &#x1F513; } <br/>      
 </details>
 <hr width=25%;>
 <details close>
