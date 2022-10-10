@@ -42,7 +42,7 @@
 "update repository ./nkp-cybersecurity-apprenticeship (Exam - CompTIA Network+ Completed: 30th June 2022 - CompTIA PenTest+ Completed 7th October 2022) 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb) : &#x2705; }
-
+<hr width=33%;>
 <details close>
 	<summary><b>eCollege</b> &#x21A9;</summary>
 <details close>
@@ -353,15 +353,14 @@
 
 <!--
 10/10/2022
-"add repository ./syp-cybersecurity-apprenticeship" 
+"update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb) : &#x1F4CC; }
-
+<hr width=33%;>
 <!--
 02/10/2022
 "update repository ./syp-attacks-threats-and-vulnerabilities (Rootkits)"
 -->
-<br/>
 <details open>
 	<summary>Attacks and Threats and Vulnerabilities &#x21A9; 24%</summary>
 <!--
@@ -379,6 +378,7 @@
 	
 	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F513; }
 </details>
+<hr width=25%;>
 <details open>
 	<summary>Architecture and Design &#x21A9; 21%</summary>
 <!--
@@ -404,6 +404,7 @@
 
 	- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F513; }
 </details>
+<hr width=25%;>
 <details open>
 	<summary>Implementation &#x21A9; 25%</summary>
 <!--
@@ -419,6 +420,7 @@
 
 	- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F513; }
 </details>
+<hr width=25%;>
 <details open>
 	<summary>Operations and Incident Response &#x21A9; 16%</summary>
 <!--
@@ -432,6 +434,7 @@
 
 	- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F513; }
 </details>
+<hr width=25%;>
 <details open>
 	<summary>Governance and Risk and Compliance &#x21A9; 14%</summary>
 <!--
@@ -447,6 +450,7 @@
 
 	- { ["**Monitoring, Visibility, & Reporting**"](https://github.com/SeanOhAileasa/syp-monitoring-visibility-and-reporting/blob/main/README.md) : &#x1F513; }
 </details> 
+<hr width=25%;>
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
 <br/>
