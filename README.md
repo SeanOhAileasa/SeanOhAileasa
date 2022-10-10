@@ -41,7 +41,7 @@
 04/10/2022
 "update repository ./nkp-cybersecurity-apprenticeship" 
 -->
-- { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
+- { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb) : &#x1F4CC; }
 
 <details close>
 	<summary><b>eCollege</b> &#x21A9;</summary>
@@ -921,8 +921,8 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 eC=Lesson 6-Automation Concepts
 -->	
 <!--
-09/10/2022
-"update repository ./cap-threat-and-vulnerability-management (Vulnerability Scanning and Enumeration and Assessment)"
+10/10/2022
+"update repository ./cap-threat-and-vulnerability-management (Vulnerabilities in Specialized Technology)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -932,7 +932,8 @@ eC=Lesson 6-Automation Concepts
 	- { ["**Threat and Data Intelligence**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-data-and-intelligence.ipynb) : &#x1F513; } <br/><br/> 
 	- { ["**Threat Intelligence and Organizational Security**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-threat-intelligence-and-organizational-security.ipynb) : &#x1F513; } <br/><br/> 
     - { ["**Vulnerability Management**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-management.ipynb) : &#x1F513; } <br/><br/>		
-    - { ["**Vulnerability Scanning and Enumeration and Assessment**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-scanning-and-enumeration-and-assessment.ipynb) : &#x1F513; } <br/>    
+    - { ["**Vulnerability Scanning and Enumeration and Assessment**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerability-scanning-and-enumeration-and-assessment.ipynb) : &#x1F513; } <br/><br/>
+    - { ["**Vulnerabilities in Specialized Technology**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerabilities-in-specialized-technology.ipynb) : &#x1F513; } <br/>
 </details>
 <hr width=25%;>
 <details close>
