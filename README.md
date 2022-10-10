@@ -41,7 +41,7 @@
 04/10/2022
 "update repository ./nkp-cybersecurity-apprenticeship" 
 -->
-- { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb) : &#x1F4CC; }
+- { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb) : &#x2705; }
 
 <details close>
 	<summary><b>eCollege</b> &#x21A9;</summary>
@@ -350,6 +350,13 @@
 <hr width=33%;>
 <details close>
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
+
+<!--
+10/10/2022
+"add repository ./syp-cybersecurity-apprenticeship" 
+-->
+- { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb) : &#x1F4CC; }
+
 <!--
 02/10/2022
 "update repository ./syp-attacks-threats-and-vulnerabilities (Rootkits)"
