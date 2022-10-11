@@ -933,7 +933,7 @@ eC=Lesson 6-Automation Concepts
 -->	
 <!--
 11/10/2022
-"update repository ./cap-threat-and-vulnerability-management (Software Vulnerabilities)"
+"update repository ./cap-software-and-systems-security (Infrastructure Management Solutions)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -949,10 +949,12 @@ eC=Lesson 6-Automation Concepts
     - { ["**Software Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-software-vulnerabilities.ipynb) : &#x1F513; } <br/>            
 </details>
 <hr width=25%;>
-<details close>
+<details open>
 	<summary> Software and Systems Security &#x21A9; 18%</summary>
 
 - { ["**Software and Systems Security**"](https://github.com/SeanOhAileasa/cap-software-and-systems-security/blob/main/README.md) : &#x1F6A7; } <br/> 
+
+    - { ["**Infrastructure Management Solutions**"](https://nbviewer.org/github/SeanOhAileasa/cap-software-and-systems-security/blob/main/rc/cap-infrastructure-management-solutions.ipynb) : &#x1F513; } <br/>
 </details>
 <hr width=25%;>
 <details close>
