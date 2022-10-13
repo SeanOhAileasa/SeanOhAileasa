@@ -933,7 +933,7 @@ eC=Lesson 6-Automation Concepts
 -->	
 <!--
 13/10/2022
-"update repository ./cap-software-and-systems-security (Hardware Assurance)"
+"update repository ./cap-security-operations-and-monitoring (Security Monitoring - Analysing / Monitoring Data)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -959,10 +959,12 @@ eC=Lesson 6-Automation Concepts
     - { ["**Hardware Assurance**"](https://nbviewer.org/github/SeanOhAileasa/cap-software-and-systems-security/blob/main/rc/cap-hardware-assurance.ipynb) : &#x1F513; } <br/>	
 </details>
 <hr width=25%;>
-<details close>
+<details open>
 	<summary> Security Operations and Monitoring &#x21A9; 25%</summary>
 
 - { ["**Security Operations and Monitoring**"](https://github.com/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/README.md) : &#x1F6A7; } <br/> 
+
+    - { ["**Security Monitoring**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-security-monitoring.ipynb) : &#x1F6A7; } ``50%`` <br/>
 </details>
 <hr width=25%;>
 <details close>
