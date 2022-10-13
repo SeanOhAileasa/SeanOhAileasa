@@ -932,8 +932,8 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 eC=Lesson 6-Automation Concepts
 -->	
 <!--
-12/10/2022
-"update repository ./cap-software-and-systems-security (Software Assurance)"
+13/10/2022
+"update repository ./cap-software-and-systems-security (Hardware Assurance)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -955,7 +955,8 @@ eC=Lesson 6-Automation Concepts
 - { ["**Software and Systems Security**"](https://github.com/SeanOhAileasa/cap-software-and-systems-security/blob/main/README.md) : &#x1F6A7; } <br/> 
 
     - { ["**Infrastructure Management Solutions**"](https://nbviewer.org/github/SeanOhAileasa/cap-software-and-systems-security/blob/main/rc/cap-infrastructure-management-solutions.ipynb) : &#x1F513; } <br/><br/>
-	- { ["**Software Assurance**"](https://nbviewer.org/github/SeanOhAileasa/cap-software-and-systems-security/blob/main/rc/cap-software-assurance.ipynb) : &#x1F513; } <br/>
+	- { ["**Software Assurance**"](https://nbviewer.org/github/SeanOhAileasa/cap-software-and-systems-security/blob/main/rc/cap-software-assurance.ipynb) : &#x1F513; } <br/><br/>
+    - { ["**Hardware Assurance**"](https://nbviewer.org/github/SeanOhAileasa/cap-software-and-systems-security/blob/main/rc/cap-hardware-assurance.ipynb) : &#x1F513; } <br/>	
 </details>
 <hr width=25%;>
 <details close>
