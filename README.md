@@ -44,7 +44,7 @@
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb) : &#x2705; }
 <hr width=33%;>
 <details close>
-	<summary><b>eCollege</b> &#x21A9;</summary>
+	<summary><b><i>eCollege.ie</i></b> &#x21A9;</summary>
 <details close>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
@@ -352,11 +352,13 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-13/10/2022
+14/10/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <hr width=33%;>
+<details close>
+	<summary><b><i>eCollege.ie</i></b> &#x21A9;</summary>
 <!--
 02/10/2022
 "update repository ./syp-attacks-threats-and-vulnerabilities (Rootkits)"
@@ -694,6 +696,7 @@
 <!-- ********** CompTIA Security+ - Practice Labs ********** -->
 </details> <!-- END (CompTIA Security+ - Practice Labs) -->
 </details> <!-- END (CompTIA Security+) -->
+</details> <!-- END (ecollege.ie) -->
 <hr width=33%;>
 <details close>
 	<summary><b>CompTIA PenTest+ &#x21A9;</b></summary><br/>
