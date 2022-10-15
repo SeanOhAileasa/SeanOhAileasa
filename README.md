@@ -44,7 +44,7 @@
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb) : &#x2705; }
 <hr width=33%;>
 <details close>
-	<summary><b><i>eCollege.ie</i></b> &#x21A9;</summary>
+	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
 <details close>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
@@ -358,7 +358,7 @@
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <hr width=33%;>
 <details close>
-	<summary><b><i>eCollege.ie</i></b> &#x21A9;</summary>
+	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
 <!--
 02/10/2022
 "update repository ./syp-attacks-threats-and-vulnerabilities (Rootkits)"
@@ -935,8 +935,8 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 eC=Lesson 6-Automation Concepts
 -->	
 <!--
-14/10/2022
-"update repository ./cap-security-operations-and-monitoring (Threat Hunting)"
+15/10/2022
+"update repository ./cap-security-operations-and-monitoring (Automation)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -969,7 +969,9 @@ eC=Lesson 6-Automation Concepts
 
     - { ["**Security Monitoring**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-security-monitoring.ipynb) : &#x1F6A7; } ``50%`` <br/><br/>
     - { ["**Configuration Controls**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-configuration-controls.ipynb) : &#x1F513; } <br/><br/>    
-    - { ["**Threat Hunting**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-threat-hunting.ipynb) : &#x1F513; } <br/>      
+    - { ["**Threat Hunting**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-threat-hunting.ipynb) : &#x1F513; } <br/><br/>
+    - { ["**Automation**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-automation.ipynb) : &#x1F513; } <br/><br/>
+    	- { ["**Machine Learning for Cyber Security**"](https://nbviewer.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } <br/> 
 </details>
 <hr width=25%;>
 <details close>
@@ -1263,7 +1265,7 @@ eC=Lesson 6-Automation Concepts
 <details close> 
 	<summary><h3>Higher Diploma in Science in Computing (in Data Analytics) &#x21A9; </h3> </summary>
 
-| **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade   |
+| **GMIT Higher Diploma in Data Analytics Programme:**           | Credits&nbsp;&nbsp; | Grade &nbsp;|
 | :--------------------------------------------------------------|:-------:|:-------:|
 | Machine Learning and Statistics (Python)                       | 5       | 79%     |
 | Multi-Paradigm Programming (C/Java/Python)                     | 5       | 73%     |
