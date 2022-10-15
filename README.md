@@ -936,7 +936,7 @@ eC=Lesson 6-Automation Concepts
 -->	
 <!--
 15/10/2022
-"update repository ./cap-security-operations-and-monitoring (Automation)"
+"update repository ./cap-incident-response (Incident Response Process)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -974,10 +974,12 @@ eC=Lesson 6-Automation Concepts
     	- { ["**Machine Learning for Cyber Security**"](https://nbviewer.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } <br/> 
 </details>
 <hr width=25%;>
-<details close>
+<details open>
 	<summary> Incident Response &#x21A9; 22%</summary>
 
 - { ["**Incident Response**"](https://github.com/SeanOhAileasa/cap-incident-response/blob/main/README.md) : &#x1F6A7; } <br/> 
+
+	- { ["**Incident Response Process**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-incident-response-process.ipynb) : &#x1F513; } <br/>
 </details>
 <hr width=25%;>
 <details close>
