@@ -936,7 +936,7 @@ eC=Lesson 6-Automation Concepts
 -->	
 <!--
 16/10/2022
-"update repository ./cap-compliance-and-assessment (Data and Privacy Controls)"
+"update repository ./cap-compliance-and-assessment (Organizational Risk Mitigation)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -990,7 +990,8 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Compliance and Assessment**"](https://github.com/SeanOhAileasa/cap-compliance-and-assessment/blob/main/README.md) : &#x1F6A7; } <br/> 
 
-	- { ["**Data and Privacy Controls**"](https://nbviewer.org/github/SeanOhAileasa/cap-compliance-and-assessment/blob/main/rc/cap-data-and-privacy-controls.ipynb) : &#x274C; } <br/>
+	- { ["**Data and Privacy Controls**"](https://nbviewer.org/github/SeanOhAileasa/cap-compliance-and-assessment/blob/main/rc/cap-data-and-privacy-controls.ipynb) : &#x274C; } <br/><br/>
+	- { ["**Organizational Risk Mitigation**"](https://nbviewer.org/github/SeanOhAileasa/cap-compliance-and-assessment/blob/main/rc/cap-organizational-risk-mitigation.ipynb) : &#x274C; } <br/>	
 </details>
 <hr width=25%;>
 <details close>
