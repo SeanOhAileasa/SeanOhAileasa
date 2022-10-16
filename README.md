@@ -936,7 +936,7 @@ eC=Lesson 6-Automation Concepts
 -->	
 <!--
 16/10/2022
-"update repository ./cap-incident-response (Indicators of Compromise - IoCs - Traffic Spike and DDoS-Related IoCs C&C Activity)"
+"update repository ./cap-incident-response (Digital Forensics Techniques)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -981,7 +981,8 @@ eC=Lesson 6-Automation Concepts
 
 	- { ["**Incident Response Process**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-incident-response-process.ipynb) : &#x1F513; } <br/><br/>
 	- { ["**Applying Incident Response Procedures**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-applying-incident-response-procedures.ipynb) : &#x1F6A7; } ``50%`` <br/><br/>
-	- { ["**Indicators of Compromise - IoCs**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-indicators-of-compromise-iocs.ipynb) : &#x1F6A7; } ``25%`` <br/>	
+	- { ["**Indicators of Compromise - IoCs**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-indicators-of-compromise-iocs.ipynb) : &#x1F6A7; } ``25%`` <br/><br/>
+	- { ["**Digital Forensics Techniques**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-digital-forensics-techniques.ipynb) : &#x274C; } <br/>		
 </details>
 <hr width=25%;>
 <details close>
