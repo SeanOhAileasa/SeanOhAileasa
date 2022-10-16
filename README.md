@@ -360,8 +360,8 @@
 <details close>
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
 <!--
-02/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Rootkits)"
+16/10/2022
+"update repository ./syp-attacks-threats-and-vulnerabilities (Spyware)"
 -->
 <details open>
 	<summary>Attacks and Threats and Vulnerabilities &#x21A9; 24%</summary>
