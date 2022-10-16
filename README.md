@@ -936,7 +936,7 @@ eC=Lesson 6-Automation Concepts
 -->	
 <!--
 16/10/2022
-"update repository ./cap-incident-response (Applying Incident Response Procedures - Applying Detection and Containment Processes / Impact Analysis / Containment)"
+"update repository ./cap-incident-response (Indicators of Compromise - IoCs - Traffic Spike and DDoS-Related IoCs C&C Activity)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -980,7 +980,8 @@ eC=Lesson 6-Automation Concepts
 - { ["**Incident Response**"](https://github.com/SeanOhAileasa/cap-incident-response/blob/main/README.md) : &#x1F6A7; } <br/> 
 
 	- { ["**Incident Response Process**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-incident-response-process.ipynb) : &#x1F513; } <br/><br/>
-	- { ["**Applying Incident Response Procedures**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-applying-incident-response-procedures.ipynb) : &#x1F6A7; } ``50%`` <br/>	
+	- { ["**Applying Incident Response Procedures**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-applying-incident-response-procedures.ipynb) : &#x1F6A7; } ``50%`` <br/><br/>
+	- { ["**Indicators of Compromise - IoCs**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-indicators-of-compromise-iocs.ipynb) : &#x1F6A7; } ``25%`` <br/>	
 </details>
 <hr width=25%;>
 <details close>
