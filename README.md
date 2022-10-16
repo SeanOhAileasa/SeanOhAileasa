@@ -361,7 +361,7 @@
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
 <!--
 16/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Cryptographic Attacks)"
+"update repository ./syp-attacks-threats-and-vulnerabilities (Privilege Escalation)"
 -->
 <details open>
 	<summary>Attacks and Threats and Vulnerabilities &#x21A9; 24%</summary>
@@ -929,7 +929,7 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA Cybersecurity Analyst (CySA+) &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 6-Automation Concepts
