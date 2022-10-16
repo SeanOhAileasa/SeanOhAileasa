@@ -361,7 +361,7 @@
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
 <!--
 16/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Privilege Escalation)"
+"update repository ./syp-attacks-threats-and-vulnerabilities (Cross-site Scripting)"
 -->
 <details open>
 	<summary>Attacks and Threats and Vulnerabilities &#x21A9; 24%</summary>
