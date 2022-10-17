@@ -45,6 +45,7 @@
 <hr width=33%;>
 <details close>
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
+<br/>
 <details close>
 	<summary>Network Concepts &#x21A9;</summary>
 <!--
@@ -348,7 +349,7 @@
 </details> <!-- END (CompTIA Network+) -->
 </details> <!-- eCollege -->
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
@@ -357,12 +358,13 @@
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
 <!--
-16/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Cross-site Scripting)"
+17/10/2022
+"update repository ./syp-attacks-threats-and-vulnerabilities (Injection Attacks)"
 -->
+<br/>
 <details open>
 	<summary>Attacks and Threats and Vulnerabilities &#x21A9; 24%</summary>
 <!--
@@ -381,7 +383,7 @@
 	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F513; }
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary>Architecture and Design &#x21A9; 21%</summary>
 <!--
 12/06/2022
@@ -407,7 +409,7 @@
 	- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F513; }
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary>Implementation &#x21A9; 25%</summary>
 <!--
 03/07/2022
@@ -423,7 +425,7 @@
 	- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F513; }
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary>Operations and Incident Response &#x21A9; 16%</summary>
 <!--
 12/07/2022
@@ -437,7 +439,7 @@
 	- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F513; }
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary>Governance and Risk and Compliance &#x21A9; 14%</summary>
 <!--
 24/05/2022
@@ -929,7 +931,7 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA Cybersecurity Analyst (CySA+) &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 6-Automation Concepts
