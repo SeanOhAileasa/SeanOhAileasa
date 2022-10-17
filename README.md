@@ -362,7 +362,7 @@
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
 <!--
 17/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Injection Attacks)"
+"update repository ./syp-attacks-threats-and-vulnerabilities (Buffer Overflows)"
 -->
 <br/>
 <details open>
