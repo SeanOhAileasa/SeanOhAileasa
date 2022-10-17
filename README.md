@@ -352,7 +352,7 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-14/10/2022
+17/10/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
@@ -929,7 +929,7 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA Cybersecurity Analyst (CySA+) &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 6-Automation Concepts
