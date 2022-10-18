@@ -364,7 +364,7 @@
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))
 18/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Wireless Disassociation Attacks)"
+"update repository ./syp-attacks-threats-and-vulnerabilities (Wireless Jamming)"
 -->
 <br/>
 <details open>
