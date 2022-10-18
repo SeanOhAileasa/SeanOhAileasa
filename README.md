@@ -358,7 +358,7 @@
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
 <!--
 from IPython.display import display,HTML
@@ -933,14 +933,14 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA Cybersecurity Analyst (CySA+) &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 6-Automation Concepts
 -->	
 <!--
-16/10/2022
-"update repository ./cap-compliance-and-assessment (Frameworks Policies Procedures and Controls)"
+18/10/2022
+"update repository ./cap-security-operations-and-monitoring (Security Monitoring - Log Reviews)"
 -->
 <details open>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -971,7 +971,7 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Security Operations and Monitoring**"](https://github.com/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/README.md) : &#x1F6A7; } <br/> 
 
-    - { ["**Security Monitoring**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-security-monitoring.ipynb) : &#x1F6A7; } ``50%`` <br/><br/>
+    - { ["**Security Monitoring**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-security-monitoring.ipynb) : &#x1F6A7; } ``55%`` <br/><br/>
     - { ["**Configuration Controls**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-configuration-controls.ipynb) : &#x1F513; } <br/><br/>    
     - { ["**Threat Hunting**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-threat-hunting.ipynb) : &#x1F513; } <br/><br/>
     - { ["**Automation**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-automation.ipynb) : &#x1F513; } <br/><br/>
