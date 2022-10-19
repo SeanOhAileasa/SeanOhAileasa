@@ -353,18 +353,18 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-18/10/2022
+19/10/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4CC; }
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
 <!--
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))
-18/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (RFID and NFC Attacks)"
+19/10/2022
+"update repository ./syp-attacks-threats-and-vulnerabilities (Randomizing Cryptography)"
 -->
 <br/>
 <details open>
@@ -933,7 +933,7 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA Cybersecurity Analyst (CySA+) &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 6-Automation Concepts
