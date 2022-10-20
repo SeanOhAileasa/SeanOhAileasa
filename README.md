@@ -363,8 +363,8 @@
 <!--
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))
-19/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Randomizing Cryptography)"
+20/10/2022
+"update repository ./syp-attacks-threats-and-vulnerabilities (Randomising Cryptography)"
 -->
 <br/>
 <details open>
