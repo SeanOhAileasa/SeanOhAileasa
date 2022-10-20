@@ -364,7 +364,7 @@
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))
 20/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Denial of Service)"
+"update repository ./syp-attacks-threats-and-vulnerabilities (Malicious Scripts)"
 -->
 <br/>
 <details open>
