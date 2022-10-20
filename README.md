@@ -357,14 +357,14 @@
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : ``Timesheet`` }
-<hr width=33%;>
+<hr width=33%;> 
 <details open>
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
 <!--
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))
 20/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Malicious Scripts)"
+"update repository ./syp-attacks-threats-and-vulnerabilities (Threat Actors and Vectors)"
 -->
 <br/>
 <details open>
