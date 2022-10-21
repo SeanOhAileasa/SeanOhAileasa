@@ -353,8 +353,8 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-20/10/2022
-"update repository ./syp-cybersecurity-apprenticeship" 
+21/10/2022
+"update repository ./syp-cybersecurity-apprenticeship (Schedule Update: 12th Dec 2022 - 23rd July 2023)" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : ``Timesheet`` }
 <hr width=33%;> 
