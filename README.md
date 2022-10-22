@@ -363,8 +363,8 @@
 <!--
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))
-21/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Vulnerability Types)"
+22/10/2022
+"update repository ./syp-attacks-threats-and-vulnerabilities (Third-party Risks)"
 -->
 <br/>
 <details open>
