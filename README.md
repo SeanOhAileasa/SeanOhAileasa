@@ -20,7 +20,7 @@
 -->
 	<summary><b>&#x2705; CompTIA IT Fundamentals &#x21A9; </b></summary>
 
-- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/itf-cybersecurity-apprenticeship) : ``Timesheet`` }
+- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/itf-cybersecurity-apprenticeship) : &#x1F4D6; }
 </details>
 <hr width=33%;>
 <details close>
@@ -30,7 +30,7 @@
 -->
 	<summary><b>&#x2705; Effective Communication in Business &#x21A9; </b></summary>
 
-- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/ecb-cybersecurity-apprenticeship) : ``Timesheet`` }
+- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/ecb-cybersecurity-apprenticeship) : &#x1F4D6; }
 
 </details>
 <hr width=33%;>
@@ -41,7 +41,7 @@
 10/10/2022
 "update repository ./nkp-cybersecurity-apprenticeship (Exam - CompTIA Network+ Completed: 30th June 2022 - CompTIA PenTest+ Completed 7th October 2022) 
 -->
-- { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb) : ``Timesheet`` }
+- { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb) : &#x1F4D6; }
 <hr width=33%;>
 <details close>
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
@@ -356,15 +356,15 @@
 21/10/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
-- { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : ``Timesheet`` }
+- { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x1F4D6; }
 <hr width=33%;> 
 <details open>
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
 <!--
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))
-20/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Threat Actors and Vectors)"
+21/10/2022
+"update repository ./syp-attacks-threats-and-vulnerabilities (Vulnerability Types)"
 -->
 <br/>
 <details open>
