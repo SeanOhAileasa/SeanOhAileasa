@@ -391,12 +391,14 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	<summary>Identifying Different Cyber Attacks &#x21A9;</summary>
 <!--
 22/10/2022
-"updata repository ./syp-practice-labs (Performing Online Password Attacks - cewl|hydra)"
+"updata repository ./syp-practice-labs (Performing Offline Password Attacks - unshadow|john|ncrack)"
 -->
 
 - [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x1F513; <br/> ``%0|%0`` <br/> 
 - [Creating Standalone Payloads with Msfvenom](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#CreatingStandalonePayloadswithMsfvenom) &#x1F513; <br/>``msfvenom``|``SimpleHTTPServer``|``msfconsole``|``multi/handler``|``clearev`` <br/>
 - [Performing Online Password Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#PerformingOnlinePasswordAttacks) &#x1F513; <br/> ``cewl``|``hydra`` <br/> 
+- [Performing Offline Password Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#PerformingOfflinePasswordAttacks) &#x1F513; <br/> ``unshadow``|``john``|``ncrack``|<i>Cain and Abel</i> <br/> 
+- [~~Explaining Physical and Other Attacks~~](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#ExplainingPhysicalandOtherAttacks) &#x274C; <br/> 
 </details>
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
