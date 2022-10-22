@@ -391,10 +391,11 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	<summary>Identifying Different Cyber Attacks &#x21A9;</summary>
 <!--
 22/10/2022
-"updata repository ./syp-practice-labs (Malware - Fork Bomb)"
+"updata repository ./syp-practice-labs (Creating Standalone Payloads with Msfvenom - msfvenom|SimpleHTTPServer|meterpreter|msfconsole|multi/handler|clearev)"
 -->
 
-- [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x1F513; ``Fork Bomb`` <br/> 
+- [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x1F513; <br/>``Fork Bomb``|``%0|%0`` <br/> 
+- [Creating Standalone Payloads with Msfvenom](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#CreatingStandalonePayloadswithMsfvenom) &#x1F513; <br/>``msfvenom``|``SimpleHTTPServer``|``meterpreter``|``msfconsole``|``multi/handler``|``clearev`` <br/>
 </details>
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
