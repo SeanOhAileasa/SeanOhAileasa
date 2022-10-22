@@ -383,6 +383,20 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 		- { ["**Analyzing Application and Network Attacks**"](https://github.com/SeanOhAileasa/syp-analyzing-application-and-network-attacks/blob/main/README.md) : &#x2705; }
 	
 	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F513; }
+
+<details open>
+	<summary>&#x1F52C; &#x21A9;</summary>
+<br/>
+<details open>
+	<summary>Identifying Different Cyber Attacks &#x21A9;</summary>
+<!--
+22/10/2022
+"updata repository ./syp-practice-labs (Malware - Fork Bomb)"
+-->
+
+- [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x1F513; ``Fork Bomb`` <br/> 
+</details>
+</details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
 <hr width=25%;>
 <details close>
