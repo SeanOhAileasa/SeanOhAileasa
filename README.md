@@ -391,11 +391,12 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	<summary>Identifying Different Cyber Attacks &#x21A9;</summary>
 <!--
 22/10/2022
-"updata repository ./syp-practice-labs (Creating Standalone Payloads with Msfvenom - msfvenom|SimpleHTTPServer|meterpreter|msfconsole|multi/handler|clearev)"
+"updata repository ./syp-practice-labs (Performing Online Password Attacks - cewl|hydra)"
 -->
 
-- [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x1F513; <br/>``Fork Bomb``|``%0|%0`` <br/> 
-- [Creating Standalone Payloads with Msfvenom](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#CreatingStandalonePayloadswithMsfvenom) &#x1F513; <br/>``msfvenom``|``SimpleHTTPServer``|``meterpreter``|``msfconsole``|``multi/handler``|``clearev`` <br/>
+- [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x1F513; <br/> ``%0|%0`` <br/> 
+- [Creating Standalone Payloads with Msfvenom](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#CreatingStandalonePayloadswithMsfvenom) &#x1F513; <br/>``msfvenom``|``SimpleHTTPServer``|``msfconsole``|``multi/handler``|``clearev`` <br/>
+- [Performing Online Password Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#PerformingOnlinePasswordAttacks) &#x1F513; <br/> ``cewl``|``hydra`` <br/> 
 </details>
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
