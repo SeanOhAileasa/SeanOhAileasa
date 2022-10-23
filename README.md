@@ -422,7 +422,7 @@
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
 23/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Managing Security)"
+"update repository ./syp-attacks-threats-and-vulnerabilities (Site Resiliency)"
 -->
 
 - { ["**Architecture and Design**"](https://github.com/SeanOhAileasa/syp-architecture-and-design/blob/main/README.md) : &#x1F6A7; }
