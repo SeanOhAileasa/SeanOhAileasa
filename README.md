@@ -389,7 +389,7 @@
 	<summary>Identifying Different Cyber Attacks &#x21A9;</summary>
 <!--
 23/10/2022
-"updata repository ./syp-practice-labs (Identifying Indicators of a Network Attack - Wireless)"
+"updata repository ./syp-practice-labs (Identifying Indicators of a Network Attack - Domain Name System (DNS))"
 -->
 
 - [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x1F513; <br/> <i>Fork Bomb</i>|``%0|%0`` <br/> 
@@ -409,7 +409,7 @@
     <summary>Identifying Indicators of a Network Attack &#x21A9;</summary>
 
 - &#x1F4DC; [Wireless](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingIndicatorsofaNetworkAttack.html#Wireless) &#x2B55; <br/>
-- [Domain Name System (DNS)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingIndicatorsofaNetworkAttack.html#DomainNameSystemDNS) &#x274C; <br/>
+- [Domain Name System (DNS)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingIndicatorsofaNetworkAttack.html#DomainNameSystem(DNS)) &#x1F513; <br/> ``talosintelligence.com`` <br/>
 </details>
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
