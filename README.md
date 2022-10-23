@@ -391,10 +391,10 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	<summary>Identifying Different Cyber Attacks &#x21A9;</summary>
 <!--
 23/10/2022
-"updata repository ./syp-practice-labs (Social Engineering Techniques and Exploits - Reconnaissance)"
+"updata repository ./syp-practice-labs (Identifying Indicators of a Network Attack - Wireless)"
 -->
 
-- [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x1F513; <br/> ``%0|%0`` <br/> 
+- [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x1F513; <br/> <i>Fork Bomb</i>|``%0|%0`` <br/> 
 - [Creating Standalone Payloads with Msfvenom](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#CreatingStandalonePayloadswithMsfvenom) &#x1F513; <br/>``msfvenom``|``SimpleHTTPServer``|``msfconsole``|``multi/handler``|``clearev`` <br/>
 - [Performing Online Password Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#PerformingOnlinePasswordAttacks) &#x1F513; <br/> ``cewl``|``hydra`` <br/> 
 - [Performing Offline Password Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#PerformingOfflinePasswordAttacks) &#x1F513; <br/> ``unshadow``|``john``|``ncrack``|<i>Cain and Abel</i> <br/> 
@@ -406,6 +406,11 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - &#x1F4DC; [Social Engineering](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SocialEngineeringTechniquesandExploits.html#SocialEngineering) &#x2B55; <br/>
 - &#x1F4DC; [Social Engineering Principles](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SocialEngineeringTechniquesandExploits.html#SocialEngineeringPrinciples) &#x2B55; <br/>
 - [Reconnaissance](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SocialEngineeringTechniquesandExploits.html#Reconnaissance) &#x1F513; <br/> <i>GHDB</i>|``"'username' =>"+"'password' =>"ext:log``<br/>``nslookup``|``recon-ng``|``theHarvester``|``nmap``|``p0f`` <br/> 
+</details>
+<details open>
+    <summary>Identifying Indicators of a Network Attack &#x21A9;</summary>
+
+- &#x1F4DC; [Wireless](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingIndicatorsofaNetworkAttack.html#Wireless) &#x2B55; <br/>
 </details>
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
