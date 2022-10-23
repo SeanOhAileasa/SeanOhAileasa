@@ -364,7 +364,7 @@
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))
 23/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Reconnaissance)"
+"update repository ./syp-attacks-threats-and-vulnerabilities (Security Teams)"
 -->
 <br/>
 <details open>
