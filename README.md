@@ -361,8 +361,6 @@
 <details open>
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
 <!--
-from IPython.display import display,HTML
-display(HTML("<style>.container { width:100% !important; }</style>"))
 23/10/2022
 "update repository ./syp-attacks-threats-and-vulnerabilities (Security Teams)"
 -->
@@ -374,7 +372,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 "updata repository ./syp-security-concepts-in-an-enterprise-environment"
 -->
 
-- { ["**Attacks and Threats and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-attacks-threats-and-vulnerabilities/blob/main/README.md) : &#x1F513; }
+- { ["**Attacks and Threats and Vulnerabilities**"](https://github.com/SeanOhAileasa/syp-attacks-threats-and-vulnerabilities/blob/main/README.md) : &#x2705; }
 
 	- { ["**Social Engineering Techniques & Attack Types**"](https://github.com/SeanOhAileasa/syp-social-engineering-and-types-of-attacks/blob/main/README.md) : &#x2705; }
 
@@ -415,11 +413,13 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
 <hr width=25%;>
-<details close>
+<details open>
 	<summary>Architecture and Design &#x21A9; 21%</summary>
 <!--
-12/06/2022
-"update repository ./syp-architecture-and-design (Cryptographic Concepts)"
+from IPython.display import display,HTML
+display(HTML("<style>.container { width:100% !important; }</style>"))	
+23/10/2022
+"update repository ./syp-architecture-and-design (Configuration Management)"
 -->
 
 - { ["**Architecture and Design**"](https://github.com/SeanOhAileasa/syp-architecture-and-design/blob/main/README.md) : &#x1F6A7; }
@@ -490,14 +490,6 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
 <br/>
-<details open>
-	<summary>Identifying Indicators of a Network Attack &#x21A9;</summary> 
-
-- [Wireless](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingIndicatorsofaNetworkAttack.html#Wireless) &#x274C; <br/>
-- [Domain Name System (DNS)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingIndicatorsofaNetworkAttack.html#DomainNameSystem(DNS)) &#x274C; <br/>
-- [Other Types of Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingIndicatorsofaNetworkAttack.html#OtherTypesofAttacks) &#x274C; <br/>
-- [Malicious Code or Script Execution](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingIndicatorsofaNetworkAttack.html#MaliciousCodeorScriptExecution) &#x274C; <br/>
-</details>
 <details open>
 	<summary>Network Security Assessment Tools &#x21A9;</summary> 
 
