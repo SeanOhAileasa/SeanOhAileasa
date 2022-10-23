@@ -409,6 +409,7 @@
     <summary>Identifying Indicators of a Network Attack &#x21A9;</summary>
 
 - &#x1F4DC; [Wireless](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingIndicatorsofaNetworkAttack.html#Wireless) &#x2B55; <br/>
+- [Domain Name System (DNS)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingIndicatorsofaNetworkAttack.html#DomainNameSystemDNS) &#x274C; <br/>
 </details>
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
@@ -419,7 +420,7 @@
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
 23/10/2022
-"update repository ./syp-architecture-and-design (Configuration Management)"
+"update repository ./syp-architecture-and-design (Protecting Data)"
 -->
 
 - { ["**Architecture and Design**"](https://github.com/SeanOhAileasa/syp-architecture-and-design/blob/main/README.md) : &#x1F6A7; }
