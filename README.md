@@ -391,7 +391,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	<summary>Identifying Different Cyber Attacks &#x21A9;</summary>
 <!--
 23/10/2022
-"updata repository ./syp-practice-labs (Social Engineering Techniques and Exploits - Social Engineering)"
+"updata repository ./syp-practice-labs (Social Engineering Techniques and Exploits - Social Engineering Principles)"
 -->
 
 - [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x1F513; <br/> ``%0|%0`` <br/> 
@@ -404,6 +404,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
     <summary>Social Engineering Techniques and Exploits &#x21A9;</summary>
 
 - &#x1F4DC; [Social Engineering](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SocialEngineeringTechniquesandExploits.html#SocialEngineering) &#x2B55; <br/>
+- &#x1F4DC; [Social Engineering Principles](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SocialEngineeringTechniquesandExploits.html#SocialEngineeringPrinciples) &#x2B55; <br/>
 </details>
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
