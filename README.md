@@ -390,15 +390,20 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <details open>
 	<summary>Identifying Different Cyber Attacks &#x21A9;</summary>
 <!--
-22/10/2022
-"updata repository ./syp-practice-labs (Performing Offline Password Attacks - unshadow|john|ncrack)"
+23/10/2022
+"updata repository ./syp-practice-labs (Social Engineering Techniques and Exploits - Social Engineering)"
 -->
 
 - [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x1F513; <br/> ``%0|%0`` <br/> 
 - [Creating Standalone Payloads with Msfvenom](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#CreatingStandalonePayloadswithMsfvenom) &#x1F513; <br/>``msfvenom``|``SimpleHTTPServer``|``msfconsole``|``multi/handler``|``clearev`` <br/>
 - [Performing Online Password Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#PerformingOnlinePasswordAttacks) &#x1F513; <br/> ``cewl``|``hydra`` <br/> 
 - [Performing Offline Password Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#PerformingOfflinePasswordAttacks) &#x1F513; <br/> ``unshadow``|``john``|``ncrack``|<i>Cain and Abel</i> <br/> 
-- [~~Explaining Physical and Other Attacks~~](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#ExplainingPhysicalandOtherAttacks) &#x274C; <br/> 
+- &#x1F4DC; [Explaining Physical and Other Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#ExplainingPhysicalandOtherAttacks) &#x274C; <br/> 
+</details>
+<details open>
+    <summary>Social Engineering Techniques and Exploits &#x21A9;</summary>
+
+- &#x1F4DC; [Social Engineering](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SocialEngineeringTechniquesandExploits.html#SocialEngineering) &#x2B55; <br/>
 </details>
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
@@ -1508,6 +1513,7 @@ eC=Lesson 6-Automation Concepts
 - &#x1F232; Prohibited / Low Priority
 - &#x1F52C; Walkthrough / Practice
 - &#x1F513; Read / Review / Skim &#x2B55;
+- &#x1F4DC; Non-interactive / Theory
 - &#x1F512; Live Lab Completed (1st)  
 - &#x2705; Semester / Topic Finished
 - &#x2623; Private Repository / Exit
