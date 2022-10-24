@@ -427,7 +427,7 @@
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
 24/10/2022
-"update repository ./syp-attacks-threats-and-vulnerabilities (Honeypots and Deception)"
+"update repository ./syp-attacks-threats-and-vulnerabilities (Cloud Models)"
 -->
 
 - { ["**Architecture and Design**"](https://github.com/SeanOhAileasa/syp-architecture-and-design/blob/main/README.md) : &#x1F6A7; }
