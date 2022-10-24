@@ -418,7 +418,7 @@
 
 - [Network Reconnaissance and Discovery](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#NetworkReconnaissanceandDiscovery) &#x1F513; 
 <br/> ``ifconfig``|``nmap``|``dig`` <br/>
-- [Information Gathering](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#InformationGathering) &#x1F513; <br/> ``arp``|``dnsenum``|``dnsenum ``|``arping`` <br/>
+- [Information Gathering](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#InformationGathering) &#x1F513; <br/> ``arp``|``dnsenum``|``dnsenum``|``arping`` <br/>
 </details>
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
@@ -972,7 +972,7 @@ eC=Lesson 6-Automation Concepts
 -->	
 <!--
 24/10/2022
-"update repository ./cap-security-operations-and-monitoring (Security Monitoring - Endpoint Data Collection and Analytics)"
+"update repository ./cap-security-operations-and-monitoring (Security Monitoring - Anomalous Behavior Analysis)"
 -->
 <details close>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
