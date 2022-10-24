@@ -353,7 +353,7 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-21/10/2022
+24/10/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x23F2; }
@@ -1502,7 +1502,7 @@ eC=Lesson 6-Automation Concepts
 <details close> 
 	<summary><h3>References - Acronyms and Abbreviations - (Miscellaneous) &#x21A9; </h3> </summary>
 
-<details close>
+<details open>
 	<summary>&#x21A9; Guide</summary> <br/>
 
 - &#x21A9; Expand / Dropdown List
