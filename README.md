@@ -973,7 +973,7 @@ eC=Lesson 6-Automation Concepts
 -->	
 <!--
 24/10/2022
-"update repository ./cap-security-operations-and-monitoring (Security Monitoring - Anomalous Behavior Analysis)"
+"update repository ./cap-security-operations-and-monitoring (Security Monitoring - Analyzing Email Monitoring Results)"
 -->
 <details close>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
