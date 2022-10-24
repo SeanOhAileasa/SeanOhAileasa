@@ -389,7 +389,7 @@
 	<summary>Identifying Different Cyber Attacks &#x21A9;</summary>
 <!--
 24/10/2022
-"updata repository ./syp-practice-labs (Network Security Assessment Tools - Network Reconnaissance and Discovery)" 
+"updata repository ./syp-practice-labs (Network Security Assessment Tools - Information Gathering)" 
 -->
 
 - [Malware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentCyberAttacks.html#Malware) &#x1F513; <br/> <i>Fork Bomb</i>|``%0|%0`` <br/> 
@@ -416,7 +416,9 @@
 <details open>
     <summary>Network Security Assessment Tools &#x21A9;</summary>
 
-- [Network Reconnaissance and Discovery](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#NetworkReconnaissanceandDiscovery) &#x1F513; <br/> ``ifconfig``|``nmap``|``dig`` <br/>
+- [Network Reconnaissance and Discovery](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#NetworkReconnaissanceandDiscovery) &#x1F513; 
+<br/> ``ifconfig``|``nmap``|``dig`` <br/>
+- [Information Gathering](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#InformationGathering) &#x1F513; <br/> ``arp``|``dnsenum``|``dnsenum ``|``arping`` <br/>
 </details>
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
