@@ -1029,8 +1029,17 @@ eC=Lesson 6-Automation Concepts
 	- { ["**Frameworks Policies Procedures and Controls**"](https://nbviewer.org/github/SeanOhAileasa/cap-compliance-and-assessment/blob/main/rc/cap-frameworks-policies-procedures-and-controls.ipynb) : &#x274C; } <br/>	
 </details>
 <hr width=25%;>
-<details close>
+<details open>
     <summary>Supplemental &#x21A9;</summary>
+<!--
+24/10/2022
+"add repository ./cap-cysa"
+-->
+
+- { ["**CompTIA CySa+**"](https://github.com/SeanOhAileasa/cap-cysa/blob/main/README.md) : &#x1F6A7; }
+
+<details close>
+    <summary>&#x274C; Skillsoft &#x21A9;</summary>
 
 - { ["**Threat Intelligence**"](https://github.com/SeanOhAileasa/cap-threat-intelligence/blob/main/README.md) : &#x1F513; }
 
@@ -1062,9 +1071,10 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Intrusion Detection and Traffic Analysis**"](https://github.com/SeanOhAileasa/cap-intrusion-detection-and-traffic-analysis/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (Skillsoft) -->
+</details> <!-- END (Supplemental) -->
 <hr width=25%;>
 <details close>
-	<summary><i>Practice Labs</i> &#x21A9;</summary>
+	<summary>&#x274C; <i>Practice Labs</i> &#x21A9;</summary>
 <br/>	
 <details open>
 	<summary>Vulnerabilities &#x21A9;</summary>
