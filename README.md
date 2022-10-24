@@ -963,16 +963,16 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA Cybersecurity Analyst (CySA+) &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 6-Automation Concepts
 -->	
 <!--
-18/10/2022
-"update repository ./cap-incident-response (Applying Incident Response Procedures - Apply Processes)"
+24/10/2022
+"update repository ./cap-security-operations-and-monitoring (Security Monitoring - Endpoint Data Collection and Analytics)"
 -->
-<details open>
+<details close>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
 
 - { ["**Threat and Vulnerability Management**"](https://github.com/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/README.md) : &#x1F6A7; } <br/> 
@@ -986,7 +986,7 @@ eC=Lesson 6-Automation Concepts
     - { ["**Software Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-software-vulnerabilities.ipynb) : &#x1F513; } <br/> 
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary> Software and Systems Security &#x21A9; 18%</summary>
 
 - { ["**Software and Systems Security**"](https://github.com/SeanOhAileasa/cap-software-and-systems-security/blob/main/README.md) : &#x1F6A7; } <br/> 
@@ -1001,14 +1001,14 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Security Operations and Monitoring**"](https://github.com/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/README.md) : &#x1F6A7; } <br/> 
 
-    - { ["**Security Monitoring**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-security-monitoring.ipynb) : &#x1F6A7; } ``55%`` <br/><br/>
+    - { ["**Security Monitoring**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-security-monitoring.ipynb) : &#x1F6A7; } ``60%`` <br/><br/>
     - { ["**Configuration Controls**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-configuration-controls.ipynb) : &#x1F513; } <br/><br/>    
     - { ["**Threat Hunting**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-threat-hunting.ipynb) : &#x1F513; } <br/><br/>
     - { ["**Automation**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-automation.ipynb) : &#x1F513; } <br/><br/>
     	- { ["**Machine Learning for Cyber Security**"](https://nbviewer.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } <br/> 
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary> Incident Response &#x21A9; 22%</summary>
 
 - { ["**Incident Response**"](https://github.com/SeanOhAileasa/cap-incident-response/blob/main/README.md) : &#x1F6A7; } <br/> 
@@ -1019,7 +1019,7 @@ eC=Lesson 6-Automation Concepts
 	- { ["**Digital Forensics Techniques**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-digital-forensics-techniques.ipynb) : &#x274C; } <br/>		
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary> Compliance and Assessment &#x21A9; 13%</summary>
 
 - { ["**Compliance and Assessment**"](https://github.com/SeanOhAileasa/cap-compliance-and-assessment/blob/main/README.md) : &#x1F6A7; } <br/> 
