@@ -430,7 +430,7 @@
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
 24/10/2022
-"update repository ./syp-architecture-and-design (Edge and Fog Computing)"
+"update repository ./syp-architecture-and-design (Designing the Cloud)"
 -->
 
 - { ["**Architecture and Design**"](https://github.com/SeanOhAileasa/syp-architecture-and-design/blob/main/README.md) : &#x1F6A7; }
@@ -497,6 +497,17 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 	- { ["**Monitoring, Visibility, & Reporting**"](https://github.com/SeanOhAileasa/syp-monitoring-visibility-and-reporting/blob/main/README.md) : &#x1F513; }
 </details> 
+<hr width=25%;>
+<details open>
+    <summary>Supplemental &#x21A9;</summary>
+<!--
+24/10/2022
+"add repository ./syp-security"
+-->
+
+- { ["**CompTIA Security+**"](https://github.com/SeanOhAileasa/syp-security/blob/main/README.md) : &#x1F6A7; }
+
+</details> <!-- END (Skillsoft) -->
 <hr width=25%;>
 <details close>
 	<summary><i>Practice Labs</i> &#x21A9;</summary>
