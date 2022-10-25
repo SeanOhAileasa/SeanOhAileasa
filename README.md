@@ -349,7 +349,7 @@
 </details> <!-- END (CompTIA Network+) -->
 </details> <!-- eCollege -->
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
@@ -414,12 +414,46 @@
 - &#x1F4DC; [Malicious Code or Script Execution](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingIndicatorsofaNetworkAttack.html#MaliciousCodeorScriptExecution) &#x1F513; <br/> ``powershell.exe``|``Bypass`` <br/>
 </details>
 <details open>
+    <summary>Gathering Intelligence on Threat Actors and Vectors &#x21A9;</summary>
+
+- [Actors and Threats](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/GatheringIntelligenceonThreatActorsandVectors.html#ActorsandThreats) &#x274C; <br/>
+- [Threat Vectors](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/GatheringIntelligenceonThreatActorsandVectors.html#ThreatVectors) &#x274C; <br/>
+- [Threat Intelligence Sources](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/GatheringIntelligenceonThreatActorsandVectors.html#ThreatIntelligenceSources) &#x274C; <br/>
+- [Research Sources](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/GatheringIntelligenceonThreatActorsandVectors.html#ResearchSources) &#x274C; <br/>
+- [Threat Map](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/GatheringIntelligenceonThreatActorsandVectors.html#ThreatMap) &#x274C; <br/>
+- [Vulnerability Databases](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/GatheringIntelligenceonThreatActorsandVectors.html#VulnerabilityDatabases) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Determining Security Vulnerabilities &#x21A9;</summary>
+
+- [Security Concerns and Vulnerabilities](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DeterminingSecurityVulnerabilities.html#SecurityConcernsandVulnerabilities) &#x274C; <br/>
+- [Third-Party Risks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DeterminingSecurityVulnerabilities.html#ThirdPartyRisks) &#x274C; <br/>
+- [Improper or Weak Patch Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DeterminingSecurityVulnerabilities.html#ImproperorWeakPatchManagement) &#x274C; <br/>
+- [Impacts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DeterminingSecurityVulnerabilities.html#Impacts) &#x274C; <br/>
+</details>
+<details open>
     <summary>Network Security Assessment Tools &#x21A9;</summary>
 
 - [Network Reconnaissance and Discovery](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#NetworkReconnaissanceandDiscovery) &#x1F513; 
 <br/> ``ifconfig``|``nmap``|``dig`` <br/>
 - [Information Gathering](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#InformationGathering) &#x1F513; <br/> ``arp``|``dnsenum``|``dnsenum``|``arping`` <br/>
 - [File Manipulation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#FileManipulation) &#x1F513; <br/> ``cat``|``head``|``tail``|``grep``|``chmod`` <br/>
+- [Shell and Script Environments](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#ShellandScriptEnvironments) &#x274C; <br/>
+- [Packet Capture and Replay](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#PacketCaptureandReplay) &#x274C; <br/>
+- [Forensics](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#Forensics) &#x274C; <br/>
+- [Exploitation Frameworks, Password Crackers and Data Sanitization](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#ExploitationFrameworksPasswordCrackersandDataSanitization) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Security Assessment Techniques &#x21A9;</summary>
+
+- [Threat Hunting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecurityAssessmentTechniques.html#ThreatHunting) &#x274C; <br/>
+- [Studying Vulnerability Scans](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecurityAssessmentTechniques.html#StudyingVulnerabilityScans) &#x274C; <br/>
+- [Exploring Syslog/Security Information and Event Management (SIEM)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecurityAssessmentTechniques.html#ExploringSyslog/SecurityInformationandEventManagementSIEM) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Penetration Testing Techniques &#x21A9;</summary>
+
+- [Explain Penetration Testing and its Types](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/PenetrationTestingTechniques.html#ExplainPenetrationTestinganditsTypes) &#x274C; <br/>
 </details>
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
@@ -450,6 +484,83 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- { ["**Physical Security Controls**"](https://github.com/SeanOhAileasa/syp-physical-security-controls/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Basic Cryptography and Public Key Infrastructure**"](https://github.com/SeanOhAileasa/syp-basic-cryptography-and-public-key-infrastructure/blob/main/README.md) : &#x1F513; }
+
+<details close>
+	<summary>&#x1F52C; &#x21A9;</summary>
+<br/>
+<details open>
+    <summary>Cybersecurity Backup and Restore Strategies &#x21A9;</summary>
+
+- [Redundancy](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CybersecurityBackupandRestoreStrategies.html#Redundancy) &#x274C; <br/>
+- [Replication](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CybersecurityBackupandRestoreStrategies.html#Replication) &#x274C; <br/>
+- [Backup Types](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CybersecurityBackupandRestoreStrategies.html#BackupTypes) &#x274C; <br/>
+- [Create a System Image Backup](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CybersecurityBackupandRestoreStrategies.html#CreateaSystemImageBackup) &#x274C; <br/>
+- [Non-Persistence and Resilience](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CybersecurityBackupandRestoreStrategies.html#NonPersistenceandResilience) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Enterprise Network Security Configuration Concepts &#x21A9;</summary>
+
+- [Importance of Security Concepts in an Enterprise Environment](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/EnterpriseNetworkSecurityConfigurationConcepts.html#ImportanceofSecurityConceptsinanEnterpriseEnvironment) &#x274C; <br/>
+- [Set up a Honeypot with Pentbox](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/EnterpriseNetworkSecurityConfigurationConcepts.html#SetupaHoneypotwithPentbox) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Cloud and Virtualization Concepts &#x21A9;</summary>
+
+- [Virtualization and Cloud Computing Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CloudandVirtualizationConcepts.html#VirtualizationandCloudComputingConcepts) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Securing a Cloud Infrastructure &#x21A9;</summary>
+
+- [Cloud Security Controls and Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecuringaCloudInfrastructure.html#CloudSecurityControlsandSolutions) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Identity and Account Management Mechanisms &#x21A9;</summary>
+
+- [Identity](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentityandAccountManagementMechanisms.html#Identity) &#x274C; <br/>
+- [Account Types](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentityandAccountManagementMechanisms.html#AccountTypes) &#x274C; <br/>
+- [Account Policies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentityandAccountManagementMechanisms.html#AccountPolicies) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Authentication and Authorization Implementation Techniques &#x21A9;</summary>
+
+- [Using Directory Services to Administer User and Group Accounts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationImplementationTechniques.html#UsingDirectoryServicestoAdministerUserandGroupAccounts) &#x274C; <br/>
+- [Authentication Methods](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationImplementationTechniques.html#AuthenticationMethods) &#x274C; <br/>
+- [Biometric](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationImplementationTechniques.html#Biometric) &#x274C; <br/>
+- [Enable Multifactor Authentication](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationImplementationTechniques.html#EnableMultifactorAuthentication) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Authentication and Authorization Solutions &#x21A9;</summary>
+
+- [Authentication Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationSolutions.html#AuthenticationManagement) &#x274C; <br/>
+- [Authentication](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationSolutions.html#Authentication) &#x274C; <br/>
+- [Access Control Schemes](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationSolutions.html#AccessControlSchemes) &#x274C; <br/>
+- [Manage File Permissions and Ownership on a Linux System](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationSolutions.html#ManageFilePermissionsandOwnershiponaLinuxSystem) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Physical Security Control Mechanisms &#x21A9;</summary>
+
+- [Physical Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/PhysicalSecurityControlMechanisms.html#PhysicalSecurity) &#x274C; <br/>
+- [Data Destruction and Disposal Methods](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/PhysicalSecurityControlMechanisms.html#DataDestructionandDisposalMethods) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Cryptographic Basic Concepts &#x21A9;</summary>
+
+- [Knowing the Cryptographic Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CryptographicBasicConcepts.html#KnowingtheCryptographicConcepts) &#x274C; <br/>
+- [Implementing Cryptography](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CryptographicBasicConcepts.html#ImplementingCryptography) &#x274C; <br/>
+- [Using Steganography](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CryptographicBasicConcepts.html#UsingSteganography) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Implementing a Public Key Infrastructure &#x21A9;</summary>
+
+- [PKI Fundamentals](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#PKIFundamentals) &#x274C; <br/>
+- [Create a Self-signed Certificate](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#CreateaSelfsignedCertificate) &#x274C; <br/>
+- [Install and Configure Active Directory Certificate Services](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#InstallandConfigureActiveDirectoryCertificateServices) &#x274C; <br/>
+- [Configure Certificate Revocation Lists (CRLs)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#ConfigureCertificateRevocationListsCRLs) &#x274C; <br/>
+- [Manage Certificate Templates](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#ManageCertificateTemplates) &#x274C; <br/>
+- [Configure Certificate Auto Enrollment](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#ConfigureCertificateAutoEnrollment) &#x274C; <br/>
+- [Implement Key Archival](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#ImplementKeyArchival) &#x274C; <br/>
+</details>
+</details> <!-- END: Practice Labs - Architecture and Design -->		
 </details>
 <hr width=25%;>
 <details close>
@@ -466,7 +577,74 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- { ["**Implementing Secure Network Designs**"](https://github.com/SeanOhAileasa/syp-implementing-secure-network-designs/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F513; }
+
+<details open>
+	<summary>&#x1F52C; &#x21A9;</summary>
+<br/>
+<details open>
+    <summary>Implementation of Secure Protocols &#x21A9;</summary>
+
+- [Working with Domain Name System Security Extensions (DNSSEc)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementationofSecureProtocols.html#WorkingwithDomainNameSystemSecurityExtensionsDNSSEc) &#x274C; <br/>
+- [Configuring IPSec](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementationofSecureProtocols.html#ConfiguringIPSec) &#x274C; <br/>
+- [Knowing the Security Protocols](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementationofSecureProtocols.html#KnowingtheSecurityProtocols) &#x274C; <br/>
 </details>
+<details open>
+    <summary>Identifying Different Application Exploits &#x21A9;</summary>
+
+- [Cross Site Scripting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#CrossSiteScripting) &#x274C; <br/>
+- [SQL Injection](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#SQLInjection) &#x274C; <br/>
+- [Information Leakage and Improper Error Handling](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#InformationLeakageandImproperErrorHandling) &#x274C; <br/>
+- [Race Conditions, Memory Leak, Resource Exhaustion and Overflow Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#RaceConditions,MemoryLeak,ResourceExhaustionandOverflowAttacks) &#x274C; <br/>
+- [Directory Traversal and Path Manipulation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#DirectoryTraversalandPathManipulation) &#x274C; <br/>
+- [Privilege Escalation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#PrivilegeEscalation) &#x274C; <br/>
+- [Driver Manipulation and Replay Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#DriverManipulationandReplayAttacks) &#x274C; <br/>
+- [Pass the Hash, API Attacks, Request Forgeries, Pointer Dereference and SSL Stripping](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#PasstheHashAPIAttacksRequestForgeriesPointerDereferenceandSSLStripping) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Application Hardening Deployment Techniques &#x21A9;</summary>
+
+- [Secure Application Development, Deployment, and Automation Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationHardeningDeploymentTechniques.html#SecureApplicationDevelopmentDeploymentandAutomationConcepts) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Application and Host Hardening Techniques &#x21A9;</summary>
+
+- [Endpoint Protection](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationandHostHardeningTechniques.html#EndpointProtection) &#x274C; <br/>
+- [Boot Integrity](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationandHostHardeningTechniques.html#BootIntegrity) &#x274C; <br/>
+- [Database](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationandHostHardeningTechniques.html#Database) &#x274C; <br/>
+- [Application Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationandHostHardeningTechniques.html#ApplicationSecurity) &#x274C; <br/>
+- [Hardening](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationandHostHardeningTechniques.html#Hardening) &#x274C; <br/>
+- [Sandboxing](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationandHostHardeningTechniques.html#Sandboxing) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Implementing Secure Network Solutions &#x21A9;</summary>
+
+- [Load Balancing](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingSecureNetworkSolutions.html#LoadBalancing) &#x274C; <br/>
+- [Network Segmentation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingSecureNetworkSolutions.html#NetworkSegmentation) &#x274C; <br/>
+- [Virtual Private Network - VPN](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingSecureNetworkSolutions.html#VirtualPrivateNetworkVPN) &#x274C; <br/>
+- [Port Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingSecureNetworkSolutions.html#PortSecurity) &#x274C; <br/>
+- [Network Appliances and Services](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingSecureNetworkSolutions.html#NetworkAppliancesandServices) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Cyber Security Vulnerabilities of Embedded Systems &#x21A9;</summary>
+
+- [Security Implications of Embedded and Specialized Systems](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CyberSecurityVulnerabilitiesofEmbeddedSystems.html#SecurityImplicationsofEmbeddedandSpecializedSystems) &#x274C; <br/>s
+</details>
+<details open>
+    <summary>Implementing Wireless Security Configurations &#x21A9;</summary>
+
+- [Wireless Network and its Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingWirelessSecurityConfigurations.html#WirelessNetworkanditsSecurity) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Mobile Security Solutions &#x21A9;</summary>
+
+- [Connection Methods and Receivers](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/MobileSecuritySolutions.html#ConnectionMethodsandReceivers) &#x274C; <br/>
+- [Mobile Device Management (MDM)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/MobileSecuritySolutions.html#MobileDeviceManagement(MDM)) &#x274C; <br/>
+- [Mobile Devices](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/MobileSecuritySolutions.html#MobileDevices) &#x274C; <br/>
+- [Enforcement and Monitoring](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/MobileSecuritySolutions.html#EnforcementandMonitoring) &#x274C; <br/>
+- [Deployment Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/MobileSecuritySolutions.html#DeploymentModels) &#x274C; <br/>
+</details>
+</details> <!-- END: Practice Labs - Implementation -->		
+</details>	
 <hr width=25%;>
 <details close>
 	<summary>Operations and Incident Response &#x21A9; 16%</summary>
@@ -480,6 +658,38 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- { ["**Organizational Security Assessment Tools and Mitigation Controls**"](https://github.com/SeanOhAileasa/syp-organizational-security-assessment-tools-and-mitigation-controls/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F513; }
+
+<details open>
+	<summary>&#x1F52C; &#x21A9;</summary>
+<br/>
+<details open>
+    <summary>Securing an Environment using Mitigating Techniques &#x21A9;</summary>
+
+- [Mitigation Techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecuringanEnvironmentusingMitigatingTechniques.html#MitigationTechniques) &#x274C; <br/>
+- [Software Restriction Policies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecuringanEnvironmentusingMitigatingTechniques.html#SoftwareRestrictionPolicies) &#x274C; <br/>
+- [Firewall](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecuringanEnvironmentusingMitigatingTechniques.html#Firewall) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Incident Response Policies and Procedures &#x21A9;</summary>
+
+- [Incident Response Process, Attack Frameworks and Stakeholder Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponsePoliciesandProcedures.html#IncidentResponseProcessAttackFrameworksandStakeholderManagement) &#x274C; <br/>
+- [Disaster Recovery, Business Continuity and Continuity of Operations](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponsePoliciesandProcedures.html#DisasterRecoveryBusinessContinuityandContinuityofOperations) &#x274C; <br/>
+- [Incident Response Teams and Retention Policies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponsePoliciesandProcedures.html#IncidentResponseTeamsandRetentionPolicies) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Incident Response Tools &#x21A9;</summary>
+
+- [Configuring System Logging](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponseTools.html#ConfiguringSystemLogging) &#x274C; <br/>
+- [Using Tcpdump and Logging](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponseTools.html#UsingTcpdumpandLogging) &#x274C; <br/>
+- [Capturing Packets with Wireshark](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponseTools.html#CapturingPacketswithWireshark) &#x274C; <br/>
+- [Work with Logs in Windows](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponseTools.html#WorkwithLogsinWindows) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Digital Data Forensic Techniques &#x21A9;</summary>
+
+- [Data Forensic Techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DigitalDataForensicTechniques.html#DataForensicTechniques) &#x274C; <br/>
+</details>
+</details> <!-- END: Practice Labs - Operations and Incident Response -->		
 </details>
 <hr width=25%;>
 <details close>
@@ -496,6 +706,36 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- { ["**Risk Management, Privacy and Sensitive Data Security**"](https://github.com/SeanOhAileasa/syp-risk-management-privacy-and-sensitive-data-security/blob/main/README.md) : &#x1F513; }
 
 	- { ["**Monitoring, Visibility, & Reporting**"](https://github.com/SeanOhAileasa/syp-monitoring-visibility-and-reporting/blob/main/README.md) : &#x1F513; }
+
+<details open>
+	<summary>&#x1F52C; &#x21A9;</summary>
+<br/>
+<details open>
+    <summary>Control Mechanisms, Standards and Frameworks &#x21A9;</summary>
+
+- [Privacy and Sensitive Data Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ControlMechanisms,StandardsandFrameworks.html#PrivacyandSensitiveDataConcepts) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Organizational Risk Management and Policies &#x21A9;</summary>
+
+- [Risk Types and Risk Management Strategies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#RiskTypesandRiskManagementStrategies) &#x274C; <br/>
+- [Risk Analysis](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#RiskAnalysis) &#x274C; <br/>
+- [Disasters and Business Impact Analysis](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#DisastersandBusinessImpactAnalysis) &#x274C; <br/>
+- [Personnel Controls](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#PersonnelControls) &#x274C; <br/>
+- [Third-Party Risk Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#ThirdPartyRiskManagement) &#x274C; <br/>
+- [Data Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#DataManagement) &#x274C; <br/>
+- [Credential Policies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#CredentialPolicies) &#x274C; <br/>
+- [Organizational Policies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#OrganizationalPolicies) &#x274C; <br/>
+</details>
+<details open>
+    <summary>Data Protection Implementation &#x21A9;</summary>
+
+- [Data Breach](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DataProtectionImplementation.html#DataBreach) &#x274C; <br/>
+- [Data Classifications and Privacy Enhancing Techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DataProtectionImplementation.html#DataClassificationsandPrivacyEnhancingTechniques) &#x274C; <br/>
+- [Organizational Roles and Responsibilities for data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DataProtectionImplementation.html#OrganizationalRolesandResponsibilitiesfordata) &#x274C; <br/>
+- [Information Life Cycle](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DataProtectionImplementation.html#InformationLifeCycle) &#x274C; <br/>
+</details>
+</details> <!-- END: Practice Labs - Governance and Risk and Compliance -->		
 </details> 
 <hr width=25%;>
 <details open>
@@ -508,241 +748,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - { ["**CompTIA Security+**"](https://github.com/SeanOhAileasa/syp-security/blob/main/README.md) : &#x1F6A7; }
 
 </details> <!-- END (Skillsoft) -->
-<hr width=25%;>
-<details close>
-	<summary><i>Practice Labs</i> &#x21A9;</summary>
-<br/>
-<details open>
-	<summary>Network Security Assessment Tools &#x21A9;</summary> 
-
-- [Network Reconnaissance and Discovery](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#NetworkReconnaissanceandDiscovery) &#x274C; <br/>
-- [Information Gathering](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#InformationGathering) &#x274C; <br/>
-- [File Manipulation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#FileManipulation) &#x274C; <br/>
-- [Shell and Script Environments](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#ShellandScriptEnvironments) &#x274C; <br/>
-- [Packet Capture and Replay](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#PacketCaptureandReplay) &#x274C; <br/>
-- [Forensics](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#Forensics) &#x274C; <br/>
-- [Exploitation Frameworks, Password Crackers and Data Sanitization](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/NetworkSecurityAssessmentTools.html#ExploitationFrameworksPasswordCrackersandDataSanitization) &#x274C; <br/>
 </details>
-<details open>
-	<summary>Implementing Secure Network Solutions &#x21A9;</summary> 
-
-- [Load Balancing](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingSecureNetworkSolutions.html#LoadBalancing) &#x274C; <br/>
-- [Network Segmentation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingSecureNetworkSolutions.html#NetworkSegmentation) &#x274C; <br/>
-- [Virtual Private Network - VPN](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingSecureNetworkSolutions.html#VirtualPrivateNetworkVPN) &#x274C; <br/>
-- [Port Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingSecureNetworkSolutions.html#PortSecurity) &#x274C; <br/>
-- [Network Appliances and Services](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingSecureNetworkSolutions.html#NetworkAppliancesandServices) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Enterprise Network Security Configuration Concepts &#x21A9;</summary> 
-
-- [Importance of Security Concepts in an Enterprise Environment](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/EnterpriseNetworkSecurityConfigurationConcepts.html#ImportanceofSecurityConceptsinanEnterpriseEnvironment) &#x274C; <br/>
-- [Set up a Honeypot with Pentbox](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/EnterpriseNetworkSecurityConfigurationConcepts.html#SetupaHoneypotwithPentbox) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Physical Security Control Mechanisms &#x21A9;</summary> 
-
-- [Physical Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/PhysicalSecurityControlMechanisms.html#PhysicalSecurity) &#x274C; <br/>
-- [Data Destruction and Disposal Methods](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/PhysicalSecurityControlMechanisms.html#DataDestructionandDisposalMethods) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Gathering Intelligence on Threat Actors and Vectors &#x21A9;</summary> 
-
-- [Actors and Threats](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/GatheringIntelligenceonThreatActorsandVectors.html#ActorsandThreats) &#x274C; <br/>
-- [Threat Vectors](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/GatheringIntelligenceonThreatActorsandVectors.html#ThreatVectors) &#x274C; <br/>
-- [Threat Intelligence Sources](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/GatheringIntelligenceonThreatActorsandVectors.html#ThreatIntelligenceSources) &#x274C; <br/>
-- [Research Sources](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/GatheringIntelligenceonThreatActorsandVectors.html#ResearchSources) &#x274C; <br/>
-- [Threat Map](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/GatheringIntelligenceonThreatActorsandVectors.html#ThreatMap) &#x274C; <br/>
-- [Vulnerability Databases](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/GatheringIntelligenceonThreatActorsandVectors.html#VulnerabilityDatabases) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Determining Security Vulnerabilities &#x21A9;</summary> 
-
-- [Security Concerns and Vulnerabilities](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DeterminingSecurityVulnerabilities.html#SecurityConcernsandVulnerabilities) &#x274C; <br/>
-- [Third-Party Risks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DeterminingSecurityVulnerabilities.html#ThirdPartyRisks) &#x274C; <br/>
-- [Improper or Weak Patch Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DeterminingSecurityVulnerabilities.html#ImproperorWeakPatchManagement) &#x274C; <br/>
-- [Impacts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DeterminingSecurityVulnerabilities.html#Impacts) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Security Assessment Techniques &#x21A9;</summary> 
-
-- [Threat Hunting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecurityAssessmentTechniques.html#ThreatHunting) &#x274C; <br/>
-- [Studying Vulnerability Scans](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecurityAssessmentTechniques.html#StudyingVulnerabilityScans) &#x274C; <br/>
-- [Exploring Syslog/Security Information and Event Management (SIEM)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecurityAssessmentTechniques.html#ExploringSyslog/SecurityInformationandEventManagementSIEM) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Penetration Testing Techniques &#x21A9;</summary> 
-
-- [Explain Penetration Testing and its Types](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/PenetrationTestingTechniques.html#ExplainPenetrationTestinganditsTypes) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Authentication and Authorization Implementation Techniques &#x21A9;</summary> 
-
-- [Using Directory Services to Administer User and Group Accounts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationImplementationTechniques.html#UsingDirectoryServicestoAdministerUserandGroupAccounts) &#x274C; <br/>
-- [Authentication Methods](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationImplementationTechniques.html#AuthenticationMethods) &#x274C; <br/>
-- [Biometric](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationImplementationTechniques.html#Biometric) &#x274C; <br/>
-- [Enable Multifactor Authentication](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationImplementationTechniques.html#EnableMultifactorAuthentication) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Authentication and Authorization Solutions &#x21A9;</summary> 
-
-- [Authentication Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationSolutions.html#AuthenticationManagement) &#x274C; <br/>
-- [Authentication](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationSolutions.html#Authentication) &#x274C; <br/>
-- [Access Control Schemes](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationSolutions.html#AccessControlSchemes) &#x274C; <br/>
-- [Manage File Permissions and Ownership on a Linux System](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/AuthenticationandAuthorizationSolutions.html#ManageFilePermissionsandOwnershiponaLinuxSystem) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Implementing a Public Key Infrastructure &#x21A9;</summary> 
-
-- [PKI Fundamentals](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#PKIFundamentals) &#x274C; <br/>
-- [Create a Self-signed Certificate](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#CreateaSelfsignedCertificate) &#x274C; <br/>
-- [Install and Configure Active Directory Certificate Services](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#InstallandConfigureActiveDirectoryCertificateServices) &#x274C; <br/>
-- [Configure Certificate Revocation Lists (CRLs)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#ConfigureCertificateRevocationListsCRLs) &#x274C; <br/>
-- [Manage Certificate Templates](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#ManageCertificateTemplates) &#x274C; <br/>
-- [Configure Certificate Auto Enrollment](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#ConfigureCertificateAutoEnrollment) &#x274C; <br/>
-- [Implement Key Archival](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingaPublicKeyInfrastructure.html#ImplementKeyArchival) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Implementation of Secure Protocols &#x21A9;</summary> 
-
-- [Working with Domain Name System Security Extensions (DNSSEc)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementationofSecureProtocols.html#WorkingwithDomainNameSystemSecurityExtensionsDNSSEc) &#x274C; <br/>
-- [Configuring IPSec](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementationofSecureProtocols.html#ConfiguringIPSec) &#x274C; <br/>
-- [Knowing the Security Protocols](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementationofSecureProtocols.html#KnowingtheSecurityProtocols) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Securing an Environment using Mitigating Techniques &#x21A9;</summary> 
-
-- [Mitigation Techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecuringanEnvironmentusingMitigatingTechniques.html#MitigationTechniques) &#x274C; <br/>
-- [Software Restriction Policies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecuringanEnvironmentusingMitigatingTechniques.html#SoftwareRestrictionPolicies) &#x274C; <br/>
-- [Firewall](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecuringanEnvironmentusingMitigatingTechniques.html#Firewall) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Cybersecurity Backup and Restore Strategies &#x21A9;</summary> 
-
-- [Redundancy](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CybersecurityBackupandRestoreStrategies.html#Redundancy) &#x274C; <br/>
-- [Replication](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CybersecurityBackupandRestoreStrategies.html#Replication) &#x274C; <br/>
-- [Backup Types](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CybersecurityBackupandRestoreStrategies.html#BackupTypes) &#x274C; <br/>
-- [Create a System Image Backup](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CybersecurityBackupandRestoreStrategies.html#CreateaSystemImageBackup) &#x274C; <br/>
-- [Non-Persistence and Resilience](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CybersecurityBackupandRestoreStrategies.html#NonPersistenceandResilience) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Identity and Account Management Mechanisms &#x21A9;</summary> 
-
-- [Identity](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentityandAccountManagementMechanisms.html#Identity) &#x274C; <br/>
-- [Account Types](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentityandAccountManagementMechanisms.html#AccountTypes) &#x274C; <br/>
-- [Account Policies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentityandAccountManagementMechanisms.html#AccountPolicies) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Identifying Different Application Exploits &#x21A9;</summary> 
-
-- [Cross Site Scripting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#CrossSiteScripting) &#x274C; <br/>
-- [SQL Injection](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#SQLInjection) &#x274C; <br/>
-- [Information Leakage and Improper Error Handling](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#InformationLeakageandImproperErrorHandling) &#x274C; <br/>
-- [Race Conditions, Memory Leak, Resource Exhaustion and Overflow Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#RaceConditions,MemoryLeak,ResourceExhaustionandOverflowAttacks) &#x274C; <br/>
-- [Directory Traversal and Path Manipulation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#DirectoryTraversalandPathManipulation) &#x274C; <br/>
-- [Privilege Escalation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#PrivilegeEscalation) &#x274C; <br/>
-- [Driver Manipulation and Replay Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#DriverManipulationandReplayAttacks) &#x274C; <br/>
-- [Pass the Hash, API Attacks, Request Forgeries, Pointer Dereference and SSL Stripping](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IdentifyingDifferentApplicationExploits.html#PasstheHashAPIAttacksRequestForgeriesPointerDereferenceandSSLStripping) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Application Hardening Deployment Techniques &#x21A9;</summary> 
-
-- [Secure Application Development, Deployment, and Automation Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationHardeningDeploymentTechniques.html#SecureApplicationDevelopmentDeploymentandAutomationConcepts) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Application and Host Hardening Techniques &#x21A9;</summary> 
-
-- [Endpoint Protection](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationandHostHardeningTechniques.html#EndpointProtection) &#x274C; <br/>
-- [Boot Integrity](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationandHostHardeningTechniques.html#BootIntegrity) &#x274C; <br/>
-- [Database](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationandHostHardeningTechniques.html#Database) &#x274C; <br/>
-- [Application Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationandHostHardeningTechniques.html#ApplicationSecurity) &#x274C; <br/>
-- [Hardening](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationandHostHardeningTechniques.html#Hardening) &#x274C; <br/>
-- [Sandboxing](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ApplicationandHostHardeningTechniques.html#Sandboxing) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Cyber Security Vulnerabilities of Embedded Systems &#x21A9;</summary> 
-
-- [Security Implications of Embedded and Specialized Systems](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CyberSecurityVulnerabilitiesofEmbeddedSystems.html#SecurityImplicationsofEmbeddedandSpecializedSystems) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Cloud and Virtualization Concepts &#x21A9;</summary> 
-
-- [Virtualization and Cloud Computing Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CloudandVirtualizationConcepts.html#VirtualizationandCloudComputingConcepts) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Securing a Cloud Infrastructure &#x21A9;</summary> 
-
-- [Cloud Security Controls and Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/SecuringaCloudInfrastructure.html#CloudSecurityControlsandSolutions) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Incident Response Policies and Procedures &#x21A9;</summary> 
-
-- [Incident Response Process, Attack Frameworks and Stakeholder Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponsePoliciesandProcedures.html#IncidentResponseProcessAttackFrameworksandStakeholderManagement) &#x274C; <br/>
-- [Disaster Recovery, Business Continuity and Continuity of Operations](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponsePoliciesandProcedures.html#DisasterRecoveryBusinessContinuityandContinuityofOperations) &#x274C; <br/>
-- [Incident Response Teams and Retention Policies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponsePoliciesandProcedures.html#IncidentResponseTeamsandRetentionPolicies) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Incident Response Tools &#x21A9;</summary> 
-
-- [Configuring System Logging](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponseTools.html#ConfiguringSystemLogging) &#x274C; <br/>
-- [Using Tcpdump and Logging](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponseTools.html#UsingTcpdumpandLogging) &#x274C; <br/>
-- [Capturing Packets with Wireshark](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponseTools.html#CapturingPacketswithWireshark) &#x274C; <br/>
-- [Work with Logs in Windows](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/IncidentResponseTools.html#WorkwithLogsinWindows) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Implementing Wireless Security Configurations &#x21A9;</summary> 
-
-- [Wireless Network and its Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ImplementingWirelessSecurityConfigurations.html#WirelessNetworkanditsSecurity) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Mobile Security Solutions &#x21A9;</summary> 
-
-- [Connection Methods and Receivers](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/MobileSecuritySolutions.html#ConnectionMethodsandReceivers) &#x274C; <br/>
-- [Mobile Device Management (MDM)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/MobileSecuritySolutions.html#MobileDeviceManagement(MDM)) &#x274C; <br/>
-- [Mobile Devices](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/MobileSecuritySolutions.html#MobileDevices) &#x274C; <br/>
-- [Enforcement and Monitoring](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/MobileSecuritySolutions.html#EnforcementandMonitoring) &#x274C; <br/>
-- [Deployment Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/MobileSecuritySolutions.html#DeploymentModels) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Cryptographic Basic Concepts &#x21A9;</summary> 
-
-- [Knowing the Cryptographic Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CryptographicBasicConcepts.html#KnowingtheCryptographicConcepts) &#x274C; <br/>
-- [Implementing Cryptography](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CryptographicBasicConcepts.html#ImplementingCryptography) &#x274C; <br/>
-- [Using Steganography](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/CryptographicBasicConcepts.html#UsingSteganography) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Digital Data Forensic Techniques &#x21A9;</summary> 
-
-- [Data Forensic Techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DigitalDataForensicTechniques.html#DataForensicTechniques) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Control Mechanisms, Standards and Frameworks &#x21A9;</summary> 
-
-- [Privacy and Sensitive Data Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/ControlMechanisms,StandardsandFrameworks.html#PrivacyandSensitiveDataConcepts) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Organizational Risk Management and Policies &#x21A9;</summary> 
-
-- [Risk Types and Risk Management Strategies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#RiskTypesandRiskManagementStrategies) &#x274C; <br/>
-- [Risk Analysis](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#RiskAnalysis) &#x274C; <br/>
-- [Disasters and Business Impact Analysis](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#DisastersandBusinessImpactAnalysis) &#x274C; <br/>
-- [Personnel Controls](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#PersonnelControls) &#x274C; <br/>
-- [Third-Party Risk Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#ThirdPartyRiskManagement) &#x274C; <br/>
-- [Data Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#DataManagement) &#x274C; <br/>
-- [Credential Policies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#CredentialPolicies) &#x274C; <br/>
-- [Organizational Policies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/OrganizationalRiskManagementandPolicies.html#OrganizationalPolicies) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Data Protection Implementation &#x21A9;</summary> 
-
-- [Data Breach](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DataProtectionImplementation.html#DataBreach) &#x274C; <br/>
-- [Data Classifications and Privacy Enhancing Techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DataProtectionImplementation.html#DataClassificationsandPrivacyEnhancingTechniques) &#x274C; <br/>
-- [Organizational Roles and Responsibilities for data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DataProtectionImplementation.html#OrganizationalRolesandResponsibilitiesfordata) &#x274C; <br/>
-- [Information Life Cycle](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/syp-practice-labs/blob/main/rc/DataProtectionImplementation.html#InformationLifeCycle) &#x274C; <br/>
-</details>
-<!-- ********** CompTIA Security+ - Practice Labs ********** -->
-<!-- ********** CompTIA Security+ - Practice Labs ********** -->
-<!-- ********** CompTIA Security+ - Practice Labs ********** -->
-</details> <!-- END (CompTIA Security+ - Practice Labs) -->
 </details> <!-- END (CompTIA Security+) -->
 </details> <!-- END (ecollege.ie) -->
 <hr width=33%;>
@@ -977,7 +983,7 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA Cybersecurity Analyst (CySA+) &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 6-Automation Concepts
@@ -1294,36 +1300,6 @@ eC=Lesson 6-Automation Concepts
 <!-- ********** CompTIA CySA+ - Practice Labs ********** -->
 </details> <!-- END (CompTIA CySA+ - Practice Labs) -->
 </details> <!-- END (CompTIA CySA+) -->
-<hr width=33%;>
-<details close>
-	<summary>Supplementary Courses</summary>
-
-<br/>
-
-|Provider|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|:-----:| :-----------------------------------------------|:-----:|
-| [DDLETB](https://loughlinstowntrainingcentre.ie/)     | <br/>CompTIA Cloud+ (Mon/Wed 7pm-9pm)<br/><br/>                   | &#x1F232; |
-
-<details close>
-	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
-<!--
-13/07/2022
-"add repository ./cdp-configurations-and-deployments (Thursday 7th July 2022 - Monday 11th July 2022: Introducing Cloud Computing - Creating and Validating a Cloud Deployment - Verifying System Requirements - VMware Hypervisor Type II)"
--->
-<br/>
-<details close>
-	<summary><i>Practice Labs</i> &#x21A9;</summary>
-<br/>
-
-<!-- ********** CompTIA Cloud+ - Practice Labs ********** -->
-<!-- ********** CompTIA Cloud+ - Practice Labs ********** -->
-<!-- ********** CompTIA Cloud+ - Practice Labs ********** -->
-</details> <!-- END (CompTIA Cloud+ - Practice Labs) -->
-
-- { ["**Configurations and Deployments**"](https://github.com/SeanOhAileasa/cdp-configurations-and-deployments/blob/main/README.md) : &#x1F6A7; }
-</details> <!-- END (CompTIA Cloud+) -->
-
-</details> <!-- END (Supplemental) -->
 <hr width=33%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
 
