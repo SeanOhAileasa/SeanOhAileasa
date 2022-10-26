@@ -463,7 +463,7 @@
 <!--
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
-24/10/2022
+26/10/2022
 "update repository ./syp-architecture-and-design (Designing the Cloud)"
 -->
 
@@ -1146,7 +1146,7 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Security Operations and Monitoring**"](https://github.com/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/README.md) : &#x1F6A7; } <br/> 
 
-    - { ["**Security Monitoring**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-security-monitoring.ipynb) : &#x1F6A7; } ``60%`` <br/><br/>
+    - { ["**Security Monitoring**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-security-monitoring.ipynb) : &#x1F6A7; } ``80%`` <br/><br/>
     - { ["**Configuration Controls**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-configuration-controls.ipynb) : &#x1F513; } <br/><br/>    
     - { ["**Threat Hunting**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-threat-hunting.ipynb) : &#x1F513; } <br/><br/>
     - { ["**Automation**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-automation.ipynb) : &#x1F513; } <br/><br/>
