@@ -990,7 +990,7 @@ eC=Lesson 6-Automation Concepts
 -->	
 <!--
 27/10/2022
-"update repository ./cap-security-operations-and-monitoring (Security Monitoring)"
+"update repository ./cap-incident-response (Incident Response - Indicators of Compromise - IoCs)"
 -->
 <details close>
 	<summary> Threat and Vulnerability Management &#x21A9; 22%</summary>
@@ -1142,7 +1142,7 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END LABS - CySa+ -->    
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary> Security Operations and Monitoring &#x21A9; 25%</summary>
 
 - { ["**Security Operations and Monitoring**"](https://github.com/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/README.md) : &#x1F6A7; } <br/> 
@@ -1199,14 +1199,14 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END LABS - CySa+ -->    	
 </details>
 <hr width=25%;>
-<details close>
-	<summary> Incident Response &#x21A9; 22%</summary>
+<details open>
+	<summary>Incident Response &#x21A9; 22%</summary>
 
 - { ["**Incident Response**"](https://github.com/SeanOhAileasa/cap-incident-response/blob/main/README.md) : &#x1F6A7; } <br/> 
 
 	- { ["**Incident Response Process**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-incident-response-process.ipynb) : &#x1F513; } <br/><br/>
 	- { ["**Applying Incident Response Procedures**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-applying-incident-response-procedures.ipynb) : &#x1F513; } <br/><br/>
-	- { ["**Indicators of Compromise - IoCs**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-indicators-of-compromise-iocs.ipynb) : &#x1F6A7; } ``25%`` <br/><br/>
+	- { ["**Indicators of Compromise - IoCs**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-indicators-of-compromise-iocs.ipynb) : &#x1F513; } <br/><br/>
 	- { ["**Digital Forensics Techniques**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-digital-forensics-techniques.ipynb) : &#x274C; } <br/>
 
 <details close>
