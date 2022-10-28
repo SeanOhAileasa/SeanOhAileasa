@@ -1,14 +1,16 @@
 <details open> 
 	<summary><h3>Cybersecurity Associate Candidate (Apprenticeship NFQ L6) &#x21A9; </h3> </summary>
 
-|Prefix|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
+|[ [``Credly``](https://www.credly.com/users/seanohaileasa/badges) ]|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
 | &nbsp;&nbsp;&nbsp;``itf-``&nbsp;&nbsp; | CompTIA ITF+                       |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+ <b></b><br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>CompTIA Security+ &#x1F4CC; [``10th Oct:9th Dec``]<br/><br/>                               |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-security-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-plus-certificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA PenTest+ <br/><br/>                | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-pentest-pt-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-PenTest-plus-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA CNVP <br/><br/>                | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnvp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Vulnerability-Assessment-Professional-CNVP.pdf) |
-| &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CySA+ <br/><br/>                   | |
+| &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CySA+ <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-cysa-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-CySa-certificate.pdf) |
+| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CSAP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csap.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-Analytics-Professional-CSAP.pdf) |
+| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CNSP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnsp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Security-Professional-CNSP.pdf) |
 | &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [Funded by HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
 
 <details open> 
@@ -366,7 +368,7 @@
 "update repository ./syp-attacks-threats-and-vulnerabilities (Security Teams)"
 -->
 <br/>
-<details open>
+<details close>
 	<summary>Attacks and Threats and Vulnerabilities &#x21A9; 24%</summary>
 <!--
 06/08/2022
@@ -383,7 +385,7 @@
 	
 	- { ["**Security Assessment and Penetration Testing Techniques**"](https://github.com/SeanOhAileasa/syp-security-assessment-and-penetration-testing-techniques/blob/main/README.md) : &#x1F513; }
 
-<details open>
+<details close>
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
 <details open>
@@ -459,7 +461,7 @@
 </details> <!-- END: Practice Labs - Attacks and Threats and Vulnerabilities -->	
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary>Architecture and Design &#x21A9; 21%</summary>
 <!--
 from IPython.display import display,HTML
@@ -579,7 +581,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 	- { ["**Wireless, Mobile and Embedded Device Security**"](https://github.com/SeanOhAileasa/syp-wireless-mobile-and-embedded-device-security/blob/main/README.md) : &#x1F513; }
 
-<details open>
+<details close>
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
 <details open>
@@ -660,7 +662,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 	- { ["**Incident Response, Digital Forensics and Supporting Investigations**"](https://github.com/SeanOhAileasa/syp-incident-response-digital-forensics-and-supporting-investigations/blob/main/README.md) : &#x1F513; }
 
-<details open>
+<details close>
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
 <details open>
@@ -708,7 +710,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 	- { ["**Monitoring, Visibility, & Reporting**"](https://github.com/SeanOhAileasa/syp-monitoring-visibility-and-reporting/blob/main/README.md) : &#x1F513; }
 
-<details open>
+<details close>
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
 <details open>
@@ -861,7 +863,7 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 - { ["**Social Engineering Attacks**"](https://github.com/SeanOhAileasa/ptp-social-engineering-attacks/blob/main/README.md) : &#x1F513; }
 
 - { ["**Post-Exploitation Techniques**"](https://github.com/SeanOhAileasa/ptp-post-exploitation-techniques/blob/main/README.md) : &#x1F513; }
-<details open>
+<details close>
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
 <details open>
@@ -975,7 +977,7 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 </details> <!-- END: Labs -->
 </details>
 <hr width=25%;>
-<details close>
+<details open>
     <summary>Supplemental &#x21A9;</summary>
 
 - { ["**CompTIA PenTest+**"](https://github.com/SeanOhAileasa/ptp-pentest/blob/main/README.md) : &#x1F6A7; }
@@ -983,7 +985,7 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA CySa+ &#x21A9;</b></summary><br/>
 <!--
 eC=Lesson 6-Automation Concepts
@@ -1199,7 +1201,7 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END LABS - CySa+ -->    	
 </details>
 <hr width=25%;>
-<details open>
+<details close>
 	<summary>Incident Response &#x21A9; 22%</summary>
 
 - { ["**Incident Response**"](https://github.com/SeanOhAileasa/cap-incident-response/blob/main/README.md) : &#x1F6A7; } <br/> 
