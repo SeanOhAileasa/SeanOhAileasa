@@ -11,7 +11,7 @@
 | &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA Cybersecurity Analyst (CySa+) <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-cysa-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-CySa-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CSAP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csap.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-Analytics-Professional-CSAP.pdf) |
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CNSP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnsp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Security-Professional-CNSP.pdf) |
-| &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | &#x1F6A7; |
+| &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [Funded by HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
 | &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/>                   | [![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true)](https://www.datacamp.com/profile/seanohaileasa) |
 
@@ -1363,11 +1363,382 @@ eC=Lesson 6-Automation Concepts
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
 </details>
+<hr width=25%;>
+<details open>
+	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
+<!--
+02/11/2022
+"add repository ./asp-assessing-and-managing-risk"
+-->
+
+<details close>
+	<summary>Assessing and Managing Risk &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+	<summary>Virtualization Security &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Secure Cloud Computing &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Cryptography and PKI &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Storage and Network Security &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Authentication and Authorization &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Governance and Security Compliance &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Mobile and Embedded Devices &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Industrial Computing Environments &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Emerging Technologies and SecDevOps &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Monitoring and Incident Response &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Vulnerabilities and Hardening &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Digital Forensics &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Business Continuity &#x21A9; <b></b></summary>
+<br/>
+
+</details>
+<hr width=25%;>
+<details close>
+    <summary>Supplemental &#x21A9;</summary>
+<!--
+- { ["**CompTIA CASP+**"](https://github.com/SeanOhAileasa/asp-casp/blob/main/README.md) : &#x1F6A7; }
+-->
+&#x1F6A7;
+</details> <!-- END (Supplemental) -->
+</details> <!-- END (CompTIA CASP+) -->
+<details open>
+	<summary>&#x1F52C; &#x21A9;</summary>
+<br/>
+<!-- XXXXXXXXXXXXXXXXXXXXX LABS XXXXXXXXXXXXXXXXXXXXX -->
+<!-- Security Architecture -->
+<!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
+<details close>
+    <summary>Security Architecture &#x21A9;</summary>
+<br/>
+<details close>
+    <summary>Integrate Network and Security Components &#x21A9;</summary>
+
+- [Install Snort](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/IntegrateNetworkandSecurityComponents.htm) &#x274C; <br/> 
+- [Test Snort](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/IntegrateNetworkandSecurityComponents.htm) &#x274C; <br/> 
+- [Configure and Re-Test Snort](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/IntegrateNetworkandSecurityComponents.htm) &#x274C; <br/> 
+- [Configure Iptables](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/IntegrateNetworkandSecurityComponents.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Install and Configure Network Load Balancing &#x21A9;</summary>
+
+- [Installing Network Load Balancing Nodes](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/InstallandConfigureNetworkLoadBalancing.htm) &#x274C; <br/> 
+- [Configuring a New NLB Cluster](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/InstallandConfigureNetworkLoadBalancing.htm) &#x274C; <br/> 
+- [Adding a Secondary Node to an NLB Cluster](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/InstallandConfigureNetworkLoadBalancing.htm) &#x274C; <br/> 
+- [Examining the Working of an NLB Cluster](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/InstallandConfigureNetworkLoadBalancing.htm) &#x274C; <br/> 
+- [Configuring and Validating Port Rules for NLB](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/InstallandConfigureNetworkLoadBalancing.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Implement SSL VPN using ASA Device Manager &#x21A9;</summary>
+
+- [Implement a Clientless SSL VPN using the Cisco ASA Device Manager](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementSSLVPNusingASADeviceManager.htm) &#x274C; <br/> 
+- [Implement AnyConnect using the Cisco ASA Device Manager](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementSSLVPNusingASADeviceManager.htm) &#x274C; <br/>
+</details>
+<details close>
+    <summary>Configure and Verify IPv4 and IPv6 Access Lists for Traffic Filtering &#x21A9;</summary>
+
+- [Configuring Standard and Extended Access Lists using IPv4](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfigureandVerifyIPv4andIPv6AccessListsforTrafficFiltering.htm) &#x274C; <br/> 
+- [Configuring Named Access Lists Using IPv4](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfigureandVerifyIPv4andIPv6AccessListsforTrafficFiltering.htm) &#x274C; <br/> 
+- [Creating Access-Lists in IPv6](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfigureandVerifyIPv4andIPv6AccessListsforTrafficFiltering.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Analyze network traffic with Wireshark &#x21A9;</summary>
+
+- [Download and Install Wireshark](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/AnalyzenetworktrafficwithWireshark.htm) &#x274C; <br/> 
+- [Capture Packets with Wireshark](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/AnalyzenetworktrafficwithWireshark.htm) &#x274C; <br/> 
+- [Perform Packet Analysis - Part 1](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/AnalyzenetworktrafficwithWireshark.htm) &#x274C; <br/> 
+- [Packet Analysis - Part 2](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/AnalyzenetworktrafficwithWireshark.htm) &#x274C; <br/> 
+- [Verify Output Logs](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/AnalyzenetworktrafficwithWireshark.htm) &#x274C; <br/> 
+- [Perform Packet Jumping](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/AnalyzenetworktrafficwithWireshark.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Compliance Patching &#x21A9;</summary>
+
+- [Install and Configure WSUS](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/CompliancePatching.htm) &#x274C; <br/> 
+- [WSUS Server Certificates Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/CompliancePatching.htm) &#x274C; <br/> 
+- [Create Computer Groups for WSUS](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/CompliancePatching.htm) &#x274C; <br/> 
+- [Configure GPO Policy for WSUS](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/CompliancePatching.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Work With Remote Connectivity &#x21A9;</summary>
+
+- [Working with RDP](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/WorkWithRemoteConnectivity.htm) &#x274C; <br/> 
+- [Administering Windows with PowerShell Remoting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/WorkWithRemoteConnectivity.htm) &#x274C; <br/>
+</details>
+<details close>
+    <summary>Perform Firewall Rule-based Management &#x21A9;</summary>
+
+- [Configuring Firewall Rules Using Windows Firewall](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformFirewallRulebasedManagement.htm) &#x274C; <br/> 
+- [Configuring Firewall Rules using Windows Firewall with Advanced Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformFirewallRulebasedManagement.htm) &#x274C; <br/> 
+- [Configuring Firewall Rules using Remote Desktop](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformFirewallRulebasedManagement.htm) &#x274C; <br/> 
+- [Configuring Firewall Rules from the Command Line Interface](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformFirewallRulebasedManagement.htm) &#x274C; <br/>
+</details>
+<details close>
+    <summary>Configure Verify and Troubleshoot Port Security &#x21A9;</summary>
+
+- [Configure Static and Dynamic Port Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfigureVerifyandTroubleshootPortSecurity.htm) &#x274C; <br/> 
+- [Configure Additional Port Security Configuration Settings](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfigureVerifyandTroubleshootPortSecurity.htm) &#x274C; <br/> 
+- [Configuring Err-disable Recovery](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfigureVerifyandTroubleshootPortSecurity.htm) &#x274C; <br/>  
+</details>
+<details close>
+    <summary>Scanning and Remediating Vulnerabilities with OpenVAS &#x21A9;</summary>
+
+- [OpenVAS Scanning](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ScanningandRemediatingVulnerabilitieswithOpenVAS.htm) &#x274C; <br/> 
+- [Securing Active Directory Access LDAP](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ScanningandRemediatingVulnerabilitieswithOpenVAS.htm) &#x274C; <br/> 
+- [Validating Security Changes with OpenVAS](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ScanningandRemediatingVulnerabilitieswithOpenVAS.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Configure Verify and Troubleshoot GRE Tunnel Connectivity &#x21A9;</summary>
+
+- [Configure Static and Dynamic Port Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfigureVerifyandTroubleshootGRETunnelConnectivity.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Perform Banner Grabbing &#x21A9;</summary>
+
+- [Performing Banner Grabbing](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformBannerGrabbing.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Configure Two Factor Authentication &#x21A9;</summary>
+
+- [Configure Google Authenticator](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfigureTwoFactorAuthentication.htm) &#x274C; <br/>
+</details>
+<details close>
+    <summary>Configuring Endpoint Security &#x21A9;</summary>
+
+- [Use Anti-virus Programs](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringEndpointSecurity.htm) &#x274C; <br/> 
+- [Use Anti Spyware](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringEndpointSecurity.htm) &#x274C; <br/> 
+- [Installing an Endpoint Protection Site System Role](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringEndpointSecurity.htm) &#x274C; <br/> 
+- [Configure Definition Updates for Endpoint Protection](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringEndpointSecurity.htm) &#x274C; <br/> 
+- [Create and Deploy Antimalware policies for Endpoint Protection](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringEndpointSecurity.htm) &#x274C; <br/> 
+- [Configure Custom Client Settings for Endpoint Protection](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringEndpointSecurity.htm) &#x274C; <br/> 
+- [Provision Endpoint Protection](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringEndpointSecurity.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Performing Offline Attacks &#x21A9;</summary>
+
+- [Extracting Hashes from a System](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformingOfflineAttacks.htm) &#x274C; <br/> 
+- [Cracking Extracted Hashes](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformingOfflineAttacks.htm) &#x274C; <br/> 
+- [Cracking Passwords](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformingOfflineAttacks.htm) &#x274C; <br/>  
+</details>
+<details close>
+    <summary>Using Encryption and Steganography &#x21A9;</summary>
+
+- [Configure BitLocker on Portable Media](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UsingEncryptionandSteganography.htm) &#x274C; <br/> 
+- [Implement Full Disk Encryption using BitLocker](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UsingEncryptionandSteganography.htm) &#x274C; <br/> 
+- [Manage Security for Removable Media](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UsingEncryptionandSteganography.htm) &#x274C; <br/> 
+- [Hide documents in a graphics file](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UsingEncryptionandSteganography.htm) &#x274C; <br/> 
+</details>
+<hr width=25%;>
+</details> <!-- END: Security Architecture -->
+<!-- XXXXXXXXXXXXXXXXXXXXX LABS XXXXXXXXXXXXXXXXXXXXX -->
+<!-- Security Operations -->
+<!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
+<details close>
+    <summary>Security Operations &#x21A9;</summary>
+<br/>
+<details close>
+    <summary>Performing security assessment using various tools &#x21A9;</summary>
+
+- [Identifying Live Systems](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/Performingsecurityassessmentusingvarioustools.htm) &#x274C; <br/> 
+- [Performing Zone Transfers](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/Performingsecurityassessmentusingvarioustools.htm) &#x274C; <br/> 
+- [Working with Remote Targets](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/Performingsecurityassessmentusingvarioustools.htm) &#x274C; <br/> 
+- [Working with Finger Command](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/Performingsecurityassessmentusingvarioustools.htm) &#x274C; <br/> 
+- [Social Engineering Reconnaissance](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/Performingsecurityassessmentusingvarioustools.htm) &#x274C; <br/> 
+- [Use the Social Engineering Toolkit in Kali Linux](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/Performingsecurityassessmentusingvarioustools.htm) &#x274C; <br/> 
+- [Perform Routing Table Verification](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/Performingsecurityassessmentusingvarioustools.htm) &#x274C; <br/>
+</details>
+<details close>
+    <summary>Implementing DNSSEC &#x21A9;</summary>
+
+- [Preparing DNS Setup for DNSSEC](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementingDNSSEC.htm) &#x274C; <br/> 
+- [Configuring DNSSEC](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementingDNSSEC.htm) &#x274C; <br/> 
+- [Customizing DNSSEC](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementingDNSSEC.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Perform Security Assessment Using MBSA &#x21A9;</summary>
+
+- [Introduction to Microsoft Baseline Security Analyzer](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformSecurityAssessmentUsingMBSA.htm) &#x274C; <br/> 
+- [Implementing Recommendations](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformSecurityAssessmentUsingMBSA.htm) &#x274C; <br/> 
+- [Saving Microsoft Baseline Security Analyzer Reports](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformSecurityAssessmentUsingMBSA.htm) &#x274C; <br/> 
+- [Reviewing Configuration Changes](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformSecurityAssessmentUsingMBSA.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Using Password Cracking Tools &#x21A9;</summary>
+
+- [Using Password Cracking Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UsingPasswordCrackingTools.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Using various tools for security assessments &#x21A9;</summary>
+
+- [Identifying Live Systems](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/Usingvarioustoolsforsecurityassessments.htm) &#x274C; <br/> 
+- [Perform Network Footprinting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/Usingvarioustoolsforsecurityassessments.htm) &#x274C; <br/> 
+</details>
+<hr width=25%;>
+</details> <!-- END: Security Operations -->
+<!-- XXXXXXXXXXXXXXXXXXXXX LABS XXXXXXXXXXXXXXXXXXXXX -->
+<!-- Security Engineering and Cryptography -->
+<!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
+<details close>
+    <summary>Security Engineering and Cryptography &#x21A9;</summary>
+<br/>
+<details close>
+    <summary>Mapping Networks &#x21A9;</summary>
+
+- [Working With Network Diagrams](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/MappingNetworks.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Install and Configure ManageEngine OpManager &#x21A9;</summary>
+
+- [Install and Configure ManageEngine OpManager](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/InstallandConfigureManageEngineOpManager.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Configuring Advanced Authentication and Authorization &#x21A9;</summary>
+
+- [Install and Configure Network Policy Server](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringAdvancedAuthenticationandAuthorization.htm) &#x274C; <br/> 
+- [Install and Configure Remote Access Server](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringAdvancedAuthenticationandAuthorization.htm) &#x274C; <br/> 
+- [Configure the VPN Client](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringAdvancedAuthenticationandAuthorization.htm) &#x274C; <br/> 
+- [Viewing the NPS Logs](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringAdvancedAuthenticationandAuthorization.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Implementing AD Federation Services &#x21A9;</summary>
+
+- [Prepare System Requirements for ADFS Resource Partner](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementingADFederationServices.htm) &#x274C; <br/> 
+- [Prepare System Requirements for ADFS Accounts Partner](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementingADFederationServices.htm) &#x274C; <br/> 
+- [Enable Name Resolution for Resource and Account Domains](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementingADFederationServices.htm) &#x274C; <br/> 
+- [Prepare Requirements for AD FS Server Resource Partner](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementingADFederationServices.htm) &#x274C; <br/> 
+- [Install and Configure AD Federation Services](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementingADFederationServices.htm) &#x274C; <br/> 
+- [Create AD Federation Services Trusts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementingADFederationServices.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Implement OpenPGP &#x21A9;</summary>
+
+- [Installation of OpenPGP](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementOpenPGP.htm) &#x274C; <br/> 
+- [OpenPGP Certificate Creation and Distribution](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementOpenPGP.htm) &#x274C; <br/> 
+- [OpenPGP Signing and Importation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementOpenPGP.htm) &#x274C; <br/> 
+- [OpenPGP Verification, Encryption and Decryption](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ImplementOpenPGP.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>PKI Concepts &#x21A9;</summary>
+
+- [Install and Configure Active Directory Certificate Services](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PKIConcepts.htm) &#x274C; <br/> 
+- [Configure Certificate Revocation Lists](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PKIConcepts.htm) &#x274C; <br/> 
+- [Managing Certificate Templates](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PKIConcepts.htm) &#x274C; <br/> 
+- [Configure Certificate Auto Enrollment](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PKIConcepts.htm) &#x274C; <br/> 
+- [Implement Key Archival](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PKIConcepts.htm) &#x274C; <br/> 
+- [Enroll for User Certificate](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PKIConcepts.htm) &#x274C; <br/> 
+- [Manage Key Recovery](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PKIConcepts.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Upgrading and Securing SSH Connection &#x21A9;</summary>
+
+- [Connecting to Kali](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UpgradingandSecuringSSHConnection.htm) &#x274C; <br/> 
+- [Upgrading OpenSSH](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UpgradingandSecuringSSHConnection.htm) &#x274C; <br/> 
+- [Adding Sudo User](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UpgradingandSecuringSSHConnection.htm) &#x274C; <br/> 
+- [Regenerate SSH Keys to Avoid MITM Attacks](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UpgradingandSecuringSSHConnection.htm) &#x274C; <br/> 
+- [Display Message of the Day - MOTD](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UpgradingandSecuringSSHConnection.htm) &#x274C; <br/> 
+- [Change the SSH Port](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UpgradingandSecuringSSHConnection.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Encryption and Hashing &#x21A9;</summary>
+
+- [Understand Cryptographic Basics](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/EncryptionandHashing.htm) &#x274C; <br/> 
+- [Comparing Hashing Algorithms](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/EncryptionandHashing.htm) &#x274C; <br/> 
+- [Comparing Hash Values](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/EncryptionandHashing.htm) &#x274C; <br/>  
+</details>
+<hr width=25%;>
+</details> <!-- END: Security Engineering and Cryptography -->
+<!-- XXXXXXXXXXXXXXXXXXXXX LABS XXXXXXXXXXXXXXXXXXXXX -->
+<!-- Governance, Risk and Compliance -->
+<!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
+<details close>
+    <summary>Governance, Risk and Compliance &#x21A9;</summary>
+<br/>
+<details close>
+    <summary>Perform Digital Forensics &#x21A9;</summary>
+
+- [Preparing a Target Drive for Acquisition in Linux](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformDigitalForensics.htm) &#x274C; <br/> 
+- [Deleting NTFS Files](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformDigitalForensics.htm) &#x274C; <br/> 
+- [Using Sleuth Kit and Autopsy](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/PerformDigitalForensics.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Security and Risk Management Support Materials &#x21A9;</summary>
+
+- [Supporting Lab Material - Security and Risk Management Part 1](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/SecurityandRiskManagementSupportMaterials.htm) &#x274C; <br/> 
+- [Supporting Lab Material - Security and Risk Management Part 2](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/SecurityandRiskManagementSupportMaterials.htm) &#x274C; <br/> 
+</details>
+<details close>
+    <summary>Configuring SCCM Configuration Items and Baselines &#x21A9;</summary>
+
+- [Create Windows Configuration Items for Compliance Settings](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringSCCMConfigurationItemsandBaselines.htm) &#x274C; <br/> 
+- [Create Configuration Baseline and Deploy the Baseline](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringSCCMConfigurationItemsandBaselines.htm) &#x274C; <br/> 
+- [Create Windows Configuration Items for Compliance Settings](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringSCCMConfigurationItemsandBaselines.htm) &#x274C; <br/> 
+</details> <!-- END: Governance, Risk and Compliance -->
+</details> <!-- END: LABS -->
 <hr width=33%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
-
+<hr width=50%;> <!-- -->
 </details> <!-- END (Cybersecurity Associate Candidate (Apprenticeship NFQ L6)) -->
-
 <details close> 
 	<summary><h3>Higher Diploma in Science in Computing (in Data Analytics) &#x21A9; </h3> </summary>
 
