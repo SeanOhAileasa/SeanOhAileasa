@@ -362,7 +362,7 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-02/11/2022
+03/11/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x23F2; }
@@ -837,7 +837,7 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 
 </details> <!-- END (Skillsoft) -->
 </details> <!-- END (CompTIA PenTest+) -->
-<details open>
+<details close>
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
 <!-- XXXXXXXXXXXXXXXXXXXXX LABS XXXXXXXXXXXXXXXXXXXXX -->
@@ -1371,89 +1371,77 @@ eC=Lesson 6-Automation Concepts
 "add repository ./asp-assessing-and-managing-risk"
 -->
 
-<details close>
+<details open>
 	<summary>Assessing and Managing Risk &#x21A9; <b></b></summary>
-<br/>
 
 </details>
+<!--
 <hr width=25%;>
 <details close>
 	<summary>Virtualization Security &#x21A9; <b></b></summary>
-<br/>
 
 </details>
 <hr width=25%;>
 <details close>
     <summary>Secure Cloud Computing &#x21A9; <b></b></summary>
-<br/>
 
 </details>
 <hr width=25%;>
 <details close>
     <summary>Cryptography and PKI &#x21A9; <b></b></summary>
-<br/>
 
 </details>
 <hr width=25%;>
 <details close>
     <summary>Storage and Network Security &#x21A9; <b></b></summary>
-<br/>
 
 </details>
 <hr width=25%;>
 <details close>
     <summary>Authentication and Authorization &#x21A9; <b></b></summary>
-<br/>
 
 </details>
 <hr width=25%;>
 <details close>
     <summary>Governance and Security Compliance &#x21A9; <b></b></summary>
-<br/>
 
 </details>
 <hr width=25%;>
 <details close>
     <summary>Mobile and Embedded Devices &#x21A9; <b></b></summary>
-<br/>
 
 </details>
 <hr width=25%;>
 <details close>
     <summary>Industrial Computing Environments &#x21A9; <b></b></summary>
-<br/>
 
 </details>
 <hr width=25%;>
 <details close>
     <summary>Emerging Technologies and SecDevOps &#x21A9; <b></b></summary>
-<br/>
 
 </details>
 <hr width=25%;>
 <details close>
     <summary>Monitoring and Incident Response &#x21A9; <b></b></summary>
-<br/>
 
 </details>
 <hr width=25%;>
 <details close>
     <summary>Vulnerabilities and Hardening &#x21A9; <b></b></summary>
-<br/>
 
 </details>
 <hr width=25%;>
 <details close>
     <summary>Digital Forensics &#x21A9; <b></b></summary>
-<br/>
 
 </details>
 <hr width=25%;>
 <details close>
     <summary>Business Continuity &#x21A9; <b></b></summary>
-<br/>
 
 </details>
+-->
 <hr width=25%;>
 <details close>
     <summary>Supplemental &#x21A9;</summary>
@@ -1463,7 +1451,7 @@ eC=Lesson 6-Automation Concepts
 &#x1F6A7;
 </details> <!-- END (Supplemental) -->
 </details> <!-- END (CompTIA CASP+) -->
-<details open>
+<details close>
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
 <!-- XXXXXXXXXXXXXXXXXXXXX LABS XXXXXXXXXXXXXXXXXXXXX -->
@@ -1737,7 +1725,8 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END: LABS -->
 <hr width=33%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
-<hr width=50%;> <!-- -->
+<hr width=40%;> <!-- -->
+</details>
 </details> <!-- END (Cybersecurity Associate Candidate (Apprenticeship NFQ L6)) -->
 <details close> 
 	<summary><h3>Higher Diploma in Science in Computing (in Data Analytics) &#x21A9; </h3> </summary>
