@@ -11,6 +11,7 @@
 | &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA Cybersecurity Analyst (CySa+) <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-cysa-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-CySa-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CSAP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csap.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-Analytics-Professional-CSAP.pdf) |
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CNSP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnsp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Security-Professional-CNSP.pdf) |
+| &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [Funded by HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
 | &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/>                   | [![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true)](https://www.datacamp.com/profile/seanohaileasa) |
@@ -1363,8 +1364,68 @@ eC=Lesson 6-Automation Concepts
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
 </details>
+<hr width=33%;>
+<details close>
+	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
+<!--
+03/11/2022
+"add repository ./cdp-..."
+-->
+
+- { ["**Cloud Architecture and Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Capacity Planning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud High Availability and Scaling**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Solution Design**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Identity and Access Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Security Controls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb) : &#x1F6A7; }
+
+- { ["**Data Security and Compliance Controls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Component Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb) : &#x1F6A7; }
+
+- { ["**Provisioning Cloud Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Network Deployments**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Migrations**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Logging Monitoring Alerting and Optimization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Operations Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Automation and Orchestration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Disaster Recovery**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb) : &#x1F6A7; }
+
+- { ["**Cloud Troubleshooting Methodologies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb) : &#x1F6A7; }
+
+- { ["**Troubleshooting Cloud Security Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb) : &#x1F6A7; }
+
+- { ["**Troubleshooting Cloud Deployments**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb) : &#x1F6A7; }
+
+- { ["**Troubleshooting Automation and Orchestration Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb) : &#x1F6A7; }
 <hr width=25%;>
-<details open>
+<details close>
+    <summary>Supplemental &#x21A9;</summary>
+<!--
+- { ["**CompTIA Cloud+**"](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) : &#x1F6A7; }
+-->
+&#x1F6A7;
+</details> <!-- END (Supplemental) -->
+</details> <!-- END (CompTIA Cloud+) -->
+<details close>
+	<summary>&#x1F52C; &#x21A9;</summary>
+<br/>
+</details>
+<hr width=33%;>
+<details close>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
 <!--
 02/11/2022
