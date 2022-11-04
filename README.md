@@ -1365,52 +1365,18 @@ eC=Lesson 6-Automation Concepts
 <br/>
 </details>
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
+<br/>
 <!--
-03/11/2022
-"add repository ./cdp-..."
+04/11/2022
+"update repository ./cdp-cloud-architecture-and-models - Cloud Deployment Models"
 -->
+<details open>
+    <summary>Cloud Architecture and Models &#x21A9;</summary>
 
-- { ["**Cloud Architecture and Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Capacity Planning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud High Availability and Scaling**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Solution Design**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Identity and Access Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Security Controls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb) : &#x1F6A7; }
-
-- { ["**Data Security and Compliance Controls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Component Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb) : &#x1F6A7; }
-
-- { ["**Provisioning Cloud Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Network Deployments**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Migrations**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Logging Monitoring Alerting and Optimization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Operations Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Automation and Orchestration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Disaster Recovery**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb) : &#x1F6A7; }
-
-- { ["**Cloud Troubleshooting Methodologies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb) : &#x1F6A7; }
-
-- { ["**Troubleshooting Cloud Security Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb) : &#x1F6A7; }
-
-- { ["**Troubleshooting Cloud Deployments**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb) : &#x1F6A7; }
-
-- { ["**Troubleshooting Automation and Orchestration Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb) : &#x1F6A7; }
+- { ["**Cloud Deployment Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#A) : &#x2705; }
+</details>
 <hr width=25%;>
 <details close>
     <summary>Supplemental &#x21A9;</summary>
