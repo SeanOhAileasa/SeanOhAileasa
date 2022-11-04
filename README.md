@@ -363,7 +363,7 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-03/11/2022
+04/11/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x23F2; }
