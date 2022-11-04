@@ -1370,12 +1370,13 @@ eC=Lesson 6-Automation Concepts
 <br/>
 <!--
 04/11/2022
-"update repository ./cdp-cloud-architecture-and-models - Cloud Deployment Models"
+"update repository ./cdp-cloud-architecture-and-models - Infrastructure as a Service"
 -->
 <details open>
     <summary>Cloud Architecture and Models &#x21A9;</summary>
 
 - { ["**Cloud Deployment Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#A) : &#x2705; }
+- { ["**Infrastructure as a Service**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#B) : &#x2705; }
 </details>
 <hr width=25%;>
 <details close>
