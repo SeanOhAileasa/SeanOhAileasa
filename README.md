@@ -1383,7 +1383,7 @@ eC=Lesson 6-Automation Concepts
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))
 05/11/2022
-"update repository ./cdp-cloud-capacity-planning - Standard Templates as a Factor in Capacity Planning"
+"update repository ./cdp-cloud-capacity-planning - Licensing as a Factor in Capacity Planning"
 -->
 <details open> 
     <summary>Cloud Capacity Planning &#x21A9;</summary>
@@ -1394,6 +1394,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 - { ["**Standard Templates as a Factor in Capacity Planning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#C) : &#x2B55; }
 
+- { ["**Licensing as a Factor in Capacity Planning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#D) : &#x2B55; }
 </details>
 <hr width=25%;>    
 <details close>
