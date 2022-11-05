@@ -1,11 +1,11 @@
-<details open> 
-	<summary><h3>Cybersecurity Associate Candidate (Apprenticeship NFQ L6) &#x21A9; </h3> </summary>
-
-|**Prefix**|**ICT Associate Apprenticeship Cybersecurity**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
+<details close> 
+	<summary><h3>2022 CompTIA Cybersecurity Career Pathway &#x21A9;</h3></summary>
+			  
+|**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
-| &nbsp;&nbsp;&nbsp;``itf-``&nbsp;&nbsp; | CompTIA ITF+                       |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
-| &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+ <br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
-| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>CompTIA Security+ &#x1F4CC; <br/><br/>                               |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-security-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-plus-certificate.pdf)|
+| &nbsp;&nbsp;&nbsp;``itf-``&nbsp;&nbsp; | CompTIA ITF+ &#x2705; [``31st May:24th Jun``] |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
+| &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+ &#x2705; [``18th Jul:7th Oct``] <br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
+| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>CompTIA Security+ &#x1F4CC; [``10th Oct:9th Dec``] <br/><br/>                               |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-security-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-plus-certificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA PenTest+ <br/><br/>                | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-pentest-pt-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-PenTest-plus-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA CNVP <br/><br/>                | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnvp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Vulnerability-Assessment-Professional-CNVP.pdf) |
 | &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA Cybersecurity Analyst (CySa+) <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-cysa-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-CySa-certificate.pdf) |
@@ -13,11 +13,6 @@
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CNSP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnsp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Security-Professional-CNSP.pdf) |
 | &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | &#x2935; |
-| &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [Funded by HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
-| &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/>                   | [![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true)](https://www.datacamp.com/profile/seanohaileasa) |
-
-<details open> 
-	<summary><h4>&#x1F6A7; ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary> <br/>
 
 <details close>
 <!--
@@ -845,8 +840,8 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 <!-- Information Gathering and Vulnerability Scanning -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary>Information Gathering and Vulnerability Scanning &#x21A9;</summary>
-<br/>
+    <summary style="text-decoration:underline;">Information Gathering and Vulnerability Scanning &#x21A9;</summary><br/>
+
 <details open>
     <summary>Reconnaissance Tools &#x21A9;</summary>
 
@@ -903,14 +898,14 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 - [``SQL Injection Attack``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-sql-injection/ptp-using-sql-injection.ipynb#1) &#x2705; <br/>
 - [``Blind SQL Injection``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-sql-injection/ptp-using-sql-injection.ipynb#2) &#x2705; <br/>
 </details>
-<hr width=25%;>
 </details> <!-- END: Information Gathering and Vulnerability Scanning -->
+<hr width=10%;>
 <!-- XXXXXXXXXXXXXXXXXXXXX LABS XXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXX Attacks and Exploits XXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary>Attacks and Exploits &#x21A9;</summary>
-<br/>
+    <summary style="text-decoration:underline;">Attacks and Exploits &#x21A9;</summary><br/>
+
 <details open>
     <summary>Exploring the Basics of Metasploit &#x21A9;</summary>
 
@@ -978,13 +973,13 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 - [``steghide``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/navigating-steganography-tools/ptp-navigating-steganography-tools.ipynb#1) &#x274C; <br/>
 - [``Embedding File Using Steghide``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/navigating-steganography-tools/ptp-navigating-steganography-tools.ipynb#2) &#x274C; <br/>
 </details>
-<hr width=25%;>
 </details> <!-- END: Attacks and Exploits -->
+<hr width=10%;>
 <!-- XXXXXXXXXXXXXXXXXXXXX LABS XXXXXXXXXXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXX Tools and Code Analysis XXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary>Tools and Code Analysis &#x21A9;</summary>
+    <summary style="text-decoration:underline;">Tools and Code Analysis &#x21A9;</summary>
 <br/>
 <details open>
     <summary>Exploring Programming Shells &#x21A9;</summary>
@@ -1006,8 +1001,8 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 - [``The VSFTP Backdoor``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-vsftp-manual-and-metasploit/ptp-using-vsftp-manual-and-metasploit.ipynb#1) &#x274C; <br/>
 - [``Using Metasploit to Attack the VSFTP Backdoor``](https://nbviewer.org/github/SeanOhAileasa/ptp-practice-labs/blob/main/rc/using-vsftp-manual-and-metasploit/ptp-using-vsftp-manual-and-metasploit.ipynb#2) &#x274C; <br/>
 </details>
-<hr width=25%;>
 </details> <!-- END: Tools and Code Analysis -->
+<hr width=10%;>
 </details> <!-- END: LABS -->
 <hr width=33%;>
 <details close>
@@ -1031,87 +1026,7 @@ eC=Lesson 6-Automation Concepts
     - { ["**Vulnerabilities in Specialized Technology**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-vulnerabilities-in-specialized-technology.ipynb) : &#x1F513; } <br/><br/>
     - { ["**Cloud Service Model Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-cloud-service-model-vulnerabilities.ipynb) : &#x1F513; } <br/><br/>
     - { ["**Software Vulnerabilities**"](https://nbviewer.org/github/SeanOhAileasa/cap-threat-and-vulnerability-management/blob/main/rc/cap-software-vulnerabilities.ipynb) : &#x1F513; } <br/> 
-
-<details close>
-	<summary>&#x1F52C; &#x21A9;</summary>
-<br/>
-<!--
-//2022
-"updata repository ./cap-practice-labs ()" 
--->
-<details open>
-	<summary>Threat and Data Intelligence &#x21A9;</summary>
-
-> &#x1F52C; [Threat Data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/threat-data/ThreatData.html#ThreatData) &#x1F513; <br/> <!-- LAB -->
-
-> &#x1F52C; [Information Gathering and Sharing](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/information-gathering-and-sharing/cap-Information-Gathering-and-Sharing.pdf) &#x2705; <br/>
-</details>
-<details open>
-	<summary>Threat Intelligence and Organizational Security &#x21A9;</summary>
-
-> &#x1F52C; Supporting Organizational Security <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Attack Frameworks](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-attack-frameworks.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Threat Research](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-research.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Threat Modeling Methodologies](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-modeling-methodologies.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Threat Intelligence Sharing with Supported Functions](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-intelligence-sharing-with-supported-functions.ipynb) &#x2705; <br/>
-</details>
-<details open>
-	<summary>Vulnerability Management &#x21A9;</summary>
-
-> &#x1F52C; [Scanning Parameters and Criteria](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/types-of-scanning/TypesofScanning.html#ScanningParametersandCriteria) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Vulnerability Identification and Remediation <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Vulnerability Identification](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#VulnerabilityIdentification) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Validation) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Remediation Mitigation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#RemediationMitigation) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Inhibitors to Remediation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#InhibitorstoRemediation) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Patching](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Patching) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Vulnerability Scanning and Enumeration and Assessment &#x21A9;</summary>
-
-> &#x1F52C; Web Application Scanners <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Application scanner](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/web-application-scanners/WebApplicationScanners.html#WebApplicationScanner) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Software assessment tools and techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/web-application-scanners/WebApplicationScanners.html#SoftwareAssessmentToolsandTechniques) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Infrastructure Vulnerability Scanners <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Nessus](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-vulnerability-scanners/InfrastructureVulnerabilityScanners.html#Nessus) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OpenVAS](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-vulnerability-scanners/InfrastructureVulnerabilityScanners.html#OpenVAS) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Enumeration <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Enumeration](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/enumeration/Enumeration.html#Enumeration) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Leveraging the Gathered Information](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/enumeration/Enumeration.html#LeveragingtheGatheredInformation) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Vulnerabilities in Specialized Technology &#x21A9;</summary>
-
-> &#x1F52C; [Vulnerabilities in Specialized Technology](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities-in-specialized-technology/VulnerabilitiesinSpecializedTechnology.html#VulnerabilitiesinSpecializedTechnology) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Cloud Service Model Vulnerabilities &#x21A9;</summary>
-
-> &#x1F52C; Wireless and Cloud Assessment Tools <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Wireless Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#WirelessAssessmentTools) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cloud Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudModels) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cloud Infrastructure Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudAssessmentTools) &#x274C; <br/>
-</details>
-<details open>
-	<summary>Software Vulnerabilities &#x21A9;</summary>
-
-> &#x1F52C; Attack Types <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Application Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise1WebApplicationExploits.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Database Attack Types and Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise2DatabaseAttackTypesandExploits.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Additional Cybersecurity Attack Types](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise3AdditionalCybersecurityAttackTypes.pdf) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supplemental Resources: <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [App-server (``flask``)](https://github.com/SeanOhAileasa/cwe-app-server) &#x1F6A7; <br/> <!-- LAB -->
-
-> &#x1F52C; Vulnerabilities <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Conducting a Software Vulnerability Scan Using AlienVault](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise1ConductingaSoftwareVulnerabilityScanUsingAlienVault.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Conducting a Software Vulnerability Scan using Nessus](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise2ConductingaSoftwareVulnerabilityScanusingNessus.ipynb) &#x2705; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Define Different Web Application Software Vulnerabilities](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise3DefineDifferentWebApplicationSoftwareVulnerabilities.pdf) &#x2705; <br/>
-</details>
-</details> <!-- END LABS - CySa+ -->    
-</details>
+</details> <!-- END: Threat and Vulnerability Management -->
 <hr width=25%;>
 <details close>
 	<summary> Software and Systems Security &#x21A9; 18%</summary>
@@ -1120,54 +1035,8 @@ eC=Lesson 6-Automation Concepts
 
     - { ["**Infrastructure Management Solutions**"](https://nbviewer.org/github/SeanOhAileasa/cap-software-and-systems-security/blob/main/rc/cap-infrastructure-management-solutions.ipynb) : &#x1F513; } <br/><br/>
 	- { ["**Software Assurance**"](https://nbviewer.org/github/SeanOhAileasa/cap-software-and-systems-security/blob/main/rc/cap-software-assurance.ipynb) : &#x1F513; } <br/><br/>
-    - { ["**Hardware Assurance**"](https://nbviewer.org/github/SeanOhAileasa/cap-software-and-systems-security/blob/main/rc/cap-hardware-assurance.ipynb) : &#x1F513; } <br/>
-
-<details close>
-    <summary>&#x1F52C; &#x21A9;</summary>
-<br/>
-<!--
-//2022
-"updata repository ./cap-practice-labs ()" 
--->
-<details open>
-    <summary>Infrastructure Management Solutions &#x21A9;</summary>
-
-> &#x1F52C; Infrastructure Security <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Set up a Honeypot with Pentbox](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-security/InfrastructureSecurity.html#SetupaHoneypotwithPentbox) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data Collector Sets](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-security/InfrastructureSecurity.html#DataCollectorSets) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Configuring Alerts for Data Collector Sets](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-security/InfrastructureSecurity.html#ConfiguringAlertsforDataCollectorSets) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Enable EFS on Standalone Windows Computer](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-security/InfrastructureSecurity.html#EnableEFSonStandaloneWindowsComputer) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Identity and Access Management <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Enable Multifactor Authentication](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/identity-and-access-management/IdentityandAccessManagement.html#EnableMultifactorAuthentication) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perform Manual Review and Privilege Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/identity-and-access-management/IdentityandAccessManagement.html#PerformManualReviewandPrivilegeManagement) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Configure Mandatory Access Control](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/identity-and-access-management/IdentityandAccessManagement.html#ConfigureMandatoryAccessControl) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Infrastructure Solutions <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [On-premises and Cloud Infrastructure](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-solutions/InfrastructureSolutions.html#OnpremisesandCloudInfrastructure) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Network Architecture](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-solutions/InfrastructureSolutions.html#NetworkArchitecture) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Asset Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-solutions/InfrastructureSolutions.html#AssetManagement) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Change Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-solutions/InfrastructureSolutions.html#ChangeManagement) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Virtualization and Containerization](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-solutions/InfrastructureSolutions.html#VirtualizationandContainerization) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Certificate Management <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Install and Configure Active Directory Certificate Services](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/certificate-management/CertificateManagement.html#InstallandConfigureActiveDirectoryCertificateServices) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Configure Certificate Revocation Lists (CRLs)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/certificate-management/CertificateManagement.html#ConfigureCertificateRevocationListsCRLs) &#x274C; <br/> <!-- LAB -->
-</details>
-<details open>
-    <summary>Software Assurance &#x21A9;</summary>
-
-> &#x1F52C; Applying Security Concepts to Mitigate Risk <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Software Assurances](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/applying-security-concepts-to-mitigate-risk/ApplyingSecurityConceptstoMitigateRisk.html#SoftwareAssurances) &#x274C; <br/> <!-- LAB -->
-</details>
-<details open>
-    <summary>Hardware Assurance &#x21A9;</summary>
-
-> &#x1F52C; Applying Security Concepts to Mitigate Risk <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Hardware Assurances](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/applying-security-concepts-to-mitigate-risk/ApplyingSecurityConceptstoMitigateRisk.html#HardwareAssurances) &#x274C; <br/> <!-- LAB -->
-</details>
-</details> <!-- END LABS - CySa+ -->    
-</details>
+    - { ["**Hardware Assurance**"](https://nbviewer.org/github/SeanOhAileasa/cap-software-and-systems-security/blob/main/rc/cap-hardware-assurance.ipynb) : &#x1F513; } <br/>  
+</details> <!-- END: Software and Systems Security -->
 <hr width=25%;>
 <details close>
 	<summary> Security Operations and Monitoring &#x21A9; 25%</summary>
@@ -1178,53 +1047,8 @@ eC=Lesson 6-Automation Concepts
     - { ["**Configuration Controls**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-configuration-controls.ipynb) : &#x1F513; } <br/><br/>    
     - { ["**Threat Hunting**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-threat-hunting.ipynb) : &#x1F513; } <br/><br/>
     - { ["**Automation**"](https://nbviewer.org/github/SeanOhAileasa/cap-security-operations-and-monitoring/blob/main/rc/cap-automation.ipynb) : &#x1F513; } <br/><br/>
-    	- { ["**Machine Learning for Cyber Security**"](https://nbviewer.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } <br/> 
-
-<details close>
-    <summary>&#x1F52C; &#x21A9;</summary>
-<br/>
-<!--
-//2022
-"updata repository ./cap-practice-labs ()" 
--->
-<details open>
-    <summary>Security Monitoring &#x21A9;</summary>
-
-> &#x1F52C; Scripting <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Search](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#PerformSearch) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Scripting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Scripting) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Piping](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Piping) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Log Monitoring and Review <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Logging](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/log-monitoring-and-review/LogMonitoringandReview.html#Logging) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Security Monitoring Activities <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Security information and event management (SIEM) review](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/security-monitoring-activities/SecurityMonitoringActivities.html#SecurityInformationandEventManagementSIEM) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email analysis](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/security-monitoring-activities/SecurityMonitoringActivities.html#EmailAnalysis) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Network](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/security-monitoring-activities/SecurityMonitoringActivities.html#Network) &#x274C; <br/> <!-- LAB -->
-</details>
-<details open>
-    <summary>Configuration Controls &#x21A9;</summary>
-
-> &#x1F52C; Data and Application Controls <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Permissions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/data-and-application-controls/DataandApplicationControls.html#Permissions) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Software Restriction Policies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/data-and-application-controls/DataandApplicationControls.html#SoftwareRestrictionPolicies) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Firewall](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/data-and-application-controls/DataandApplicationControls.html#Firewall) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Sandboxing](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/data-and-application-controls/DataandApplicationControls.html#Sandboxing) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Improving Network Security <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Network Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/improving-network-security/ImprovingNetworkSecurity.html#NetworkSecurity) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Update Antimalware Signatures](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/improving-network-security/ImprovingNetworkSecurity.html#UpdateAntimalwareSignatures) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Work with Snort](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/improving-network-security/ImprovingNetworkSecurity.html#WorkwithSnort) &#x274C; <br/> <!-- LAB -->
-</details>
-<details open>
-    <summary>Automation &#x21A9;</summary>
-
-> &#x1F52C; Automation Concepts <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Automation Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/automation-concepts/AutomationConcepts.html#AutomationConcepts) &#x274C; <br/> <!-- LAB -->
-</details>
-</details> <!-- END LABS - CySa+ -->    	
-</details>
+    	- { ["**Machine Learning for Cyber Security**"](https://nbviewer.org/github/SeanOhAileasa/mls-cyber-security/blob/main/mls-cyber-security.ipynb) : &#x1F6A7; } <br/>    	
+</details> <!-- END: Security Operations and Monitoring -->
 <hr width=25%;>
 <details close>
 	<summary>Incident Response &#x21A9; 22%</summary>
@@ -1234,87 +1058,18 @@ eC=Lesson 6-Automation Concepts
 	- { ["**Incident Response Process**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-incident-response-process.ipynb) : &#x1F513; } <br/><br/>
 	- { ["**Applying Incident Response Procedures**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-applying-incident-response-procedures.ipynb) : &#x1F513; } <br/><br/>
 	- { ["**Indicators of Compromise - IoCs**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-indicators-of-compromise-iocs.ipynb) : &#x1F513; } <br/><br/>
-	- { ["**Digital Forensics Techniques**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-digital-forensics-techniques.ipynb) : &#x274C; } <br/>
-
-<details close>
-    <summary>&#x1F52C; &#x21A9;</summary>
-<br/>
-<!--
-//2022
-"updata repository ./cap-practice-labs ()" 
--->
-<details open>
-    <summary>Incident Response Process &#x21A9;</summary>
-
-> &#x1F52C; Importance of Incident Response <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Communication Plan](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/importance-of-incident-response/ImportanceofIncidentResponse.html#CommunicationPlan) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Response Coordination with Relevant Entities](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/importance-of-incident-response/ImportanceofIncidentResponse.html#ResponseCoordinationwithRelevantEntities) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Factors Contributing to Data Criticality](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/importance-of-incident-response/ImportanceofIncidentResponse.html#FactorsContributingtoDataCriticality) &#x274C; <br/> <!-- LAB -->
-</details>
-<details open>
-    <summary>Applying Incident Response Procedures &#x21A9;</summary>
-
-> &#x1F52C; Initial Phases of Incident Response <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Preparation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/initial-phases-of-incident-response/InitialPhasesofIncidentResponse.html#Preparation) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Detection and Analysis](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/initial-phases-of-incident-response/InitialPhasesofIncidentResponse.html#DetectionandAnalysis) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Containment](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/initial-phases-of-incident-response/InitialPhasesofIncidentResponse.html#Containment) &#x274C; <br/> <!-- LAB -->
-</details>
-<details open>
-    <summary>Indicators of Compromise (IoCs) &#x21A9;</summary>
-
-> &#x1F52C; Host Related Incident Compromise Indicators <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Host-related Incident Compromise Indicators](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/host-related-incident-compromise-indicators/HostRelatedIncidentCompromiseIndicators.html#HostrelatedIncidentCompromiseIndicators) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Prevent Unauthorized Software from Running](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/host-related-incident-compromise-indicators/HostRelatedIncidentCompromiseIndicators.html#PreventUnauthorizedSoftwarefromRunning) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Network and Application Related Incident Compromise Indicators <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Network-Related](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/network-and-application-related-incident-compromise-indicators/NetworkandApplicationRelatedIncidentCompromiseIndicators.html#NetworkRelated) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Application-Related](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/network-and-application-related-incident-compromise-indicators/NetworkandApplicationRelatedIncidentCompromiseIndicators.html#ApplicationRelated) &#x274C; <br/> <!-- LAB -->
-
-> &#x1F52C; Later Phases of Incident Response <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Eradication and Recovery](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/later-phases-of-incident-response/LaterPhasesofIncidentResponse.html#EradicationandRecovery) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Post-incident Activities](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/later-phases-of-incident-response/LaterPhasesofIncidentResponse.html#PostincidentActivities) &#x274C; <br/> <!-- LAB -->
-</details>
-<details open>
-    <summary>Digital Forensics Techniques &#x21A9;</summary>
-
-> &#x1F52C; Digital Forensics Techniques <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Use Tcpdump](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/digital-forensics-techniques/DigitalForensicsTechniques.html#UseTcpdump) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Capture Packets with Wireshark](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/digital-forensics-techniques/DigitalForensicsTechniques.html#CapturePacketswithWireshark) &#x274C; <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Use OSForensics](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/digital-forensics-techniques/DigitalForensicsTechniques.html#UseOSForensics) &#x274C; <br/> <!-- LAB -->
-</details>
-</details> <!-- END LABS - CySa+ -->		
-</details>
+	- { ["**Digital Forensics Techniques**"](https://nbviewer.org/github/SeanOhAileasa/cap-incident-response/blob/main/rc/cap-digital-forensics-techniques.ipynb) : &#x274C; } <br/>		
+</details> <!-- END: Incident Response -->
 <hr width=25%;>
 <details close>
-	<summary> Compliance and Assessment &#x21A9; 13%</summary>
+	<summary>Compliance and Assessment &#x21A9; 13%</summary>
 
 - { ["**Compliance and Assessment**"](https://github.com/SeanOhAileasa/cap-compliance-and-assessment/blob/main/README.md) : &#x1F6A7; } <br/> 
 
 	- { ["**Data and Privacy Controls**"](https://nbviewer.org/github/SeanOhAileasa/cap-compliance-and-assessment/blob/main/rc/cap-data-and-privacy-controls.ipynb) : &#x274C; } <br/><br/>
 	- { ["**Organizational Risk Mitigation**"](https://nbviewer.org/github/SeanOhAileasa/cap-compliance-and-assessment/blob/main/rc/cap-organizational-risk-mitigation.ipynb) : &#x274C; } <br/><br/>	
 	- { ["**Frameworks Policies Procedures and Controls**"](https://nbviewer.org/github/SeanOhAileasa/cap-compliance-and-assessment/blob/main/rc/cap-frameworks-policies-procedures-and-controls.ipynb) : &#x274C; } <br/>
-
-<details close>
-    <summary>&#x1F52C; &#x21A9;</summary>
-<br/>
-<!--
-//2022
-"updata repository ./cap-practice-labs ()" 
--->
-<details open>
-    <summary>Organizational Risk Mitigation &#x21A9;</summary>
-
-> &#x1F52C; Applying Security Concepts to Mitigate Risk <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Business Impact Analysis (BIA)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/applying-security-concepts-to-mitigate-risk/ApplyingSecurityConceptstoMitigateRisk.html#BusinessImpactAnalysisBIA) &#x274C; <br/> <!-- LAB -->
-</details>
-<details open>
-    <summary>Frameworks, Policies, Procedures, and Controls &#x21A9;</summary>
-
-> &#x1F52C; Frameworks, Controls, Policies and Procedures <br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Frameworks, Controls, Policies, and Procedures](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/frameworks-controls-policies-and-procedures/FrameworksControlsPoliciesandProcedures.html#FrameworksControlsPoliciesandProcedures) &#x274C; <br/> <!-- LAB -->
-</details>
-</details> <!-- END LABS - CySa+ -->
-</details>
+</details> <!-- END: Compliance and Assessment -->
 <hr width=25%;>
 <details open>
     <summary>Supplemental &#x21A9;</summary>
@@ -1363,7 +1118,231 @@ eC=Lesson 6-Automation Concepts
 <details close>
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
+<!--
+//2022
+"updata repository ./cap-practice-labs ()" 
+-->
+<details close>
+	<summary style="text-decoration:underline;">Threat and Vulnerability Management &#x21A9;</summary><br/>
+
+<details close>
+	<summary>Threat and Data Intelligence &#x21A9;</summary>
+
+> &#x1F52C; [Threat Data](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/threat-data/ThreatData.html#ThreatData) &#x1F513; <br/> <!-- LAB -->
+
+> &#x1F52C; [Information Gathering and Sharing](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/information-gathering-and-sharing/cap-Information-Gathering-and-Sharing.pdf) &#x2705; <br/>
 </details>
+<details close>
+	<summary>Threat Intelligence and Organizational Security &#x21A9;</summary>
+
+> &#x1F52C; Supporting Organizational Security <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Attack Frameworks](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-attack-frameworks.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Threat Research](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-research.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Threat Modeling Methodologies](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-modeling-methodologies.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Threat Intelligence Sharing with Supported Functions](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/supporting-organizational-security/cap-threat-intelligence-sharing-with-supported-functions.ipynb) &#x2705; <br/>
+</details>
+<details close>
+	<summary>Vulnerability Management &#x21A9;</summary>
+
+> &#x1F52C; [Scanning Parameters and Criteria](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/types-of-scanning/TypesofScanning.html#ScanningParametersandCriteria) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Vulnerability Identification and Remediation <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Vulnerability Identification](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#VulnerabilityIdentification) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Validation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Validation) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Remediation Mitigation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#RemediationMitigation) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Inhibitors to Remediation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#InhibitorstoRemediation) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Patching](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerability-identification-and-remediation/VulnerabilityIdentificationandRemediation.html#Patching) &#x274C; <br/>
+</details>
+<details close>
+	<summary>Vulnerability Scanning and Enumeration and Assessment &#x21A9;</summary>
+
+> &#x1F52C; Web Application Scanners <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Application scanner](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/web-application-scanners/WebApplicationScanners.html#WebApplicationScanner) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Software assessment tools and techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/web-application-scanners/WebApplicationScanners.html#SoftwareAssessmentToolsandTechniques) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Infrastructure Vulnerability Scanners <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Nessus](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-vulnerability-scanners/InfrastructureVulnerabilityScanners.html#Nessus) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [OpenVAS](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-vulnerability-scanners/InfrastructureVulnerabilityScanners.html#OpenVAS) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Enumeration <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Enumeration](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/enumeration/Enumeration.html#Enumeration) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Leveraging the Gathered Information](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/enumeration/Enumeration.html#LeveragingtheGatheredInformation) &#x274C; <br/>
+</details>
+<details close>
+	<summary>Vulnerabilities in Specialized Technology &#x21A9;</summary>
+
+> &#x1F52C; [Vulnerabilities in Specialized Technology](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities-in-specialized-technology/VulnerabilitiesinSpecializedTechnology.html#VulnerabilitiesinSpecializedTechnology) &#x274C; <br/>
+</details>
+<details close>
+	<summary>Cloud Service Model Vulnerabilities &#x21A9;</summary>
+
+> &#x1F52C; Wireless and Cloud Assessment Tools <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Wireless Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#WirelessAssessmentTools) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cloud Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudModels) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cloud Infrastructure Assessment Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/wireless-and-cloud-assessment-tools/WirelessandCloudAssessmentTools.html#CloudAssessmentTools) &#x274C; <br/>
+</details>
+<details close>
+	<summary>Software Vulnerabilities &#x21A9;</summary>
+
+> &#x1F52C; Attack Types <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Application Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise1WebApplicationExploits.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Database Attack Types and Exploits](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise2DatabaseAttackTypesandExploits.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Additional Cybersecurity Attack Types](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/attack-types/cap-Exercise3AdditionalCybersecurityAttackTypes.pdf) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supplemental Resources: <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [App-server (``flask``)](https://github.com/SeanOhAileasa/cwe-app-server) &#x1F6A7; <br/> <!-- LAB -->
+
+> &#x1F52C; Vulnerabilities <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Conducting a Software Vulnerability Scan Using AlienVault](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise1ConductingaSoftwareVulnerabilityScanUsingAlienVault.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Conducting a Software Vulnerability Scan using Nessus](https://nbviewer.org/github/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise2ConductingaSoftwareVulnerabilityScanusingNessus.ipynb) &#x2705; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Define Different Web Application Software Vulnerabilities](https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/vulnerabilities/cap-Exercise3DefineDifferentWebApplicationSoftwareVulnerabilities.pdf) &#x2705; <br/>
+</details>
+</details> <!-- END - Threat and Vulnerability Management -->
+<hr width=10%;>
+<details close>
+	<summary style="text-decoration:underline;">Software and Systems Security &#x21A9;</summary><br/>
+
+<details close>
+    <summary>Infrastructure Management Solutions &#x21A9;</summary>
+
+> &#x1F52C; Infrastructure Security <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Set up a Honeypot with Pentbox](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-security/InfrastructureSecurity.html#SetupaHoneypotwithPentbox) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Data Collector Sets](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-security/InfrastructureSecurity.html#DataCollectorSets) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Configuring Alerts for Data Collector Sets](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-security/InfrastructureSecurity.html#ConfiguringAlertsforDataCollectorSets) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Enable EFS on Standalone Windows Computer](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-security/InfrastructureSecurity.html#EnableEFSonStandaloneWindowsComputer) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Identity and Access Management <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Enable Multifactor Authentication](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/identity-and-access-management/IdentityandAccessManagement.html#EnableMultifactorAuthentication) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Perform Manual Review and Privilege Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/identity-and-access-management/IdentityandAccessManagement.html#PerformManualReviewandPrivilegeManagement) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Configure Mandatory Access Control](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/identity-and-access-management/IdentityandAccessManagement.html#ConfigureMandatoryAccessControl) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Infrastructure Solutions <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [On-premises and Cloud Infrastructure](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-solutions/InfrastructureSolutions.html#OnpremisesandCloudInfrastructure) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Network Architecture](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-solutions/InfrastructureSolutions.html#NetworkArchitecture) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Asset Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-solutions/InfrastructureSolutions.html#AssetManagement) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Change Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-solutions/InfrastructureSolutions.html#ChangeManagement) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Virtualization and Containerization](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/infrastructure-solutions/InfrastructureSolutions.html#VirtualizationandContainerization) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Certificate Management <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Install and Configure Active Directory Certificate Services](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/certificate-management/CertificateManagement.html#InstallandConfigureActiveDirectoryCertificateServices) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Configure Certificate Revocation Lists (CRLs)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/certificate-management/CertificateManagement.html#ConfigureCertificateRevocationListsCRLs) &#x274C; <br/> <!-- LAB -->
+</details>
+<details close>
+    <summary>Software Assurance &#x21A9;</summary>
+
+> &#x1F52C; Applying Security Concepts to Mitigate Risk <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Software Assurances](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/applying-security-concepts-to-mitigate-risk/ApplyingSecurityConceptstoMitigateRisk.html#SoftwareAssurances) &#x274C; <br/> <!-- LAB -->
+</details>
+<details close>
+    <summary>Hardware Assurance &#x21A9;</summary>
+
+> &#x1F52C; Applying Security Concepts to Mitigate Risk <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Hardware Assurances](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/applying-security-concepts-to-mitigate-risk/ApplyingSecurityConceptstoMitigateRisk.html#HardwareAssurances) &#x274C; <br/> <!-- LAB -->
+</details>
+</details> <!-- END - Software and Systems Security -->
+<hr width=10%;>	
+<details close>
+	<summary style="text-decoration:underline;">Security Operations and Monitoring &#x21A9;</summary><br/>
+
+<details close>
+    <summary>Security Monitoring &#x21A9;</summary>
+
+> &#x1F52C; Scripting <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Search](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#PerformSearch) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Scripting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Scripting) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Piping](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/scripting/Scripting.html#Piping) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Log Monitoring and Review <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Logging](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/log-monitoring-and-review/LogMonitoringandReview.html#Logging) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Security Monitoring Activities <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Security information and event management (SIEM) review](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/security-monitoring-activities/SecurityMonitoringActivities.html#SecurityInformationandEventManagementSIEM) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Email analysis](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/security-monitoring-activities/SecurityMonitoringActivities.html#EmailAnalysis) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Network](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/security-monitoring-activities/SecurityMonitoringActivities.html#Network) &#x274C; <br/> <!-- LAB -->
+</details>
+<details close>
+    <summary>Configuration Controls &#x21A9;</summary>
+
+> &#x1F52C; Data and Application Controls <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Permissions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/data-and-application-controls/DataandApplicationControls.html#Permissions) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Software Restriction Policies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/data-and-application-controls/DataandApplicationControls.html#SoftwareRestrictionPolicies) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Firewall](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/data-and-application-controls/DataandApplicationControls.html#Firewall) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Sandboxing](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/data-and-application-controls/DataandApplicationControls.html#Sandboxing) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Improving Network Security <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Network Security](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/improving-network-security/ImprovingNetworkSecurity.html#NetworkSecurity) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Update Antimalware Signatures](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/improving-network-security/ImprovingNetworkSecurity.html#UpdateAntimalwareSignatures) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Work with Snort](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/improving-network-security/ImprovingNetworkSecurity.html#WorkwithSnort) &#x274C; <br/> <!-- LAB -->
+</details>
+<details close>
+    <summary>Automation &#x21A9;</summary>
+
+> &#x1F52C; Automation Concepts <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Automation Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/automation-concepts/AutomationConcepts.html#AutomationConcepts) &#x274C; <br/> <!-- LAB -->
+</details>
+</details> <!-- END - Security Operations and Monitoring -->
+<hr width=10%;>	
+<details close>
+	<summary style="text-decoration:underline;">Incident Response &#x21A9;</summary><br/>
+
+<details close>
+    <summary>Incident Response Process &#x21A9;</summary>
+
+> &#x1F52C; Importance of Incident Response <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Communication Plan](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/importance-of-incident-response/ImportanceofIncidentResponse.html#CommunicationPlan) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Response Coordination with Relevant Entities](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/importance-of-incident-response/ImportanceofIncidentResponse.html#ResponseCoordinationwithRelevantEntities) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Factors Contributing to Data Criticality](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/importance-of-incident-response/ImportanceofIncidentResponse.html#FactorsContributingtoDataCriticality) &#x274C; <br/> <!-- LAB -->
+</details>
+<details close>
+    <summary>Applying Incident Response Procedures &#x21A9;</summary>
+
+> &#x1F52C; Initial Phases of Incident Response <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Preparation](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/initial-phases-of-incident-response/InitialPhasesofIncidentResponse.html#Preparation) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Detection and Analysis](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/initial-phases-of-incident-response/InitialPhasesofIncidentResponse.html#DetectionandAnalysis) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Containment](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/initial-phases-of-incident-response/InitialPhasesofIncidentResponse.html#Containment) &#x274C; <br/> <!-- LAB -->
+</details>
+<details close>
+    <summary>Indicators of Compromise (IoCs) &#x21A9;</summary>
+
+> &#x1F52C; Host Related Incident Compromise Indicators <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Host-related Incident Compromise Indicators](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/host-related-incident-compromise-indicators/HostRelatedIncidentCompromiseIndicators.html#HostrelatedIncidentCompromiseIndicators) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Prevent Unauthorized Software from Running](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/host-related-incident-compromise-indicators/HostRelatedIncidentCompromiseIndicators.html#PreventUnauthorizedSoftwarefromRunning) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Network and Application Related Incident Compromise Indicators <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Network-Related](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/network-and-application-related-incident-compromise-indicators/NetworkandApplicationRelatedIncidentCompromiseIndicators.html#NetworkRelated) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Application-Related](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/network-and-application-related-incident-compromise-indicators/NetworkandApplicationRelatedIncidentCompromiseIndicators.html#ApplicationRelated) &#x274C; <br/> <!-- LAB -->
+
+> &#x1F52C; Later Phases of Incident Response <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Eradication and Recovery](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/later-phases-of-incident-response/LaterPhasesofIncidentResponse.html#EradicationandRecovery) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Post-incident Activities](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/later-phases-of-incident-response/LaterPhasesofIncidentResponse.html#PostincidentActivities) &#x274C; <br/> <!-- LAB -->
+</details>
+<details close>
+    <summary>Digital Forensics Techniques &#x21A9;</summary>
+
+> &#x1F52C; Digital Forensics Techniques <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Use Tcpdump](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/digital-forensics-techniques/DigitalForensicsTechniques.html#UseTcpdump) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Capture Packets with Wireshark](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/digital-forensics-techniques/DigitalForensicsTechniques.html#CapturePacketswithWireshark) &#x274C; <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Use OSForensics](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/digital-forensics-techniques/DigitalForensicsTechniques.html#UseOSForensics) &#x274C; <br/> <!-- LAB -->
+</details>
+</details> <!-- END - Incident Response -->
+<hr width=10%;>	
+<details close>
+	<summary style="text-decoration:underline;">Compliance and Assessment &#x21A9;</summary><br/>
+
+<details close>
+    <summary>Organizational Risk Mitigation &#x21A9;</summary>
+
+> &#x1F52C; Applying Security Concepts to Mitigate Risk <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Business Impact Analysis (BIA)](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/applying-security-concepts-to-mitigate-risk/ApplyingSecurityConceptstoMitigateRisk.html#BusinessImpactAnalysisBIA) &#x274C; <br/> <!-- LAB -->
+</details>
+<details close>
+    <summary>Frameworks, Policies, Procedures, and Controls &#x21A9;</summary>
+
+> &#x1F52C; Frameworks, Controls, Policies and Procedures <br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Frameworks, Controls, Policies, and Procedures](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cap-practice-labs/blob/main/rc/frameworks-controls-policies-and-procedures/FrameworksControlsPoliciesandProcedures.html#FrameworksControlsPoliciesandProcedures) &#x274C; <br/> <!-- LAB -->
+</details>
+</details> <!-- END - Compliance and Assessment -->
+<hr width=10%;>	
+</details> <!-- END LABS - CySa+ -->    
 <hr width=33%;>
 <details open>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
@@ -1491,8 +1470,8 @@ eC=Lesson 6-Automation Concepts
 <!-- Security Architecture -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary>Security Architecture &#x21A9;</summary>
-<br/>
+    <summary style="text-decoration:underline;">Security Architecture &#x21A9;</summary><br/>
+
 <details close>
     <summary>Integrate Network and Security Components &#x21A9;</summary>
 
@@ -1610,14 +1589,14 @@ eC=Lesson 6-Automation Concepts
 - [Manage Security for Removable Media](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UsingEncryptionandSteganography.htm) &#x274C; <br/> 
 - [Hide documents in a graphics file](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/UsingEncryptionandSteganography.htm) &#x274C; <br/> 
 </details>
-<hr width=25%;>
 </details> <!-- END: Security Architecture -->
+<hr width=10%;>
 <!-- XXXXXXXXXXXXXXXXXXXXX LABS XXXXXXXXXXXXXXXXXXXXX -->
 <!-- Security Operations -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary>Security Operations &#x21A9;</summary>
-<br/>
+    <summary style="text-decoration:underline;">Security Operations &#x21A9;</summary><br/>
+
 <details close>
     <summary>Performing security assessment using various tools &#x21A9;</summary>
 
@@ -1655,14 +1634,14 @@ eC=Lesson 6-Automation Concepts
 - [Identifying Live Systems](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/Usingvarioustoolsforsecurityassessments.htm) &#x274C; <br/> 
 - [Perform Network Footprinting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/Usingvarioustoolsforsecurityassessments.htm) &#x274C; <br/> 
 </details>
-<hr width=25%;>
 </details> <!-- END: Security Operations -->
+<hr width=10%;>
 <!-- XXXXXXXXXXXXXXXXXXXXX LABS XXXXXXXXXXXXXXXXXXXXX -->
 <!-- Security Engineering and Cryptography -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary>Security Engineering and Cryptography &#x21A9;</summary>
-<br/>
+    <summary style="text-decoration:underline;">Security Engineering and Cryptography &#x21A9;</summary><br/>
+
 <details close>
     <summary>Mapping Networks &#x21A9;</summary>
 
@@ -1727,14 +1706,14 @@ eC=Lesson 6-Automation Concepts
 - [Comparing Hashing Algorithms](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/EncryptionandHashing.htm) &#x274C; <br/> 
 - [Comparing Hash Values](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/EncryptionandHashing.htm) &#x274C; <br/>  
 </details>
-<hr width=25%;>
 </details> <!-- END: Security Engineering and Cryptography -->
+<hr width=10%;>
 <!-- XXXXXXXXXXXXXXXXXXXXX LABS XXXXXXXXXXXXXXXXXXXXX -->
 <!-- Governance, Risk and Compliance -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary>Governance, Risk and Compliance &#x21A9;</summary>
-<br/>
+    <summary style="text-decoration:underline;">Governance, Risk and Compliance &#x21A9;</summary><br/>
+
 <details close>
     <summary>Perform Digital Forensics &#x21A9;</summary>
 
@@ -1756,15 +1735,44 @@ eC=Lesson 6-Automation Concepts
 - [Create Windows Configuration Items for Compliance Settings](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/asp-practice-labs/blob/main/rc/ConfiguringSCCMConfigurationItemsandBaselines.htm) &#x274C; <br/> 
 </details> <!-- END: Governance, Risk and Compliance -->
 </details> <!-- END: LABS -->
+<hr width=10%;>
 <hr width=33%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
-<hr width=40%;> <!-- -->
+<hr width=33%;> <!-- -->
+              
+|**Prefix**|**'22/'23 Cybersecurity Career Pathway...**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|:-----:| :-----------------------------------------------|:-----:|
+| &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ][ or ``osc`` ]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
+| &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/>                   | [![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true)](https://www.datacamp.com/profile/seanohaileasa) |
+| &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | <br/>Offensive Security<br/>[ [Learn One](https://www.offensive-security.com/learn/) ][ or ``msc`` ]<br/><br/>| [![OffSec](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec.png?raw=true)](https://www.cybrary.it/course/offensive-penetration-testing/) |
+
+<hr width=33%;> <!-- -->
+
+### Project Management Tracking (Task - Status / Priority)
+
+- &#x21A9; Expand / Dropdown List
+- &#x274C; Outstanding / Why? / Go
+- &#x1F4CC; Apprenticeship / Timesheet
+- &#x1F6A7; Work-in-Progress / WIP
+- &#x1F201; Here / Revision / Review
+- &#x1F530; Beginner / Future Priority
+- &#x1F23A; Open for Business / &#x1F6A7;
+- &#x1F232; Prohibited / Low Priority
+- &#x1F52C; Walkthrough / Practice
+- &#x1F513; Read / Review / Skim &#x2B55;
+- &#x1F4DC; Non-interactive / Theory
+- &#x1F512; Live Lab Completed (1st)  
+- &#x2705; Semester / Topic Finished
+- &#x2623; Private Repository / Exit
+
+<hr width=33%;> <!-- -->
+
 </details>
 </details> <!-- END (Cybersecurity Associate Candidate (Apprenticeship NFQ L6)) -->
 <details close> 
-	<summary><h3>Higher Diploma in Science in Computing (in Data Analytics) &#x21A9; </h3> </summary>
+	<summary><h3>2022 Data Analytics Higher Diploma (NFQ: 8) &#x21A9;</h3></summary>
 
-| **GMIT Higher Diploma in Data Analytics Programme:**           | Credits&nbsp;&nbsp; | Grade &nbsp;|
+| **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade |
 | :--------------------------------------------------------------|:-------:|:-------:|
 | Machine Learning and Statistics (Python)                       | 5       | 79%     |
 | Multi-Paradigm Programming (C/Java/Python)                     | 5       | 73%     |
@@ -1780,7 +1788,7 @@ eC=Lesson 6-Automation Concepts
 
 ### GMIT Overall Result: First Class Honours (1.1) - Grade: 77.6%
 
-<details close>
+<details open>
 	<summary><h4>&#x2705; Galway/Mayo I.T. H.Dip (L8) Programme (Data Analytics) &#x21A9; </h4></summary>
 
 <!--
@@ -1959,27 +1967,3 @@ eC=Lesson 6-Automation Concepts
 </details>
 
 </details> <!-- END: Higher Diploma in Science in Computing (in Data Analytics) -->
-
-<details close> 
-	<summary><h3>References - Acronyms and Abbreviations - (Miscellaneous) &#x21A9; </h3> </summary>
-
-<details open>
-	<summary>&#x21A9; Guide</summary> <br/>
-
-- &#x21A9; Expand / Dropdown List
-- &#x274C; Outstanding / Why? / Go
-- &#x1F4CC; Apprenticeship / Progress
-- &#x1F6A7; Work-in-Progress / WIP
-- &#x1F201; Here / Revision / Review
-- &#x1F530; Beginner / Future Priority
-- &#x1F23A; Open for Business / &#x1F6A7;
-- &#x1F232; Prohibited / Low Priority
-- &#x1F52C; Walkthrough / Practice
-- &#x1F513; Read / Review / Skim &#x2B55;
-- &#x1F4DC; Non-interactive / Theory
-- &#x1F512; Live Lab Completed (1st)  
-- &#x2705; Semester / Topic Finished
-- &#x2623; Private Repository / Exit
-</details>
-
-</details> <!-- END: References - Acronyms and Abbreviations - (Miscellaneous) -->
