@@ -1348,8 +1348,8 @@ eC=Lesson 6-Automation Concepts
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
 <br/>
 <!--
-04/11/2022
-"update repository ./cdp-cloud-architecture-and-models - Software as a Service"
+05/11/2022
+"update repository ./cdp-cloud-architecture-and-models - Internet of Things"
 -->
 <details open>
     <summary>Cloud Architecture and Models &#x21A9;</summary>
@@ -1361,6 +1361,8 @@ eC=Lesson 6-Automation Concepts
 - { ["**Platform as a Service**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#C) : &#x2705; }
 
 - { ["**Software as a Service**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#D) : &#x2705; }
+
+- { ["**Internet of Things**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#E) : &#x2B55; }
 </details>
 <hr width=25%;>
 <details close>
