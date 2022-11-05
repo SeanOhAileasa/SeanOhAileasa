@@ -1346,7 +1346,7 @@ eC=Lesson 6-Automation Concepts
 <hr width=33%;>
 <details open>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
-<br/>
+<br/> <!-- "delete repository ./cdp-configurations-and-deployments (Programme Exit - Focus: Security+/CySa+ < Oct Bank Holiday)" -->
 <!--
 05/11/2022
 "update repository ./cdp-cloud-architecture-and-models - Using Software as a Service - Applications"
