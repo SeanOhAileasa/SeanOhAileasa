@@ -1351,7 +1351,7 @@ eC=Lesson 6-Automation Concepts
 05/11/2022
 "update repository ./cdp-cloud-architecture-and-models - Using Software as a Service - Applications"
 -->
-<details open> 
+<details close> 
     <summary>Cloud Architecture and Models &#x21A9;</summary>
 
 - { ["**Cloud Deployment Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#A) : &#x2705; }
@@ -1379,6 +1379,16 @@ eC=Lesson 6-Automation Concepts
 > &#x1F52C; { ["**Applications**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#J) : &#x2705; }
 </details>
 <hr width=25%;>
+<!--
+05/11/2022
+"update repository ./cdp-cloud-capacity-planning - Technical Capacity Planning"
+-->
+<details open> 
+    <summary>Cloud Capacity Planning &#x21A9;</summary>
+
+- { ["**Technical Capacity Planning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#A) : &#x2B55; }
+</details>
+<hr width=25%;>    
 <details close>
     <summary>Supplemental &#x21A9;</summary>
 <!--
