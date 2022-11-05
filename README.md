@@ -1349,7 +1349,7 @@ eC=Lesson 6-Automation Concepts
 <br/>
 <!--
 05/11/2022
-"update repository ./cdp-cloud-architecture-and-models - Serverless Computing"
+"update repository ./cdp-cloud-architecture-and-models - Machine Learning and Artificial Intelligence"
 -->
 <details open>
     <summary>Cloud Architecture and Models &#x21A9;</summary>
@@ -1365,6 +1365,8 @@ eC=Lesson 6-Automation Concepts
 - { ["**Internet of Things**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#E) : &#x2B55; }
 
 - { ["**Serverless Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#F) : &#x2B55; }
+
+- { ["**Machine Learning and Artificial Intelligence**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#G) : &#x2B55; }
 </details>
 <hr width=25%;>
 <details close>
