@@ -1349,7 +1349,7 @@ eC=Lesson 6-Automation Concepts
 <br/>
 <!--
 05/11/2022
-"update repository ./cdp-cloud-architecture-and-models - Shared Responsibility Model"
+"update repository ./cdp-cloud-architecture-and-models - Using Infrastructure as a Service - Virtual Machines"
 -->
 <details open> 
     <summary>Cloud Architecture and Models &#x21A9;</summary>
@@ -1369,6 +1369,10 @@ eC=Lesson 6-Automation Concepts
 - { ["**Machine Learning and Artificial Intelligence**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#G) : &#x2B55; }
 
 - { ["**Shared Responsibility Model**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#H) : &#x2B55; }
+
+- { ["**Using Infrastructure as a Service**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#I) : &#x2705; }
+
+	- { ["**Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#I) : &#x1F52C; }
 </details>
 <hr width=25%;>
 <details close>
