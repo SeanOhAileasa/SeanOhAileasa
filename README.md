@@ -1415,7 +1415,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 <!--
 06/11/2022
-"update repository ./asp-assessing-and-managing-risk - Security Objectives and Security Controls"
+"update repository ./asp-assessing-and-managing-risk - The Insider Threat"
 -->
 <details open>
 	<summary>Assessing and Managing Risk &#x21A9; <b></b></summary>
@@ -1440,7 +1440,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 - { ["**Security Objectives and Security Controls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#J) : &#x2B55; }
 
-- { ["**The Insider Threat**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#K) : &#x1F6A7; }
+- { ["**The Insider Threat**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#K) : &#x2B55; }
 
 - { ["**Third-party Dependencies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#L) : &#x1F6A7; }
 
