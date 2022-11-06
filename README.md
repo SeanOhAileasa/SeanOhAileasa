@@ -1415,7 +1415,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 <!--
 06/11/2022
-"update repository ./asp-assessing-and-managing-risk - Quantitative Risk Analysis"
+"update repository ./asp-assessing-and-managing-risk - Qualitative Risk Analysis"
 -->
 <details open>
 	<summary>Assessing and Managing Risk &#x21A9; <b></b></summary>
@@ -1436,7 +1436,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 - { ["**Quantitative Risk Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#H) : &#x2B55; }
 
-- { ["**Qualitative Risk Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#I) : &#x1F6A7; }
+- { ["**Qualitative Risk Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#I) : &#x2B55; }
 
 - { ["**Security Objectives and Security Controls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#J) : &#x1F6A7; }
 
