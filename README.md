@@ -1,4 +1,4 @@
-<details close> 
+<details open> 
 	<summary><h3>2022 CompTIA Cybersecurity Career Pathway &#x21A9;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
@@ -1344,7 +1344,7 @@ eC=Lesson 6-Automation Concepts
 <hr width=10%;>	
 </details> <!-- END LABS - CySa+ -->    
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
 <br/> <!-- "delete repository ./cdp-configurations-and-deployments (Programme Exit - Focus: Security+/CySa+ < Oct Bank Holiday)" -->
 <!--
@@ -1410,17 +1410,17 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 </details>
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
 
 <!--
 06/11/2022
-"update README (Preview/Scrape CASP+ Material)"
+"update repository ./asp-assessing-and-managing-risk - Risk Management"
 -->
-<details close>
+<details open>
 	<summary>Assessing and Managing Risk &#x21A9; <b></b></summary>
 
-- { ["**Risk Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#A) : &#x1F6A7; }
+- { ["**Risk Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#A) : &#x2B55; }
 
 - { ["**Risk Management Frameworks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#B) : &#x1F6A7; }
 
