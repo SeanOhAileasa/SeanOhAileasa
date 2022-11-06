@@ -1415,7 +1415,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 <!--
 06/11/2022
-"update repository ./asp-assessing-and-managing-risk - Physical Risks"
+"update repository ./asp-assessing-and-managing-risk - Human Resources Risk Mitigation"
 -->
 <details open>
 	<summary>Assessing and Managing Risk &#x21A9; <b></b></summary>
