@@ -1415,7 +1415,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 <!--
 06/11/2022
-"update repository ./asp-assessing-and-managing-risk - Viewing Phishing E-mails"
+"update repository ./asp-assessing-and-managing-risk - Quantitative Risk Analysis"
 -->
 <details open>
 	<summary>Assessing and Managing Risk &#x21A9; <b></b></summary>
@@ -1434,7 +1434,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 > &#x1F52C; { ["**Viewing Phishing E-mails**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#G) : &#x2705; }
 
-- { ["**Quantitative Risk Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#H) : &#x1F6A7; }
+- { ["**Quantitative Risk Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#H) : &#x2B55; }
 
 - { ["**Qualitative Risk Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#I) : &#x1F6A7; }
 
