@@ -1415,7 +1415,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 <!--
 06/11/2022
-"update repository ./asp-assessing-and-managing-risk - Third-party Dependencies"
+"update repository ./asp-assessing-and-managing-risk - Threat Intelligence"
 -->
 <details open>
 	<summary>Assessing and Managing Risk &#x21A9; <b></b></summary>
@@ -1444,7 +1444,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 - { ["**Third-party Dependencies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#L) : &#x2B55; }
 
-- { ["**Threat Intelligence**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#M) : &#x1F6A7; }
+- { ["**Threat Intelligence**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#M) : &#x2B55; }
 </details>
 <hr width=25%;>
 <details close>
