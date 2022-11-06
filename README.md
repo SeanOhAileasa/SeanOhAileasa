@@ -1412,82 +1412,350 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <hr width=33%;>
 <details close>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
-<!--
-02/11/2022
-"add repository ./asp-assessing-and-managing-risk"
--->
 
-<details open>
+<!--
+06/11/2022
+"update README (Preview/Scrape CASP+ Material)"
+-->
+<details close>
 	<summary>Assessing and Managing Risk &#x21A9; <b></b></summary>
 
+- { ["**Risk Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#A) : &#x1F6A7; }
+
+- { ["**Risk Management Frameworks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#B) : &#x1F6A7; }
+
+- { ["**Threat Actors**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#C) : &#x1F6A7; }
+
+- { ["**Physical Risks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#D) : &#x1F6A7; }
+
+- { ["**Human Resources Risk Mitigation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#E) : &#x1F6A7; }
+
+- { ["**Social Engineering**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#F) : &#x1F6A7; }
+
+- { ["**Viewing Phishing E-mails**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#G) : &#x1F6A7; }
+
+- { ["**Quantitative Risk Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#H) : &#x1F6A7; }
+
+- { ["**Qualitative Risk Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#I) : &#x1F6A7; }
+
+- { ["**Security Objectives and Security Controls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#J) : &#x1F6A7; }
+
+- { ["**The Insider Threat**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#K) : &#x1F6A7; }
+
+- { ["**Third-party Dependencies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#L) : &#x1F6A7; }
+
+- { ["**Threat Intelligence**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#M) : &#x1F6A7; }
 </details>
-<!--
 <hr width=25%;>
 <details close>
 	<summary>Virtualization Security &#x21A9; <b></b></summary>
 
+- { ["**The Attacker Method**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#A) : &#x1F6A7; }
+
+- { ["**Network Segmentation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#B) : &#x1F6A7; }
+
+- { ["**Zombies and Botnets**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#C) : &#x1F6A7; }
+
+- { ["**Common Attacks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#D) : &#x1F6A7; }
+
+- { ["**Hardening Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#E) : &#x1F6A7; }
+
+- { ["**Vulnerability Scans and Penetration Tests**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#F) : &#x1F6A7; }
+
+- { ["**Using OpenVAS for Vulnerability Assessments**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#G) : &#x1F6A7; }
+
+- { ["**Navigating the Metasploit Framework**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#H) : &#x1F6A7; }
+
+- { ["**Cloning Using the Social Engineering Toolkit Site**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#I) : &#x1F6A7; }
+
+- { ["**Compromising a Web Browser**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#J) : &#x1F6A7; }
+
+- { ["**Cracking WPA2 Passphrases**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#K) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
     <summary>Secure Cloud Computing &#x21A9; <b></b></summary>
 
+- { ["**Cloud Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#A) : &#x1F6A7; }
+
+- { ["**Cloud Deployment Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#B) : &#x1F6A7; }
+
+- { ["**Cloud Service Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#C) : &#x1F6A7; }
+
+- { ["**Reviewing Cloud Service Level Agreements**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#D) : &#x1F6A7; }
+
+- { ["**Cloud Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#E) : &#x1F6A7; }
+
+- { ["**Viewing CSA STAR Data**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#F) : &#x1F6A7; }
+
+- { ["**Configuring Cloud VNets**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#G) : &#x1F6A7; }
+
+- { ["**Limiting Network Traffic with a Network Security Group**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#H) : &#x1F6A7; }
+
+- { ["**Deploying a Windows Virtual Machine in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#I) : &#x1F6A7; }
+
+- { ["**Deploying a Linux Virtual Machine in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#J) : &#x1F6A7; }
+
+- { ["**Peering Cloud VNets**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#K) : &#x1F6A7; }
+
+- { ["**Deploying a Cloud-based Firewall**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#L) : &#x1F6A7; }
+
+- { ["**Configuring Cloud-based Firewall Routing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#M) : &#x1F6A7; }
+
+- { ["**Enabling RDP through Cloud Firewalls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#N) : &#x1F6A7; }
+
+- { ["**Configuring Cloud Autoscaling**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#O) : &#x1F6A7; }
+
+- { ["**Deploying a Cloud Key Vault**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#P) : &#x1F6A7; }
+
+- { ["**Enabling Cloud Storage Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#Q) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
     <summary>Cryptography and PKI &#x21A9; <b></b></summary>
 
+- { ["**Cryptography Concepts**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#A) : &#x1F6A7; }
+
+- { ["**Symmetric and Asymmetric Encryption**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#B) : &#x1F6A7; }
+
+- { ["**Hashing and Digital Signatures**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#C) : &#x1F6A7; }
+
+- { ["**Cryptography and Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#D) : &#x1F6A7; }
+
+- { ["**Protecting Files with Encrypting File System**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#E) : &#x1F6A7; }
+
+- { ["**Protecting Disk Volumes with BitLocker**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#F) : &#x1F6A7; }
+
+- { ["**Cryptography and Network Communications**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#G) : &#x1F6A7; }
+
+- { ["**Enabling IPsec to Secure IP Traffic**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#H) : &#x1F6A7; }
+
+- { ["**The PKI Hierarchy**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#I) : &#x1F6A7; }
+
+- { ["**PKI Certificates**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#J) : &#x1F6A7; }
+
+- { ["**Deploying a Private Certificate Authority**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#K) : &#x1F6A7; }
+
+- { ["**Configuring Custom Certificate Templates**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#L) : &#x1F6A7; }
+
+- { ["**Issuing PKI Certificates**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#M) : &#x1F6A7; }
+
+- { ["**Generating Certificates in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#N) : &#x1F6A7; }
+
+- { ["**Generating File Hashes**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#O) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
     <summary>Storage and Network Security &#x21A9; <b></b></summary>
 
+- { ["**Redundant Array of Inexpensive Disks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#A) : &#x1F6A7; }
+
+- { ["**Enabling Software RAID in Windows**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#B) : &#x1F6A7; }
+
+- { ["**Enabling Software RAID in Linux**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#C) : &#x1F6A7; }
+
+- { ["**Network Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#D) : &#x1F6A7; }
+
+- { ["**Securing DNS**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#E) : &#x1F6A7; }
+
+- { ["**Firewalls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#F) : &#x1F6A7; }
+
+- { ["**Deploying Azure Firewall**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#G) : &#x1F6A7; }
+
+- { ["**Managing the Windows Defender Firewall**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#H) : &#x1F6A7; }
+
+- { ["**Virtual Private Networks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#I) : &#x1F6A7; }
+
+- { ["**Configuring Cloud VPN Connectivity**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#J) : &#x1F6A7; }
+
+- { ["**Wired Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#K) : &#x1F6A7; }
+
+- { ["**Wireless Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#L) : &#x1F6A7; }
+
+- { ["**Managing Servers through a Jump Box**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#M) : &#x1F6A7; }
+
+- { ["**Using Netcat to Establish a Reverse Shell**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#N) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
     <summary>Authentication and Authorization &#x21A9; <b></b></summary>
 
+- { ["**Authentication and Authorization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#A) : &#x1F6A7; }
+
+- { ["**Enabling Cloud User MFA and Conditional Access**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#B) : &#x1F6A7; }
+
+- { ["**Enabling 2FA for Web Apps**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#C) : &#x1F6A7; }
+
+- { ["**Enabling RADIUS for Wi-Fi**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#D) : &#x1F6A7; }
+
+- { ["**Configuring Attribute-based Access Control**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#E) : &#x1F6A7; }
+
+- { ["**Enabling Password Policy Settings**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#F) : &#x1F6A7; }
+
+- { ["**Cracking Linux Passwords**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#G) : &#x1F6A7; }
+
+- { ["**Brute-forcing Windows RDP**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#H) : &#x1F6A7; }
+
+- { ["**Limiting Cloud Management Using RBAC**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#I) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
     <summary>Governance and Security Compliance &#x21A9; <b></b></summary>
 
+- { ["**Data Privacy Standards and Compliance**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#A) : &#x1F6A7; }
+
+- { ["**IT Services and Business Agreements**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#B) : &#x1F6A7; }
+
+- { ["**Personally Identifiable Information**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#C) : &#x1F6A7; }
+
+- { ["**Classifying Data with Amazon Macie**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#D) : &#x1F6A7; }
+
+- { ["**Preventing Data Exfiltration with Microsoft Azure**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#E) : &#x1F6A7; }
+
+- { ["**Tagging Cloud Resources**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#F) : &#x1F6A7; }
+
+- { ["**Data Security Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#G) : &#x1F6A7; }
+
+- { ["**Securely Wiping a Storage Device**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#H) : &#x1F6A7; }
+
+- { ["**Organizational Security Policies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#I) : &#x1F6A7; }
+
+- { ["**Data Roles and Data Sovereignty**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#J) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
     <summary>Mobile and Embedded Devices &#x21A9; <b></b></summary>
 
+- { ["**Mobile Devices**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#A) : &#x1F6A7; }
+
+- { ["**IoT Drones and Embedded Devices**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#B) : &#x1F6A7; }
+
+- { ["**Querying the Shodan.io Web Site**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#C) : &#x1F6A7; }
+
+- { ["**Hardening a Smartphone**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#D) : &#x1F6A7; }
+
+- { ["**Registering an Android Device with a MDM**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#E) : &#x1F6A7; }
+
+- { ["**Managing an Android Device Using MDM**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#F) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
     <summary>Industrial Computing Environments &#x21A9; <b></b></summary>
 
+- { ["**Security and Industrial Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#A) : &#x1F6A7; }
+
+- { ["**Industrial Control System Protocols**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#B) : &#x1F6A7; }
+
+- { ["**Supervisory Control and Data Acquisition**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#C) : &#x1F6A7; }
+
+- { ["**Applying NIST SP 800-82 - Guide to ICS Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#D) : &#x1F6A7; }
+
+- { ["**Installing and Starting an S7 PLC Emulator in Linux**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#E) : &#x1F6A7; }
+
+- { ["**Using Metasploit to Remotely Stop a Siemens S7 PLC**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#F) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
     <summary>Emerging Technologies and SecDevOps &#x21A9; <b></b></summary>
 
+- { ["**Artificial Intelligence and Machine Learning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#A) : &#x1F6A7; }
+
+- { ["**3-D Printing and Blockchain and Quantum Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#B) : &#x1F6A7; }
+
+- { ["**Secure DevOps**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#C) : &#x1F6A7; }
+
+- { ["**OWASP Top 10**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#D) : &#x1F6A7; }
+
+- { ["**Testing Web App Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#E) : &#x1F6A7; }
+
+- { ["**Software Testing Types**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#F) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
     <summary>Monitoring and Incident Response &#x21A9; <b></b></summary>
 
+- { ["**Host and Device and Network Monitoring**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#A) : &#x1F6A7; }
+
+- { ["**Enabling Linux Syslog Forwarding**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#B) : &#x1F6A7; }
+
+- { ["**Managing Windows Event Viewer Logs**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#C) : &#x1F6A7; }
+
+- { ["**Managing Cloud Logging and Alerts**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#D) : &#x1F6A7; }
+
+- { ["**Honeynets and Honeypots and Honeyfiles**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#E) : &#x1F6A7; }
+
+- { ["**Intrusion Detection and Prevention**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#F) : &#x1F6A7; }
+
+- { ["**Installing the Snort IDS**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#G) : &#x1F6A7; }
+
+- { ["**Testing the Snort IDS**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#H) : &#x1F6A7; }
+
+- { ["**SIEM and SOAR**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#I) : &#x1F6A7; }
+
+- { ["**Network Traffic Capture Using tcpdump**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#J) : &#x1F6A7; }
+
+- { ["**Network Traffic Filtering Using Wireshark**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#K) : &#x1F6A7; }
+
+- { ["**Using nmap For Network Reconnaissance**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#L) : &#x1F6A7; }
+
+- { ["**Analyzing Packet Captures for Malicious Activity**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#M) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
     <summary>Vulnerabilities and Hardening &#x21A9; <b></b></summary>
 
+- { ["**The Attacker Method**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#A) : &#x1F6A7; }
+
+- { ["**Network Segmentation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#B) : &#x1F6A7; }
+
+- { ["**Zombies and Botnets**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#C) : &#x1F6A7; }
+
+- { ["**Common Attacks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#D) : &#x1F6A7; }
+
+- { ["**Hardening Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#E) : &#x1F6A7; }
+
+- { ["**Vulnerability Scans and Penetration Tests**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#F) : &#x1F6A7; }
+
+- { ["**Using OpenVAS for Vulnerability Assessments**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#G) : &#x1F6A7; }
+
+- { ["**Navigating the Metasploit Framework**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#H) : &#x1F6A7; }
+
+- { ["**Cloning Using the Social Engineering Toolkit Site**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#I) : &#x1F6A7; }
+
+- { ["**Compromising a Web Browser**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#J) : &#x1F6A7; }
+
+- { ["**Cracking WPA2 Passphrases**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#K) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
     <summary>Digital Forensics &#x21A9; <b></b></summary>
 
+- { ["**Evidence Gathering and Digital Forensics**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#A) : &#x1F6A7; }
+
+- { ["**Digital Forensic Hardware and Software**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#B) : &#x1F6A7; }
+
+- { ["**Creating and Hashing a Linux Disk Image**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#C) : &#x1F6A7; }
+
+- { ["**Acquiring a Forensic Disk Image Using FTK Imager**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#D) : &#x1F6A7; }
+
+- { ["**Using the Android Debug Bridge**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#E) : &#x1F6A7; }
+
+- { ["**Using Steganography to Hide Messages**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#F) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
     <summary>Business Continuity &#x21A9; <b></b></summary>
 
+- { ["**Business Continuity and Disaster Recoveryx**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#A) : &#x1F6A7; }
+
+- { ["**Physical and Logical Redundancyx**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#B) : &#x1F6A7; }
+
+- { ["**Clustering and Load Balancingx**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#C) : &#x1F6A7; }
+
+- { ["**Deploying a Microsoft Azure Load Balancerx**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#D) : &#x1F6A7; }
+
+- { ["**Backing Up Data Using Microsoft Azurex**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#E) : &#x1F6A7; }
 </details>
--->
 <hr width=25%;>
 <details close>
     <summary>Supplemental &#x21A9;</summary>
