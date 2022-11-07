@@ -1,4 +1,4 @@
-<details open> 
+<details close> 
 	<summary><h3>2022 CompTIA Cybersecurity Career Pathway &#x21A9;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
@@ -1417,7 +1417,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 06/11/2022
 "update repository ./asp-assessing-and-managing-risk - Threat Intelligence"
 -->
-<details open>
+<details close>
 	<summary>Assessing and Managing Risk &#x21A9; <b></b></summary>
 
 - { ["**Risk Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#A) : &#x2B55; }
@@ -1447,7 +1447,11 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - { ["**Threat Intelligence**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-assessing-and-managing-risk/blob/main/asp-assessing-and-managing-risk.ipynb#M) : &#x2B55; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+06/11/2022
+"update repository ./asp-virtualization-security - The Attacker Method"
+-->
+<details open>
 	<summary>Virtualization Security &#x21A9; <b></b></summary>
 
 - { ["**The Attacker Method**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#A) : &#x1F6A7; }
@@ -2044,9 +2048,10 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
               
 |**Prefix**|**'22/'23 Cybersecurity Career Pathway...**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
-| &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ][ or ``osc`` ]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
+| &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ] or [``mtu-`` and ``osc-``]<br/><br/>                   | 9th Jan 2023<br/>``Part-time`` |
+| &nbsp;&nbsp;&nbsp;``mtu-``&nbsp;&nbsp; | <br/>PGDip in Cybersecurity<br/>[ [HEA](https://springboardcourses.ie/details/10457) ][ [Subjects](https://courses.cit.ie/index.cfm/page/course/courseId/2317) ][ and ``osc-`` ]<br/><br/>                   | Sept 2023<br/>``Part-time`` |
+| &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | <br/>Offensive Security<br/>[ [Learn One](https://www.offensive-security.com/learn/) ][ and ``mtu-`` ]<br/><br/>| [![OffSec](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec.png?raw=true)](https://www.cybrary.it/course/offensive-penetration-testing/) |
 | &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/>                   | [![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true)](https://www.datacamp.com/profile/seanohaileasa) |
-| &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | <br/>Offensive Security<br/>[ [Learn One](https://www.offensive-security.com/learn/) ][ or ``msc`` ]<br/><br/>| [![OffSec](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec.png?raw=true)](https://www.cybrary.it/course/offensive-penetration-testing/) |
 
 <hr width=33%;> <!-- -->
 
