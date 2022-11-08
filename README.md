@@ -1448,33 +1448,31 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 </details>
 <hr width=25%;>
 <!--
-06/11/2022
-"update repository ./asp-virtualization-security - The Attacker Method"
+08/11/2022
+"update repository ./asp-virtualization-security - Types of Virtualization"
 -->
 <details open>
 	<summary>Virtualization Security &#x21A9; <b></b></summary>
 
-- { ["**The Attacker Method**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#A) : &#x1F6A7; }
+- { ["**Types of Virtualization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#A) : &#x1F513; }
 
-- { ["**Network Segmentation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#B) : &#x1F6A7; }
+- { ["**Hypervisors**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#B) : &#x1F6A7; }
 
-- { ["**Zombies and Botnets**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#C) : &#x1F6A7; }
+- { ["**Virtualization Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#C) : &#x1F6A7; }
 
-- { ["**Common Attacks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#D) : &#x1F6A7; }
+- { ["**Deploying Windows Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#D) : &#x1F6A7; }
 
-- { ["**Hardening Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#E) : &#x1F6A7; }
+- { ["**Deploying Linux Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#E) : &#x1F6A7; }
 
-- { ["**Vulnerability Scans and Penetration Tests**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#F) : &#x1F6A7; }
+- { ["**Encrypting Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#F) : &#x1F6A7; }
 
-- { ["**Using OpenVAS for Vulnerability Assessments**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#G) : &#x1F6A7; }
+- { ["**Application Containers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#G) : &#x1F6A7; }
 
-- { ["**Navigating the Metasploit Framework**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#H) : &#x1F6A7; }
+- { ["**Working with Docker Desktop**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#H) : &#x1F6A7; }
 
-- { ["**Cloning Using the Social Engineering Toolkit Site**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#I) : &#x1F6A7; }
+- { ["**Creating a Container Registry**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#I) : &#x1F6A7; }
 
-- { ["**Compromising a Web Browser**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#J) : &#x1F6A7; }
-
-- { ["**Cracking WPA2 Passphrases**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#K) : &#x1F6A7; }
+- { ["**Deploying an Application Container**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#J) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
