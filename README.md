@@ -1410,7 +1410,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 </details>
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
 
 <!--
@@ -1448,15 +1448,15 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 </details>
 <hr width=25%;>
 <!--
-08/11/2022
-"update repository ./asp-virtualization-security - Types of Virtualization"
+09/11/2022
+"update repository ./asp-virtualization-security - Hypervisors"
 -->
 <details open>
 	<summary>Virtualization Security &#x21A9; <b></b></summary>
 
 - { ["**Types of Virtualization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#A) : &#x1F513; }
 
-- { ["**Hypervisors**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#B) : &#x1F6A7; }
+- { ["**Hypervisors**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#B) : &#x1F513; }
 
 - { ["**Virtualization Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#C) : &#x1F6A7; }
 
@@ -2049,7 +2049,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 | &nbsp;&nbsp;&nbsp;~~``msc-``~~&nbsp;&nbsp; | <br/>~~MSc in Cybersecurity, Privacy and Trust~~<br/>[ [HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ] or [``mtu-`` and ``osc-``]<br/><br/>                   | ~~9th Jan 2023~~<br/>~~``Part-time``~~ |
 | &nbsp;&nbsp;&nbsp;``mtu-``&nbsp;&nbsp; | <br/>PGDip in Cybersecurity<br/>[ [HEA](https://springboardcourses.ie/details/10457) ][ [Subjects](https://cs.cit.ie/contentfiles/PDFs/MScFlyers/MScCyber_Online_2022.pdf) ][ and ``osc-`` ]<br/><br/>                   | Sept 2023<br/>``Part-time`` |
 | &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | <br/>Offensive Security<br/>[ [Learn One](https://www.offensive-security.com/learn/) ][ and ``mtu-`` ]<br/><br/>| [![OffSec](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec.png?raw=true)](https://www.cybrary.it/course/offensive-penetration-testing/) |
-| &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/> <table> <thead> <tr> <th>Courses<br/>completed</th> <th>Tracks<br/>completed</th> <th>XP<br/>earned</th> </tr> </thead> <tbody> <tr> <td><code>1</code></td> <td><code>0</code></td> <td><code>3920</code></td> </tr> </tbody> </table> | [![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true)](https://www.datacamp.com/profile/seanohaileasa) |
+| &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/> <table> <thead> <tr> <th>Courses<br/>completed</th> <th>Tracks<br/>completed</th> <th>XP<br/>earned</th> </tr> </thead> <tbody> <tr> <td><code>1</code></td> <td><code>0</code></td> <td><code>9,220</code></td> </tr> </tbody> </table> | [![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true)](https://www.datacamp.com/profile/seanohaileasa) |
 
 <hr width=33%;> <!-- -->
 
@@ -2061,7 +2061,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 "update ./rc - DataCamp - Introduction to Data Science in Python"
 -->
 <details open>
-	<summary><b>Python Programmer &#x21A9;</b></summary><br/>
+	<summary><b>Python &#x21A9;</b></summary><br/>
 
 - { ["**Introduction to Data Science in Python**"](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/DataCamp/20221108_IntroductiontoDataScienceinPython.pdf) &#x2705; <br/> 
 </details>
