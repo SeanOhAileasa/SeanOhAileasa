@@ -1449,7 +1449,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <hr width=25%;>
 <!--
 09/11/2022
-"update repository ./asp-virtualization-security - Hypervisors"
+"update repository ./asp-virtualization-security - Virtualization Security"
 -->
 <details open>
 	<summary>Virtualization Security &#x21A9; <b></b></summary>
@@ -1458,7 +1458,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 - { ["**Hypervisors**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#B) : &#x1F513; }
 
-- { ["**Virtualization Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#C) : &#x1F6A7; }
+- { ["**Virtualization Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#C) : &#x1F513; }
 
 - { ["**Deploying Windows Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#D) : &#x1F6A7; }
 
