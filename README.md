@@ -358,7 +358,7 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-09/11/2022
+10/11/2022
 "update repository ./syp-cybersecurity-apprenticeship (AM)" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x23F2; }
@@ -2049,11 +2049,11 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 | &nbsp;&nbsp;&nbsp;~~``msc-``~~&nbsp;&nbsp; | <br/>~~MSc in Cybersecurity, Privacy and Trust~~<br/>[ [HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ] or [``mtu-`` and ``osc-``]<br/><br/>                   | ~~9th Jan 2023~~<br/>~~``Part-time``~~ |
 | &nbsp;&nbsp;&nbsp;``mtu-``&nbsp;&nbsp; | <br/>PGDip in Cybersecurity<br/>[ [HEA](https://springboardcourses.ie/details/10457) ][ [Subjects](https://cs.cit.ie/contentfiles/PDFs/MScFlyers/MScCyber_Online_2022.pdf) ][ and ``osc-`` ]<br/><br/>                   | Sept 2023<br/>``Part-time`` |
 | &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | <br/>Offensive Security<br/>[ [Learn One](https://www.offensive-security.com/learn/) ][ and ``mtu-`` ]<br/><br/>| [![OffSec](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec.png?raw=true)](https://www.cybrary.it/course/offensive-penetration-testing/) |
-| &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/> <table> <thead> <tr> <th>Courses<br/>completed</th> <th>Tracks<br/>completed</th> <th>XP<br/>earned</th> </tr> </thead> <tbody> <tr> <td><code>1</code></td> <td><code>0</code></td> <td><code>14,220</code></td> </tr> </tbody> </table> | [![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true)](https://www.datacamp.com/profile/seanohaileasa) |
+| &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/> | ![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true) |
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
 	<summary><b>DataCamp &#x21A9;</b></summary><br/>
 
 <!--
