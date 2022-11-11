@@ -1,4 +1,4 @@
-<details open> 
+<details close> 
 	<summary><h3>2022 CompTIA Cybersecurity Career Pathway &#x21A9;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
@@ -358,8 +358,8 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-10/11/2022
-"update repository ./syp-cybersecurity-apprenticeship (PM)" 
+11/11/2022
+"update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x23F2; }
 <hr width=33%;> 
