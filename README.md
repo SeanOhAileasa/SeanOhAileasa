@@ -1381,12 +1381,10 @@ eC=Lesson 6-Automation Concepts
 </details>
 <hr width=25%;>
 <!--
-from IPython.display import display,HTML
-display(HTML("<style>.container { width:100% !important; }</style>"))
 12/11/2022
 "update repository ./cdp-cloud-capacity-planning - Scaling Resources"
 -->
-<details open> 
+<details close> 
     <summary>Cloud Capacity Planning &#x21A9;</summary>
 
 - { ["**Technical Capacity Planning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#A) : &#x2B55; }
@@ -1408,6 +1406,36 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 > &#x1F52C; { ["**Creating Databases in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#I) : &#x2705; }
 
 > &#x1F52C; { ["**Scaling Resources**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#I) : &#x2705; }
+</details>
+<hr width=25%;>
+<!--
+from IPython.display import display,HTML
+display(HTML("<style>.container { width:100% !important; }</style>"))
+12/11/2022
+"update repository ./cdp-cloud-high-availability-and-scaling - Cloud High Availability and Scaling"
+-->
+<details open> 
+    <summary>Cloud High Availability and Scaling &#x21A9;</summary>
+
+- { ["**Cloud Hypervisors**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#A) : &#x2B55; }
+
+- { ["**Cloud Oversubscription**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#B) : &#x2B55; }
+
+- { ["**Cloud Regions and Zones**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#C) : &#x2B55; }
+
+- { ["**Cloud Application Reliability**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#D) : &#x2B55; }
+
+- { ["**Cloud Container Reliability**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#E) : &#x2B55; }
+
+- { ["**Cloud Clusters**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#F) : &#x2B55; }
+
+- { ["**Network Function High Availability**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#G) : &#x2B55; }
+
+- { ["**Single Points of Failure**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#H) : &#x2B55; }
+
+- { ["**Cloud Scalability**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#I) : &#x2B55; }
+
+> &#x1F52C; { ["**Creating Cloud-based Load Balancers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#J) : &#x2705; }
 </details>
 <hr width=25%;>    
 <details close>
