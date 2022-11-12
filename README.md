@@ -1,5 +1,5 @@
-<details close> 
-	<summary><h3>2022 CompTIA Cybersecurity Career Pathway &#x21A9;</h3></summary>
+<details open> 
+	<summary><h3>2022 Cybersecurity&nbsp;&nbsp;&#x21A9;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
@@ -13,6 +13,7 @@
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CNSP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnsp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Security-Professional-CNSP.pdf) |
 | &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | &#x2935; |
+| &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk<br/><br/>                   | &#x2935; |
 
 <details close>
 <!--
@@ -840,7 +841,7 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 <!-- Information Gathering and Vulnerability Scanning -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary style="text-decoration:underline;">Information Gathering and Vulnerability Scanning &#x21A9;</summary><br/>
+    <summary>Information Gathering and Vulnerability Scanning &#x21A9;</summary><br/>
 
 <details open>
     <summary>Reconnaissance Tools &#x21A9;</summary>
@@ -904,7 +905,7 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 <!-- XXXXXXXXXXXXX Attacks and Exploits XXXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary style="text-decoration:underline;">Attacks and Exploits &#x21A9;</summary><br/>
+    <summary>Attacks and Exploits &#x21A9;</summary><br/>
 
 <details open>
     <summary>Exploring the Basics of Metasploit &#x21A9;</summary>
@@ -979,7 +980,7 @@ CompTIA PenTest+ Certification Exam - Status: Pass.
 <!-- XXXXXXXXXXX Tools and Code Analysis XXXXXXXXXXXX -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary style="text-decoration:underline;">Tools and Code Analysis &#x21A9;</summary>
+    <summary>Tools and Code Analysis &#x21A9;</summary>
 <br/>
 <details open>
     <summary>Exploring Programming Shells &#x21A9;</summary>
@@ -1123,7 +1124,7 @@ eC=Lesson 6-Automation Concepts
 "updata repository ./cap-practice-labs ()" 
 -->
 <details close>
-	<summary style="text-decoration:underline;">Threat and Vulnerability Management &#x21A9;</summary><br/>
+	<summary>Threat and Vulnerability Management &#x21A9;</summary><br/>
 
 <details close>
 	<summary>Threat and Data Intelligence &#x21A9;</summary>
@@ -1199,7 +1200,7 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END - Threat and Vulnerability Management -->
 <hr width=10%;>
 <details close>
-	<summary style="text-decoration:underline;">Software and Systems Security &#x21A9;</summary><br/>
+	<summary>Software and Systems Security &#x21A9;</summary><br/>
 
 <details close>
     <summary>Infrastructure Management Solutions &#x21A9;</summary>
@@ -1241,7 +1242,7 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END - Software and Systems Security -->
 <hr width=10%;>	
 <details close>
-	<summary style="text-decoration:underline;">Security Operations and Monitoring &#x21A9;</summary><br/>
+	<summary>Security Operations and Monitoring &#x21A9;</summary><br/>
 
 <details close>
     <summary>Security Monitoring &#x21A9;</summary>
@@ -1282,7 +1283,7 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END - Security Operations and Monitoring -->
 <hr width=10%;>	
 <details close>
-	<summary style="text-decoration:underline;">Incident Response &#x21A9;</summary><br/>
+	<summary>Incident Response &#x21A9;</summary><br/>
 
 <details close>
     <summary>Incident Response Process &#x21A9;</summary>
@@ -1326,7 +1327,7 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END - Incident Response -->
 <hr width=10%;>	
 <details close>
-	<summary style="text-decoration:underline;">Compliance and Assessment &#x21A9;</summary><br/>
+	<summary>Compliance and Assessment &#x21A9;</summary><br/>
 
 <details close>
     <summary>Organizational Risk Mitigation &#x21A9;</summary>
@@ -1344,7 +1345,7 @@ eC=Lesson 6-Automation Concepts
 <hr width=10%;>	
 </details> <!-- END LABS - CySa+ -->    
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
 <br/> <!-- "delete repository ./cdp-configurations-and-deployments (Programme Exit - Focus: Security+/CySa+ < Oct Bank Holiday)" -->
 <!--
@@ -1382,8 +1383,8 @@ eC=Lesson 6-Automation Concepts
 <!--
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))
-05/11/2022
-"update repository ./cdp-cloud-capacity-planning - Licensing as a Factor in Capacity Planning"
+12/11/2022
+"update repository ./cdp-cloud-capacity-planning - User Density as a Factor in Capacity Planning"
 -->
 <details open> 
     <summary>Cloud Capacity Planning &#x21A9;</summary>
@@ -1395,6 +1396,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - { ["**Standard Templates as a Factor in Capacity Planning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#C) : &#x2B55; }
 
 - { ["**Licensing as a Factor in Capacity Planning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#D) : &#x2B55; }
+
+- { ["**User Density as a Factor in Capacity Planning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#E) : &#x2B55; }
 </details>
 <hr width=25%;>    
 <details close>
@@ -1410,7 +1413,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 </details>
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
 
 <!--
@@ -1774,7 +1777,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <!-- Security Architecture -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary style="text-decoration:underline;">Security Architecture &#x21A9;</summary><br/>
+    <summary>Security Architecture &#x21A9;</summary><br/>
 
 <details close>
     <summary>Integrate Network and Security Components &#x21A9;</summary>
@@ -1899,7 +1902,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <!-- Security Operations -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary style="text-decoration:underline;">Security Operations &#x21A9;</summary><br/>
+    <summary>Security Operations &#x21A9;</summary><br/>
 
 <details close>
     <summary>Performing security assessment using various tools &#x21A9;</summary>
@@ -1944,7 +1947,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <!-- Security Engineering and Cryptography -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary style="text-decoration:underline;">Security Engineering and Cryptography &#x21A9;</summary><br/>
+    <summary>Security Engineering and Cryptography &#x21A9;</summary><br/>
 
 <details close>
     <summary>Mapping Networks &#x21A9;</summary>
@@ -2016,7 +2019,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <!-- Governance, Risk and Compliance -->
 <!-- XXXXXXXXXXXXXXXXXXXXX ptp- XXXXXXXXXXXXXXXXXXXXX -->
 <details close>
-    <summary style="text-decoration:underline;">Governance, Risk and Compliance &#x21A9;</summary><br/>
+    <summary>Governance, Risk and Compliance &#x21A9;</summary><br/>
 
 <details close>
     <summary>Perform Digital Forensics &#x21A9;</summary>
@@ -2040,8 +2043,16 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 </details> <!-- END: Governance, Risk and Compliance -->
 </details> <!-- END: LABS -->
 <hr width=10%;>
-<hr width=33%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
+<hr width=33%;> <!-- -->
+<details close>
+	<summary><b>Splunk &#x21A9;</b></summary><br/>
+
+<!--
+/11/2022
+"update xxx ./xxx - xxx"
+-->
+</details> <!-- END: Splunk -->
 <hr width=33%;> <!-- -->
               
 |**Prefix**|**'22/'23 Cybersecurity Career Pathway...**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
@@ -2091,7 +2102,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 </details>
 </details> <!-- END (Cybersecurity Associate Candidate (Apprenticeship NFQ L6)) -->
 <details close> 
-	<summary><h3>2022 Data Analytics Higher Diploma (NFQ: 8) &#x21A9;</h3></summary>
+	<summary><h3>2022 Data Analytics &#x21A9;</h3></summary>
 
 | **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade |
 | :--------------------------------------------------------------|:-------:|:-------:|
