@@ -1414,7 +1414,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 12/11/2022
 "update repository ./cdp-cloud-high-availability-and-scaling - Cloud High Availability and Scaling"
 -->
-<details open> 
+<details close> 
     <summary>Cloud High Availability and Scaling &#x21A9;</summary>
 
 - { ["**Cloud Hypervisors**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#A) : &#x2B55; }
@@ -1436,6 +1436,36 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - { ["**Cloud Scalability**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#I) : &#x2B55; }
 
 > &#x1F52C; { ["**Creating Cloud-based Load Balancers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#J) : &#x2705; }
+</details>
+<hr width=25%;>
+<!--
+from IPython.display import display,HTML
+display(HTML("<style>.container { width:100% !important; }</style>"))
+12/11/2022
+"update repository ./cdp-cloud-solution-design - Cloud Solution Design"
+-->
+<details open> 
+    <summary>Cloud Solution Design &#x21A9;</summary>
+    
+- { ["**Cloud Solution Requirement Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#A) : &#x2B55; }
+
+- { ["**Service Level Agreements**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#B) : &#x2B55; }
+
+- { ["**Satisfying User and Business Needs**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#C) : &#x2B55; }
+
+- { ["**Cloud Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#D) : &#x2B55; }
+
+- { ["**Network Requirements**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#E) : &#x2B55; }
+
+- { ["**Solution Environments**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#F) : &#x2B55; }
+
+- { ["**Blue-Green Environments**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#G) : &#x2B55; }
+
+- { ["**Disaster Recovery**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#H) : &#x2B55; }
+
+- { ["**QA Testing Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#I) : &#x2B55; }
+
+- { ["**Security Testing Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#J) : &#x2B55; }
 </details>
 <hr width=25%;>    
 <details close>
