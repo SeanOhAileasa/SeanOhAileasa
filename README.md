@@ -1384,7 +1384,7 @@ eC=Lesson 6-Automation Concepts
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))
 12/11/2022
-"update repository ./cdp-cloud-capacity-planning - Performance Capacity Planning"
+"update repository ./cdp-cloud-capacity-planning - Creating Databases in the Cloud"
 -->
 <details open> 
     <summary>Cloud Capacity Planning &#x21A9;</summary>
@@ -1404,6 +1404,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - { ["**Trend Analysis as a Factor in Capacity Planning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#G) : &#x2B55; }
 
 - { ["**Performance Capacity Planning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#H) : &#x2B55; }
+
+> &#x1F52C; { ["**Creating Databases in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#I) : &#x2705; }
 </details>
 <hr width=25%;>    
 <details close>
