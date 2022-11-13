@@ -1439,12 +1439,10 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 </details>
 <hr width=25%;>
 <!--
-from IPython.display import display,HTML
-display(HTML("<style>.container { width:100% !important; }</style>"))
 12/11/2022
 "update repository ./cdp-cloud-solution-design - Cloud Solution Design"
 -->
-<details open> 
+<details close> 
     <summary>Cloud Solution Design &#x21A9;</summary>
     
 - { ["**Cloud Solution Requirement Analysis**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#A) : &#x2B55; }
@@ -1466,6 +1464,36 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - { ["**QA Testing Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#I) : &#x2B55; }
 
 - { ["**Security Testing Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#J) : &#x2B55; }
+</details>
+<hr width=25%;>
+<!--
+from IPython.display import display,HTML
+display(HTML("<style>.container { width:100% !important; }</style>"))
+13/11/2022
+"update repository ./cdp-cloud-identity-and-access-management - Cloud Identity and Access Management"
+-->
+<details open> 
+    <summary>Cloud Identity and Access Management &#x21A9;</summary>
+
+- { ["**Cloud Identification and Authorization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb#A) : &#x2B55; }
+
+- { ["**Cloud Directory Services**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb#B) : &#x2B55; }
+
+- { ["**Identity Federation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb#C) : &#x2B55; }
+
+- { ["**Certificate Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb#D) : &#x2B55; }
+
+- { ["**Multi-factor Authentication**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb#E) : &#x2B55; }
+
+- { ["**Single Sign-on**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb#F) : &#x2B55; }
+
+- { ["**Public Key Infrastructure**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb#G) : &#x2B55; }
+
+- { ["**Cloud Secret and Key Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb#H) : &#x2B55; }
+
+- { ["**Incident Response Preparation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb#I) : &#x2B55; }
+
+- { ["**Incident Response Procedures**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb#J) : &#x2B55; }
 </details>
 <hr width=25%;>    
 <details close>
