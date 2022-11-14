@@ -359,7 +359,7 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-11/11/2022
+14/11/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x23F2; }
@@ -1526,7 +1526,7 @@ eC=Lesson 6-Automation Concepts
 14/11/2022
 "update repository ./cdp-cloud-security-controls - Cloud Security Controls"
 -->
-<details open> 
+<details close> 
     <summary>Cloud Security Controls &#x21A9;</summary>
 
 - { ["**Cloud Security Policies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
@@ -1548,6 +1548,35 @@ eC=Lesson 6-Automation Concepts
 - { ["**Endpoint Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
 
 - { ["**System Security Controls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
+</details>
+<hr width=25%;>
+<!--
+14/11/2022
+"update repository ./cdp-data-security-and-compliance-controls - Data Security and Compliance Controls"
+-->
+<details open> 
+    <summary>Data Security and Compliance Controls &#x21A9;</summary>
+
+- { ["**Mandatory access control**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#A) : &#x2B55; }
+
+- { ["**Data Security Encryption**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#B) : &#x2B55; }
+
+- { ["**Data Security Integrity**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#C) : &#x2B55; }
+
+- { ["**Data Security Classification**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#D) : &#x2B55; }
+
+- { ["**Data Segmentation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#E) : &#x2B55; }
+
+- { ["**Data Access Control**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#F) : &#x2B55; }
+
+- { ["**Regulatory Compliance**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#G) : &#x2B55; }
+
+- { ["**Data Records Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#H) : &#x2B55; }
+
+- { ["**Data Loss Prevention**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#I) : &#x2B55; }
+
+- { ["**Cloud Access Security Broker**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#J) : &#x2B55; }
+</details>
 <hr width=25%;>  
 <details close>
     <summary>Supplemental &#x21A9;</summary>
