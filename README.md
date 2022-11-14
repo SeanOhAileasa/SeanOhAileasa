@@ -1409,8 +1409,6 @@ eC=Lesson 6-Automation Concepts
 </details>
 <hr width=25%;>
 <!--
-from IPython.display import display,HTML
-display(HTML("<style>.container { width:100% !important; }</style>"))
 12/11/2022
 "update repository ./cdp-cloud-high-availability-and-scaling - Cloud High Availability and Scaling"
 -->
@@ -1498,35 +1496,64 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 14/11/2022
 "update repository ./cdp-cloud-network-security - Cloud Network Security"
 -->
-<details open> 
+<details close> 
     <summary>Cloud Network Security &#x21A9;</summary>
 
 - { ["**Cloud Network Segmentation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#A) : &#x2B55; }
 
-- { ["**Cloud Network Protocols**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#A) : &#x2B55; }
+- { ["**Cloud Network Protocols**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#B) : &#x2B55; }
 
-- { ["**Cloud Network Services**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#A) : &#x2B55; }
+- { ["**Cloud Network Services**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#C) : &#x2B55; }
 
-- { ["**Network Flow Analysis and Event Monitoring**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#A) : &#x2B55; }
+- { ["**Network Flow Analysis and Event Monitoring**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#D) : &#x2B55; }
 
-- { ["**Network Hardening**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#A) : &#x2B55; }
+- { ["**Network Hardening**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#E) : &#x2B55; }
 
-- { ["**Network Security Tools**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#A) : &#x2B55; }
+- { ["**Network Security Tools**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#F) : &#x2B55; }
 
-- { ["**Vulnerability Assessment**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#A) : &#x2B55; }
+- { ["**Vulnerability Assessment**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#G) : &#x2B55; }
 
-- { ["**Security Patches**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#A) : &#x2B55; }
+- { ["**Security Patches**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#H) : &#x2B55; }
 
-- { ["**Risk Registers and Patch Management Prioritization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#A) : &#x2B55; }
+- { ["**Risk Registers and Patch Management Prioritization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#I) : &#x2B55; }
 
-- { ["**Security Tools and the Impacts of Service Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#A) : &#x2B55; }
+- { ["**Security Tools and the Impacts of Service Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#J) : &#x2B55; }
 
-- { ["**Creating Subnets in a Cloud Virtual Network**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#A) : &#x274C; }
+- { ["**Creating Subnets in a Cloud Virtual Network**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#K) : &#x274C; }
 </details>
+<hr width=25%;>
+<!--
+14/11/2022
+"update repository ./cdp-cloud-security-controls - Cloud Security Controls"
+-->
+<details open> 
+    <summary>Cloud Security Controls &#x21A9;</summary>
+
+- { ["**Cloud Security Policies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
+
+- { ["**Cloud User Permissions**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
+
+- { ["**Virus Detection and Response**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
+
+- { ["**Host-based IDS and Host-based IPS**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
+
+- { ["**Hardened Baselines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
+
+- { ["**File Integrity and Event Monitoring**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
+
+- { ["**Configuration Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
+
+- { ["**Software Release Cycle**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
+
+- { ["**Endpoint Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
+
+- { ["**System Security Controls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
 <hr width=25%;>  
 <details close>
     <summary>Supplemental &#x21A9;</summary>
 <!--
+from IPython.display import display,HTML
+display(HTML("<style>.container { width:100% !important; }</style>"))	
 - { ["**CompTIA Cloud+**"](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) : &#x1F6A7; }
 -->
 &#x1F6A7;
