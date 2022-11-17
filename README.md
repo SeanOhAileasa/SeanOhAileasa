@@ -2225,12 +2225,12 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <hr width=10%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
 <hr width=33%;> <!-- -->
-<details close>
+<details open>
 	<summary><b>Splunk &#x21A9;</b></summary><br/>
 
 <!--
 17/11/2022
-"update repository ./spk-core-certified-user (Splunk)" 
+"update repository ./spk-core-certified-user (Intro to Splunk)" 
 -->
 
 - [Splunk Core Certified User](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user.ipynb) &#x1F6A7; <br/> 
