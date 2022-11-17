@@ -13,7 +13,7 @@
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CNSP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnsp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Security-Professional-CNSP.pdf) |
 | &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | &#x2935; |
-| &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk<br/><br/>                   | &#x2935; |
+| &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified User<br/><br/>                   | &#x2935; |
 
 <details close>
 <!--
@@ -1345,7 +1345,7 @@ eC=Lesson 6-Automation Concepts
 <hr width=10%;>	
 </details> <!-- END LABS - CySa+ -->    
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
 <br/> <!-- "delete repository ./cdp-configurations-and-deployments (Programme Exit - Focus: Security+/CySa+ < Oct Bank Holiday)" -->
 <!--
@@ -2229,9 +2229,11 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	<summary><b>Splunk &#x21A9;</b></summary><br/>
 
 <!--
-/11/2022
-"update xxx ./xxx - xxx"
+17/11/2022
+"update repository ./spk-core-certified-user (Splunk)" 
 -->
+
+- [Splunk Core Certified User](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user.ipynb) &#x1F6A7; <br/> 
 </details> <!-- END: Splunk -->
 <hr width=33%;> <!-- -->
               
