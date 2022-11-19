@@ -5,7 +5,7 @@
 |:-----:| :-----------------------------------------------|:-----:|
 | &nbsp;&nbsp;&nbsp;``itf-``&nbsp;&nbsp; | CompTIA ITF+ &#x2705; [``31st May:24th Jun``] |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+ &#x2705; [``18th Jul:7th Oct``] <br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
-| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>[ [CompTIA Security+](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) ] &#x1F4CC; [``:9th Dec``] <br/><br/>                               |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-security-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-plus-certificate.pdf)|
+| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>[ [CompTIA Security+](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) ] &#x1F4CC; [``:16th Dec``] <br/><br/>                               |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-security-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-plus-certificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA PenTest+ <br/><br/>                | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-pentest-pt-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-PenTest-plus-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA CNVP <br/><br/>                | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnvp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Vulnerability-Assessment-Professional-CNVP.pdf) |
 | &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA Cybersecurity Analyst (CySa+) <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-cysa-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-CySa-certificate.pdf) |
@@ -1554,7 +1554,7 @@ eC=Lesson 6-Automation Concepts
 16/11/2022
 "update repository ./cdp-data-security-and-compliance-controls - Data Security and Compliance Controls"
 -->
-<details open> 
+<details close> 
     <summary>Data Security and Compliance Controls &#x21A9;</summary>
 
 - { ["**Mandatory access control**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#A) : &#x2B55; }
@@ -1576,6 +1576,25 @@ eC=Lesson 6-Automation Concepts
 - { ["**Data Loss Prevention**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#I) : &#x2B55; }
 
 - { ["**Cloud Access Security Broker**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#J) : &#x2B55; }
+</details>
+<hr width=25%;>
+<!--
+19/11/2022
+"update repository ./cdp-cloud-component-integration - Cloud Component Integration"
+-->
+<details open> 
+    <summary>Cloud Component Integration &#x21A9;</summary>
+
+- { ["**Subscription Services Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#A) : &#x2B55; }
+- { ["**Architectural Services Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#B) : &#x2B55; }
+- { ["**Provisioning Resources**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#C) : &#x2B55; }
+- { ["**Cloud Applications Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#D) : &#x2B55; }
+- { ["**Virtual Machine Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#E) : &#x2B55; }
+- { ["**Template Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#F) : &#x2B55; }
+- { ["**Identity Management Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#G) : &#x2B55; }
+- { ["**Container Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#H) : &#x2B55; }
+- { ["**Autoscaling Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#I) : &#x2B55; }
+- { ["**Post-deployment Validation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#J) : &#x2B55; }
 </details>
 <hr width=25%;>  
 <details close>
