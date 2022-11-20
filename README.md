@@ -1634,14 +1634,15 @@ eC=Lesson 6-Automation Concepts
 > &#x1F52C; { ["**Provisioning Cloud-based Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#J) : &#x2705; }
 </details>
 <hr width=25%;>  
-<details close>
+<details open>
     <summary>Supplemental &#x21A9;</summary>
 <!--
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
-- { ["**CompTIA Cloud+**"](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) : &#x1F6A7; }
+"update repository ./cdp-cloud - Review/Summary - Practice Questions - Understanding Cloud Concepts"
 -->
-&#x1F6A7;
+
+- { ["**CompTIA Cloud+**"](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (Supplemental) -->
 </details> <!-- END (CompTIA Cloud+) -->
 <details close>
