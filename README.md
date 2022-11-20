@@ -1345,7 +1345,7 @@ eC=Lesson 6-Automation Concepts
 <hr width=10%;>	
 </details> <!-- END LABS - CySa+ -->    
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
 <br/> <!-- "delete repository ./cdp-configurations-and-deployments (Programme Exit - Focus: Security+/CySa+ < Oct Bank Holiday)" -->
 <!--
@@ -1582,19 +1582,56 @@ eC=Lesson 6-Automation Concepts
 19/11/2022
 "update repository ./cdp-cloud-component-integration - Cloud Component Integration"
 -->
-<details open> 
+<details close> 
     <summary>Cloud Component Integration &#x21A9;</summary>
 
 - { ["**Subscription Services Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#A) : &#x2B55; }
+
 - { ["**Architectural Services Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#B) : &#x2B55; }
+
 - { ["**Provisioning Resources**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#C) : &#x2B55; }
+
 - { ["**Cloud Applications Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#D) : &#x2B55; }
+
 - { ["**Virtual Machine Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#E) : &#x2B55; }
+
 - { ["**Template Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#F) : &#x2B55; }
+
 - { ["**Identity Management Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#G) : &#x2B55; }
+
 - { ["**Container Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#H) : &#x2B55; }
+
 - { ["**Autoscaling Integration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#I) : &#x2B55; }
+
 - { ["**Post-deployment Validation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#J) : &#x2B55; }
+</details>
+<hr width=25%;>
+<!--
+20/11/2022
+"update repository ./cdp-provisioning-cloud-storage - Provisioning Cloud Storage"
+-->
+<details open> 
+    <summary>Provisioning Cloud Storage &#x21A9;</summary>
+
+- { ["**Cloud Storage Types**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#A) : &#x2B55; }
+
+- { ["**Cloud Storage Tiers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#B) : &#x2B55; }
+
+- { ["**Cloud Storage IOPS**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#C) : &#x2B55; }
+
+- { ["**Cloud Storage Protocols**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#D) : &#x2B55; }
+
+- { ["**Cloud RAID Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#E) : &#x2B55; }
+
+- { ["**Cloud Storage System Features**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#F) : &#x2B55; }
+
+- { ["**Cloud Storage User Quotas**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#G) : &#x2B55; }
+
+- { ["**Hyperconverged Infrastructure**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#H) : &#x2B55; }
+
+- { ["**Software-defined Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#I) : &#x2B55; }
+
+> &#x1F52C; { ["**Provisioning Cloud-based Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#J) : &#x2705; }
 </details>
 <hr width=25%;>  
 <details close>
