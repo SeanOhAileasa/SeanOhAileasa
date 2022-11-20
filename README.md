@@ -1667,7 +1667,7 @@ eC=Lesson 6-Automation Concepts
 <!--
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
-"update repository ./cdp-cloud - Review/Summary - Practice Questions - Understanding Cloud Concepts"
+"update repository ./cdp-cloud - Review/Summary - Practice Questions - Planning and Designing a Cloud Environment"
 -->
 
 - { ["**CompTIA Cloud+**"](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) : &#x1F6A7; }
