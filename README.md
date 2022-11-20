@@ -1610,7 +1610,7 @@ eC=Lesson 6-Automation Concepts
 20/11/2022
 "update repository ./cdp-provisioning-cloud-storage - Provisioning Cloud Storage"
 -->
-<details open> 
+<details close> 
     <summary>Provisioning Cloud Storage &#x21A9;</summary>
 
 - { ["**Cloud Storage Types**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#A) : &#x2B55; }
@@ -1632,6 +1632,34 @@ eC=Lesson 6-Automation Concepts
 - { ["**Software-defined Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#I) : &#x2B55; }
 
 > &#x1F52C; { ["**Provisioning Cloud-based Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#J) : &#x2705; }
+</details>
+<hr width=25%;>
+<!--
+20/11/2022
+"update repository ./cdp-cloud-network-deployments - Cloud Network Deployments"
+-->
+<details open> 
+    <summary>Cloud Network Deployments &#x21A9;</summary>
+
+- { ["**Cloud Networking Services**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#A) : &#x2B55; }
+
+- { ["**Virtual Private Networks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#B) : &#x2B55; }
+
+- { ["**Virtual Routing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#C) : &#x2B55; }
+
+- { ["**Network Appliances**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#D) : &#x2B55; }
+
+- { ["**Virtual Private Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#E) : &#x2B55; }
+
+- { ["**VLAN / VXLAN / GENEVE**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#F) : &#x2B55; }
+
+- { ["**Single Root Input/Output Virtualization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#G) : &#x2B55; }
+
+- { ["**Software-defined Networks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#H) : &#x2B55; }
+
+> &#x1F52C; { ["**Creating Virtual Networks in a Cloud Service**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#I) : &#x2705; }
+
+> &#x1F52C; { ["**Creating a Virtual Network Gateway**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#J) : &#x2705; }
 </details>
 <hr width=25%;>  
 <details open>
