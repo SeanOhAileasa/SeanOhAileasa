@@ -359,7 +359,7 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-18/11/2022
+21/11/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { "**Cybersecurity Apprenticeship**" : &#x23F2; }
