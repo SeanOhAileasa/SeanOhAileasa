@@ -5,7 +5,7 @@
 |:-----:| :-----------------------------------------------|:-----:|
 | &nbsp;&nbsp;&nbsp;``itf-``&nbsp;&nbsp; | CompTIA ITF+ &#x2705; [``31st May:24th Jun``] |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+ &#x2705; [``18th Jul:7th Oct``] <br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
-| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>[ [CompTIA Security+](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) ] &#x1F4CC; [``:16th Dec``] <br/><br/>                               |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-security-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-plus-certificate.pdf)|
+| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>CompTIA Security+ &#x1F4CC; [``:16th Dec``] <br/><br/>                               |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-security-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-plus-certificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA PenTest+ <br/><br/>                | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-pentest-pt-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-PenTest-plus-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA CNVP <br/><br/>                | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnvp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Vulnerability-Assessment-Professional-CNVP.pdf) |
 | &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA Cybersecurity Analyst (CySa+) <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-cysa-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-CySa-certificate.pdf) |
@@ -22,7 +22,7 @@
 -->
 	<summary><b>&#x2705; CompTIA IT Fundamentals &#x21A9; </b></summary>
 
-- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/itf-cybersecurity-apprenticeship) : &#x23F2; }
+- { "**Cybersecurity Apprenticeship**" : &#x23F2; }
 </details>
 <hr width=33%;>
 <details close>
@@ -32,7 +32,7 @@
 -->
 	<summary><b>&#x2705; Effective Communication in Business &#x21A9; </b></summary>
 
-- { ["**Cybersecurity Apprenticeship**"](https://github.com/SeanOhAileasa/ecb-cybersecurity-apprenticeship) : &#x23F2; }
+- { "**Cybersecurity Apprenticeship**" : &#x23F2; }
 
 </details>
 <hr width=33%;>
@@ -43,7 +43,7 @@
 10/10/2022
 "update repository ./nkp-cybersecurity-apprenticeship (Exam - CompTIA Network+ Completed: 30th June 2022 - CompTIA PenTest+ Completed 7th October 2022) 
 -->
-- { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/nkp-cybersecurity-apprenticeship/blob/main/nkp-cybersecurity-apprenticeship.ipynb) : &#x23F2; }
+- { "**Cybersecurity Apprenticeship**" : &#x23F2; }
 <hr width=33%;>
 <details close>
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
@@ -362,7 +362,7 @@
 18/11/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
-- { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x23F2; }
+- { "**Cybersecurity Apprenticeship**" : &#x23F2; }
 <hr width=33%;> 
 <details open>
 	<summary><b><i>eCollege.ie</i> / <i>professormesser.com</i></b> &#x21A9;</summary>
