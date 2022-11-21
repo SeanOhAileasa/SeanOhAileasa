@@ -1666,7 +1666,7 @@ eC=Lesson 6-Automation Concepts
 21/11/2022
 "update repository ./cdp-cloud-migrations - Cloud Migrations"
 -->
-<details open> 
+<details close> 
     <summary>Cloud Migrations &#x21A9;</summary>
 
 - { ["**Virtualization Resource Estimation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#A) : &#x2B55; }
@@ -1688,6 +1688,34 @@ eC=Lesson 6-Automation Concepts
 - { ["**Storage Migration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#I) : &#x2B55; }
 
 - { ["**Cloud Database Migrations**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#J) : &#x2B55; }
+</details>
+<hr width=25%;>
+<!--
+21/11/2022
+"update repository ./cdp-cloud-logging-monitoring-alerting-and-optimization - Cloud Logging Monitoring Alerting and Optimization"
+-->
+<details open> 
+    <summary>Cloud Logging Monitoring Alerting and Optimization &#x21A9;</summary>
+
+- { ["**Cloud Basic Logging**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#A) : &#x2B55; }
+
+- { ["**Cloud Advanced Logging**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#B) : &#x2B55; }
+
+- { ["**Cloud Basic Monitoring**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#C) : &#x2B55; }
+
+- { ["**Cloud Advanced Monitoring**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#D) : &#x2B55; }
+
+- { ["**Cloud Alerting**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#E) : &#x2B55; }
+
+- { ["**Cloud Right-sizing and Placement**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#F) : &#x2B55; }
+
+- { ["**Cloud Compute Optimization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#G) : &#x2B55; }
+
+- { ["**Cloud Storage Optimization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#H) : &#x2B55; }
+
+- { ["**Cloud Network Optimization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#I) : &#x2B55; }
+
+- { ["**Cloud Device Driver Optimization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#J) : &#x2B55; }
 </details>
 <hr width=25%;>  
 <details open>
