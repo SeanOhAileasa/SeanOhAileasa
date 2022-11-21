@@ -1638,7 +1638,7 @@ eC=Lesson 6-Automation Concepts
 20/11/2022
 "update repository ./cdp-cloud-network-deployments - Cloud Network Deployments"
 -->
-<details open> 
+<details close> 
     <summary>Cloud Network Deployments &#x21A9;</summary>
 
 - { ["**Cloud Networking Services**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#A) : &#x2B55; }
@@ -1660,6 +1660,34 @@ eC=Lesson 6-Automation Concepts
 > &#x1F52C; { ["**Creating Virtual Networks in a Cloud Service**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#I) : &#x2705; }
 
 > &#x1F52C; { ["**Creating a Virtual Network Gateway**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#J) : &#x2705; }
+</details>
+<hr width=25%;>
+<!--
+21/11/2022
+"update repository ./cdp-cloud-migrations - Cloud Migrations"
+-->
+<details open> 
+    <summary>Cloud Migrations &#x21A9;</summary>
+
+- { ["**Virtualization Resource Estimation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#A) : &#x2B55; }
+
+- { ["**CPU and vCPU and GPU Estimation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#B) : &#x2B55; }
+
+- { ["**Hyperconverged Infrastructure Estimation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#C) : &#x2B55; }
+
+- { ["**Memory Resource Estimation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#D) : &#x2B55; }
+
+- { ["**Cloud Migrations - Physical P2V - Virtual V2V**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#E) : &#x2B55; }
+
+- { ["**Platform as a Service Migrations**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#F) : &#x2B55; }
+
+- { ["**Software as a Service Migrations**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#G) : &#x2B55; }
+
+- { ["**Cloud Migration Security Services**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#H) : &#x2B55; }
+
+- { ["**Storage Migration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#I) : &#x2B55; }
+
+- { ["**Cloud Database Migrations**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#J) : &#x2B55; }
 </details>
 <hr width=25%;>  
 <details open>
