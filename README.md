@@ -1694,7 +1694,7 @@ eC=Lesson 6-Automation Concepts
 21/11/2022
 "update repository ./cdp-cloud-logging-monitoring-alerting-and-optimization - Cloud Logging Monitoring Alerting and Optimization"
 -->
-<details open> 
+<details close> 
     <summary>Cloud Logging Monitoring Alerting and Optimization &#x21A9;</summary>
 
 - { ["**Cloud Basic Logging**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#A) : &#x2B55; }
@@ -1716,6 +1716,35 @@ eC=Lesson 6-Automation Concepts
 - { ["**Cloud Network Optimization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#I) : &#x2B55; }
 
 - { ["**Cloud Device Driver Optimization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#J) : &#x2B55; }
+</details>
+<hr width=25%;>
+<!--
+22/11/2022
+"update repository ./cdp-cloud-operations-management - Cloud Operations Management"
+-->
+<details open> 
+    <summary>Cloud Operations Management &#x21A9;</summary>
+
+
+- { ["**Cloud Life Cycle Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#A) : &#x2B55; }
+
+- { ["**Cloud Change Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#B) : &#x2B55; }
+
+- { ["**Cloud Asset Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#C) : &#x2B55; }
+
+- { ["**Cloud Patching**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#D) : &#x2B55; }
+
+- { ["**Cloud Process Improvements**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#E) : &#x2B55; }
+
+- { ["**Cloud Upgrade Methods**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#F) : &#x2B55; }
+
+- { ["**Cloud Dashboards and Reporting**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#G) : &#x2B55; }
+
+- { ["**Cloud System Backup Types**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#H) : &#x2B55; }
+
+- { ["**Cloud System Backup Objects**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#I) : &#x2B55; }
+
+- { ["**Cloud Backup Confirmation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#J) : &#x2B55; }
 </details>
 <hr width=25%;>  
 <details open>
