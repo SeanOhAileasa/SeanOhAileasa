@@ -1722,7 +1722,7 @@ eC=Lesson 6-Automation Concepts
 22/11/2022
 "update repository ./cdp-cloud-operations-management - Cloud Operations Management"
 -->
-<details open> 
+<details close> 
     <summary>Cloud Operations Management &#x21A9;</summary>
 
 
@@ -1745,6 +1745,34 @@ eC=Lesson 6-Automation Concepts
 - { ["**Cloud System Backup Objects**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#I) : &#x2B55; }
 
 - { ["**Cloud Backup Confirmation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#J) : &#x2B55; }
+</details>
+<hr width=25%;>
+<!--
+22/11/2022
+"update repository ./cdp-cloud-automation-and-orchestration - Cloud Automation and Orchestration"
+-->
+<details open> 
+    <summary>Cloud Automation and Orchestration &#x21A9;</summary>
+
+- { ["**Infrastructure as Code - IaC**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb#A) : &#x2B55; }
+
+- { ["**Continuous Integration and Continuous Deployment - CI/CD**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb#B) : &#x2B55; }
+
+- { ["**Cloud Version Control**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb#C) : &#x2B55; }
+
+- { ["**Cloud Configuration Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb#D) : &#x2B55; }
+
+- { ["**Cloud Containers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb#E) : &#x2B55; }
+
+- { ["**Cloud Automation Activities**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb#F) : &#x2B55; }
+
+- { ["**Cloud Secure Scripting**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb#G) : &#x2B55; }
+
+- { ["**Cloud Orchestration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb#H) : &#x2B55; }
+
+- { ["**Cloud Backup Targets**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb#I) : &#x2B55; }
+
+- { ["**Cloud Backup and Restore Policies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb#J) : &#x2B55; }
 </details>
 <hr width=25%;>  
 <details open>
