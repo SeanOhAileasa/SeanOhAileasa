@@ -1774,6 +1774,34 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Cloud Backup and Restore Policies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb#J) : &#x2B55; }
 </details>
+<hr width=25%;>
+<!--
+24/11/2022
+"update repository ./cdp-cloud-disaster-recovery - Cloud Disaster Recovery"
+-->
+<details open> 
+    <summary>Cloud Disaster Recovery &#x21A9;</summary>
+
+- { ["**Disaster Recovery Failovers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#A) : &#x2B55; }
+
+- { ["**Disaster Recovery Failbacks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#B) : &#x2B55; }
+
+- { ["**Cloud Backup Restoration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#C) : &#x2B55; }
+
+- { ["**Cloud Replication Disaster Recovery**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#D) : &#x2B55; }
+
+- { ["**Cloud Network Configurations Restoration**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#E) : &#x2B55; }
+
+- { ["**Cloud Sites and On-premise Disaster Recovery**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#F) : &#x2B55; }
+
+- { ["**Cloud Disaster Recovery Backup Requirements**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#G) : &#x2B55; }
+
+- { ["**Cloud Disaster Recovery Documentation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#H) : &#x2B55; }
+
+- { ["**Cloud Geographical Data Centers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#I) : &#x2B55; }
+
+- { ["**Cloud Backup and Restore Operations**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#J) : &#x2B55; }
+</details>
 <hr width=25%;>  
 <details open>
     <summary>Supplemental &#x21A9;</summary>
