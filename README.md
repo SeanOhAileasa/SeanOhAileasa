@@ -1777,7 +1777,7 @@ eC=Lesson 6-Automation Concepts
 24/11/2022
 "update repository ./cdp-cloud-disaster-recovery - Cloud Disaster Recovery"
 -->
-<details open> 
+<details close> 
     <summary>Cloud Disaster Recovery &#x21A9;</summary>
 
 - { ["**Disaster Recovery Failovers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#A) : &#x2B55; }
@@ -1799,6 +1799,34 @@ eC=Lesson 6-Automation Concepts
 - { ["**Cloud Geographical Data Centers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#I) : &#x2B55; }
 
 - { ["**Cloud Backup and Restore Operations**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#J) : &#x2B55; }
+</details>
+<hr width=25%;>
+<!--
+26/11/2022
+"update repository ./cdp-cloud-troubleshooting-methodologies - Cloud Troubleshooting Methodologies"
+-->
+<details open> 
+    <summary>Cloud Troubleshooting Methodologies &#x21A9;</summary>
+
+- { ["**Cloud Troubleshooting Methodology**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#A) : &#x2B55; }
+
+- { ["**Network Security Group Connectivity Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#B) : &#x2B55; }
+
+- { ["**Network Connectivity Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#C) : &#x2B55; }
+
+- { ["**Network Configuration Connectivity Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#D) : &#x2B55; }
+
+- { ["**Network Routing and Firewall Connectivity Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#E) : &#x2B55; }
+
+- { ["**Network Connectivity Issue Tools**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#F) : &#x2B55; }
+
+- { ["**Network Troubleshooting Tools**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#G) : &#x2B55; }
+
+- { ["**Resource Utilization Performance Tuning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#H) : &#x2B55; }
+
+- { ["**Application Performance Tuning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#I) : &#x2B55; }
+
+- { ["**Load Balancing Performance Tuning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#J) : &#x2B55; }
 </details>
 <hr width=25%;>  
 <details open>
