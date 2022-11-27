@@ -1834,8 +1834,8 @@ eC=Lesson 6-Automation Concepts
 <!--
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
-26/11/2022
-"update repository ./cdp-cloud - Review/Summary - Practice Questions - Administering Cloud Resources"
+27/11/2022
+"update repository ./cdp-cloud - Review/Summary - Practice Questions - Managing Cloud Storage"
 -->
 
 - { ["**CompTIA Cloud+**"](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) : &#x1F6A7; }
