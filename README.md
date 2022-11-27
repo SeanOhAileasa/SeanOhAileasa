@@ -1833,7 +1833,7 @@ eC=Lesson 6-Automation Concepts
 27/11/2022
 "update repository ./cdp-troubleshooting-cloud-security-issues - Troubleshooting Cloud Security Issues"
 -->
-<details open> 
+<details close> 
     <summary>Troubleshooting Cloud Security Issues &#x21A9;</summary>
 
 - { ["**Troubleshooting Privilege Security Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#A) : &#x2B55; }
@@ -1855,6 +1855,34 @@ eC=Lesson 6-Automation Concepts
 - { ["**Unsupported Protocols Security Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#I) : &#x2B55; }
 
 - { ["**Troubleshooting Attacks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#J) : &#x2B55; }
+</details>
+<hr width=25%;>
+<!--
+27/11/2022
+"update repository ./cdp-troubleshooting-cloud-deployments - Troubleshooting Cloud Deployments"
+-->
+<details open> 
+    <summary>Troubleshooting Cloud Deployments &#x21A9;</summary>
+
+- { ["**Deployment Connectivity Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#A) : &#x2B55; }
+
+- { ["**Deployment Performance Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#B) : &#x2B55; }
+
+- { ["**Deployment Configuration Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#C) : &#x2B55; }
+
+- { ["**Deployment Issues with Applications in Containers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#D) : &#x2B55; }
+
+- { ["**Misconfigured Template Deployment Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#E) : &#x2B55; }
+
+- { ["**Tag Deployment Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#F) : &#x2B55; }
+
+- { ["**Capacity Deployment Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#G) : &#x2B55; }
+
+- { ["**Licensing Deployment Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#H) : &#x2B55; }
+
+- { ["**Vendor-related Deployment Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#I) : &#x2B55; }
+
+> &#x1F52C; { ["**Performing Template-based Deployments in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#J) : &#x2705; }
 </details>
 <hr width=25%;>  
 <details open>
