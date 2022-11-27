@@ -1805,7 +1805,7 @@ eC=Lesson 6-Automation Concepts
 26/11/2022
 "update repository ./cdp-cloud-troubleshooting-methodologies - Cloud Troubleshooting Methodologies"
 -->
-<details open> 
+<details close> 
     <summary>Cloud Troubleshooting Methodologies &#x21A9;</summary>
 
 - { ["**Cloud Troubleshooting Methodology**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#A) : &#x2B55; }
@@ -1827,6 +1827,34 @@ eC=Lesson 6-Automation Concepts
 - { ["**Application Performance Tuning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#I) : &#x2B55; }
 
 - { ["**Load Balancing Performance Tuning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#J) : &#x2B55; }
+</details>
+<hr width=25%;>
+<!--
+27/11/2022
+"update repository ./cdp-troubleshooting-cloud-security-issues - Troubleshooting Cloud Security Issues"
+-->
+<details open> 
+    <summary>Troubleshooting Cloud Security Issues &#x21A9;</summary>
+
+- { ["**Troubleshooting Privilege Security Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#A) : &#x2B55; }
+
+- { ["**Authentication and Authorization Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#B) : &#x2B55; }
+
+- { ["**Security Group Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#C) : &#x2B55; }
+
+- { ["**Key and Certificate Security Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#D) : &#x2B55; }
+
+- { ["**Misconfigured Policy Security Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#E) : &#x2B55; }
+
+- { ["**Data Security Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#F) : &#x2B55; }
+
+- { ["**Exposed Endpoints Security Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#G) : &#x2B55; }
+
+- { ["**Security Appliance Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#H) : &#x2B55; }
+
+- { ["**Unsupported Protocols Security Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#I) : &#x2B55; }
+
+- { ["**Troubleshooting Attacks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#J) : &#x2B55; }
 </details>
 <hr width=25%;>  
 <details open>
