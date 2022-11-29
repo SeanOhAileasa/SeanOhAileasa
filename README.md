@@ -1861,7 +1861,7 @@ eC=Lesson 6-Automation Concepts
 27/11/2022
 "update repository ./cdp-troubleshooting-cloud-deployments - Troubleshooting Cloud Deployments"
 -->
-<details open> 
+<details close> 
     <summary>Troubleshooting Cloud Deployments &#x21A9;</summary>
 
 - { ["**Deployment Connectivity Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#A) : &#x2B55; }
@@ -1883,6 +1883,34 @@ eC=Lesson 6-Automation Concepts
 - { ["**Vendor-related Deployment Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#I) : &#x2B55; }
 
 > &#x1F52C; { ["**Performing Template-based Deployments in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#J) : &#x2705; }
+</details>
+<hr width=25%;>
+<!--
+29/11/2022
+"update repository ./cdp-troubleshooting-automation-and-orchestration-issues - Troubleshooting Automation and Orchestration Issues"
+-->
+<details open> 
+    <summary>Troubleshooting Automation and Orchestration Issues &#x21A9;</summary>
+
+- { ["**User Accounts and Service Accounts**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb#A) : &#x2B55; }
+
+- { ["**Change Management Process Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb#B) : &#x2B55; }
+
+- { ["**DNS and Server Name Change Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb#C) : &#x2B55; }
+
+- { ["**IP Address Scheme Change Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb#D) : &#x2B55; }
+
+- { ["**Location Change Automation Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb#E) : &#x2B55; }
+
+- { ["**Versioning Mismatch Automation Issues**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb#F) : &#x2B55; }
+
+- { ["**Automation Tool Compatibility Problems**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb#G) : &#x2B55; }
+
+- { ["**Job Validation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb#H) : &#x2B55; }
+
+- { ["**Patch Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb#I) : &#x2B55; }
+
+> &#x1F52C; { ["**Creating an Automation Account in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb#J) : &#x2705; }
 </details>
 <hr width=25%;>  
 <details open>
