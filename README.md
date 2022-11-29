@@ -359,7 +359,7 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-28/11/2022
+29/11/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x23F2; }
@@ -1343,13 +1343,16 @@ eC=Lesson 6-Automation Concepts
 <hr width=10%;>	
 </details> <!-- END LABS - CySa+ -->    
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
 <br/> <!-- "delete repository ./cdp-configurations-and-deployments (Programme Exit - Focus: Security+/CySa+ < Oct Bank Holiday)" -->
 <!--
 05/11/2022
 "update repository ./cdp-cloud-architecture-and-models - Using Software as a Service - Applications"
 -->
+<details close>
+	<summary><b>Cloud Architecture and Design</b> &#x21A9; <b>13%</b></summary>
+<br/>
 <details close> 
     <summary>Cloud Architecture and Models &#x21A9;</summary>
 
@@ -1377,7 +1380,7 @@ eC=Lesson 6-Automation Concepts
 
 > &#x1F52C; { ["**Applications**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-architecture-and-models/blob/main/cdp-cloud-architecture-and-models.ipynb#J) : &#x2705; }
 </details>
-<hr width=25%;>
+<br/>
 <!--
 12/11/2022
 "update repository ./cdp-cloud-capacity-planning - Scaling Resources"
@@ -1405,7 +1408,7 @@ eC=Lesson 6-Automation Concepts
 
 > &#x1F52C; { ["**Scaling Resources**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-capacity-planning/blob/main/cdp-cloud-capacity-planning.ipynb#I) : &#x2705; }
 </details>
-<hr width=25%;>
+<br/>
 <!--
 12/11/2022
 "update repository ./cdp-cloud-high-availability-and-scaling - Cloud High Availability and Scaling"
@@ -1433,7 +1436,7 @@ eC=Lesson 6-Automation Concepts
 
 > &#x1F52C; { ["**Creating Cloud-based Load Balancers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-high-availability-and-scaling/blob/main/cdp-cloud-high-availability-and-scaling.ipynb#J) : &#x2705; }
 </details>
-<hr width=25%;>
+<br/>
 <!--
 12/11/2022
 "update repository ./cdp-cloud-solution-design - Cloud Solution Design"
@@ -1461,7 +1464,11 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Security Testing Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-solution-design/blob/main/cdp-cloud-solution-design.ipynb#J) : &#x2B55; }
 </details>
+</details> <!-- END: Cloud Architecture and Design -->
 <hr width=25%;>
+<details close>
+	<summary><b>Security </b>&#x21A9; <b>20%</b></summary>
+</br>	
 <!--
 13/11/2022
 "update repository ./cdp-cloud-identity-and-access-management - Cloud Identity and Access Management"
@@ -1489,7 +1496,7 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Incident Response Procedures**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-identity-and-access-management/blob/main/cdp-cloud-identity-and-access-management.ipynb#J) : &#x2B55; }
 </details>
-<hr width=25%;>
+</br>
 <!--
 14/11/2022
 "update repository ./cdp-cloud-network-security - Cloud Network Security"
@@ -1519,7 +1526,7 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Creating Subnets in a Cloud Virtual Network**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-security/blob/main/cdp-cloud-network-security.ipynb#K) : &#x274C; }
 </details>
-<hr width=25%;>
+</br>
 <!--
 14/11/2022
 "update repository ./cdp-cloud-security-controls - Cloud Security Controls"
@@ -1547,7 +1554,7 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**System Security Controls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-security-controls/blob/main/cdp-cloud-security-controls.ipynb#A) : &#x2B55; }
 </details>
-<hr width=25%;>
+</br>
 <!--
 16/11/2022
 "update repository ./cdp-data-security-and-compliance-controls - Data Security and Compliance Controls"
@@ -1575,7 +1582,7 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Cloud Access Security Broker**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-data-security-and-compliance-controls/blob/main/cdp-data-security-and-compliance-controls.ipynb#J) : &#x2B55; }
 </details>
-<hr width=25%;>
+</br>
 <!--
 19/11/2022
 "update repository ./cdp-cloud-component-integration - Cloud Component Integration"
@@ -1603,7 +1610,7 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Post-deployment Validation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-component-integration/blob/main/cdp-cloud-component-integration.ipynb#J) : &#x2B55; }
 </details>
-<hr width=25%;>
+</br>
 <!--
 20/11/2022
 "update repository ./cdp-provisioning-cloud-storage - Provisioning Cloud Storage"
@@ -1631,7 +1638,11 @@ eC=Lesson 6-Automation Concepts
 
 > &#x1F52C; { ["**Provisioning Cloud-based Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-provisioning-cloud-storage/blob/main/cdp-provisioning-cloud-storage.ipynb#J) : &#x2705; }
 </details>
+</details> <!-- END: Security --> 
 <hr width=25%;>
+<details close>
+	<summary><b>Deployment </b>&#x21A9; <b>23%</b></summary>
+<br/>
 <!--
 20/11/2022
 "update repository ./cdp-cloud-network-deployments - Cloud Network Deployments"
@@ -1659,7 +1670,7 @@ eC=Lesson 6-Automation Concepts
 
 > &#x1F52C; { ["**Creating a Virtual Network Gateway**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-network-deployments/blob/main/cdp-cloud-network-deployments.ipynb#J) : &#x2705; }
 </details>
-<hr width=25%;>
+</br>
 <!--
 21/11/2022
 "update repository ./cdp-cloud-migrations - Cloud Migrations"
@@ -1687,7 +1698,11 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Cloud Database Migrations**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-migrations/blob/main/cdp-cloud-migrations.ipynb#J) : &#x2B55; }
 </details>
+</details> <!-- END: Deployment -->
 <hr width=25%;>
+<details close>
+	<summary><b>Operations and Support </b>&#x21A9; <b>22%</b></summary>
+<br/>
 <!--
 21/11/2022
 "update repository ./cdp-cloud-logging-monitoring-alerting-and-optimization - Cloud Logging Monitoring Alerting and Optimization"
@@ -1715,14 +1730,13 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Cloud Device Driver Optimization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-logging-monitoring-alerting-and-optimization/blob/main/cdp-cloud-logging-monitoring-alerting-and-optimization.ipynb#J) : &#x2B55; }
 </details>
-<hr width=25%;>
+<br/>
 <!--
 22/11/2022
 "update repository ./cdp-cloud-operations-management - Cloud Operations Management"
 -->
 <details close> 
     <summary>Cloud Operations Management &#x21A9;</summary>
-
 
 - { ["**Cloud Life Cycle Management**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#A) : &#x2B55; }
 
@@ -1744,7 +1758,7 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Cloud Backup Confirmation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-operations-management/blob/main/cdp-cloud-operations-management.ipynb#J) : &#x2B55; }
 </details>
-<hr width=25%;>
+<br/>
 <!--
 22/11/2022
 "update repository ./cdp-cloud-automation-and-orchestration - Cloud Automation and Orchestration"
@@ -1772,7 +1786,7 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Cloud Backup and Restore Policies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-automation-and-orchestration/blob/main/cdp-cloud-automation-and-orchestration.ipynb#J) : &#x2B55; }
 </details>
-<hr width=25%;>
+<br/>
 <!--
 24/11/2022
 "update repository ./cdp-cloud-disaster-recovery - Cloud Disaster Recovery"
@@ -1800,7 +1814,11 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Cloud Backup and Restore Operations**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-disaster-recovery/blob/main/cdp-cloud-disaster-recovery.ipynb#J) : &#x2B55; }
 </details>
+</details> <!-- END: Operations and Support -->
 <hr width=25%;>
+<details close>
+	<summary><b>Troubleshooting </b>&#x21A9; <b>22%</b></summary>
+<br/>
 <!--
 26/11/2022
 "update repository ./cdp-cloud-troubleshooting-methodologies - Cloud Troubleshooting Methodologies"
@@ -1828,7 +1846,7 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Load Balancing Performance Tuning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-cloud-troubleshooting-methodologies/blob/main/cdp-cloud-troubleshooting-methodologies.ipynb#J) : &#x2B55; }
 </details>
-<hr width=25%;>
+<br/>
 <!--
 27/11/2022
 "update repository ./cdp-troubleshooting-cloud-security-issues - Troubleshooting Cloud Security Issues"
@@ -1856,7 +1874,7 @@ eC=Lesson 6-Automation Concepts
 
 - { ["**Troubleshooting Attacks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-security-issues/blob/main/cdp-troubleshooting-cloud-security-issues.ipynb#J) : &#x2B55; }
 </details>
-<hr width=25%;>
+<br/>
 <!--
 27/11/2022
 "update repository ./cdp-troubleshooting-cloud-deployments - Troubleshooting Cloud Deployments"
@@ -1884,12 +1902,12 @@ eC=Lesson 6-Automation Concepts
 
 > &#x1F52C; { ["**Performing Template-based Deployments in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-cloud-deployments/blob/main/cdp-troubleshooting-cloud-deployments.ipynb#J) : &#x2705; }
 </details>
-<hr width=25%;>
+<br/>
 <!--
 29/11/2022
 "update repository ./cdp-troubleshooting-automation-and-orchestration-issues - Troubleshooting Automation and Orchestration Issues"
 -->
-<details open> 
+<details close> 
     <summary>Troubleshooting Automation and Orchestration Issues &#x21A9;</summary>
 
 - { ["**User Accounts and Service Accounts**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb#A) : &#x2B55; }
@@ -1912,6 +1930,7 @@ eC=Lesson 6-Automation Concepts
 
 > &#x1F52C; { ["**Creating an Automation Account in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/cdp-troubleshooting-automation-and-orchestration-issues/blob/main/cdp-troubleshooting-automation-and-orchestration-issues.ipynb#J) : &#x2705; }
 </details>
+</details> <!-- END: Troubleshooting -->
 <hr width=25%;>  
 <details open>
     <summary>Supplemental &#x21A9;</summary>
