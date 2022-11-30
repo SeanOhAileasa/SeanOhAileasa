@@ -1343,7 +1343,7 @@ eC=Lesson 6-Automation Concepts
 <hr width=10%;>	
 </details> <!-- END LABS - CySa+ -->    
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
 <br/> <!-- "delete repository ./cdp-configurations-and-deployments (Programme Exit - Focus: Security+/CySa+ < Oct Bank Holiday)" -->
 <!--
@@ -1351,7 +1351,7 @@ eC=Lesson 6-Automation Concepts
 "update repository ./cdp-cloud-architecture-and-models - Using Software as a Service - Applications"
 -->
 <details close>
-	<summary><b>Cloud Architecture and Design</b> &#x21A9; <b>13%</b></summary>
+	<summary><i>Cloud Architecture and Design</i> &#x21A9; <b>13%</b></summary>
 <br/>
 <details close> 
     <summary>Cloud Architecture and Models &#x21A9;</summary>
@@ -1467,7 +1467,7 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END: Cloud Architecture and Design -->
 <hr width=25%;>
 <details close>
-	<summary><b>Security </b>&#x21A9; <b>20%</b></summary>
+	<summary><i>Security </i>&#x21A9; <b>20%</b></summary>
 </br>	
 <!--
 13/11/2022
@@ -1641,7 +1641,7 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END: Security --> 
 <hr width=25%;>
 <details close>
-	<summary><b>Deployment </b>&#x21A9; <b>23%</b></summary>
+	<summary><i>Deployment </i>&#x21A9; <b>23%</b></summary>
 <br/>
 <!--
 20/11/2022
@@ -1701,7 +1701,7 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END: Deployment -->
 <hr width=25%;>
 <details close>
-	<summary><b>Operations and Support </b>&#x21A9; <b>22%</b></summary>
+	<summary><i>Operations and Support </i>&#x21A9; <b>22%</b></summary>
 <br/>
 <!--
 21/11/2022
@@ -1817,7 +1817,7 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END: Operations and Support -->
 <hr width=25%;>
 <details close>
-	<summary><b>Troubleshooting </b>&#x21A9; <b>22%</b></summary>
+	<summary><i>Troubleshooting </i>&#x21A9; <b>22%</b></summary>
 <br/>
 <!--
 26/11/2022
@@ -1944,9 +1944,14 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - { ["**CompTIA Cloud+**"](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (Supplemental) -->
 </details> <!-- END (CompTIA Cloud+) -->
-<details close>
+<details open>
 	<summary>&#x1F52C; &#x21A9;</summary>
-<br/>
+<!--
+30/11/2022
+"update repository ./cdp-practice-labs - Cloud Deployment Models"
+-->
+
+- [Cloud Deployment Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudDeploymentModels.htm) &#x2705; <br/>
 </details>
 <hr width=33%;>
 <details close>
@@ -2287,15 +2292,15 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <details close>
     <summary>Business Continuity &#x21A9; <b></b></summary>
 
-- { ["**Business Continuity and Disaster Recoveryx**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#A) : &#x1F6A7; }
+- { ["**Business Continuity and Disaster Recovery**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#A) : &#x1F6A7; }
 
-- { ["**Physical and Logical Redundancyx**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#B) : &#x1F6A7; }
+- { ["**Physical and Logical Redundancy**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#B) : &#x1F6A7; }
 
-- { ["**Clustering and Load Balancingx**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#C) : &#x1F6A7; }
+- { ["**Clustering and Load Balancing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#C) : &#x1F6A7; }
 
-- { ["**Deploying a Microsoft Azure Load Balancerx**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#D) : &#x1F6A7; }
+- { ["**Deploying a Microsoft Azure Load Balancer**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#D) : &#x1F6A7; }
 
-- { ["**Backing Up Data Using Microsoft Azurex**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#E) : &#x1F6A7; }
+- { ["**Backing Up Data Using Microsoft Azure**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#E) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
@@ -2581,7 +2586,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <hr width=10%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
 <hr width=33%;> <!-- -->
-<details open>
+<details close>
 	<summary><b>Splunk &#x21A9;</b></summary><br/>
 
 <!--
