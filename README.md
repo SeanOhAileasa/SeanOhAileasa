@@ -359,7 +359,7 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-01/12/2022
+02/12/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x23F2; }
@@ -2620,7 +2620,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - { ["**Introduction to Data Science in Python**"](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/DataCamp/20221108_IntroductiontoDataScienceinPython.pdf) &#x2705; <br/> 
 </details>
 </details>
-
+#tes
 <hr width=33%;> <!-- -->
 
 ### Project Management Tracking (Task - Status / Priority)
