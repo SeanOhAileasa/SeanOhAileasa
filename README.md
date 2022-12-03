@@ -3697,7 +3697,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 03/12/2022
-"update repository ./asp-virtualization-security - Deploying Windows Virtual Machines / Deploying Linux Virtual Machines" 
+"update repository ./asp-virtualization-security - Encrypting Virtual Machines / Application Containers" 
 -->
 <details open>
 	<summary>Virtualization Security &#x21A9; <b></b></summary>
@@ -3712,7 +3712,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 > &#x1F52C; { ["**Deploying Linux Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#E) : &#x2705; }
 
-- { ["**Encrypting Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#F) : &#x1F6A7; }
+- { ["**Encrypting Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#F) : &#x2B55; }
 
 - { ["**Application Containers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#G) : &#x1F6A7; }
 
