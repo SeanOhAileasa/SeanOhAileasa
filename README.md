@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 03/12/2022
-"update repository ./cdp-practice-labs - High Availability and Scalability in the Cloud"
+"update repository ./cdp-practice-labs - Analyzing Business Requirements for a Cloud Solution"
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2191,9 +2191,8 @@ It is important to remember that in public cloud environments, networking is ins
 
 The benefit to using a public cloud in this instance is that a VPC can be managed via one console instead of having different hardware and software components and need to be managed individually, potentially lowering the risk of SPoFs.
 </details>
-<!--
 <details close>
-    <summary>Analyzing Business Requirements for a Cloud Solution &#x21A9; &#x2705;</summary>
+    <summary>Analyzing Business Requirements for a Cloud Solution &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Analyzing Business Requirements for a Cloud Solution](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/AnalyzingBusinessRequirementsforaCloudSolution.htm) <a id="AnalyzingBusinessRequirementsforaCloudSolution"></a>
 
@@ -2267,7 +2266,7 @@ A Blue-Green environment refers to two near-identical production environments, w
 
 In terms of infrastructure, Disaster Recovery (DR) environments are constantly updated copies of other environments that allow a failover should one of the environments be brought down for any reason. These exist to prevent server downtime and are known as hot spares.
 
-###### ``Testing Techniques in the Cloud``
+###### ``Testing Techniques in the Cloud`` <!-- pacu -->
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/six.png?raw=true)
 
@@ -2291,10 +2290,11 @@ Functional testing aims to verify an infrastructure against set requirements. Th
 
 ``Usability Testing``
 
-Usability testing measures the user-friendliness of an infrastructure. More important for production environments, this type of testing ensures that an infrastructure is useable for a wider audience outside of development teams.
+Usability testing measures the user-friendliness of an infrastructure. More important for production environments, this type of testing ensures that an infrastructure is usable for a wider audience outside of development teams.
 
 Picture a scenario wherein you are developing a web application. Usability testing would be key to ensure that the application is usable for people with different types of devices, from smartphones, tablets, laptops or desktops.
 </details>
+<!--
 <details close>
     <summary>Configuring and Managing Cloud Identities &#x21A9; &#x2705;</summary>
 
