@@ -3697,7 +3697,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 03/12/2022
-"update repository ./asp-virtualization-security - Encrypting Virtual Machines / Application Containers" 
+"update repository ./asp-virtualization-security - Working with Docker Desktop" 
 -->
 <details open>
 	<summary>Virtualization Security &#x21A9; <b></b></summary>
@@ -3716,7 +3716,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 - { ["**Application Containers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#G) : &#x1F513; }
 
-- { ["**Working with Docker Desktop**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#H) : &#x1F6A7; }
+> &#x1F52C; { ["**Working with Docker Desktop**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#H) : &#x2705; }
 
 - { ["**Creating a Container Registry**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#I) : &#x1F6A7; }
 
