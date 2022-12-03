@@ -3725,14 +3725,14 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 03/12/2022
-"update repository ./asp-secure-cloud-computing - Cloud Computing" 
+"update repository ./asp-secure-cloud-computing - Cloud Deployment Models" 
 -->
 <details open>
     <summary>Secure Cloud Computing &#x21A9; <b></b></summary>
 
 - { ["**Cloud Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#A) : &#x2B55; }
 
-- { ["**Cloud Deployment Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#B) : &#x1F6A7; }
+- { ["**Cloud Deployment Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#B) : &#x2B55; }
 
 - { ["**Cloud Service Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#C) : &#x1F6A7; }
 
