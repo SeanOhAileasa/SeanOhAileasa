@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 03/12/2022
-"update repository ./cdp-practice-labs - Cloud Resource Capacity Planning"
+"update repository ./cdp-practice-labs - High Availability and Scalability in the Cloud"
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2120,7 +2120,6 @@ Impact on infrastructure can be analyzed by looking at different trends, such as
 
 These factors allow you to proactively plan what kind of performance power your infrastructure needs before it has been built, allowing much simpler management down the line.
 </details>
-<!--
 <details close>
     <summary>High Availability and Scalability in the Cloud &#x21A9; &#x2705;</summary>
 
@@ -2186,12 +2185,13 @@ It is important to remember that in public cloud environments, networking is ins
 
 - Gateways
 
-- Rote Tables
+- Route Tables
 
 - Network Interfaces
 
 The benefit to using a public cloud in this instance is that a VPC can be managed via one console instead of having different hardware and software components and need to be managed individually, potentially lowering the risk of SPoFs.
 </details>
+<!--
 <details close>
     <summary>Analyzing Business Requirements for a Cloud Solution &#x21A9; &#x2705;</summary>
 
