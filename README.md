@@ -1946,15 +1946,1719 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 </details> <!-- END (CompTIA Cloud+) -->
 <details open>
 	<summary>&#x1F52C; &#x21A9;</summary>
+<br/>
 <!--
 30/11/2022
 "update repository ./cdp-practice-labs - Cloud Deployment Models"
 -->
+<details close>
+    <summary>Cloud Deployment Models &#x21A9;</summary>
 
-- [Cloud Deployment Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudDeploymentModels.htm) &#x2705; <br/>
+### Topic: [Cloud Deployment Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudDeploymentModels.htm) <a id="CloudDeploymentModels"></a>
+
+###### ``Exploring Cloud Deployment Models``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+``Private cloud``
+
+- Also referred to as a corporate or internal cloud, a private cloud is owned and operated by a single organization. If the cloud infrastructure remains onpremise, the organization acts as its own Cloud Service Provider (CSP).
+
+``Public cloud``
+
+- Services such as apps, servers and data storage are made available by cloud service providers such as Microsoft Azure, Amazon Web Services and Google Cloud using this model. Clients share resources such as hardware by pooling all available resources and allocating only the amount each needs.
+
+``Hybrid cloud``
+
+- A hybrid cloud Infrastructure is a combination of a public and private cloud where the services that are provided are shared between the different infrastructures.
+
+``Community cloud``
+
+- In a community cloud, users share the same set of data and resources. Multiple parties access it. For example, a cloud deployed for the students at a university or a college would normally be a community cloud – accessed by all students.
+
+###### ``Exploring Private Clouds``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabdm01.png?raw=true)
+</details>
+<!--
+<details close>
+    <summary>Different Cloud Service Models &#x21A9;</summary>
+
+### Topic: [Different Cloud Service Models](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/DifferentCloudServiceModels.htm) <a id="DifferentCloudServiceModels"></a>
+
+###### ``Cloud Shared Responsibility Service Models``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+``Infrastructure as a Service (IaaS)``
+
+Infrastructure as a Service (IaaS) provides computing resources using either a public or private Infrastructure. These resources include providing virtual machines accessible through the internet using remote accessing protocols, such as Remote Desktop (RDP) or a Secure Shell (SSH).
+
+It will be the customers' responsibility to maintain these resources and operating systems by provisioning correctly. The hardware these resources utilize are maintained by the cloud provider. The benefit of using IaaS is that the customer will not need to incur any hardware costs to create a resource. Another benefit is if more resources for a particular resource is needed, it can be easily provisioned with little or no downtime, depending on what needs to be added. 
+
+``Platform as a Service (PaaS)``
+
+Platform as a Service (PaaS) in cloud computing refers to the concept that a specific application or service is used without the necessity of creating a complex backend infrastructure.
+
+An example of PaaS is creating a SQL database. The customer would create the database on the service providers platform and there will be no need to create a server to host the database; this is done in the backend and hosts the database for the customer. The customer will still need to maintain the application in this scenario.
+
+The benefits of using PaaS is the customer does not need to maintain the infrastructure that will be hosting the application, thus the overhead costs for management are less because of licensing and hardware costs, which will not be necessary.
+
+``Software as a Service (PaaS)``
+
+In Software as a Service (SaaS), the application which will be used by the customer is managed and maintained by the provider. The customer has little to no interaction with maintaining the application in the backend. An example of Software as a Service application is Microsoft 365.
+
+Microsoft 365, previously known as Microsoft Office 365, includes a suite of cloud applications for end-users. The following is a list of some of the applications available in Microsoft 365:
+
+- Exchange Online:An online email application hosted by Microsoft. This application replaces the traditional on-premises Exchange server reducing the amount of hardware needed to host the on-premise server.
+
+- Teams:Formerly known as Skype for Business Online, is an online communication and collaboration tool which can be used for internal and external communication using instant messaging, voice, and video calling.
+
+- SharePoint Online: A company can provide a SharePoint Online service without having a physical server to host the application. In Microsoft 365, this an online application with all the features and functionality of an on-premise SharePoint server, thus reducing the company's hardware footprint.
+
+###### ``Advanced Cloud Services``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+</details>
+<details close>
+    <summary>Cloud Resource Capacity Planning &#x21A9;</summary>
+
+### Topic: [Cloud Resource Capacity Planning](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudResourceCapacityPlanning.htm) <a id="CloudResourceCapacityPlanning"></a>
+
+###### ``Cloud Capacity Planning Factors``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+``Private cloud``
+
+When you begin to build a network in a cloud, you first need to ensure that you have everything you need to perform the kind of tasks relevant to your organization.
+
+When it comes to private infrastructure, it’s important to not just consider what you may require for the immediate, but instead what you may also require in the future. Because of this, most private infrastructures will need to be developed based on what may be required for the future or risk users putting strain on infrastructure or, in the instance that capacity is met, full denial-of-service.
+
+Because of this, hardware for private infrastructures can be costly as the physical hardware needs to be stored and maintained by on-premises staff, even if that hardware isn’t currently being utilized to its full potential at the time of purchase.
+
+Purchasing hardware can be done in multiple ways; however, the cost of physical hardware can be spread over some time – but it’s still key to remember that the overall cost, not the immediate, is needed for the network to run in the long term.
+
+``Public cloud``
+
+On the other hand, it may be more beneficial for an organization to develop infrastructure on the cloud in terms of long-term costs.
+
+Public cloud infrastructures follow a Pay-as-you-Go (PAYG) model, meaning that the subscription costs payable to the Cloud Service Provider (CSP) are based solely on the resources spun up or the utilization of those resources, meaning that nothing “goes to waste” as could be the case with on-premises.
+
+Although there are benefits to using a public cloud infrastructure, there are also drawbacks compared to on-premises, mainly in a more messy planning perspective. With Public infrastructures, you are never sure of where your resources exist within the CSP data centers, and you are relying on them to avoid resource downtime and provide physical security for your resources, which is easier to manage when on-premises.
+
+``Requirements``
+
+When investigating what requirements your organization needs from a cloud infrastructure, you should consider the following questions:
+
+- Business needs: What hardware/software does my organization need to meet the requirements of the infrastructure?
+
+- Hardware: Do we need any hardware that will require large investments?
+
+- Software: Is there any software that we need to purchase? How many users will require licenses for this software?
+
+- Density: How many users are we expecting to utilize the infrastructure at any one time?
+
+- Budget: What is our budget for this infrastructure?
+
+The answers and associated costs of the above questions will ultimately decide what sort of infrastructure is needed. There are also templates of existing infrastructures that can be used to gauge some of the answers to these questions.
+
+These templates can be provided by multiple different tools online and allow you to produce ballpark figures depending on the above factors. It is likely that these templates will not be a 1:1 match of the infrastructure you need to create as all organizations are different, but it is a good starting point, especially for budget analysis.
+
+``Licences``
+
+In cloud infrastructures, there are different models of licensing options available for hardware, software and overall infrastructures, such as:
+
+- Per-user: These licenses apply a cost per user and, depending on the infrastructure and software needed, typically have discounted the higher this number is.
+
+- Volume-based: This type of license depends on how many people (or overall volume of people) are utilizing an infrastructure. This is different from per-user and instead refers more to PAYG billing methods than an up-front cost for license keys.
+
+- Socket-based: ·This type of licensing is based on the number of CPU sockets used on a motherboard and charged accordingly.
+
+- Core-based: Like socket-based licenses, these licenses charge you based on how many cores are utilized on a CPU or VCPU.
+
+- Subscriptions: These are ongoing payments due for a specific subscription service and are typically at a set price over a certain period. An example of this may be a Cloud Access Security Broker (CASB) that charges a set subscription amount to manage the security of your cloud infrastructure.
+
+###### ``Cloud Density, Load, Trends and Performance Planning``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+``Performance Requirements``
+
+The main considerations that will impact device performance (either on-premises or in a public cloud) will be the following:
+
+- CPU: How much power does this device need to perform within agreed objectives?
+
+- Memory: How fast does this device need to process things? How much memory is needed to perform, even when scaled upwards in the future?
+
+- Network Interface Cards (NICS): ·Does this device require support to connect to / manage a wider network of devices?
+
+- Storage: What level of storage is needed for this device? Are Hard-Disk Drives (HDDs) or Solid State Drives (SSDs) required?
+
+- App Response Times: How quickly does this application, infrastructure or service need to respond to users?
+
+These all need to be balanced when building VMs inside a public cloud or purchasing hardware/software for an on-premises cloud to meet the requirements while being scalable and within budget.
+
+``System Load & User Density``
+
+The above considerations will be mainly impacted by what sort of load you expect on a resource. Generally, the more load on systems, the slower they will perform until, ultimately, the device can no longer fulfill requests and, therefore, not functioning as expected by users. Therefore, it’s important to consider how an infrastructure is working at current levels and that it is scalable to more users in the future as the organization and ultimately, the demand on the infrastructure grows.
+
+If you notice that you are currently building and budgeting for a resource currently at capacity, it should be considered that this will not be sufficient to account for future growth.
+
+User density also impacts system load and refers to how many users could utilize a specific resource or overall infrastructure. This does not just apply to the maximum amount of users that could have an impact, but how many are expected to have an impact at the same time.
+
+For example, picture that you manage an infrastructure used by a certain department that works overseas that houses hundreds of individuals. Although during your work hours, utilization will be low, due to the difference in working hours, the true impact will all happen at once when those colleagues begin starting to utilize resources at once, so concurrency should be considered with users in mind.
+
+``Trend Analysis``
+
+Impact on infrastructure can be analyzed by looking at different trends, such as user concurrency and system load. When analyzing your infrastructure, you should consider the following:
+
+- Baselines: What is the basic level of performance required, and what is the average consumption of resources at any one time? Is the demand on the infrastructure as expected?
+
+- Patterns: When are resources most utilized? Does this align with known parameters?
+
+- Anomalies: ·Are there any anomalies in this data that can be accounted for when planning performance requirements? Are there huge upticks in demand at certain times?
+
+These factors allow you to proactively plan what kind of performance power your infrastructure needs before it has been built, allowing much simpler management down the line.
+</details>
+<details close>
+    <summary>High Availability and Scalability in the Cloud &#x21A9;</summary>
+
+### Topic: [High Availability and Scalability in the Cloud](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/HighAvailabilityandScalabilityintheCloud.htm) <a id="HighAvailabilityandScalabilityintheCloud"></a>
+
+###### ``High Availability and Scalability in a Private Cloud Environment``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabdc01.png?raw=true)
+
+``Hypervisors``
+
+A Hypervisor is a program that partitions different system resources of a real device to create a virtual device.
+
+The ability to spin up different VMs is key for scalability in a cloud environment, as devices can always be created, edited and removed on the fly and do not require massive hardware investments (outside of the initial server in private cloud environments) and allow you to effectively scale resources as needed. Examples include:
+
+- VMWare
+
+- Microsoft Hyper-V
+
+- Oracle VM VirtualBox
+
+When utilizing a Hypervisor, two methods of networking VMs into an infrastructure exist. The Affinity model applies when multiple VMs run on the same host, and the Anti-Affinity model applies when each VM is run on a different host. Which option is best will apply to the demand on the host (a physical server is limited by its hardware and processing power) and will vary depending on the infrastructure an organization is looking to create.
+
+``Single Points of Failure (SPoF)``
+
+A Single Point of Failure (SPoF) refers to a weakness in an infrastructure that points to a specific piece of hardware or resource that could act as the weakest link in the chain – in that, if it fails, the whole infrastructure fails.
+
+These are implemented due to a flaw in overall architecture design or not accurately planning for proper scaling options. Allowing SPoFs to exist in a cloud environment is the opposite of ensuring high availability and, therefore, should always be considered and reviewed during the lifecycle of any one “piece” of an infrastructure.
+
+In a cloud environment, some examples can include:
+
+- Hypervisors using the Affinity model without proper Disaster Recovery (DR) or failover planning.
+
+- A Hardware Security Module (HSM) failure or security vulnerability that could, in effect, remove access keys to other parts of an infrastructure.
+
+- Infrastructure-critical software that reaches End of Life (EOL) and no longer becomes supported by a vendor potentially becoming unsupported in the future or becoming vulnerable to newly discovered security flaws.
+
+This is just three examples, although there are many others that should be carefully considered when planning and an infrastructure should always be scrutinized to avoid at all costs.
+
+``Oversubscription``
+
+Oversubscription is a challenge of public cloud subscriptions in that a CSP can oversubscribe a specific piece of hardware to multiple users or tenants, meaning that the server cannot satisfy every tenant's needs at once, leading to a potential denial of service.
+
+Picture that your organization shares “server space” with another organization that suddenly massively increases demand on the CSPs server. This can have a negative effect on all resources stored on that server, negatively impacting the performance of your resources. This is why this can be apparent when scaling infrastructure on a public cloud, and you should be vigilant that your infrastructure doesn’t fall outside your Service Level Agreement (SLA) with the provider.
+
+It is important to remember that with private clouds, this risk is less of an issue as you either maintain a physical server on-premises or rent a server from a provider for your organization’s use alone.
+
+``Networking``
+
+Networking functions should also be considered when ensuring HA in a cloud environment and could act as another SPOF. In private environments, the following different types of networking functions and hardware should be considered to ensure HA:
+
+- Switches
+
+- Routers
+
+- Load Balancers
+
+- Firewalls
+
+It is important to remember that in public cloud environments, networking is instead maintained via the following, known as Virtual Private Cloud (VPC) resources:
+
+- Subnets
+
+- Gateways
+
+- Rote Tables
+
+- Network Interfaces
+
+The benefit to using a public cloud in this instance is that a VPC can be managed via one console instead of having different hardware and software components and need to be managed individually, potentially lowering the risk of SPoFs.
+</details>
+<details close>
+    <summary>Analyzing Business Requirements for a Cloud Solution &#x21A9;</summary>
+
+### Topic: [Analyzing Business Requirements for a Cloud Solution](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/AnalyzingBusinessRequirementsforaCloudSolution.htm) <a id="AnalyzingBusinessRequirementsforaCloudSolution"></a>
+
+###### ``Cloud Requirement Analysis Factors``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+``Software and Hardware``
+
+When building an infrastructure, it is important to consider what software will be required from a user perspective and what software is required for the infrastructure to run correctly. This could be anything; specific coding software such as Microsoft Visual Studio for database environments (which is free but still requires agreement to a license with Microsoft), or a valid license for an OS such as Windows Server 2019 (which has an associated cost).
+
+This same principle applies to hardware. Specific devices may need to be purchased to ensure that everything functions in an on-premises infrastructure.
+
+``Networking``
+
+It is important to consider what kind of networking infrastructure will be required. This could be hardware related for on-premises (such as purchasing routing/switching hardware) or virtually in a public cloud environment. You should consider the following questions when investigating a potential network:
+
+- Sizing: What bandwidth is required for the needs of the business? What kind of response times will users expect? How much data will be transferred?
+
+- Subnetting: What kind of subnetting is required? Which solution will provide the best speed and performance?
+
+- Routing: Are there security or data transmission considerations that should be investigated?
+
+``Integration``
+
+Also important to consider when building an infrastructure is that data, applications, systems, databases and environments need to be integrated to allow for easy exchanges of information in real-time.
+
+This is something that can be done internally via proper planning and consideration when building different devices to work together, although you could also investigate an Integration Cloud Service Broker (ICSB), which is a platform that acts as a data brokerage and can assist in the management of integration. However, it is important to consider that this also may have associated costs.
+
+``Compliance and Security``
+
+When building an infrastructure for a business that reports to a regulatory body, it is imperative to ensure that it meets the requirements set out by the regulations that need to be followed. For example, Personally Identifiable Information (PII) will require user data to be kept secure, so the security of a database that stores this information will have to be configured to meet these requirements.
+
+However, it is imperative that your infrastructure is not susceptible to known security threats, and these should always be considered. Just as with ICSBs for integration, you may consider implementing a Cloud Access Security Broker (CASB).
+
+``Service Level Agreements (SLAs)``
+
+A Service Level Agreement (SLA) describes the commitment between a service provider and its customer for some type and amount of service. An SLA contains all terms of service rolled into one document, which serves as the rulebook and legal contract between the provider and the customer. Typically, SLAs do the following:
+
+- Establish the provider’s commitments for individual products and services.
+
+- Establish the performance targets for those products and services.
+
+- Specify what type of remediation is available if a product or service fails to achieve the performance target.
+
+Most products and services’ performance targets are described in terms of uptime and connectivity or availability guarantees. Taking Microsoft Azure as an example, remediation when performance fails is given in the form of Service Credits to the account or subscription. Because service credits are a type of currency for Azure products and services, Microsoft’s SLAs are considered to be financially backed, although they do not provide SLAs for products and services that fall under the Free or Shared tiers (such as Azure Advisor).
+
+###### ``Differences in Cloud Environments``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/awsWorkstation.png?raw=true)
+
+``Production``
+
+A Production (also known as Live) environment refers to the operational environment for end-users. In most cases, anything pushed to a production environment has passed many different development phases and has been greenlit to be ready for user consumption.
+
+``Development & Staging``
+
+A Development environment (typically shortened to Dev) refers to an infrastructure built for development teams to edit, debug and build applications or code in a safe, sandboxed setting.
+
+Similar to development, Staging environments provide a safe space to allow change testing before pushing updates to a live environment. In real-world scenarios, updates may pass through development stages but not be ready to be immediately deployed to live servers. This is when a Staging environment may be used.
+
+``Quality Assurance (QA)``
+
+Quality Assurance (QA) in a DevOps setting refers to a specialized team stress testing new deployments to catch any issues before releasing them to production.
+
+``Blue-Green``
+
+A Blue-Green environment refers to two near-identical production environments, where only one is live (or available to serve traffic), whereas the other is not. In realworld scenarios, these types of environments are used to gradually roll out updates, where one is used to serve all traffic, which then swaps back and forth to manage different incremental updates, reducing service downtime and overall risk.
+
+``Disaster Recovery (DR)``
+
+In terms of infrastructure, Disaster Recovery (DR) environments are constantly updated copies of other environments that allow a failover should one of the environments be brought down for any reason. These exist to prevent server downtime and are known as hot spares.
+
+###### ``Testing Techniques in the Cloud``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/six.png?raw=true)
+
+``Vulnerability & Penetration Testing``
+
+Vulnerability testing involves Identifying existing weaknesses that exist in an environment. Typically, in real-world scenarios, this is an ongoing process performed in many different types of environments and is key to ensuring that there are no security vulnerabilities that could result in an attack by a malicious party.
+
+Similar to vulnerability testing, Penetration testing involves a specific person employed by an organization (known as a pen-tester) exploiting weaknesses that currently exist in an infrastructure. This type of testing is also done for many different types of infrastructure and aims to find vulnerabilities that have not yet been detected, which is the distinction between vulnerability and penetration testing.
+
+``Performance Testing``
+
+Performance testing aims to test the response times and stability of an infrastructure, and although it may be done in internal environments, it is key to perform in live production environments. This type of testing aims to discover if there are any issues with performance for end users.
+
+``Regression Testing``
+
+Regression testing is a process that aims to prove infrastructure functionality after updates. In real-world scenarios, this type of testing is used to ensure that when a new piece of hardware or code is added to an infrastructure, it doesn’t adversely affect more legacy hardware or code that may already exist.
+
+``Functional Testing``
+
+Functional testing aims to verify an infrastructure against set requirements. This type of testing is important for internal testing environments such as development and staging, and involves testing an infrastructure to ensure that it meets the requirements of the business.
+
+``Usability Testing``
+
+Usability testing measures the user-friendliness of an infrastructure. More important for production environments, this type of testing ensures that an infrastructure is useable for a wider audience outside of development teams.
+
+Picture a scenario wherein you are developing a web application. Usability testing would be key to ensure that the application is usable for people with different types of devices, from smartphones, tablets, laptops or desktops.
+</details>
+<details close>
+    <summary>Configuring and Managing Cloud Identities &#x21A9;</summary>
+
+### Topic: [Configuring and Managing Cloud Identities](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ConfiguringandManagingCloudIdentities.htm) <a id="ConfiguringandManagingCloudIdentities"></a>
+
+###### ``Using Active Directory Administrative Center``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/two.png?raw=true)
+
+###### ``Using Azure Key Vault``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+</details>
+<details close>
+    <summary>Cloud Networking Concepts &#x21A9;</summary>
+
+### Topic: [Cloud Networking Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudNetworkingConcepts.htm) <a id="CloudNetworkingConcepts"></a>
+
+###### ``Network Segmentation in the Cloud``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+###### ``Network Services in Cloud Security``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+###### ``Protocols to Secure Cloud Traffic``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+###### ``Hardening Cloud-based Resources``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+</details>
+<details close>
+    <summary>Securing Cloud Infrastructure Resources &#x21A9;</summary>
+
+### Topic: [Securing Cloud Infrastructure Resources](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/SecuringCloudInfrastructureResources.htm) <a id="SecuringCloudInfrastructureResources"></a>
+
+###### ``Securing Cloud Infrastructure Resources``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/twoWIN.png?raw=true)
+
+###### ``Applying Encryption to Resources``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+</details>
+<details close>
+    <summary>Data Security and Compliance in the Cloud &#x21A9;</summary>
+
+### Topic: [Data Security and Compliance in the Cloud](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/DataSecurityandComplianceintheCloud.htm) <a id="DataSecurityandComplianceintheCloud"></a>
+
+###### ``Applying Data Security Controls``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabdm01.png?raw=true)
+
+``Encryption``
+
+Encryption is the process of converting plaintext/cleartext into ciphertext. While data is in use, it must be decrypted and decompressed. Data in transit and data at rest must be encrypted via strong algorithms (e.g., AES, RSA, etc.) to avoid data being exposed. Alongside each piece of encrypted data, an encryption key will be used to decrypt this data.
+
+There are two main encryption methods:
+
+- Server-Side Encryption:This form of encryption is automatic and manages both encrypted data and the encryption key. In a cloud context, a Cloud Service Provider (CSP) will encrypt and decrypt this data both at rest and in transit. In the context of Cloud computing, CSPs will encrypt all data being stored in their datacenter, which is then decrypted when accessed by someone with the correct permissions.
+
+- Client-Side Encryption:This form of encryption allows client devices to manage the encryption key instead, which speeds up file transmission speeds between servers and clients as the data no longer has to be decrypted before it is sent. With Client-side encryption, efficient key management processes are necessary to maintain availability of encrypted data. This can be done via a third-party Key Escrow service, which will manage keys on your behalf.
+
+``Integrity``
+
+Another data security control that should also be considered with cloud computing is that you can verify the integrity of your data. When accessing data on a third-party server inside a secure datacenter (such as one hosted by a CSP), you need to ensure that your data is unchanged when uploading and retrieving files.
+
+There are a few methods to verify the integrity of your data, such as:
+
+- Hashing Algorithms: These algorithms will encrypt your data to a specific key, then run back through the same algorithm to decrypt your data. If the data remains unchanged, then so will the hashing algorithm. There are different hashing methods with varying levels of security, such as Message Digest 5 (MD5) and the Secure Hashing Algorithm (SHA).
+
+- Digital Signatures:In the context of data security, a digital signature is a combination of certificates and hashing algorithms that will provide you with a “signature” that only allows access to data, provided that another person can provide a certificate that can decrypt the data. This verifies that data has not been tampered with when in transit between two parties.
+
+``Classification``
+
+In terms of data security, allocating different classification levels to data is key. Data classification systems differ between organizations but generally follow similar classification rules.
+
+An example of this is by the sensitivity of the data being transmitted, such as:
+
+- Low / Unclassified: This refers to data that is in no way protected or confidential and can be transmitted without any encryption.
+
+- Medium / Confidential: This refers to sensitive data and should only be accessed by people who need access. For example, this could include personal or private information that should be encrypted.
+
+- High / Secret: This data is very sensitive and should only be transmitted on a specific need-to-know basis. Alongside this type of data classification, extra steps will be typically taken to ensure that it does not fall into the wrong hands, such as signing Non Disclosure Agreements (NDAs) and further encryption and integrity management levels.
+
+When implementing a data classification method, you should also consider segmentation to ensure that sensitive data is kept separately from data classified at a lower level. This could be on a secure drive or a separate database in a cloud environment.
+
+``Access Control``
+
+Data classification methods allow you to implement different access control policies. These policies allow different users to access different levels of data, depending on different criteria.
+
+This can include controls such as:
+
+- Privileged Access Control: This refers to a control that allows only specific users with certain permissions to access certain restricted pieces of data. For example, organizations may set a policy in a public cloud subscription that prevents anyone but an Admin from viewing or making changes to a specific part of a cloud infrastructure.
+
+- Roll-Based Access Control: Like privileged access control, only specific roles can access certain data. For example, you could have two different departments set up in a public cloud subscription and then set a policy that only allows users from one group to access the data they need.
+
+- Rule-Based Access Control: This allows access to data based on rules and policies that a security administrator has implemented. When a user attempts to access some data, the rules assigned on an Access Control List (ACL) are checked before granting access.
+
+- Mandatory Access Control: This method allows you to tag data with certain signatures that allow only users with the same tag to access that data. This differs from the other methods in that the data itself is the one that is tagged rather than individual users.
+
+###### ``Investigating Cloud Compliance Controls``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/awsWorkstation.png?raw=true)
+</details>
+<details close>
+    <summary>Cloud Security Assessments and Tools &#x21A9;</summary>
+
+### Topic: [Cloud Security Assessments and Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudSecurityAssessmentsandTools.htm) <a id="CloudSecurityAssessmentsandTools"></a>
+
+###### ``Conducting a Software Vulnerability Scan Using AlienVault``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/four.png?raw=true)
+
+``Risk register``
+
+A risk register is an internally kept process document that outlines and documents different risks that could affect a cloud environment at any time. Typically, these registers cover a specific risk alongside who would be affected, the overall threat it would place on an infrastructure, any standards that require a certain risk to be protected against, and potential treatment options.
+
+This type of documentation is key when planning to mitigate risk in many different types of environments and would form part of an incident response plan.
+
+``Security patches and application``
+
+Security patching is a vital part of ensuring high security posture of an infrastructure, and it is imperative to ensure that resources are not susceptible to attacks from third-party malicious actors and newly discovered security threats, known as Zero-Day exploits. You can immediately mitigate this by ensuring that Signature updates are pushed through to certain subscription-based software (such as antivirus), which are provided as long as a valid subscription to that service is maintained.
+
+Depending on how large a potential patch is and the impact it could have on an infrastructure, it could be more prudent to use Hot-Fixes, which aim at solving smaller issues on a less permanent basis but can be rolled out much sooner than full patches. You could also implement Virtual patches in place of vendor-provided patches to bridge the gap of time between an exploit being discovered and a patch rolling out, which, depending on the vendor, could take an indeterminate amount of time. These updates can also be balled together into an update package containing several different fixes at once, known as a Rollup. These patches should also be prioritized so that more important security flaws and vulnerabilities are patched much quicker than lower-priority patches.
+
+Another method of ensuring that updates and patching completes as smoothly as possible is by implementing Scheduled updates. When enabled, scheduling different updates will stop devices updating automatically (or not at all) and allow administrators to better manage the risk imposed by a particular update.
+
+``Default accounts``
+
+A huge security consideration is disabling and replacing default accounts that may already exist as part of resources being built inside an infrastructure. Due to the general nature of the naming conventions used (such as Administrator or Root), these accounts are prime candidates for attackers looking to exploit a system of infrastructure.
+
+In particular, any account with administrator permissions should be retired and replaced as soon as possible to deny a malicious actor any extra information. This includes the default administrator accounts created as part of cloud resources, such as Azure virtual machines.
+
+``Impacts of security tools``
+
+It should be carefully considered which tools you should implement in any given environment, due to several factors, including:
+
+- Does implementing this tool affect the general availability of resources, and are there any budgetary concerns?
+
+- How much time would be required to test effectively?
+
+- How would we apply the results gathered by these tools?
+
+It is important to consider that proper preparation is key to implementing an effective security solution. Continuous monitoring should also be considered from the outset, as testing will need to be considered regularly depending on the level of risk with a specific infrastructure.
+
+``Cloud service models on security implementation``
+
+Different cloud service models have different security considerations compared to their counterparts and require a varying level of cloud user planning. Some of these considerations include:
+
+Infrastructure as a Service: 
+
+> Securing components
+
+- SLA issues
+
+- Utility computing
+
+- Cloud software
+
+- Networking attacks
+
+> General issues
+
+- Data leakage
+
+- Logging
+
+- Access control
+
+Platform as a Service:
+
+- Access and authorization
+
+- Distributed apps
+
+- Storage security
+
+- Data protection
+
+Platform as a Service:
+
+- Secure applications
+
+- Secure users
+
+- Secure access
+
+As noted from the above example, IaaS models typically require much more investment and time from cloud users to implement proper security, and SaaS requires the least due to most elements being maintained directly by the provider.
+
+###### ``Conducting a Software Vulnerability Scan using Nessus``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/four.png?raw=true)
+</details>
+<details close>
+    <summary>Incident Response Procedures &#x21A9;</summary>
+
+### Topic: [Incident Response Procedures](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/IncidentResponseProcedures.htm) <a id="IncidentResponseProcedures"></a>
+
+###### ``Incident Response Planning``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/domainMemberWIN.png?raw=true)
+
+Incident Response planning involves the following stages:
+
+1. Preparation
+
+2. Identification
+
+3. Containment
+
+4. Investigation
+
+5. Eradication
+
+6. Recovery
+
+7. Follow-up
+
+``Documentation``
+
+To plan effectively, you must ensure that the proper resources, tools, and assets are available to use in an emergency. This includes prudent documentation, such as the following:
+
+- Communication plan / Call Tree: This will provide a list of contact details for key stakeholders to alert them of an incident as it happens.
+
+- Monitoring plans: Monitoring should be done and reviewed frequently to ensure there are no indicators of incidents. Without this, it can be more difficult to pinpoint a root cause and begin remediation work.
+
+- Decision plans / Roles & Responsibilities: It should be outlined clearly who would have authority for any decisions that may have to be made when investigating an issue. This should be a senior person who can, provided they are given the best information, can decide on how to move forward with an incident and sign off remediation work.
+
+However, this same hierarchical concept applies to all in a response team, and everyone should be aware of their responsibilities when dealing with an incident
+
+- Individual processes: You should also relay a potential response to different incidents before they have happened. Without this, determining the best course of action will be more difficult. Although not everything can be planned for, everything should be considered a potential risk factor when building an infrastructure.
+
+The exact documentation and wording, however, will likely change from business to business. 
+
+``Training & Tabletops``
+
+For staff to have the most competent response to any incident, it is key to ensure that regular training exercises are performed and that staff are prepared to face anything. This can be done in different ways and can include tabletop exercises in which an incident is simulated, and hands-on training is provided when instructing staff to remediate this issue.
+
+``Scope``
+
+Scoping out incidents is key when performing detection and analysis on an infrastructure, as it is imperative to understand what will be affected by a detected issue. For example, a virus infecting a client device on a network may or may not put an entire infrastructure at risk and should be scoped out accordingly.
+
+``Documented Incident Types / Categories``
+
+How any one organization categorizes different threats will be different, although there are industry standards in evaluating the threat of potential incidences, typically judged via the scope of the impact or the overall threat it plays to the business. To take an earlier example, a client device infected with a simple virus may not be high on the scale if proper planning has taken place and the scope has been judged to only affect that one machine and not put the infrastructure at risk.
+
+Alternatively, suppose a client device was targeted by a sophisticated cyber attack by someone who aims to take down your entire infrastructure or steal protected data (such as Personally Identifiable Information). In that case, this could potentially be a much higher risk to the overall business and should be labelled accordingly.
+
+Different threats are typically broken down into the following categories:
+
+- Low: low impact on overall business function.
+
+- Medium: medium impact on business function, which could include SPoFs.
+
+- High: critical impact on business function, which could have long-lasting effects on the business as well as customer trust in that business.
+
+``Containment, Eradication and Recovery``
+
+This is the most important response planning phase and covers what work will be performed to remediate and eradicate an issue. This phase is broken down into the following categories:
+
+- Containment: Firstly, a threat's impact on a business should immediately be limited. This could be as simple as isolating a specific device or entire sections of an infrastructure.
+
+- Eradication: Secondly, the root cause of the issue should be removed. This can take any form but should be agreed by stakeholders and executed accordingly.
+
+- Recovery: Any damage to an infrastructure should be reverted to a safe point. Because of this, it is imperative that failovers and backups exist and are updated as often as outlined by a business.
+
+``Lessons Learned``
+
+Once an incident has been eradicated and recovery procedures have been enacted, the final stage is to review the process thoroughly and hold the businesses collected reaction accountable. This can be done through a “lessons learned” discussion, in which key stakeholders will show where the response was performed adequately and which areas may need work if this happens again. These then feed back into the planning phase to ensure the process is iterative and always improving.
+</details>
+<details close>
+    <summary>Cloud Solution Integration &#x21A9;</summary>
+
+### Topic: [Cloud Solution Integration](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudSolutionIntegration.htm) <a id="CloudSolutionIntegration"></a>
+
+###### ``Exploring Integration in Cloud Environments``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/domainMemberWIN.png?raw=true)
+
+``Subscription Services``
+
+When considering what kind of resources to implement as part of an infrastructure, it is important to consider what needs the business will face and what requirements need to be met with an infrastructure. With more general business-running infrastructures, you may consider introducing different SaaS options, including:
+
+- Storage media, such as Dropbox.
+
+- CRM and sales platforms, such as HubSpot.
+
+- Office software, E-mail clients and collaboration tools, such as Microsoft 365.
+
+The exact specifications and subscriptions services you may employ will entirely depend on need, cost and business logic. It is important to note that some tools cover multiple different functions to streamline business processes, so you will see the same tools mentioned in different sections below.
+
+``File Subscriptions``
+
+One type of subscription service that you could integrate into a cloud infrastructure is a file or storage subscription, in which a remote location is used to store all documentation to allow quick and easy access for all members of staff with all manner of permissions. Examples of storage media include:
+
+- OneDrive
+
+- Google Drive
+
+- Dropbox
+
+``Communications``
+
+Proper communication is vital to the smooth running of any business. As such, it is imperative to ensure that proper communication channels have been established with all staff to allow quick and easy communication, both formal and informal. This can include the following options:
+
+- E-mail clients, such as Microsoft Outlook and Exchange.
+
+- Voice over Internet Protocol (VoIP), such as Microsoft Teams and Zoom.
+
+- Instant messaging, such as Slack and again, Microsoft Teams.
+
+``Collaboration``
+
+Collaboration tools are a relatively new but key solution to all manner of businesses and organizations. These tools allow the staff of these businesses to collaborate in different ways such as instant messaging, working in tandem using the same storage media as a shared workspace and having a central online platform to manage different projects together allowing full visibility. These tools include:
+
+- Microsoft Teams, which as discussed above, allows both VoIP, IM and Storage solutions (when synced with a file subscription).
+
+- OneDrive, Google Drive and other storage options.
+
+- Monday, Jira and other Platform as a Service (PaaS) project management tools.
+
+``Directory and Identity Services``
+
+On top of the other services offered by different subscriptions services, there are also tools available that provide a directory service to list all members of a team / business, their roles, reporting lines and contact information. These tools allow teams to accurately report information and ask questions to the right people, streamlining day-to-day business flow. These tools include:
+
+- Azure Active Directory
+
+- Oracle Identity Management
+
+Please note that the main function of these tools is authentication and authorization.
+
+``Virtual Desktop Infrastructure``
+
+A Virtual Desktop Infrastructure (VDI) is a type of infrastructure that utilizes virtual machines and virtual desktops to provide a platform to work from. These tools allow administrators to create devices quickly (known colloquially as “spinning up”) as and when needed by the wider business. As discussed in previous modules, this Infrastructure as a Service (IaaS) functionality is the prime reason that a business may choose to implement a public cloud subscription, and can include the following options:
+
+- Microsoft Azure (public).
+
+- Amazon Web Services (public).
+
+- Microsoft Hyper-V (private).
+
+- Oracle VirtualBox (private).
+</details>
+<details close>
+    <summary>Provisioning Cloud Resources &#x21A9;</summary>
+
+### Topic: [Provisioning Cloud Resources](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ProvisioningCloudResources.htm) <a id="ProvisioningCloudResources"></a>
+
+###### ``Provisioning Storage Resources``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+###### ``Integrating Template Solutions and Containers into a Cloud Solution``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+</details>
+<details close>
+    <summary>Provisioning Public Cloud Storage Solutions &#x21A9;</summary>
+
+### Topic: [Provisioning Public Cloud Storage Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ProvisioningPublicCloudStorageSolutions.htm) <a id="ProvisioningPublicCloudStorageSolutions"></a>
+
+###### ``Provisioning a S3 Bucket``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/awsWorkstation.png?raw=true)
+
+###### ``Provisioning Azure Storage Account Resources``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+</details>
+<details close>
+    <summary>Provisioning Private Cloud Storage Solutions &#x21A9;</summary>
+
+### Topic: [Provisioning Private Cloud Storage Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ProvisioningPrivateCloudStorageSolutions.htm) <a id="ProvisioningPrivateCloudStorageSolutions"></a>
+
+###### ``Configuring RAID Storage on a Virtual Machine``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+``Cloud Storage Features``
+
+There are different features of different storage types, such as:
+
+- Thin Provisioning: When you build a virtual machine in a cloud environment, you may conclude that it requires a certain amount of storage to function. It may, however, never actually reach that figure, so you may choose to implement thin provisioning. This means that the overall capacity is allocated, but not fully provisioned, growing dynamically.
+
+- Thick Provisioning: This is the opposite concept of thin provisioning, which pre-allocates the full capacity of a storage device to the max allowance. This is more common in production environments, where it is much more likely that a device will reach a certain storage capacity.
+
+- Replication: A very important consideration in cloud environments, replication (or cloning) allows your storage devices to be replicated and backed up to another storage device to protect against disasters and aids the recovery process.
+
+- Software-defined Storage (SDS): SDS is a cloud technology that allows for storage to be abstracted, and therefore means that on a Cloud Service Provider (CSP)’s end, storage can be provisioned from multiple areas to support one storage device, whereas, from the user’s perspective, they are just told how much storage they have allocated.
+
+- User quotas: This concept in cloud computing allows you to split up an overall storage space into smaller portions or partitions. For example, you could provision storage for an infrastructure and then partition out different capacities for production, staging and management environments as necessary, which is a key consideration when overall storage space is limited.
+
+- Hypverconverged Infrastructure (HCI): This term applies to the virtualization of different resources in a cloud environment, aiming to consolidate things into one unit. This can include virtualized compute, network and storage resources and allows users to modify things as if they were one infrastructure rather than separate resources.
+
+``Tiers``
+
+When deciding the performance needed for storage solutions in a cloud infrastructure, it should be considered which tier a resource needs to be. These tiers are separated by general performance, and each has its own applications for different types of storage required in cloud environments: 
+
+- Tier 1: Tier one resources refer to storage used to store time-sensitive and volatile data and, therefore, should be memory optimized for pure performance. It should allow the fastest access IOPS (Input/Output per Second), read/write speeds and lowest latency. Flash storage is an example of this, used in scenarios such as the financial and banking sector for money transfers.
+
+- Tier 2: High-performance drives that may not be time-sensitive but still store required data and needs to be performed quickly. This could be done by utilizing a Solid-State Drive (SSD), which can act as Hybrid storage. These can be optimized, but not necessarily for pure performance. These are more used in general data storage in busy networks and customer-facing systems. 
+
+- Tier 3 devices allow for a reasonable delay, such as a general web page found online. These are not necessarily “slow” but perform slower than the above tiers. An example of a storage medium used here would be Hard-Disk Drives (HDD). 
+
+- Tier 4 - This tier refers to storage devices used to store data that does not need to be accessed frequently, such as data archives. These can include large SATA drives with much lower speeds but much higher capacity than their faster counterparts, known as Long-Term storage. 
+
+``Protocols``
+
+When it comes to accessing storage and storage protocol technologies in cloud environments, there are different types that you should consider. Each has benefits and suits different types of environments and can include:
+
+- Network File System (NFS): The NFS file storage protocol is an older communication protocol and has been historically used in UNIX based systems and is a general standard for storage communication online today and, like modern counterparts, allows for file transfer between Windows and non-Windows operating systems. As of the time of writing, the most recent version of NFS is Version 3.
+
+- Common Internet File System (CIFS):CIFS is a legacy protocol based on the Server Messaging Block (SMB), the original transfer protocol used by Windows servers. You may find that it is unsupported for different types of file storage.
+
+- Internet Small Computer System Interface (iSCI):The iSCI protocol places SMB and Command Descriptor Block (CBD) protocols into IP packets that can quickly be shared across the internet. This protocol supports communication over 10Gbps links, allowing quick data transmission speeds and performance. 
+
+- Fibre Channel (FC): The FC protocol allows incredible transfer speeds and utilizes Fiber optics and dedicated infrastructure to allow transfers with little latency. The main downside of utilizing FC is the overarching cost due to requiring its own infrastructure to support.
+
+- Non-volatile Memory Express over Fabrics (NVMe-oF):This is the most recent transfer protocol compared to the above. This type of protocol allows a native connection of flash storage directly to a PCIe bus, freeing up some potential bottlenecks in storage transfer, again allowing for lossless high-speed transfer. This can be combined with the FC protocol, known as NVme-oF over FC, as well as with the Remote Direct Memory Access Protocol (RDMA) (NVMe-oF over RDMA) and TCP/IP (NVMe-oF over TCP/IP) protocols.
+</details>
+<details close>
+    <summary>Deploying Cloud Networking Solutions &#x21A9;</summary>
+
+### Topic: [Deploying Cloud Networking Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/DeployingCloudNetworkingSolutions.htm) <a id="DeployingCloudNetworkingSolutions"></a>
+
+###### ``Exploring Virtual Private Cloud``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+``Deploying Networking Services``
+
+When working with cloud-based infrastructure, many communication services or protocols can be employed to allow resources to facilitate communication. These can include:
+
+- Dynamic host configuration protocol (DHCP): This protocol allows a DHCP server to allocate and lease IP addresses dynamically on a network, allowing for scalability.
+
+- Network Time Protocol (NTP): This protocol is used to communicate and synchronize time across many different resources on a network, allowing for asynchronous communication. These are typically managed via an NTP server.
+
+- Domain Name System (DNS): This service aims to improve the “human” element of network management and allows IP addresses to be converted into easier-to-manage domain names. Once a domain name is qualified as belonging to an IP address, it can be managed solely using that domain name, limiting the need to remember different IP address allocations.
+
+- Content delivery network (CDN): A CDN's goal is to provide fast delivery of internet-based content by caching data and then providing it to a requesting server with less latency than if it were to request it directly. Different CDNs manage the majority of web traffic.
+
+- IP Address Management (IPAM): This service is designed to work alongside and consolidate other IP management protocols (such as DHCP and DNS) into one manageable interface. Typically, these are less common in public cloud subscriptions as these are already fully-managed services, although they can be more common in private environments.
+
+``Virtual Private Networks (VPNs)``
+
+A VPN enables private networks to communicate across public networks, allowing traffic to transmit across it as if they belonged to a single private environment. Factors to consider with VPNs include:
+
+- Site-to-site: This type of connection refers to a VPN configured to allow communication between multiple networks and creates encrypted links between networks. These connections are typically kept open at all times and can be used to allow communication through different office networks.
+
+- Point-to-site: This type of connection is used to establish secure connections from a virtual network directly to client machines and is configured via the client machines themselves. 
+
+- Internet Security Protocol (IPSec): This protocol is used to authenticate and encrypt data traversing a network between two machines in public networks via an IPSec tunnel.
+
+- Multiprotocol Label Switching (MPLS): This routing service transfers data routed via a network using the “shortest path” by allocating labels to clients and allowing for much faster transmission speeds than traditionally available.
+
+``Virtual Routing``
+
+Many aspects should be considered when routing traffic through cloud networks to ensure low latency and efficient data transmission, such as ensuring that data travels via the fastest paths and that no bottlenecks interrupt the general flow of traffic. These considerations can include:
+
+- Dynamic routing: This type of routing allows for network communication and allows routers to exchange data to generate routing paths automatically.
+
+- Static routing: Unlike dynamic routing, static routing is pre-configured before using a manually programmed route table.
+
+- Virtual Network Interface Controller (vNIC): A vNIC enables connections in virtual networks and acts as a virtualized version of a standard Network Interface Controller (NIC) used on physical hardware. 
+
+- Subnetting: Although manual provisioning of subnets is less common in real-world cloud environments, a subnet divides an overall network address space into smaller networks that can separate a wider network and can be routed to directly. 
+
+- Virtual Private Cloud (VPC): ): A VPC (otherwise known as Virtual Routing and Forwarding ((VRF))) allows administrators to partition a physical router into different allocations, which can be used to provide multiple routing tables to different tenants, all using the same, physical router. A VPC can be created on a Public Cloud platform, and creates an internal virtual private network on the cloud infrastructure to facilitate commubication between virtual resources.
+
+``Cloud Networking Solutions``
+
+Outside of the use of communication protocols, VPNs and routing, there are several other considerations to review when implementing networks in a cloud environment, including:
+
+- Virtual Local Area Network (VLAN): This is a term used for a group of networked resources communicating with each other, emulating a single Local Area Network (LAN).
+
+- Virtual Extensible Area Network (VXLAN): This tunnelling protocol allows cloud administrators to easily manage larger-scale cloud networking environments. VXLAN does not include a protocol identifier field, meaning that any data transmitted is assumed to be via ethernet connections.
+
+- Generic Network Virtualization Encapsulation (GENEVE): This protocol defines encapsulation data only and has been developed to be as flexible as possible for cloud administrators to administer on the largest of networks. GENEVE supports higher header length frames (16-bit vs. 8-bit for VXLAN).
+
+- Single Root Input/Output Virtualization (SR-IOV): This technology is an extension of the Peripheral Component Interconnected Express (PCIe) specifications, and allows a network adapter to separate resources in virtualized environments and gives near equal performance as physical NICs. 
+
+- Software-defined network (SDN): This technology allows the use of software-based network controllers rather than physical hardware to manage network traffic, which is key in completely virtualized environments such as private cloud subscriptions.
+</details>
+<details close>
+    <summary>Virtualization Concepts and Platforms &#x21A9;</summary>
+
+### Topic: [Virtualization Concepts and Platforms](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/VirtualizationConceptsandPlatforms.htm) <a id="VirtualizationConceptsandPlatforms"></a>
+
+###### ``Virtual Networking Software``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/pfsense.png?raw=true)
+</details>
+<details close>
+    <summary>Cloud Migration Techniques &#x21A9;</summary>
+
+### Topic: [Cloud Migration Techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudMigrationTechniques.htm) <a id="CloudMigrationTechniques"></a>
+
+###### ``Examining and Performing Cloud Migration Techniques``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabdm01.png?raw=true)
+
+``Physical to Virtual Migrations``
+
+To perform a physical to virtual migration means to take a physical machine and back it up to a file that can be used to run the same machine in a virtual environment. This requires the use of software “tools” to make the conversion of the machine into a virtual disk or referred to as an image.
+
+Two very common tools you will come across for this process is Microsoft’s Disk2vhd, and VMware vCenter Converter, however, as of the time of this writing VMware has deprecated vCenter Converter and has yet to release an alternative. Nakivo P2V has been a nice alternative to vCenter Converter.
+
+When performing the conversion process all data on the physical machine is copied exactly as it exists on the machine’s drive and made into a virtual disk, then this file is used to deploy the physical machine in a virtual environment.
+
+``Virtual to Virtual Migrations``
+
+When migrating VMs from one environment to another it is common that you will need to convert VM’s image file to the preferred format of the hypervisor or cloud provider. The most popular formats are Virtual Disk Image (VDI), Virtual Machine Disk (VMDK), Virtual Hard Disk (VHD), and Amazon Machine Image (AMI).
+
+Each hypervisor developer and major cloud platforms offer conversion tools to help you convert from one format to their preferred image format. That being said there are also third-party developers that offer solutions as well, just make sure to vet out the developer before you commit to purchasing any solution. 
+
+``Storage Migrations``
+
+Migrating your data can be a time-consuming effort depending on the amount of data you are migrating, and where you are moving your data to and from. If you have data that is housed on-prem and you are looking to move it to a cloud platform you need to carefully consider the amount of data you are migrating, calculate storage fees based on your availability needs, and how long will it take to migrate it over your internet connection, and the windows of time you are able to perform this task.
+
+Many times, when we migrate large amounts of data over an internet connection, we do so during off hours so we do not saturate our connection and slow down the traffic of our end users in the office.
+
+To calculate the amount of time and number of off-hour sessions it will take you will need to know the amount of data you are moving and the average transfer speed you observe during a test run of data.
+
+Some cloud providers also offer a service like AWS Snowball where they ship you an appliance that can hold between 40 to 80TB of data that you can attach to your network, move the data to that device, and then ship back to AWS so that they can then upload it to your cloud storage for you. It is not uncommon to have a number of these devices sent to your office at one time when we are dealing with petabytes of data. 
+
+``Database Migrations``
+
+When migrating databases, you will create a “dump” of the database, this is a full backup of your database. This “dump” that you create will be what you migrate to your new database instance in your cloud environment.
+
+Always make sure that the database is compatible with the database engine of the instance or service you will be using.
+
+You will want to check with the cloud provider and look into what tools they make available to convert your database if need be. When migrating databases, it is always safer to run several test migrations and go through QA before you decommission your older environment. 
+</details>
+<details close>
+    <summary>Configuring Logging for Cloud Resources &#x21A9;</summary>
+
+### Topic: [Configuring Logging for Cloud Resources](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ConfiguringLoggingforCloudResources.htm) <a id="ConfiguringLoggingforCloudResources"></a>
+
+###### ``Exploring General Logging in a Public Cloud Environment``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+``Collectors``
+
+In terms of logging, a Collector (or agent) is a tool or communication protocol that provide logs to be configured and sent to a single location for all certain types of logs to be stored. If this was enabled for a single logging server, then it could also be partitioned to automatically store logs of different types, rather than just storing everything in one location – making them overall irrelevant and the sheer volume of data overwhelming to review.
+
+``SNMP``
+
+The Simple Network Management Protocol (SNMP) is a communication protocol that can be used to accurately gather many different types of data and forward it to a collector device. SNMP is an older protocol, the current iteration of it being version 3. Just as with collector devices, what type of data captured via SNMP will depend on what is required. For example, if you utilize a Cisco router used as part of a networking infrastructure, you are less likely to want to log the storage capacity of that device, but instead focus on the network load.
+
+``Syslog``
+
+Syslog is a device-driven agent that captures logging data and forwards it to a centralized logging storage resource. Syslogs typically contain a lot of information such as health information and performance data, and although it is generic, this type of data can be invaluable to log for potential Single Points of Failure (SPoF) and more general reporting needs.
+
+``Analysis``
+
+Much more important than simply just enabling logging across the board, the ability to analyze the data providing by logs is key to ensuring a positive security and health posture for an infrastructure. In terms of security analysis, logging scope should reflect the following:
+
+- Who: Who could potentially attack this device?
+
+- What: What types of attacks could this device be vulnerable to?
+
+- When: When did a potential attack occur, or when was this device vulnerable?
+
+- How: How could an attacker exploit this device?
+
+An example of accurate security analysis can be done via tools such as Security Information and Event Monitoring (SIEM) which allows data to be sorted, filtered, and analyzed in an accurate and timely manner.
+
+Accurately analyzing logs also assist you in establishing clear trends that exist in an infrastructure, again improving overall security posture. These trends can act as indicators or warnings in the future, so should be carefully considered.
+
+``Severity categorization``
+
+Like most categorization methods, the exact severity scales used by organizations will differ when it comes to reporting concerns captured via logging, although typically follows the following structure:
+
+- Level 0: Critical
+
+- Level 1: Error
+
+- Level 2: Warning
+
+- Level 3: Informational
+
+- Level 4: Verbose
+
+Logs falling into these categories can assist you in deciding what action is needed against any issue. As you may expect, Level 0 issues will require more urgent investigation than levels below, although multiple lower-end issues can also indicate other security concerns.
+
+###### ``Exploring Audit Logging in a Private Cloud Environment``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabdc01.png?raw=true)
+
+``Audits``
+
+Audit logging can be done for multiple reasons, such as logging for success criteria (in other words, to ensure that users can access and utilize resources accordingly) or logging for failure criteria (such as users not being able to utilize resources or causing unintended damage to infrastructure). An example of audit logging could include a cloud administrator tracking login access for a specific user and noticing that they have logged in to a system from an unexpected location which could indicate a potential attack or malicious actor.
+
+``Types``
+
+Different types of Audit logging can be performed for different reasons with different outputs. These can include:
+
+- Access/authentication: This type of logging is what we described in the above example; logging user access and authentication to certain systems and resources
+
+- System: This type of audit logging aims to log different system events as and when they occur.
+
+- Application: Like system logging, this type of audit logging aims to log different application events as and when they occur.
+
+``Automation``
+
+When working in cloud environments, automating as many things as possible is typically a key concern to minimize time spent investigating an issue. This is also true with logging and can be enabled in all cloud models and for all purposes.
+
+It’s important to remember that with larger infrastructures, the larger the logging data that will be received, which can quickly spiral out of control for a human to sensibly manage manually. Because of this, it is likely beneficial to implement at least some level of automatic logging and reporting, including functions such as providing trend insights.
+</details>
+<details close>
+    <summary>Implementing Cloud Resource Monitoring &#x21A9;</summary>
+
+### Topic: [Implementing Cloud Resource Monitoring](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ImplementingCloudResourceMonitoringSolutions.htm) <a id="ImplementingCloudResourceMonitoringSolutions"></a>
+
+###### ``Examining and Configuring a Monitoring Solution``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/three.png?raw=true)
+
+``Baselines, Metrics, Thresholds and Continuous Monitoring``
+
+Baselines serve an important function of cloud resource monitoring. In a cloud computing context, a baseline refers to the base overall performance level of a resource or infrastructure. With an accurate baseline, you should understand the base level of activity a resource or infrastructure should perform at. This ties into the concept of Thresholds, which act as a “line in the sand” to which a resource should be investigated if it ever falls below this agreed line.
+
+As an example, you could potentially spin up an EC2 instance in AWS, but notice that RAM utilization is constantly maxxed out. This could indicate a number of things, such as the instance being misconfigured, it may not have adequate resources to function correctly, or the surrounding infrastructure may be increasing the load on this device. In this case, this device would be performing under the baseline and threshold, so would require investigation. 
+
+Metrics also come into play in investigating these issues. Metrics are very important because these are the measurements you gather from monitoring to determine if a resource is at a baseline or passed a threshold. Metrics are the measurement of the resources an instance is consuming such as, and not limited to, CPU, RAM, Storage, DB inquires, Network usage, etc.
+
+It is important to consider that Continuous Monitoring is also employed effectively and verified to be accurate. This involves a combination of monitoring baselines, thresholds, and metrics at regular intervals to ensure that everything is kept at acceptable levels and to assist in observation processes. It is also important to consider user’s personal information when generating these metrics, and accurate reports should be removed via Log Scrubbing to ensure that sensitive information is removed from reporting metrics.
+
+``Tagging``
+
+One of the most useful tools you can use to keep your cloud environment organised is the use of tags. Tags (or tagging) is a value that you can add to a resource to give it a description or to assign it to a group. You can even assign multiple tags to resources so that you can define what it is and what department or environment it is in.
+
+As an example, when you work closely with web developers, you will quickly find out that they work in several different environments that can include similar resources every day, such as Production, Dev, Sandbox, etc. In this example, you could choose to assign a tag to each resource that aligns it to a certain group, making metric measuring and reporting much easier.
+
+``Performance Monitoring Fundamentals``
+
+So now that you have a basic understanding of the fundamental pieces of monitoring, let's start to dig deeper into how we collect data and the most common items you will be monitoring.
+
+> Common Monitoring Protocols: To collect data, you need to use a monitoring protocol that will collect data. Below are three of the most widely used monitoring protocols:
+
+- Simple Network Management Protocol (SNMP): SNMP is one of the most common protocols used to gather performance metrics from network devices and servers. SNMP is the most widely used protocol as it allows you to poll network devices such as servers, access points, firewalls, gateways, switches and even printers.
+
+- Windows Management Protocol (WMI): WMI is the standard protocol for monitoring Windows systems. WMI allows you to monitor the performance of an end user's Windows machine as well as Windows Servers. With WMI you can gather information about Windows Server roles and applications such as Active Directory, SQL Server, File Servers, Print Servers, and many, many more of the roles Windows Server allows you to deploy.
+
+- Secure Shell (SSH): SSH allows you to monitor Linux machines in the same way WMI allows you to monitor Windows machines. It can be a bit trickier to implement at times compared to WMI as you are working in the open-source world, but it can also be much more powerful and customizable compared to the previous two protocols.
+
+``SLA-Defined Uptime Requirements``
+
+When considering SLA uptime percentages, any specific public cloud resource should be performing at a baseline as dictated by the Cloud Service Provider (CSP). When analysing cloud metrics, something that should be scrutinized is general resource uptime from a cloud vendor when compared to the Service Level Agreement (SLA) for that resource. This should not fall below this figure and could result in service credits being awarded if they do fall below acceptable levels. 
+</details>
+<details close>
+    <summary>Implementing Cloud Resource Monitoring and Alert Solutions &#x21A9;</summary>
+
+### Topic: [Implementing Cloud Resource Monitoring and Alert Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ImplementingCloudResourceMonitoringandAlertSolutions.htm) <a id="ImplementingCloudResourceMonitoringandAlertSolutions"></a>
+
+###### ``Examining and Configuring Monitoring Alerts and Service Management Tools``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/three.png?raw=true)
+
+``Alert Triggering an Application``
+
+One great example of an alert triggering an application is when that application is a helpdesk solution and support tickets are automatically generated.
+
+Members of an IT support team are able to see these tickets generated and then pick up these tickets and start working to resolve the issues associated with them.
+
+All of these moving parts are what can be described as the zen of network management. You will have a monitoring solution that constantly looks at an environment and pulls critical information from our resources.
+
+You can configure a monitoring solution in a way to alert you of events that happen in an environment. You would then trigger a helpdesk solution to create a support ticket that allows the members of a support team to pick up and start working to resolve the issue.
+
+``Service Management Tools``
+
+All of these tools aren't just the zen of network management, but also make up what are known as Service Management Tools. There is a very good possibility that you will find yourself working for an organisation that requires certain levels of services to be performed, these levels of service are defined by what's called Service Level Agreements (SLAs). Service Management Tools are the tools you use to help reach these levels of service.
+
+``Managed Services Provider (MSP)``
+
+If you ever find yourself working for a Managed Services Provider (MSP), you will quickly find out that MSPs live and die by SLAs.
+
+These SLAs are written out and negotiated between MSPs and their clients and if an MSP doesn’t hold up to their end of the SLA then that can cause the MSP to lose that client.
+
+As you can imagine, this can create a bad situation for all parties involved and if you ever work in accordance with SLAs you will want to make sure you are doing everything you can to not find yourself in that situation.
+</details>
+<details close>
+    <summary>Cloud Dashboards and Reporting &#x21A9;</summary>
+
+### Topic: [Cloud Dashboards and Reporting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudDashboardsandReporting.htm) <a id="CloudDashboardsandReporting"></a>
+
+###### ``Cloud Dashboards and Reporting``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+``Dashboards``
+
+Dashboards are the central point, or known as the Single Pane of Glass of information pertaining to our operations. They offer us quick, up-to-date statuses of resources that are critical and are customizable to display exactly what we need to see and full of graphics that can change colors accordingly to the status of a resource.
+
+In a typical work environment, you may see them displayed in IT offices so the team can review the status of production critical resources.
+
+All major cloud platforms offer dashboards as well as monitoring software, helpdesk portals, virtualization software, firewalls, and many other types of solutions and resources. Dashboards are usually accessible from a web browser, and sometimes there is a stand-alone client that the software publisher will offer. Overall, dashboards are an integral part of IT operations.
+
+``Service Management Tools``
+
+Managing the costs of a cloud and IT department is very important, and sometimes teams spend just as much time managing this aspect of the department as cloud resources.
+
+If this is not managed properly, cloud costs can creep up over time and funds are wasted that could be used for other resources and projects that can have a more positive effect on a business as a whole.
+
+Because of this, you must be able to have transparency of where a budget is being spent, not only as a whole but by departments as well. For example, if a shipping department wants to purchase software that will help them integrate their barcode scanners with their inventory system, then this IT cost is part of the shipping department's budget and not the IT department's budget.
+
+In the accounting world, this is known as Responsibility Accounting Systems (RAS), and chargeback and showback are part of RAS. When managing your IT costs, you may here the following terms:
+
+- Chargeback: This is the method in which IT services, hardware, and software costs are applied to the appropriate department, or multiple departments. The business is literally charging each department for this IT usage, hence the name chargeback.
+
+- Showback: This is exactly the same as chargeback, except departments aren’t charged for their usage; it’s used to show how they are impacting overhead. Showbacks highlight a department's consumption while chargebacks actually charge the department.
+
+Companies will usually utilize one of these frameworks or a hybrid of both. If a company is not using one of these models, then ,it is very common to see it adopt one of these frameworks as they grow.
+
+``Elasticity Usage``
+
+One of the best selling points for using cloud platforms is elasticity. Elasticity allows you to scale up your resources as demand for them increases, and then scale down when demand decreases. Of course, as you scale up your resources, there is an added cost that you will incur and being able to identify these costs is critical.
+
+Luckily, cloud platforms such as AWS, Azure, and Google Cloud platforms all give you the ability to generate reports to break down these costs. This can be useful to you because if you are ever asked to decrease the usage cost, you can look into instance options like spot and on-demand or shared resources for tasks that might not be as mission-critical and save you money. 
+
+``Connectivity``
+
+Picture that you are running a website that sells products. A Sales department would probably like to know how many visitors that they have coming to a website every day, and what countries or areas these visitors are from. Suppose they are managing the access our team members have to instance consoles within our cloud platform. In that case, you would want to know how often they might be connecting and making changes or be able to see the historical data in the event of an instance outage.
+
+You are able to create reports through a cloud platform portal that show these statistics, which are very helpful to many departments within our organization. Typically, a person in a Cloud role will be generating reports for multiple departments.
+
+``Capacity``
+
+Capacity is simply the measurement of available and utilized resources such as CPU, RAM, storage, network speed, and things of that nature.
+
+In cloud environments, you need to know how much capacity you are paying for and how much of it is being used. You are able to generate reports that will provide capacity metrics and are crucial when planning out projects and budgeting.
+
+``Incidents, Health, and Availability``
+
+Most of the time, helpdesk tickets will make up the majority of this reporting; as people experience issues, they submit a ticket and then we are able to gather that info on a weekly or monthly reporting basis and see what our Help Desk team is spending their time fixing.
+
+Planning can be something simple as setting up training classes to teach people how to reset passwords, with the aim of reducing tickets. Outages, on the other hand, are more serious and are crucial to report and track, especially within SLAs.
+
+You need to know how much uptime resources are averaging per day, week, or month. This also falls into the area of health and availability metrics:
+
+- How often does an instance or database go down?
+
+- When it does go down, how long is the outage?
+</details>
+<details close>
+    <summary>Cloud Patches and Upgrading and Lifecycle Management &#x21A9;</summary>
+
+### Topic: [Cloud Patches and Upgrading and Lifecycle Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudPatchesUpgradingandLifecycleManagement.htm) <a id="CloudPatchesUpgradingandLifecycleManagement"></a>
+
+###### ``Examine Patching, Upgrading and Lifecycle Management``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/three.png?raw=true)
+
+``Backups``
+
+When it comes to maintaining efficient cloud operations, you need to manage backups effectively and consistently. When mapping out a backup plan, there are two important factors you have to consider:
+
+- Recovery Time Objective (RTO): This term refers to the highest amount of time you are comfortable spending for a backup to recover and function. RTO can vary by environment and resource.
+
+- Recovery Point Objective (RPO): This term refers to the highest amount of data you are comfortable losing when performing a recovery. If you want to minimize the amount of data you are willing to lose, then you will need to perform backups more frequently.
+
+``Lifecycle Management``
+
+Another important factor you need to keep in mind is the life cycle of backups. Cloud platforms offer an array of options for backing up data and managing their life cycle from their web portal, and you can configure the frequency of backups and also the type of storage that they are backed up to, and once configured, can fit part of an automated process. Cloud platforms also offer more custom-tailored options for an added charge and configuring via command line or API.
+
+Depending on your needs, the life cycle of backups can vary. If you are bound by a Service Level Agreement (SLA) or a law that specifies that you must keep copies of your data for a certain length, then you will want to plan your life cycle accordingly. Sometimes this will add an extra step to management processes. If you are required to hold on to financial data for your organization for up to seven years, and it’s acceptable that all data older than one year of age will have an RTO of ten days, then you will want to consider cold storage as an option. 
+
+In real-world environments, Lifecycle management can be outlined on a live document known as a Roadmap. These process flow documents outline upcoming deployments and changes to an ongoing infrastructure and record data on older and depreciated (otherwise known as End of Life (EoL)) versions.
+
+``Change management``
+
+Making changes to a production environment is always one of the most nerve-wracking tasks you can perform in your environment. This is why it pays off to have a detailed change management process in place and a detailed plan that highlights each step of the process, defines the procedures, how validation will be performed, and how we can safely roll back if we run into an issue.
+
+The overall goal of developing your change management process is to make the procedure as painless as possible and minimize downtime or outages. Based on your needs and the needs of your organization will dictate what makes up your change management plan. Overall, the process can be broken down into seven steps: change request, implementation planning, rollback plan, plan approval, implementing the changes, QA, and documentation of the rollout.
+
+As an example, firstly, someone requests a change to be made to an Apache server in a production environment. Once the request is made, it is key to write out what each step of the upgrade process will entail and create a plan to roll back these changes if it doesn’t work. The next step would be to get stakeholders' approval, roll out the changes, go through a quality assurance (QA) process, and then document what was witnessed during the rollout. 
+
+``Asset management``
+
+When making configuration changes to assets, you need a central point that details what changes were made. This is very important when working on a team where your peers can look up who and when changes were made. This can be as simple as a Word document, a spreadsheet, or cloud documentation solution such as Atlassian Confluence. This is also important for tracking physical hardware such as desktops, laptops, servers, switches, etc., and software licenses.
+
+Software used to track assets and configuration changes is known as a Configuration Management Database (CMDB). An example of this would be LanSweeper, an inexpensive solution that will scan an entire network and report the inventory of what currently exists. It will report IP addresses, service tags, OS versions, RAM, user logins, and more.
+
+``Patching``
+
+With all resources in a single environment, it is imperative to update the software that runs these assets regularly to stay ahead of vulnerabilities and resolve bugs that the publisher has identified and addressed with newer versions of their software. Often, these bugs can be very low-level and more of an annoyance; other times, it is a major security vulnerability that needs to be addressed as soon as possible. 
+
+``Hypervisors``
+
+A hypervisor is an application that facilates the share of physical resources from a host device to a virtual device. Diffrent types of Hypervisors are avaiable, such as "bare metal" hypervisors where there is no operating system, for example VMWARE ESXi and a hypervisor with a GUI and an operating system, for example, Microsoft Hyper-V.
+
+``Virtual Machines (VMs)``
+
+Typically when referring to patching VMs, this refers to updating and patching software that is running on that VM. An example of this is patching an apache server running on a VM.
+
+Cloud platforms offer patch management services that allow you to manage the patches you apply to your VMs and even automate the process. However, you can do this yourself if you wish, which is very common as you have more control over the process. A very common way to apply a patch to a VM is to create a copy of the VM, patch that copy, test it, and then put that VM back in production and shut down the VM that wasn’t patched. This is where load balancers shine in an environment because they allow you to do these types of procedures and if done properly initially, no one will notice that you made a change as there will be no downtime.
+
+The other method of patching VMs is to apply patches while running and in production. Usually, this is only advisable during off hours when the VM is not being used. 
+
+``Virtual Appliances``
+
+Virtual appliances, like VMs and applications, need to be patched as updates that add functionality, fix bugs, and resolve security vulnerabilities. Virtual appliances are basically a virtualized version of hardware appliances we normally see in a traditional, on-premise environment. This can include firewalls, load balancers, spam filters, Intrusion Detection Systems (IDS), Intrusion Prevention Systems (IPS), wireless AP controllers, etc.
+
+``Applications``
+
+Software publishers provide application patches that include version numbers and details of what is addressed in the patch. If you are working with software written “in-house”, a development team that works within your organization, then they will provide you with the patch you need with details of what it addresses and the version number. This same concept also applies to Firmware, a type of software that manages processes for hardware.
+
+Any changes to applications should be referred to in existing policies. For real-world environments, however, it is advised that organizations run N-1 policies, a term used for using a release older than the most common versions. However, the application of this practice changes depending on the infrastructure and type of patch applied. 
+
+``Storage Components``
+
+Storage Area Networks (SANs), RAID arrays, Network Attached Storage (NAS), and storage controllers are common storage components that must be patched. You will want to check regularly with the manufacturer if updates are available for these devices. Once again, if you are using a cloud platform, you won’t have to worry about patching these devices as it’s taken care of by the cloud provider.
+
+``Operating Systems``
+
+It is important to keep operating systems up-to-date as they also have vulnerabilities and bugs that must be addressed. If you have VMs hosted on a cloud platform, this will need to be patched by you as this is where the responsibility goes from the cloud provider to the client when you are using an Infrastructure as a Service (IaaS) model. 
+
+``Rolling Updates``
+
+Rolling updates (also referred to as rolling deployments) are the practice of frequent updates applied to software. This is also known as Continuous Delivery (CD) and allows for software updates without needing to uninstall the old version and install a newer version. If you’ve updated your web browser, that is part of the same concept. Newer versions of the browser are released, and then you update your browser, so your software is up-to-date.
+
+``Blue-green``
+
+The Blue-green model is one of the most common deployment methodologies you will encounter in real-world environments (especially in DevOps). This is where you take the environment you want to update or make changes to and create an offline copy. Then you take that copy of your environment, apply updates, and test. Once you have tested the copy of the environment and are ready to deploy, swap the environments and perform QA. This is very efficient because you can quickly deploy your new environment that's been changed or updated and roll back your changes if problems arise. This can also be referred to as an Active-passive deployment and assist in Disaster Recovery (DR) processes.
+
+``Canary``
+
+Canary deployments are when you patch a few of your instances or VMs at a time out of many VMs. For example, if you have ten servers performing the same task behind a load balancer, you would deploy your changes to a few of them and then wait to see if any issues arise.
+</details>
+<details close>
+    <summary>Optimizing Cloud Solutions &#x21A9;</summary>
+
+### Topic: [Optimizing Cloud Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/OptimizingCloudSolutions.htm) <a id="OptimizingCloudSolutions"></a>
+
+###### ``Examining and Configuring Methods for Optimizing Cloud Environments``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+``Right-sizing``
+
+Right-sizing is the practice of having the right amount of resources to achieve the goal or outcome you intend to achieve at any given moment. By doing so, you are able to minimize cost while providing an optimized environment capable of any workload. There are multiple methodologies for scaling in cloud environments, such as:
+
+- Auto-scaling: This is when you scale resources up, down, out or in, depending on the workload or demand that an environment is experiencing.
+
+- Horizontal-scaling This methodology involves increasing or decreasing the number of instances you have in an environment to meet demand.
+   
+- Vertical-scaling. This is increasing or decreasing an instance’s resources to meet demand.
+
+- Cloud-bursting. This is used in hybrid environments, which utilize a mix of public and private cloud infrastructure. Cloud-bursting is the practice of using a private cloud environment, and when demand increases, the infrastructure is scaled out using a public cloud platform.
+
+``Compute``
+
+When referring to the compute power of instances, this specifically refers to the CPU, RAM, and GPU of an instance.
+
+- CPU: is the processing power that an instance has, and when it is scaled up or down, you increase either the number of CPUs or the processing power of the CPU.
+   
+- RAM: is the amount of memory an instance has access to and utilizes to run its tasks. You can scale RAM up or down depending on the amount of memory an instance needs as demand goes up or down.
+
+- GPU: or graphics processing can also be scaled based on the demand of an instance. You will typically see GPU scaling when working with video editing, streaming, capturing, or rendering related tasks.
+
+Another form of computation you can utilize is containers, or containerization. This is the practice of virtualizing an application and running them in their own isolated space but allowing them to all share an operating system.
+
+``Storage``
+
+When optimizing storage in a cloud environment, the elements most often taken into consideration are Input/Output Operations per Second (IOPS), capacity, duplication, compression, and storage tiers offered by cloud platforms.
+
+IOPS, in its simplest form, is the speed at which data is read and written in storage. The faster that you want to be able to read or write then, the higher your IOPS will be. Capacity is the amount of storage allocated for an instance, DBs, objects, or blocks of storage. This storage is often replicated, duplicated, or backed up.
+
+One of the methods that you can utilize to bring down the amount of space that backups and replications take up is to compress the data. Depending on what kind of data you are working with, it is possible to compress it down to half the amount of space required, sometimes exceeding this.
+
+You can also utilize cold storage, which is much cheaper but requires much more time to recover. AWS Glacier is an example of this, as the cost per gigabyte is pennies (or fractions of pennies). The trade-off is that when you request to pull from this type of storage, it can take days to retrieve it.
+
+``Network``
+
+Network optimization is the ability to enhance the speed and reliability of data that is moved across a network. Bandwidth is the amount of data you are able to move across a network at one time. You will typically see this as megabits per second (mbps) (not to be confused with megabytes per second).
+
+Another aspect you will need to familiarize yourself with is Latency. Bandwidth is the amount of data that is able to be moved move over a network, and latency is the delay when communicating over a network. Distance plays a role in latency for the simple fact that as something is further away, it increases the time it takes for a packet, or frame, to get to and from its destination.
+
+Today, it is typical to see major websites with users spreading the world to utilize Content Delivery Networks (CDNs), also known as Edge Computing.
+
+Azure offers a range of different networking services that allow you to customize your environment based on your needs. Within the Azure portal, you can manage public IP addresses, reserve IPs, customize your routing tables, create a Virtual Network, or even a Virtual WAN.
+</details>
+<details close>
+    <summary>Implementing Cloud Resource Automation Solutions &#x21A9;</summary>
+
+### Topic: [Implementing Cloud Resource Automation Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ImplementingCloudResourceAutomationSolutions.htm) <a id="ImplementingCloudResourceAutomationSolutions"></a>
+
+###### ``Examining Cloud Resource Automation and Scripting``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/three.png?raw=true)
+
+``Infrastructure as Code``
+
+Cloud platforms offer you the ability to orchestrate automated deployments, and one commonly used method is Infrastructure as Code (IaC). IaC differs from scripting in the fact that when you deploy by scripts, you will need to include many more details and steps for your deployment to work.
+
+IaC is much simpler as it allows you to define what you want to deploy, and then the orchestration that is done on the cloud platform side figures out how to achieve this goal.
+
+``Continuous Integration/Continuous Deployment (CI/CD)``
+
+In the development world, you will hear the terms Continuous Integration and Continuous Deployment (CI/CD) used quite often. As Developers work on code for an application, typically they will work in a shared repository that stores code. As they build out their applications, they will take the current build they are working on and compile it into an installer and then test it to make sure it works; this is also called Quality Assurance (QA).
+
+Once an application has gone through QA and has been approved for the production environment, it will then be deployed. Developers will continue to work on the same application and release versions of the software that may address a number of issues or add functionality.
+
+This is the process of continuous integration, and as they further enhance the application, the repository where the newer code is housed is taken and automatically compiled into a build for QA.
+
+continuous deployment is the process of providing automatic updates on a regular basis once the compiled code has passed QA. The repositories that developers use allow them to keep copies of the different versions of software they have developed.
+
+``Configuration Management``
+
+Just as developers use repositories to store their code and the different versions they create, systems administrators will use configuration management repositories to store saved configurations of devices, instances, software, etc.
+
+It is very common that you will use the same repository tools (such as Github and Gitlab) that developers use for configuration management. You are able to store the configuration files and the text files that explain what changes were made to the configuration and the dates they were made. This allows you to roll back to an earlier configuration of a resource if we encounter issues later.
+
+``Containers``
+
+Containers, which are very similar to VMs, are the virtualized application that operates in its own contained world that shares the same operating system that other containerized applications operate. Each container operates as if it is a stand-alone application, and the resources of the operating system are shared with each container, and since they have no idea of each other, they do not conflict with each other.
+
+``Secure Scripting``
+
+Scripting is a method that you will use to automatically deploy instances and resources, or make changes to configurations at certain times by writing out what you may want to do into a script, and then simply run that script. Using scripts is very powerful as once you write out the script, you can run it over and over very quickly without having to perform the tasks manually.
+
+One of the important things to remember when using scripts would be that in order to run them, you usually need to provide credentials that have the proper permissions to perform the tasks.
+
+It is highly recommended that you do not include the credentials to be used in the script but rather use either an authentication key or utilize your cloud platform's password vault and reference the stored credentials in that manner. This is much more secure, and you never want to store credentials in plain text.
+</details>
+<details close>
+    <summary>Implementing Cloud Backup and Restore Solutions &#x21A9;</summary>
+
+### Topic: [Implementing Cloud Backup and Restore Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ImplementingCloudBackupandRestoreSolutions.htm) <a id="ImplementingCloudBackupandRestoreSolutions"></a>
+
+###### ``Performing a Backup and Restoration of a Virtual Machine``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+
+``Backup Types``
+
+It is important you are able to perform backups in environments to protect against data loss and also for disaster recovery operations. Backups are also included in policies and frameworks. 
+
+- Full Backups: A full backup is simply a complete copy of data. You will usually see these types of backups compressed and encrypted at rest.
+
+- Differential Backups: A differential backup will use a full backup to inspect any changes made and back up those changes. You will need the full backup and the differential to restore from this backup. Every time you run a differential backup, it will backup whatever has changed from the full backup, so if you run a differential backup on Tuesday, Wednesday, and then Thursday, the last differential backup will contain all the changes backed up on Tuesday and Wednesday.
+
+- Incremental: Incremental backups will only backup changes made from the previous incremental backup. Restoring from incremental can be slower as all increments will have to be referenced; however, running incremental backups is quicker than differential.
+
+- Synthetic Full: This is when an outdated full backup is updated with newer incremental backups.
+
+- Snapshots:Snapshots are an exact copy of a storage volume or virtual machine image. Snapshots can spin up copies of VMs used in continuity planning and disaster recovery.
+
+``Backup Objects and Targets``
+
+A backup object is a backup of an application, entire filesystem, database, or config file. You will note that these are not backups of entire virtual machines but objects you have in storage.
+
+Backup targets are the locations you send your backups to; this can include tape drives, disks such as RAID arrays, or cloud object storage such as AWS S2 buckets.
+
+``Backup and Restore Policies``
+
+Backup and restore policies standardize the process of performing backups and planning for continuity and disaster recovery procedures. Organizations will define retention time, backup schedules, locations, recovery time objective (RTO), recovery point objective (RPO), and mean time to recovery (MTO). All of these concepts are considered when developing these policies.
+
+``Restoration Methods``
+
+Depending on how to design your procedures, there are several concepts regarding restoration methods. One common method is to have an exact copy in place within the same environment, ready to be restored if the production virtual machine or instance fails. Another common method that you will see used for disaster recovery is alternate site restoration. This is when an entirely different site is used for recovery; this is common for disaster recovery and continuity planning as if something were to physically happen to one location, the other location is still functioning.
+</details>
+<details close>
+    <summary>Cloud Disaster Recovery Concepts &#x21A9;</summary>
+
+### Topic: [Cloud Disaster Recovery Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudDisasterRecoveryConcepts.htm) <a id="CloudDisasterRecoveryConcepts"></a>
+
+###### ``Deploying, Configuring, and Replicating VMs in Hyper-V Manager``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabdm01.png?raw=true)
+</details>
+<details close>
+    <summary>Cloud Troubleshooting Methodologies &#x21A9;</summary>
+
+### Topic: [Cloud Troubleshooting Methodologies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudTroubleshootingMethodologies.htm) <a id="CloudTroubleshootingMethodologies"></a>
+
+###### ``Examining the Troubleshooting Model``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
+</details>
+<details close>
+    <summary>Security Troubleshooting Techniques &#x21A9;</summary>
+
+### Topic: [Security Troubleshooting Techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/SecurityTroubleshootingTechniques.htm) <a id="SecurityTroubleshootingTechniques"></a>
+
+###### ``Examining and Performing Security Troubleshooting``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabdm01.png?raw=true)
+
+``Authentication and Authorization``
+
+Troubleshooting authentication and authorization issues will usually always involve searching through log files. When a user fails to authenticate it is added to the system or application logs and will give the reason for failure, as to if it’s bad password, unactivated account, account doesn’t exist, along those lines.
+
+``Security Groups``
+
+You will always want to be sure that users you add to security groups belong in those security groups as this can cause privilege escalation. The same can be said when troubleshooting a user who should have access to certain security privileges but have problems executing these privileges. Always make sure that users belong to the proper security group you intend to give access to.
+
+``Keys and Certificates``
+
+Keys and certifications are very troublesome to manage and troubleshoot. You must be careful when managing keys and certificates, so they do not fall into the wrong hands. It’s wise to delete keys regularly and issue out new keys, the same can be said when a key or certificate is not functioning properly.
+
+``Misconfigured or Misapplied Policies``
+
+Always be sure that your policies are properly configured, be careful of policy templates as they may open you up to vulnerabilities.
+
+``Exposed Endpoints``
+
+Always examine what ports are open on a server and through firewalls. These ports are what the server is listening to so anyone who knows what ports are open can try to gain access using that port.
+
+``Misconfigured or Failed Security Appliances``
+
+Misconfigured or failed security appliances can easily allow access to a resource that is meant to be protected. Always make sure to have network monitoring in place that reaches out to your appliances to make sure they are running, that you have properly configured them, and routinely log into these appliances to check on them.
+
+``Unsupported Protocols``
+
+Make sure that you are not use outdated protocols that are no longer supported poise security risks. You do not want to do something like use WEP for your wireless infrastructure. Whatever protocols you use always look into what the best protocol is for what you are doing and follow those guidelines.
+</details>
+<details close>
+    <summary>Troubleshooting Cloud Deployments &#x21A9;</summary>
+
+### Topic: [Troubleshooting Cloud Deployments](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/TroubleshootingCloudDeployments.htm) <a id="TroubleshootingCloudDeployments"></a>
+
+###### ``Troubleshooting Deployment Concepts``
+
+``Connectivity issues``
+
+One of the most common issues when working with third-party organizations is general connectivity issues to resources. These issues can arise when users or staff cannot connect to a specific resource (such as a web application) or infrastructure. Alternatively, one resource cannot connect to another, potentially creating a risk for the surrounding environment. Connectivity issues can happen at two main levels:
+
+- Cloud Service Provider (CSP): In DR scenarios, Cloud Service Providers have in-depth and extensive recovery plans to ensure minimal downtime for all users using their platform. That said, it can arise where certain availability zones can have downtime or even specific servers. If this were to occur, it would be key to first investigate the relevant Cloud Service Provider’s portal and availability information to confirm this, and then claim back any service credits or alternatives if this means that the affected resource falls out of the uptimes guaranteed in the Service Level Agreement (SLA).
+
+- Internet Service Provider (ISP): Much more common than CSP failures, ISPs are more notorious for having random downtime that can affect end users of an environment. Picture you configure a private cloud environment to host a web application, but the internal internet suddenly loses all connection, causing a denial of service. On an organizational level, agreements should be made with an ISP to ensure that downtime is well-communicated, and in maintenance scenarios, it should be discussed and agreed upon in advance. These downtimes should also be communicated to users as soon as reasonably possible, as this could also affect brand image.
+
+``Performance``
+
+Performance degradation naturally happens as infrastructures grow and older resources become more and more burdened with supporting newer resources but can also be spontaneous when demand for a specific resource is increased unexpectedly.
+
+Ongoing monitoring of resources can mitigate this somewhat, but latency issues will inevitably occur. If this is a persistent problem, then underlying networking hardware should be upgraded to support newer, and baselines, thresholds and metrics should be reconfigured to support the new demand.
+
+In terms of threats, adequate Denial of Service (DoS) or Distributed DoS measures should be put in place to mitigate the effect an attack can have, which becomes more of a risk the larger an infrastructure (and public image) becomes. Like all risk factors, this should also be monitored frequently.
+
+``Applications in Containers``
+
+As with all other types of resources, applications that exist inside (or outside) containers also have the potential to fail. As many different factors can cause these failures, potential troubleshooting can take many different factors, such as:
+
+- Checking that an application is functioning and has not crashed
+
+- Checking and reviewing logs
+
+- Diagnose the root cause, such as networking, compute, etc.
+
+- Debugging
+
+``Misconfigured Templates and Script Configurations``
+
+In more established environments, you may have employed templates to quickly and efficiently generate new resources as and when needed. This is typically done using Scripts, such as JSON files containing all the necessary data to configure a device to certain requirements. Due to this becoming an automatic process, you can run into deployment issues using these templates, such as devices failing to validate (as is the case on Azure), disallowing the resource's creation. It’s important to consider, however, that it is likely that the CSP will notify you of why the resource failed validation, which can be a massive help in remediation.
+
+Using the above example, if a resource or script suddenly seems to stop being compliant with a previously established policy, it would be pertinent to investigate the script itself and the overlying policy and make amendments as needed. If either was recently changed, it could indicate that one was clashing with the other. A mitigation technique in these scenarios would be to establish accurate change management documentation so changes to key infrastructure can be monitored and remediated quickly and efficiently.
+
+``Missing or Incorrect Tags``
+
+The larger an infrastructure becomes, the more assistance can be given by accurate resource tagging. Missing or incorrect tags can become an issue as, at first glance, it may be difficult to see which resources are directly linked to others, which can cause many issues. For example, an innocuous resource could depend on another, and accidental deletion can have a ripple effect across an entire environment, all due to a missing tag. Tags can be managed on a resource group level and mitigated by frequent reviews to ensure each resource has the correct tags.
+
+``Insufficient Capacity``
+
+Capacity is another key consideration when remediating deployment issues. The capacity of different resources can have different effects, such as:
+
+- Compute: Capacity in this regard refers to the actual “power” of each VM or compute resource employed. If any of these resources exceed this due to increased demand or if they are utilized differently for their intended purpose, you can reach capacity of those devices. In these cases, it could be convenient to employ scaling resources to ensure that they always meet demand, which can be done in retrospect in public cloud environments.
+
+- Storage: Storage capacity is the main concern of infrastructures that contain a lot of data. To troubleshoot a storage issue, it would be important to first assess things in advance via the use of accurate alerts to ensure that teams are made aware of when storage mediums are reaching capacity. You could also upgrade a storage medium if required, such as from Tier 2 to Teir 1 if the demand is high enough to justify. 
+
+- Networking: Network capacity can be influenced by several factors, such as an infrastructure suddenly experiencing higher demand or potential issues with an ISP. To control and troubleshoot an issue with networking, it should first be assessed why there is an issue. If this is a hardware fault, then failover procedures should be in place to control traffic and mitigate the issue. As with the other considerations, baselines, metrics, and thresholds should all be accurately reviewed to predict and prevent these issues when necessary. 
+
+The final consideration for capacity is Oversubscription to an infrastructure, which can cause a denial of service. The above factors can all be remediated by employing different scaling methods as and when necessary for each device. Remember, however, the more an infrastructure requires to function, the higher the potential cost.
+
+``Licencing Issues``
+
+In public cloud environments, some resources may have on-demand licenses (such as Office 365) already available on them, particularly Virtual Machines. This can, however, fall prey to license misconfigurations that can impede utilization, such as a device being added to an already existing infrastructure without a valid license, or a different license that prevents connection to other devices, as well as licenses not being correctly allocated to users who wish to use these resources.
+
+To remediate importing licenses in a cloud environment, it is key to investigate the process to which it was applied, such as via the Azure portal. Azure will provide you with a notification as and when this occurs and allows you to remediate things such as assignment errors.
+
+``Vendor-related Issues``
+
+Due to the nature of working with a vendor in public cloud environments, several factors can induce issues and risks, such as:
+
+- Migration: Moving an environment from one provider to another can cause migration issues, typically misconfigurations and security issues arising from the migration process. Depending on the issue, such as downtime, performance and even DoS, different remediation and troubleshooting options are discussed above. However, It is important to have a clear vision and accurate migration plan before any work is done.
+
+- Integration: When integrating with a cloud vendor (particularly from a non-cloud environment to a cloud-based one), it is important to consider the myriad of issues that can occur, such as data and configuration loss, misconfigurations and more. In these scenarios, you may choose to implement an Integration Platform as a Service (iPaaS), which works to manage integration successfully and fluidly.
+
+- API Requests: An API request is a method of communication between two or more Application Programming Interfaces (APIs) and involves data being transmitted from one device requesting an API to access data. However, this can have underlying issues, such as an infrastructure meeting API request limits, which are hard limits on the number of requests an API can process at any time. These can be remediated via API management tools, such as Amazon API Gateway.
+
+- Billing:Different infrastructures have different cost structures, so it should always be considered when working with or migrating to a particular vendor. Specifically, migration should be one of the first considerations and should have sign-off, including potential future spending.
+</details>
+<details close>
+    <summary>Cloud Networking Troubleshooting Concepts &#x21A9;</summary>
+
+### Topic: [Cloud Networking Troubleshooting Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudNetworkingTroubleshootingConcepts.htm) <a id="CloudNetworkingTroubleshootingConcepts"></a>
+
+###### ``Troubleshooting Common Network Configuration Issues``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/pfsense.png?raw=true)
+
+``Network Security Group (NSG) Misconfigurations``
+
+When building network infrastructure as part of a public cloud subscription, it is likely that you will employ the use of Network Security Groups (NSGs) to easily maintain rules to allow / deny and manage traffic being transmitted across a network. There are misconfigurations that can apply using NSGs however, such as:
+
+- ACL misconfiguration: When working with any type of preconfined rules, it is important to consider which users require access to which types of data in a network. In larger infrastructures, the number of users contained on a single Access Control List (ACL) can grow exponentially, allowing some users to either be granted higher than or denied proper access to resources and data. ACL’s should be monitored frequently to ensure that no user is erroneously given incorrect permissions, which can be remediated using the ACL tools native to the CSP.
+
+- Inheritance misconfiguration: Inheritance is the term given for when a user is not directly given access to or denied from specific areas of network traffic, but instead inherits these permissions from an overarching group (or hierarchy). As with ACLs, these should also be frequently monitored and managed, and it should be reviewed that each user belongs to proper groups. 
+
+``Peering``
+
+The concept of peering in public cloud environments refers to connecting one network to another directly, allowing for much faster communication speeds. These connections can be made over different subscriptions, tenants and regions, and due to the amount of configurations different issues can arise. Dependent on which type of issue you are experiencing, it would first be important to ensure that both networks peering status is set to Connected, which can be verified using tools in the CSP’s portal, such as Azure CLI. If it is connected and issues are still occurring, then it would be prudent to check the underlying networks to ensure there are no direct hardware related communication issues occurring using network scanning tools, such as Azure IP flow verify.
+
+Outside of network function, there are a few considerations to review in order to ensure that a network has not been misconfigured. This can include, but not limited to:
+
+- Incorrect subnets: Where subnetting has been misconfigured and does not allow proper communication.
+
+- IP addressing: Where the IP addressing schema does not match or duplication occurs.
+
+- Network spacing: Where the shortest and longest path of transmission data is not carefully considered, meaning that data has to travel further, adding to latency. 
+
+``Routing``
+
+When routing data through a network, there are different types of routing configurations that can each have their own risks and potential issues, such as:
+
+- Default: This type of routing refers to routes created automatically by Azure connecting different resources together and are typically preferred in sub-networks. Due to the generic nature of default routing, you could however potentially open yourself up to poor network flow, and therefore should be closely monitored. 
+
+- Dynamic: This type of routing allows for network communication allows routers to exchange data to generate routing paths automatically. The issue with larger networks that utilize this however is complexity and should be carefully considered when building larger infrastructures as it may not result in the best transmission speeds. 
+
+- Static: As opposed to dynamic routing, static routing is instead pre-configured before using a manually programmed route table. The issue with static routing is that it is less scalable than dynamic counterparts, and therefore can be challenging to grow in the future as required. 
+
+A potential remediation for routing concerns could also be to update a routing table to reflect the other types of configurations, such as reconfiguring a default routing schema to a dynamic one, if this would result in better traffic flow. This can be decided using reports generated from network troubleshooting tools.
+
+``Firewalls``
+
+Networking firewalls are a key element of ensuring the security posture of a network but like all other components, they are not without inherent risks. In environments where not all data can be trusted (known as Zero-Trust environments), it could be pertinent to install Micro-Segmentation, which adds an extra layer of security that only allows traffic from specific sources (such as an application) and denies everything else. The risk factor here is that a misconfigured or incorrectly administered segment could limit all network traffic, and these should be tested thoroughly and reviewed frequently when implemented into working networks.
+
+``Network Address Translation``
+
+The Network Address Translation (NAT) protocol refers to the technology that allows multiple private IP addresses to connect to public IP addresses before any data is transmitted across that connection. Common issues that arise with NAT protocols include:
+
+- VPN: A Virtual Private Network (VPN) can be vital resources in different types of networks for sending secure data. However, there are risk factors with NAT conflicting with VPN communications as NATs are frequently provisioned in a way that changes the communication on Layer 3 network addresses, which conflicts with the way that VPNs send information. When building VPNs in already existing infrastructure, you should carefully consider how this may implement an already existing NAT (or vice versa) and should be thoroughly reviewed. 
+
+- Source and Destination: A Source NAT translates private IP addresses into routable public addresses, and a Destination NAT translates the IP addresses of ports and packets, which are instrumental in ensuring proper communication across a network. When troubleshooting NAT connectivity issues, both source and destination protocols should be scrutinized thoroughly and remediated using network troubleshooting tools. 
+
+``Load Balancers``
+
+The concept of load balancing applies to ensuring that network traffic is equally and efficiently distributed across different networking resources, such as across different routers or switches, to ensure that not one single resource is used to supply more demand, allowing more fluid data transfer. Risks with load balancing can include:
+
+- Methods: Load balancing methods are computing algorithms that efficiently spread network requests from an inbound server to other resources in a pool. However, this can conflict with pre-existing networking resources, such as an existing NSG, which should be reviewed before implementation.
+
+- Headers and Protocols: in the context of load balancing, a header refers to a HTTP header that loads additional contextual clues to a load balancer to ensure proper network pathing. When misconfigured, however, routing data can be sent via incorrect channels and paths or can be denied, fully dependent on other security protocols that have been enabled. 
+
+- Encryption: Encryption, although an important security consideration, could potentially add latency time to a network and can be implemented via a security protocol such as the Secure Sockets Layer (SSL) or Transport Layer Security (TLS) protocols. 
+
+- Front and Back Ends: A front end balancer balances incoming traffic to front end servers, and a back end balancer does the same with back end servers. Communication issues can arise, however if these have been configured to different parameters and therefore should be remediated and reviewed in sequence, as well as using proper change management processes. 
+
+``DNS Records``
+
+A DNS record is a type of data that provides DNS servers with information about specific domains on a network and how requests from each domain should be handled. Misconfigurations with DNS records can be reviewed using network troubleshooting tools, such as reviewing and modifying TCP/IP settings.
+
+``VLAN, VXLAN and GENEVE``
+
+A Virtual Local Area Network (VLAN) is a term used for a group of networked resources communicating with each other, emulating a single Local Area Network (LAN). These are typically used in smaller environments and are often not as scalable in larger environments as their counterparts, opening the doors for misconfigurations.
+
+This is slightly different from a Virtual Extensible LAN (VXLAN), a tunnelling protocol that allows cloud administrators to easily manage larger-scale cloud networking environments. VXLAN does not include a protocol identifier field, meaning that any data transmitted is assumed to be via ethernet connections.
+
+A similar protocol is Generic Network Virtualization Encapsulation (GENEVE), which defines encapsulation data only, and has been developed to be as flexible as possible for cloud administrators to administer on the largest of networks. GENEVE supports higher header length frames (16-bit vs 8-bit for VXLAN).
+
+``Proxy``
+
+In terms of networking, a proxy is a router that creates a gateway between a user and the wider network and can be a key security tool. However, there can be issues with proxy servers, which should be maintained alongside all other networking resources. Network troubleshooting tools can investigate proxy servers and determine a root cause.
+
+``Maximum Transmission Units (MTU)``
+
+In most networks today, the Maximum Transmission Unit (MTU) is set to 1500 bytes. But in high-speed data centers, speeds can exceed 10 Gbps, 40 Gbps and more. In such cases, if the MTU is set to 1500 bytes, it can cause problems with network performance. Hence jumbo frames are used to provide optimal performance. Ensuring proper frames are configured is instrumental to ensuring proper networking speeds.
+
+``Quality of Service (QoS)``
+
+Using QoS, you can specify how a device can use bandwidth based on traffic classes or applications. With QoS, the traffic is initially classified based on specific criteria. Different applications are placed in different traffic classes. This is usually done on the LAN interface of the network device. After the traffic is classified, a QoS policy is created to assign a certain amount of bandwidth for every class. For example, you assign 50% of the total bandwidth of your WAN link to your core application. For email and Internet traffic, you assign 20%, for VoIP application 10% and all other traffic 20%. After creating the policy, the last step is to apply that policy to your WAN link.
+
+Different devices use different commands for QoS configuration, but the logic is the same. Classify traffic, create policy, and apply policy to the interface. QoS will be “in use” only when the link is congested.
+
+``Time Synchronization Issues``
+
+NTP Clients are synchronized with an NTP Server by configuring the time source to be used. NTP Clients can only be configured with one active time source.
+
+Almost all networked devices that display or use time are NTP Clients, and issues can occur when NTP Clients are misconfigured and should be remediated via the NTP Server directly. 
+
+###### ``Network Troubleshooting Tools``
+
+![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/kali.png?raw=true)
+
+``Ping``
+
+Ping commands can be used across platforms and uses ICMP (Internet Control Message Protocol) to communicate with hosts. It is used to check if remote hosts are reachable on the network. The pathping command can be used on Windows devices to determine more in detail information on the network statics, for example, the delay it takes to communicate to specific routers on a network.
+
+``Tracert/Tracerout``
+
+The traceroute command is used on Linux systems, and it is used to show how a host connects to a remote host or system on the network. It also displays the path and time the communication takes to reach the remote host. Similarly, on Windows systems, the tracert command can be used for the same purpose.
+
+``Flushdns``
+
+The flushdns command is used in Windows systems to clear (or flush) a DNS cache. Due to the nature of DNS caching, problematic IP addresses can be saved to this cache during normal operation of a device, which can in turn cause connectivity issues. In these cases, a simple flushdns command may resolve the issue.
+
+``Ipconfig/Ifconfig/IP``
+
+The ipconfig command is used to obtain information about a host. The command shows the IP address, subnet mask, gateway and DNS server information on the network configuration. The Linux equivalent for ipconfig is ifconfig.
+
+``Nslookup/Dig``
+
+The nslookup command is used to query DNS records using a Windows device. The Dig command is the Linux equivalent for nslookup. It is used to query individual DNS records or all DNS records in a domain and can be used to gather more information about the domain, such as the IP address of the DNS server.
+
+``Netstat/SS``
+
+The netstat command is used to look at the current communication on a host. It also helps in identifying open ports and established connections. It is most often used for troubleshooting to determine if a host is listening on specific ports.
+
+``Route``
+
+The route command is used on Windows devices to manually write new entries into a pre-existing routing table, which can be a useful tool if this type of manual remediation is needed to make direct edits to a network configuration.
+
+``Arp``
+
+The arp command is used to display the Address Resolution table on a host. The Address Resolution table is used by a host to store information of other hosts on the network. This information can be used to determine if there any unauthorized hosts connected to the network.
+
+``Curl``
+
+The curl command is used for transferring data over networks using specific protocols, for example, HTTP, HTTPS or FTP. This command can be used without user intervention and is ideal when used in shell scripting. It is specifically used on Linux devices.
+
+``Packet Capture and Analyzers``
+
+Cloud security and networking professional needsto assess network security posture by analyzing the traffic that traverses across a network, and several packet capturing applications are available to analyze network traffic.
+
+Packet replay and analysis refers to capturing network traffic over a specified period of time and then saving it, which can then be replayed over a dedicated network interface for analysis. You can choose from several packet replay applications that are available to perform this function such as tcpreplay.
+
+Wireshark is a protocol interpreter. Wireshark has a rich functionality which includes the following:
+
+- An extensive inspection of hundreds of protocols, with more being included all the time
+
+- Live capture and offline review
+
+- Standard three-pane packet browser
+
+- Captured network data can be interpreted via a GUI or via the TTY-mode TShark utility
+
+- Very powerful display filters in the industry
+
+- Rich VoIP analysis
+
+``OpenSSL``
+
+OpenSSL is a cryptographic library that provides an open-source implementation of the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols.
+
+The library includes tools for generating RSA private keys and Certificate Signing Requests (CSRs), checksums, managing certificates and performing encryption/decryption. OpenSSL is written in C, but wrappers are available for a wide variety of computer languages.
+
+The openssl program is a command line tool for using the different cryptography functions of OpenSSL's crypto library from the Shell. It can be used for:
+
+- Creation and maintenance of private keys, public keys and parameters
+
+- Public key cryptographic functions
+
+- Generate X.509 certificates, CSRs and CRLs
+
+- Arrive at Message Digests
+
+- Encryption and Decryption with Ciphers
+
+- SSL/TLS Client and Server Verification
+
+- Managing S/MIME signed or encrypted mail
+
+- Time Stamp requests, creation and validation
+</details>
+<details close>
+    <summary>Troubleshooting Cloud Resource Utilization &#x21A9;</summary>
+
+### Topic: [Troubleshooting Cloud Resource Utilization](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/TroubleshootingCloudResourceUtilization.htm) <a id="TroubleshootingCloudResourceUtilization"></a>
+
+###### ``Troubleshooting Cloud Resources``
+
+``Computing Resource Utilization``
+
+When considering the individual resources that make up an environment, multiple factors can impact a network's speed and performance.
+
+This includes both real and virtual hardware that each individual compute resource (such as a Virtual Machine (VM)) utilizes to run, such as:
+
+- CPU: A Central Processing Unit (CPU) is the main processor that each VM requires to function. With higher demand, issues with CPU allocation can arise, such as system freezing and slow response times.
+
+- GPU: A strong Graphics Processing Unit (GPU) is required for devices that are required to process more visually demanding software, such as video rendering. In these scenarios, more powerful GPUs should be allocated to ensure that a VM has the raw power to perform the tasks required.
+
+- Memory: With less memory, the slower a particular device will be able to function in general day-to-day computing and, as such, will act slow and unresponsive if demand exceeds memory capacities.
+
+- Applications: Each computing resource is likely to rely on applications to maintain proper function and, therefore, should be monitored to ensure that these applications function within expected thresholds. Risks for these can include poor memory management of a specific device and service overloads. Both issues can be remediated with ongoing reviews and scrutinization and may be remediated via the application vendor.
+
+In larger infrastructures, it could be pertinent to install scaling resource allocation to more in-demand systems, to ensure that they run at peak performance and do not dip below agreed baselines and thresholds. Otherwise, VMs should always be configured relevant to the needs of the machine, such as high-use domain controllers being allocated more resources than generic workstations.
+
+``Storage``
+
+The storage capacity of each resource should also be sufficient for the demand on the system, as well as specific storage devices and locations used for general storage. For the latter, the correct storage tiers should be applied and reviewed thoroughly, and alerts should be created to notify administrators when devices reach capacity.
+
+- Replication: Replication issues can occur when devices are not correctly replicated or do not replicate at all due to misconfigurations. Depending on the type of infrastructure, troubleshooting can be done via the Cloud Service Provider’s (CSPs) platform using tools such as the Amazon Simple Storage Service or Active Directory for private environments.
+
+``Network Utilization``
+
+Alongside compute and storage resources, Networking resources should also be reviewed to ensure that they reach the relevant speeds as required and expected. Issues that can arise with networking include:
+
+- I/O: The Input/Output speed refers to the speed at which individual resources communicate across a network and the wider internet. Due to poor network configuration, this speed can be erroneously delayed and should be closely monitored to ensure proper data flow across a network. 
+
+- Bandwidth: The bandwidth speeds of a network refer to the underlying speed of the physical or virtual connections and protocols running as part of the networking infrastructure at any time. Suppose it is noted that too much bandwidth is flowing through certain networking resources. In that case, there are different tools you may implement, such as upgrading or replacing communication protocols used by certain devices. 
+
+- Latency: It is worth considering that no matter how a network is configured, there will always be a small amount of latency, especially when data traverses external networks. If latency falls below acceptable levels and baselines, it would first be pertinent to run Ping scans and use various other networking tools to discover the root cause and then remediate as necessary, such as replacing faulty hardware or raising issues with an Internet Service Provider (ISP). 
+
+- Load balancing: Just as with other configurations of resources, load balancers also have the capacity to experience issues in the daily running of an environment and can impact network performance. This can include incorrect configurations of each load balancer used and general failures to intercept and direct traffic. To remediate load balancing issues, you may use secondary failover balancers and scrutinize network traffic using packet capturing software such as Wireshark. 
+</details>
+<details close>
+    <summary>Automation and Orchestration Troubleshooting Methodologies &#x21A9;</summary>
+
+### Topic: [Automation and Orchestration Troubleshooting Methodologies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/AutomationandOrchestrationTroubleshootingMethodologies.htm) <a id="AutomationandOrchestrationTroubleshootingMethodologies"></a>
+
+###### ``Troubleshooting Automation and Orchestration in the Cloud``
+
+``Change management failures``
+
+Change management aims to add a tracking layer to changes made to an infrastructure. When automation can play a role in these changes, from time-to-time automated processes and changes can fall outside the scope of change management documentation, and it can be difficult to anticipate the full scope of automatic changes.
+
+To remediate these issues, it is pertinent to ensure that change management processes take automation into account and that all potential risks and impacts are noted on relevant incident response documentation. 
+
+``Workflow changes``
+
+Due to an infrastructure's continued use and evolution, it is only natural that general automated workflow will change and adapt. Because of this, you should take the following risks into account:
+
+- Server name, IP address or location changes; where resources are updated.
+
+- Account mismatches; where user credentials are updated or changed.
+
+- Version/feature mismatches; where incremental updates are applied.
+
+- Job validation issues; where an automated process is unable to approve or validate a task.
+
+To remediate workflow conflicts, it is important to ensure that automation tools are updated and reviewed frequently to ensure that they evolve alongside surrounding infrastructure, and automation tools are considered when applying updates to any parts of an environment. 
+
+``Automation tool incompatibility``
+
+When it comes to considering individual automation tools, there are some things to consider, such as:
+
+- Depreciated features: As older technologies become obsolete and replaced with newer versions, their features become depreciated, which could affect automated processes. In these cases, it is key to ensure that all tools are updated and verified before deployment. Tool vendors should make users aware of all features missing from new releases, but this should not mean that it can be considered safe to deploy updates automatically.
+
+- API version incompatibility: Just as with depreciated features, newer versions of automation tools can, from time to time, lose unity with already existing APIs. Vendors should provide notice of these changes, although they should be thoroughly tested and adjustments made as necessary. 
+
+``Patching failures``
+
+In real-world environments, patching can have “ripple effect” consequences on any established process that currently influences the day-to-day function of an environment, including automation. For example, a potential patch could directly conflict with an automated process that supersedes it, either entirely breaking the automation or failing the patch.
+
+As with other considerations when patching an environment, sandbox testing is key to ensure that no changes have a ripple effect on already functioning systems.
+</details>
+-->
 </details>
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
 
 <!--
@@ -1992,8 +3696,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 </details>
 <hr width=25%;>
 <!--
-09/11/2022
-"update repository ./asp-virtualization-security - Virtualization Security"
+03/12/2022
+"update repository ./asp-virtualization-security - Deploying Windows Virtual Machines / Deploying Linux Virtual Machines" 
 -->
 <details open>
 	<summary>Virtualization Security &#x21A9; <b></b></summary>
@@ -2004,9 +3708,9 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 - { ["**Virtualization Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#C) : &#x1F513; }
 
-- { ["**Deploying Windows Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#D) : &#x1F6A7; }
+> &#x1F52C; { ["**Deploying Windows Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#D) : &#x2B55; }
 
-- { ["**Deploying Linux Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#E) : &#x1F6A7; }
+> &#x1F52C; { ["**Deploying Linux Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#E) : &#x2705; }
 
 - { ["**Encrypting Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#F) : &#x1F6A7; }
 
@@ -2620,7 +4324,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - { ["**Introduction to Data Science in Python**"](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/DataCamp/20221108_IntroductiontoDataScienceinPython.pdf) &#x2705; <br/> 
 </details>
 </details>
-#tes
+
 <hr width=33%;> <!-- -->
 
 ### Project Management Tracking (Task - Status / Priority)
