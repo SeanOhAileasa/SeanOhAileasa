@@ -1938,7 +1938,7 @@ eC=Lesson 6-Automation Concepts
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
 01/12/2022
-"update repository ./cdp-cloud - Review/Summary - Practice Questions - Implementing High Availability and Disaster Recovery in the Cloud"
+"update repository ./cdp-cloud - Review/Summary - Practice Questions - Cloud Networking Concepts"
 -->
 
 - { ["**CompTIA Cloud+**"](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) : &#x1F6A7; }
@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 03/12/2022
-"update repository ./cdp-practice-labs - Configuring and Managing Cloud Identities"
+"update repository ./cdp-practice-labs - Cloud Networking Concepts"
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2307,7 +2307,6 @@ Picture a scenario wherein you are developing a web application. Usability testi
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
-<!--
 <details close>
     <summary>Cloud Networking Concepts &#x21A9; &#x2B55;</summary>
 
@@ -2321,7 +2320,7 @@ Picture a scenario wherein you are developing a web application. Usability testi
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 
-###### ``Protocols to Secure Cloud Traffic``
+###### ``Protocols to Secure Cloud Traffic`` <!-- bash (az command) PowerShell Core (Linux - pwsh) -->
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 
@@ -2329,6 +2328,7 @@ Picture a scenario wherein you are developing a web application. Usability testi
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
+<!--
 <details close>
     <summary>Securing Cloud Infrastructure Resources &#x21A9; &#x2B55;</summary>
 
