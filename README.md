@@ -2296,7 +2296,7 @@ Picture a scenario wherein you are developing a web application. Usability testi
 </details>
 <!--
 <details close>
-    <summary>Configuring and Managing Cloud Identities &#x21A9; &#x2705;</summary>
+    <summary>Configuring and Managing Cloud Identities &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Configuring and Managing Cloud Identities](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ConfiguringandManagingCloudIdentities.htm) <a id="ConfiguringandManagingCloudIdentities"></a>
 
@@ -2309,7 +2309,7 @@ Picture a scenario wherein you are developing a web application. Usability testi
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
 <details close>
-    <summary>Cloud Networking Concepts &#x21A9; &#x2705;</summary>
+    <summary>Cloud Networking Concepts &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Cloud Networking Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudNetworkingConcepts.htm) <a id="CloudNetworkingConcepts"></a>
 
@@ -2330,7 +2330,7 @@ Picture a scenario wherein you are developing a web application. Usability testi
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
 <details close>
-    <summary>Securing Cloud Infrastructure Resources &#x21A9; &#x2705;</summary>
+    <summary>Securing Cloud Infrastructure Resources &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Securing Cloud Infrastructure Resources](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/SecuringCloudInfrastructureResources.htm) <a id="SecuringCloudInfrastructureResources"></a>
 
@@ -2343,7 +2343,7 @@ Picture a scenario wherein you are developing a web application. Usability testi
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
 <details close>
-    <summary>Data Security and Compliance in the Cloud &#x21A9; &#x2705;</summary>
+    <summary>Data Security and Compliance in the Cloud &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Data Security and Compliance in the Cloud](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/DataSecurityandComplianceintheCloud.htm) <a id="DataSecurityandComplianceintheCloud"></a>
 
@@ -2404,7 +2404,7 @@ This can include controls such as:
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/awsWorkstation.png?raw=true)
 </details>
 <details close>
-    <summary>Cloud Security Assessments and Tools &#x21A9; &#x2705;</summary>
+    <summary>Cloud Security Assessments and Tools &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Cloud Security Assessments and Tools](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudSecurityAssessmentsandTools.htm) <a id="CloudSecurityAssessmentsandTools"></a>
 
@@ -2493,7 +2493,7 @@ As noted from the above example, IaaS models typically require much more investm
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/four.png?raw=true)
 </details>
 <details close>
-    <summary>Incident Response Procedures &#x21A9; &#x2705;</summary>
+    <summary>Incident Response Procedures &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Incident Response Procedures](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/IncidentResponseProcedures.htm) <a id="IncidentResponseProcedures"></a>
 
@@ -2570,7 +2570,7 @@ This is the most important response planning phase and covers what work will be 
 Once an incident has been eradicated and recovery procedures have been enacted, the final stage is to review the process thoroughly and hold the businesses collected reaction accountable. This can be done through a “lessons learned” discussion, in which key stakeholders will show where the response was performed adequately and which areas may need work if this happens again. These then feed back into the planning phase to ensure the process is iterative and always improving.
 </details>
 <details close>
-    <summary>Cloud Solution Integration &#x21A9; &#x2705;</summary>
+    <summary>Cloud Solution Integration &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Cloud Solution Integration](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudSolutionIntegration.htm) <a id="CloudSolutionIntegration"></a>
 
@@ -2643,7 +2643,7 @@ A Virtual Desktop Infrastructure (VDI) is a type of infrastructure that utilizes
 - Oracle VirtualBox (private).
 </details>
 <details close>
-    <summary>Provisioning Cloud Resources &#x21A9; &#x2705;</summary>
+    <summary>Provisioning Cloud Resources &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Provisioning Cloud Resources](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ProvisioningCloudResources.htm) <a id="ProvisioningCloudResources"></a>
 
@@ -2656,7 +2656,7 @@ A Virtual Desktop Infrastructure (VDI) is a type of infrastructure that utilizes
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
 <details close>
-    <summary>Provisioning Public Cloud Storage Solutions &#x21A9; &#x2705;</summary>
+    <summary>Provisioning Public Cloud Storage Solutions &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Provisioning Public Cloud Storage Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ProvisioningPublicCloudStorageSolutions.htm) <a id="ProvisioningPublicCloudStorageSolutions"></a>
 
@@ -2669,7 +2669,7 @@ A Virtual Desktop Infrastructure (VDI) is a type of infrastructure that utilizes
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
 <details close>
-    <summary>Provisioning Private Cloud Storage Solutions &#x21A9; &#x2705;</summary>
+    <summary>Provisioning Private Cloud Storage Solutions &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Provisioning Private Cloud Storage Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ProvisioningPrivateCloudStorageSolutions.htm) <a id="ProvisioningPrivateCloudStorageSolutions"></a>
 
@@ -2720,7 +2720,7 @@ When it comes to accessing storage and storage protocol technologies in cloud en
 - Non-volatile Memory Express over Fabrics (NVMe-oF):This is the most recent transfer protocol compared to the above. This type of protocol allows a native connection of flash storage directly to a PCIe bus, freeing up some potential bottlenecks in storage transfer, again allowing for lossless high-speed transfer. This can be combined with the FC protocol, known as NVme-oF over FC, as well as with the Remote Direct Memory Access Protocol (RDMA) (NVMe-oF over RDMA) and TCP/IP (NVMe-oF over TCP/IP) protocols.
 </details>
 <details close>
-    <summary>Deploying Cloud Networking Solutions &#x21A9; &#x2705;</summary>
+    <summary>Deploying Cloud Networking Solutions &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Deploying Cloud Networking Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/DeployingCloudNetworkingSolutions.htm) <a id="DeployingCloudNetworkingSolutions"></a>
 
@@ -2783,7 +2783,7 @@ Outside of the use of communication protocols, VPNs and routing, there are sever
 - Software-defined network (SDN): This technology allows the use of software-based network controllers rather than physical hardware to manage network traffic, which is key in completely virtualized environments such as private cloud subscriptions.
 </details>
 <details close>
-    <summary>Virtualization Concepts and Platforms &#x21A9; &#x2705;</summary>
+    <summary>Virtualization Concepts and Platforms &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Virtualization Concepts and Platforms](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/VirtualizationConceptsandPlatforms.htm) <a id="VirtualizationConceptsandPlatforms"></a>
 
@@ -2792,7 +2792,7 @@ Outside of the use of communication protocols, VPNs and routing, there are sever
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/pfsense.png?raw=true)
 </details>
 <details close>
-    <summary>Cloud Migration Techniques &#x21A9; &#x2705;</summary>
+    <summary>Cloud Migration Techniques &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Cloud Migration Techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudMigrationTechniques.htm) <a id="CloudMigrationTechniques"></a>
 
@@ -2833,7 +2833,7 @@ Always make sure that the database is compatible with the database engine of the
 You will want to check with the cloud provider and look into what tools they make available to convert your database if need be. When migrating databases, it is always safer to run several test migrations and go through QA before you decommission your older environment. 
 </details>
 <details close>
-    <summary>Configuring Logging for Cloud Resources &#x21A9; &#x2705;</summary>
+    <summary>Configuring Logging for Cloud Resources &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Configuring Logging for Cloud Resources](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ConfiguringLoggingforCloudResources.htm) <a id="ConfiguringLoggingforCloudResources"></a>
 
@@ -2910,7 +2910,7 @@ When working in cloud environments, automating as many things as possible is typ
 It’s important to remember that with larger infrastructures, the larger the logging data that will be received, which can quickly spiral out of control for a human to sensibly manage manually. Because of this, it is likely beneficial to implement at least some level of automatic logging and reporting, including functions such as providing trend insights.
 </details>
 <details close>
-    <summary>Implementing Cloud Resource Monitoring &#x21A9; &#x2705;</summary>
+    <summary>Implementing Cloud Resource Monitoring &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Implementing Cloud Resource Monitoring](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ImplementingCloudResourceMonitoringSolutions.htm) <a id="ImplementingCloudResourceMonitoringSolutions"></a>
 
@@ -2951,7 +2951,7 @@ So now that you have a basic understanding of the fundamental pieces of monitori
 When considering SLA uptime percentages, any specific public cloud resource should be performing at a baseline as dictated by the Cloud Service Provider (CSP). When analysing cloud metrics, something that should be scrutinized is general resource uptime from a cloud vendor when compared to the Service Level Agreement (SLA) for that resource. This should not fall below this figure and could result in service credits being awarded if they do fall below acceptable levels. 
 </details>
 <details close>
-    <summary>Implementing Cloud Resource Monitoring and Alert Solutions &#x21A9; &#x2705;</summary>
+    <summary>Implementing Cloud Resource Monitoring and Alert Solutions &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Implementing Cloud Resource Monitoring and Alert Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ImplementingCloudResourceMonitoringandAlertSolutions.htm) <a id="ImplementingCloudResourceMonitoringandAlertSolutions"></a>
 
@@ -2982,7 +2982,7 @@ These SLAs are written out and negotiated between MSPs and their clients and if 
 As you can imagine, this can create a bad situation for all parties involved and if you ever work in accordance with SLAs you will want to make sure you are doing everything you can to not find yourself in that situation.
 </details>
 <details close>
-    <summary>Cloud Dashboards and Reporting &#x21A9; &#x2705;</summary>
+    <summary>Cloud Dashboards and Reporting &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Cloud Dashboards and Reporting](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudDashboardsandReporting.htm) <a id="CloudDashboardsandReporting"></a>
 
@@ -3045,7 +3045,7 @@ You need to know how much uptime resources are averaging per day, week, or month
 - When it does go down, how long is the outage?
 </details>
 <details close>
-    <summary>Cloud Patches and Upgrading and Lifecycle Management &#x21A9; &#x2705;</summary>
+    <summary>Cloud Patches and Upgrading and Lifecycle Management &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Cloud Patches and Upgrading and Lifecycle Management](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudPatchesUpgradingandLifecycleManagement.htm) <a id="CloudPatchesUpgradingandLifecycleManagement"></a>
 
@@ -3130,7 +3130,7 @@ The Blue-green model is one of the most common deployment methodologies you will
 Canary deployments are when you patch a few of your instances or VMs at a time out of many VMs. For example, if you have ten servers performing the same task behind a load balancer, you would deploy your changes to a few of them and then wait to see if any issues arise.
 </details>
 <details close>
-    <summary>Optimizing Cloud Solutions &#x21A9; &#x2705;</summary>
+    <summary>Optimizing Cloud Solutions &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Optimizing Cloud Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/OptimizingCloudSolutions.htm) <a id="OptimizingCloudSolutions"></a>
 
@@ -3183,7 +3183,7 @@ Today, it is typical to see major websites with users spreading the world to uti
 Azure offers a range of different networking services that allow you to customize your environment based on your needs. Within the Azure portal, you can manage public IP addresses, reserve IPs, customize your routing tables, create a Virtual Network, or even a Virtual WAN.
 </details>
 <details close>
-    <summary>Implementing Cloud Resource Automation Solutions &#x21A9; &#x2705;</summary>
+    <summary>Implementing Cloud Resource Automation Solutions &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Implementing Cloud Resource Automation Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ImplementingCloudResourceAutomationSolutions.htm) <a id="ImplementingCloudResourceAutomationSolutions"></a>
 
@@ -3226,7 +3226,7 @@ One of the important things to remember when using scripts would be that in orde
 It is highly recommended that you do not include the credentials to be used in the script but rather use either an authentication key or utilize your cloud platform's password vault and reference the stored credentials in that manner. This is much more secure, and you never want to store credentials in plain text.
 </details>
 <details close>
-    <summary>Implementing Cloud Backup and Restore Solutions &#x21A9; &#x2705;</summary>
+    <summary>Implementing Cloud Backup and Restore Solutions &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Implementing Cloud Backup and Restore Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ImplementingCloudBackupandRestoreSolutions.htm) <a id="ImplementingCloudBackupandRestoreSolutions"></a>
 
@@ -3263,7 +3263,7 @@ Backup and restore policies standardize the process of performing backups and pl
 Depending on how to design your procedures, there are several concepts regarding restoration methods. One common method is to have an exact copy in place within the same environment, ready to be restored if the production virtual machine or instance fails. Another common method that you will see used for disaster recovery is alternate site restoration. This is when an entirely different site is used for recovery; this is common for disaster recovery and continuity planning as if something were to physically happen to one location, the other location is still functioning.
 </details>
 <details close>
-    <summary>Cloud Disaster Recovery Concepts &#x21A9; &#x2705;</summary>
+    <summary>Cloud Disaster Recovery Concepts &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Cloud Disaster Recovery Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudDisasterRecoveryConcepts.htm) <a id="CloudDisasterRecoveryConcepts"></a>
 
@@ -3272,7 +3272,7 @@ Depending on how to design your procedures, there are several concepts regarding
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabdm01.png?raw=true)
 </details>
 <details close>
-    <summary>Cloud Troubleshooting Methodologies &#x21A9; &#x2705;</summary>
+    <summary>Cloud Troubleshooting Methodologies &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Cloud Troubleshooting Methodologies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudTroubleshootingMethodologies.htm) <a id="CloudTroubleshootingMethodologies"></a>
 
@@ -3281,7 +3281,7 @@ Depending on how to design your procedures, there are several concepts regarding
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
 <details close>
-    <summary>Security Troubleshooting Techniques &#x21A9; &#x2705;</summary>
+    <summary>Security Troubleshooting Techniques &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Security Troubleshooting Techniques](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/SecurityTroubleshootingTechniques.htm) <a id="SecurityTroubleshootingTechniques"></a>
 
@@ -3318,7 +3318,7 @@ Misconfigured or failed security appliances can easily allow access to a resourc
 Make sure that you are not use outdated protocols that are no longer supported poise security risks. You do not want to do something like use WEP for your wireless infrastructure. Whatever protocols you use always look into what the best protocol is for what you are doing and follow those guidelines.
 </details>
 <details close>
-    <summary>Troubleshooting Cloud Deployments &#x21A9; &#x2705;</summary>
+    <summary>Troubleshooting Cloud Deployments &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Troubleshooting Cloud Deployments](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/TroubleshootingCloudDeployments.htm) <a id="TroubleshootingCloudDeployments"></a>
 
@@ -3393,7 +3393,7 @@ Due to the nature of working with a vendor in public cloud environments, several
 - Billing:Different infrastructures have different cost structures, so it should always be considered when working with or migrating to a particular vendor. Specifically, migration should be one of the first considerations and should have sign-off, including potential future spending.
 </details>
 <details close>
-    <summary>Cloud Networking Troubleshooting Concepts &#x21A9; &#x2705;</summary>
+    <summary>Cloud Networking Troubleshooting Concepts &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Cloud Networking Troubleshooting Concepts](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/CloudNetworkingTroubleshootingConcepts.htm) <a id="CloudNetworkingTroubleshootingConcepts"></a>
 
@@ -3574,7 +3574,7 @@ The openssl program is a command line tool for using the different cryptography 
 - Time Stamp requests, creation and validation
 </details>
 <details close>
-    <summary>Troubleshooting Cloud Resource Utilization &#x21A9; &#x2705;</summary>
+    <summary>Troubleshooting Cloud Resource Utilization &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Troubleshooting Cloud Resource Utilization](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/TroubleshootingCloudResourceUtilization.htm) <a id="TroubleshootingCloudResourceUtilization"></a>
 
@@ -3615,7 +3615,7 @@ Alongside compute and storage resources, Networking resources should also be rev
 - Load balancing: Just as with other configurations of resources, load balancers also have the capacity to experience issues in the daily running of an environment and can impact network performance. This can include incorrect configurations of each load balancer used and general failures to intercept and direct traffic. To remediate load balancing issues, you may use secondary failover balancers and scrutinize network traffic using packet capturing software such as Wireshark. 
 </details>
 <details close>
-    <summary>Automation and Orchestration Troubleshooting Methodologies &#x21A9; &#x2705;</summary>
+    <summary>Automation and Orchestration Troubleshooting Methodologies &#x21A9; &#x2B55;</summary>
 
 ### Topic: [Automation and Orchestration Troubleshooting Methodologies](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/AutomationandOrchestrationTroubleshootingMethodologies.htm) <a id="AutomationandOrchestrationTroubleshootingMethodologies"></a>
 
@@ -3699,7 +3699,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 03/12/2022
 "update repository ./asp-virtualization-security - Creating a Container Registry / Deploying an Application Container" 
 -->
-<details open>
+<details close>
 	<summary>Virtualization Security &#x21A9; <b></b></summary>
 
 - { ["**Types of Virtualization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#A) : &#x1F513; }
@@ -3723,10 +3723,14 @@ As with other considerations when patching an environment, sandbox testing is ke
 - { ["**Deploying an Application Container**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#J) : &#x274C; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+03/12/2022
+"update repository ./asp-secure-cloud-computing - Cloud Computing" 
+-->
+<details open>
     <summary>Secure Cloud Computing &#x21A9; <b></b></summary>
 
-- { ["**Cloud Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#A) : &#x1F6A7; }
+- { ["**Cloud Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#A) : &#x2B55; }
 
 - { ["**Cloud Deployment Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#B) : &#x1F6A7; }
 
