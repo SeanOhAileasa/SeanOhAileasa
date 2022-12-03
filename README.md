@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 03/12/2022
-"update repository ./cdp-practice-labs - Analyzing Business Requirements for a Cloud Solution"
+"update repository ./cdp-practice-labs - Configuring and Managing Cloud Identities"
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2294,7 +2294,6 @@ Usability testing measures the user-friendliness of an infrastructure. More impo
 
 Picture a scenario wherein you are developing a web application. Usability testing would be key to ensure that the application is usable for people with different types of devices, from smartphones, tablets, laptops or desktops.
 </details>
-<!--
 <details close>
     <summary>Configuring and Managing Cloud Identities &#x21A9; &#x2B55;</summary>
 
@@ -2308,6 +2307,7 @@ Picture a scenario wherein you are developing a web application. Usability testi
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
+<!--
 <details close>
     <summary>Cloud Networking Concepts &#x21A9; &#x2B55;</summary>
 
