@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 03/12/2022
-"update repository ./cdp-practice-labs - Different Cloud Service Models"
+"update repository ./cdp-practice-labs - Cloud Resource Capacity Planning"
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2019,7 +2019,6 @@ Microsoft 365, previously known as Microsoft Office 365, includes a suite of clo
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
-<!--
 <details close>
     <summary>Cloud Resource Capacity Planning &#x21A9; &#x2705;</summary>
 
@@ -2121,6 +2120,7 @@ Impact on infrastructure can be analyzed by looking at different trends, such as
 
 These factors allow you to proactively plan what kind of performance power your infrastructure needs before it has been built, allowing much simpler management down the line.
 </details>
+<!--
 <details close>
     <summary>High Availability and Scalability in the Cloud &#x21A9; &#x2705;</summary>
 
@@ -3712,9 +3712,9 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 > &#x1F52C; { ["**Deploying Linux Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#E) : &#x2705; }
 
-- { ["**Encrypting Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#F) : &#x2B55; }
+> &#x1F52C; { ["**Encrypting Virtual Machines**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#F) : &#x2B55; }
 
-- { ["**Application Containers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#G) : &#x1F6A7; }
+- { ["**Application Containers**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#G) : &#x1F513; }
 
 - { ["**Working with Docker Desktop**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-virtualization-security/blob/main/asp-virtualization-security.ipynb#H) : &#x1F6A7; }
 
