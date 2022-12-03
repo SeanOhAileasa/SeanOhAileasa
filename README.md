@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 03/12/2022
-"update repository ./cdp-practice-labs - Cloud Networking Concepts"
+"update repository ./cdp-practice-labs - Cloud Networking Concepts" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -3725,7 +3725,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 03/12/2022
-"update repository ./asp-secure-cloud-computing - Cloud Deployment Models" 
+"update repository ./asp-secure-cloud-computing - Cloud Service Models" 
 -->
 <details open>
     <summary>Secure Cloud Computing &#x21A9; <b></b></summary>
@@ -3734,7 +3734,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 - { ["**Cloud Deployment Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#B) : &#x2B55; }
 
-- { ["**Cloud Service Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#C) : &#x1F6A7; }
+- { ["**Cloud Service Models**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#C) : &#x2B55; }
 
 - { ["**Reviewing Cloud Service Level Agreements**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#D) : &#x1F6A7; }
 
