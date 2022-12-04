@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Implementing Cloud Resource Monitoring and Alert Solutions" 
+"update repository ./cdp-practice-labs - Cloud Dashboards and Reporting" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2980,7 +2980,6 @@ These SLAs are written out and negotiated between MSPs and their clients and if 
 
 As you can imagine, this can create a bad situation for all parties involved and if you ever work in accordance with SLAs you will want to make sure you are doing everything you can to not find yourself in that situation.
 </details>
-<!--
 <details close>
     <summary>Cloud Dashboards and Reporting &#x21A9; &#x2B55;</summary>
 
@@ -3044,6 +3043,7 @@ You need to know how much uptime resources are averaging per day, week, or month
 
 - When it does go down, how long is the outage?
 </details>
+<!--
 <details close>
     <summary>Cloud Patches and Upgrading and Lifecycle Management &#x21A9; &#x2B55;</summary>
 
