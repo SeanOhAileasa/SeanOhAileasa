@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Virtualization Concepts and Platforms" 
+"update repository ./cdp-practice-labs - Cloud Migration Techniques" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2782,7 +2782,7 @@ Outside of the use of communication protocols, VPNs and routing, there are sever
 - Software-defined network (SDN): This technology allows the use of software-based network controllers rather than physical hardware to manage network traffic, which is key in completely virtualized environments such as private cloud subscriptions.
 </details>
 <details close>
-    <summary>Virtualization Concepts and Platforms &#x21A9; &#x2B55;</summary>
+    <summary>Virtualization Concepts and Platforms &#x21A9; &#x2B55;</summary> <!-- Simultaneous Multi-Threading (SMT) -->
 
 ### Topic: [Virtualization Concepts and Platforms](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/VirtualizationConceptsandPlatforms.htm) <a id="VirtualizationConceptsandPlatforms"></a>
 
@@ -2790,7 +2790,6 @@ Outside of the use of communication protocols, VPNs and routing, there are sever
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/pfsense.png?raw=true)
 </details>
-<!--
 <details close>
     <summary>Cloud Migration Techniques &#x21A9; &#x2B55;</summary>
 
@@ -2832,6 +2831,7 @@ Always make sure that the database is compatible with the database engine of the
 
 You will want to check with the cloud provider and look into what tools they make available to convert your database if need be. When migrating databases, it is always safer to run several test migrations and go through QA before you decommission your older environment. 
 </details>
+<!--
 <details close>
     <summary>Configuring Logging for Cloud Resources &#x21A9; &#x2B55;</summary>
 
