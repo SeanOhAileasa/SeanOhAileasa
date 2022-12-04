@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Deploying Cloud Networking Solutions" 
+"update repository ./cdp-practice-labs - Virtualization Concepts and Platforms" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2781,7 +2781,6 @@ Outside of the use of communication protocols, VPNs and routing, there are sever
 
 - Software-defined network (SDN): This technology allows the use of software-based network controllers rather than physical hardware to manage network traffic, which is key in completely virtualized environments such as private cloud subscriptions.
 </details>
-<!--
 <details close>
     <summary>Virtualization Concepts and Platforms &#x21A9; &#x2B55;</summary>
 
@@ -2791,6 +2790,7 @@ Outside of the use of communication protocols, VPNs and routing, there are sever
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/pfsense.png?raw=true)
 </details>
+<!--
 <details close>
     <summary>Cloud Migration Techniques &#x21A9; &#x2B55;</summary>
 
