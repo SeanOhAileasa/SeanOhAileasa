@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Cloud Patches and Upgrading and Lifecycle Management" 
+"update repository ./cdp-practice-labs - Optimizing Cloud Solutions" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -3128,7 +3128,6 @@ The Blue-green model is one of the most common deployment methodologies you will
 
 Canary deployments are when you patch a few of your instances or VMs at a time out of many VMs. For example, if you have ten servers performing the same task behind a load balancer, you would deploy your changes to a few of them and then wait to see if any issues arise.
 </details>
-<!--
 <details close>
     <summary>Optimizing Cloud Solutions &#x21A9; &#x2B55;</summary>
 
@@ -3182,6 +3181,7 @@ Today, it is typical to see major websites with users spreading the world to uti
 
 Azure offers a range of different networking services that allow you to customize your environment based on your needs. Within the Azure portal, you can manage public IP addresses, reserve IPs, customize your routing tables, create a Virtual Network, or even a Virtual WAN.
 </details>
+<!--
 <details close>
     <summary>Implementing Cloud Resource Automation Solutions &#x21A9; &#x2B55;</summary>
 
