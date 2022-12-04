@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Cloud Migration Techniques" 
+"update repository ./cdp-practice-labs - Configuring Logging for Cloud Resources" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2831,7 +2831,6 @@ Always make sure that the database is compatible with the database engine of the
 
 You will want to check with the cloud provider and look into what tools they make available to convert your database if need be. When migrating databases, it is always safer to run several test migrations and go through QA before you decommission your older environment. 
 </details>
-<!--
 <details close>
     <summary>Configuring Logging for Cloud Resources &#x21A9; &#x2B55;</summary>
 
@@ -2909,6 +2908,7 @@ When working in cloud environments, automating as many things as possible is typ
 
 It’s important to remember that with larger infrastructures, the larger the logging data that will be received, which can quickly spiral out of control for a human to sensibly manage manually. Because of this, it is likely beneficial to implement at least some level of automatic logging and reporting, including functions such as providing trend insights.
 </details>
+<!--
 <details close>
     <summary>Implementing Cloud Resource Monitoring &#x21A9; &#x2B55;</summary>
 
