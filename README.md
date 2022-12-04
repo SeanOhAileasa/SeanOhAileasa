@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Data Security and Compliance in the Cloud" 
+"update repository ./cdp-practice-labs - Cloud Security Assessments and Tools" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2402,7 +2402,6 @@ This can include controls such as:
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/awsWorkstation.png?raw=true)
 </details>
-<!--
 <details close>
     <summary>Cloud Security Assessments and Tools &#x21A9; &#x2B55;</summary>
 
@@ -2478,7 +2477,7 @@ Platform as a Service:
 
 - Data protection
 
-Platform as a Service:
+Software as a Service:
 
 - Secure applications
 
@@ -2492,6 +2491,7 @@ As noted from the above example, IaaS models typically require much more investm
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/four.png?raw=true)
 </details>
+<!--
 <details close>
     <summary>Incident Response Procedures &#x21A9; &#x2B55;</summary>
 
