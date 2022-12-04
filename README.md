@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Securing Cloud Infrastructure Resources" 
+"update repository ./cdp-practice-labs - Data Security and Compliance in the Cloud" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2341,7 +2341,6 @@ Picture a scenario wherein you are developing a web application. Usability testi
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
-<!--
 <details close>
     <summary>Data Security and Compliance in the Cloud &#x21A9; &#x2B55;</summary>
 
@@ -2357,9 +2356,9 @@ Encryption is the process of converting plaintext/cleartext into ciphertext. Whi
 
 There are two main encryption methods:
 
-- Server-Side Encryption:This form of encryption is automatic and manages both encrypted data and the encryption key. In a cloud context, a Cloud Service Provider (CSP) will encrypt and decrypt this data both at rest and in transit. In the context of Cloud computing, CSPs will encrypt all data being stored in their datacenter, which is then decrypted when accessed by someone with the correct permissions.
+- Server-Side Encryption: This form of encryption is automatic and manages both encrypted data and the encryption key. In a cloud context, a Cloud Service Provider (CSP) will encrypt and decrypt this data both at rest and in transit. In the context of Cloud computing, CSPs will encrypt all data being stored in their datacenter, which is then decrypted when accessed by someone with the correct permissions.
 
-- Client-Side Encryption:This form of encryption allows client devices to manage the encryption key instead, which speeds up file transmission speeds between servers and clients as the data no longer has to be decrypted before it is sent. With Client-side encryption, efficient key management processes are necessary to maintain availability of encrypted data. This can be done via a third-party Key Escrow service, which will manage keys on your behalf.
+- Client-Side Encryption: This form of encryption allows client devices to manage the encryption key instead, which speeds up file transmission speeds between servers and clients as the data no longer has to be decrypted before it is sent. With Client-side encryption, efficient key management processes are necessary to maintain availability of encrypted data. This can be done via a third-party Key Escrow service, which will manage keys on your behalf.
 
 ``Integrity``
 
@@ -2369,7 +2368,7 @@ There are a few methods to verify the integrity of your data, such as:
 
 - Hashing Algorithms: These algorithms will encrypt your data to a specific key, then run back through the same algorithm to decrypt your data. If the data remains unchanged, then so will the hashing algorithm. There are different hashing methods with varying levels of security, such as Message Digest 5 (MD5) and the Secure Hashing Algorithm (SHA).
 
-- Digital Signatures:In the context of data security, a digital signature is a combination of certificates and hashing algorithms that will provide you with a “signature” that only allows access to data, provided that another person can provide a certificate that can decrypt the data. This verifies that data has not been tampered with when in transit between two parties.
+- Digital Signatures: In the context of data security, a digital signature is a combination of certificates and hashing algorithms that will provide you with a “signature” that only allows access to data, provided that another person can provide a certificate that can decrypt the data. This verifies that data has not been tampered with when in transit between two parties.
 
 ``Classification``
 
@@ -2393,7 +2392,7 @@ This can include controls such as:
 
 - Privileged Access Control: This refers to a control that allows only specific users with certain permissions to access certain restricted pieces of data. For example, organizations may set a policy in a public cloud subscription that prevents anyone but an Admin from viewing or making changes to a specific part of a cloud infrastructure.
 
-- Roll-Based Access Control: Like privileged access control, only specific roles can access certain data. For example, you could have two different departments set up in a public cloud subscription and then set a policy that only allows users from one group to access the data they need.
+- Role-Based Access Control: Like privileged access control, only specific roles can access certain data. For example, you could have two different departments set up in a public cloud subscription and then set a policy that only allows users from one group to access the data they need.
 
 - Rule-Based Access Control: This allows access to data based on rules and policies that a security administrator has implemented. When a user attempts to access some data, the rules assigned on an Access Control List (ACL) are checked before granting access.
 
@@ -2403,6 +2402,7 @@ This can include controls such as:
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/awsWorkstation.png?raw=true)
 </details>
+<!--
 <details close>
     <summary>Cloud Security Assessments and Tools &#x21A9; &#x2B55;</summary>
 
