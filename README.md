@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Provisioning Private Cloud Storage Solutions" 
+"update repository ./cdp-practice-labs - Deploying Cloud Networking Solutions" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2718,7 +2718,6 @@ When it comes to accessing storage and storage protocol technologies in cloud en
 
 - Non-volatile Memory Express over Fabrics (NVMe-oF): This is the most recent transfer protocol compared to the above. This type of protocol allows a native connection of flash storage directly to a PCIe bus, freeing up some potential bottlenecks in storage transfer, again allowing for lossless high-speed transfer. This can be combined with the FC protocol, known as NVme-oF over FC, as well as with the Remote Direct Memory Access Protocol (RDMA) (NVMe-oF over RDMA) and TCP/IP (NVMe-oF over TCP/IP) protocols.
 </details>
-<!--
 <details close>
     <summary>Deploying Cloud Networking Solutions &#x21A9; &#x2B55;</summary>
 
@@ -2766,7 +2765,7 @@ Many aspects should be considered when routing traffic through cloud networks to
 
 - Subnetting: Although manual provisioning of subnets is less common in real-world cloud environments, a subnet divides an overall network address space into smaller networks that can separate a wider network and can be routed to directly. 
 
-- Virtual Private Cloud (VPC): ): A VPC (otherwise known as Virtual Routing and Forwarding ((VRF))) allows administrators to partition a physical router into different allocations, which can be used to provide multiple routing tables to different tenants, all using the same, physical router. A VPC can be created on a Public Cloud platform, and creates an internal virtual private network on the cloud infrastructure to facilitate commubication between virtual resources.
+- Virtual Private Cloud (VPC): A VPC (otherwise known as Virtual Routing and Forwarding (``VRF``) allows administrators to partition a physical router into different allocations, which can be used to provide multiple routing tables to different tenants, all using the same, physical router. A VPC can be created on a Public Cloud platform, and creates an internal virtual private network on the cloud infrastructure to facilitate communication between virtual resources.
 
 ``Cloud Networking Solutions``
 
@@ -2782,6 +2781,7 @@ Outside of the use of communication protocols, VPNs and routing, there are sever
 
 - Software-defined network (SDN): This technology allows the use of software-based network controllers rather than physical hardware to manage network traffic, which is key in completely virtualized environments such as private cloud subscriptions.
 </details>
+<!--
 <details close>
     <summary>Virtualization Concepts and Platforms &#x21A9; &#x2B55;</summary>
 
