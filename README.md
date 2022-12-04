@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Configuring Logging for Cloud Resources" 
+"update repository ./cdp-practice-labs - Implementing Cloud Resource Monitoring" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2908,7 +2908,6 @@ When working in cloud environments, automating as many things as possible is typ
 
 It’s important to remember that with larger infrastructures, the larger the logging data that will be received, which can quickly spiral out of control for a human to sensibly manage manually. Because of this, it is likely beneficial to implement at least some level of automatic logging and reporting, including functions such as providing trend insights.
 </details>
-<!--
 <details close>
     <summary>Implementing Cloud Resource Monitoring &#x21A9; &#x2B55;</summary>
 
@@ -2922,7 +2921,7 @@ It’s important to remember that with larger infrastructures, the larger the lo
 
 Baselines serve an important function of cloud resource monitoring. In a cloud computing context, a baseline refers to the base overall performance level of a resource or infrastructure. With an accurate baseline, you should understand the base level of activity a resource or infrastructure should perform at. This ties into the concept of Thresholds, which act as a “line in the sand” to which a resource should be investigated if it ever falls below this agreed line.
 
-As an example, you could potentially spin up an EC2 instance in AWS, but notice that RAM utilization is constantly maxxed out. This could indicate a number of things, such as the instance being misconfigured, it may not have adequate resources to function correctly, or the surrounding infrastructure may be increasing the load on this device. In this case, this device would be performing under the baseline and threshold, so would require investigation. 
+As an example, you could potentially spin up an EC2 instance in AWS, but notice that RAM utilization is constantly maxed out. This could indicate a number of things, such as the instance being misconfigured, it may not have adequate resources to function correctly, or the surrounding infrastructure may be increasing the load on this device. In this case, this device would be performing under the baseline and threshold, so would require investigation. 
 
 Metrics also come into play in investigating these issues. Metrics are very important because these are the measurements you gather from monitoring to determine if a resource is at a baseline or passed a threshold. Metrics are the measurement of the resources an instance is consuming such as, and not limited to, CPU, RAM, Storage, DB inquires, Network usage, etc.
 
@@ -2950,6 +2949,7 @@ So now that you have a basic understanding of the fundamental pieces of monitori
 
 When considering SLA uptime percentages, any specific public cloud resource should be performing at a baseline as dictated by the Cloud Service Provider (CSP). When analysing cloud metrics, something that should be scrutinized is general resource uptime from a cloud vendor when compared to the Service Level Agreement (SLA) for that resource. This should not fall below this figure and could result in service credits being awarded if they do fall below acceptable levels. 
 </details>
+<!--
 <details close>
     <summary>Implementing Cloud Resource Monitoring and Alert Solutions &#x21A9; &#x2B55;</summary>
 
