@@ -1948,7 +1948,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
 <!--
-03/12/2022
+04/12/2022
 "update repository ./cdp-practice-labs - Securing Cloud Infrastructure Resources" 
 -->
 <details close>
@@ -2328,7 +2328,6 @@ Picture a scenario wherein you are developing a web application. Usability testi
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
-<!--
 <details close>
     <summary>Securing Cloud Infrastructure Resources &#x21A9; &#x2B55;</summary>
 
@@ -2342,6 +2341,7 @@ Picture a scenario wherein you are developing a web application. Usability testi
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
+<!--
 <details close>
     <summary>Data Security and Compliance in the Cloud &#x21A9; &#x2B55;</summary>
 
