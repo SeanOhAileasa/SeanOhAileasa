@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Cloud Security Assessments and Tools" 
+"update repository ./cdp-practice-labs - Incident Response Procedures" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2491,7 +2491,6 @@ As noted from the above example, IaaS models typically require much more investm
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/four.png?raw=true)
 </details>
-<!--
 <details close>
     <summary>Incident Response Procedures &#x21A9; &#x2B55;</summary>
 
@@ -2569,6 +2568,7 @@ This is the most important response planning phase and covers what work will be 
 
 Once an incident has been eradicated and recovery procedures have been enacted, the final stage is to review the process thoroughly and hold the businesses collected reaction accountable. This can be done through a “lessons learned” discussion, in which key stakeholders will show where the response was performed adequately and which areas may need work if this happens again. These then feed back into the planning phase to ensure the process is iterative and always improving.
 </details>
+<!--
 <details close>
     <summary>Cloud Solution Integration &#x21A9; &#x2B55;</summary>
 
