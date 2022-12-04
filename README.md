@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Provisioning Cloud Resources" 
+"update repository ./cdp-practice-labs - Provisioning Public Cloud Storage Solutions" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2654,7 +2654,6 @@ A Virtual Desktop Infrastructure (VDI) is a type of infrastructure that utilizes
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
-<!--
 <details close>
     <summary>Provisioning Public Cloud Storage Solutions &#x21A9; &#x2B55;</summary>
 
@@ -2668,6 +2667,7 @@ A Virtual Desktop Infrastructure (VDI) is a type of infrastructure that utilizes
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
+<!--
 <details close>
     <summary>Provisioning Private Cloud Storage Solutions &#x21A9; &#x2B55;</summary>
 
