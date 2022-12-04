@@ -1938,7 +1938,7 @@ eC=Lesson 6-Automation Concepts
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
 01/12/2022
-"update repository ./cdp-cloud - Review/Summary - Practice Questions - Cloud Networking Concepts"
+"update repository ./cdp-cloud - Review/Summary - Practice Questions - Implementing High Availability and Disaster Recovery in the Cloud"
 -->
 
 - { ["**CompTIA Cloud+**"](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) : &#x1F6A7; }
@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Incident Response Procedures" 
+"update repository ./cdp-practice-labs - Cloud Solution Integration" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2568,7 +2568,6 @@ This is the most important response planning phase and covers what work will be 
 
 Once an incident has been eradicated and recovery procedures have been enacted, the final stage is to review the process thoroughly and hold the businesses collected reaction accountable. This can be done through a “lessons learned” discussion, in which key stakeholders will show where the response was performed adequately and which areas may need work if this happens again. These then feed back into the planning phase to ensure the process is iterative and always improving.
 </details>
-<!--
 <details close>
     <summary>Cloud Solution Integration &#x21A9; &#x2B55;</summary>
 
@@ -2642,6 +2641,7 @@ A Virtual Desktop Infrastructure (VDI) is a type of infrastructure that utilizes
 
 - Oracle VirtualBox (private).
 </details>
+<!--
 <details close>
     <summary>Provisioning Cloud Resources &#x21A9; &#x2B55;</summary>
 
