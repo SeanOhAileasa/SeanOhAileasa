@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Implementing Cloud Resource Monitoring" 
+"update repository ./cdp-practice-labs - Implementing Cloud Resource Monitoring and Alert Solutions" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2949,7 +2949,6 @@ So now that you have a basic understanding of the fundamental pieces of monitori
 
 When considering SLA uptime percentages, any specific public cloud resource should be performing at a baseline as dictated by the Cloud Service Provider (CSP). When analysing cloud metrics, something that should be scrutinized is general resource uptime from a cloud vendor when compared to the Service Level Agreement (SLA) for that resource. This should not fall below this figure and could result in service credits being awarded if they do fall below acceptable levels. 
 </details>
-<!--
 <details close>
     <summary>Implementing Cloud Resource Monitoring and Alert Solutions &#x21A9; &#x2B55;</summary>
 
@@ -2981,6 +2980,7 @@ These SLAs are written out and negotiated between MSPs and their clients and if 
 
 As you can imagine, this can create a bad situation for all parties involved and if you ever work in accordance with SLAs you will want to make sure you are doing everything you can to not find yourself in that situation.
 </details>
+<!--
 <details close>
     <summary>Cloud Dashboards and Reporting &#x21A9; &#x2B55;</summary>
 
