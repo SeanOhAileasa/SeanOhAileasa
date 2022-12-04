@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 03/12/2022
-"update repository ./cdp-practice-labs - Cloud Networking Concepts" 
+"update repository ./cdp-practice-labs - Securing Cloud Infrastructure Resources" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -3727,7 +3727,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 03/12/2022
 "update repository ./asp-secure-cloud-computing - Cloud Service Models" 
 -->
-<details open>
+<details close>
     <summary>Secure Cloud Computing &#x21A9; <b></b></summary>
 
 - { ["**Cloud Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#A) : &#x2B55; }
@@ -4010,13 +4010,17 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 - { ["**Backing Up Data Using Microsoft Azure**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#E) : &#x1F6A7; }
 </details>
-<hr width=25%;>
-<details close>
+<hr width=25%;>  
+<details open>
     <summary>Supplemental &#x21A9;</summary>
 <!--
-- { ["**CompTIA CASP+**"](https://github.com/SeanOhAileasa/asp-casp/blob/main/README.md) : &#x1F6A7; }
+from IPython.display import display,HTML
+display(HTML("<style>.container { width:100% !important; }</style>"))	
+04/12/2022
+"update repository ./asp-casp - Review/Summary - Practice Questions - Perform Risk Management Activities"
 -->
-&#x1F6A7;
+
+- { ["**CompTIA CASP+**"](https://github.com/SeanOhAileasa/asp-casp/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (Supplemental) -->
 </details> <!-- END (CompTIA CASP+) -->
 <details close>
