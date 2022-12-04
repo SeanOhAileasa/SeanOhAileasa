@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Cloud Dashboards and Reporting" 
+"update repository ./cdp-practice-labs - Cloud Patches and Upgrading and Lifecycle Management" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -3043,7 +3043,6 @@ You need to know how much uptime resources are averaging per day, week, or month
 
 - When it does go down, how long is the outage?
 </details>
-<!--
 <details close>
     <summary>Cloud Patches and Upgrading and Lifecycle Management &#x21A9; &#x2B55;</summary>
 
@@ -3089,7 +3088,7 @@ With all resources in a single environment, it is imperative to update the softw
 
 ``Hypervisors``
 
-A hypervisor is an application that facilates the share of physical resources from a host device to a virtual device. Diffrent types of Hypervisors are avaiable, such as "bare metal" hypervisors where there is no operating system, for example VMWARE ESXi and a hypervisor with a GUI and an operating system, for example, Microsoft Hyper-V.
+A hypervisor is an application that facilitates the share of physical resources from a host device to a virtual device. Diffrent types of Hypervisors are avaiable, such as "bare metal" hypervisors where there is no operating system, for example VMWARE ESXi and a hypervisor with a GUI and an operating system, for example, Microsoft Hyper-V.
 
 ``Virtual Machines (VMs)``
 
@@ -3129,6 +3128,7 @@ The Blue-green model is one of the most common deployment methodologies you will
 
 Canary deployments are when you patch a few of your instances or VMs at a time out of many VMs. For example, if you have ten servers performing the same task behind a load balancer, you would deploy your changes to a few of them and then wait to see if any issues arise.
 </details>
+<!--
 <details close>
     <summary>Optimizing Cloud Solutions &#x21A9; &#x2B55;</summary>
 
