@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 04/12/2022
-"update repository ./cdp-practice-labs - Provisioning Public Cloud Storage Solutions" 
+"update repository ./cdp-practice-labs - Provisioning Private Cloud Storage Solutions" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -2667,9 +2667,8 @@ A Virtual Desktop Infrastructure (VDI) is a type of infrastructure that utilizes
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
-<!--
 <details close>
-    <summary>Provisioning Private Cloud Storage Solutions &#x21A9; &#x2B55;</summary>
+    <summary>Provisioning Private Cloud Storage Solutions &#x21A9; &#x2B55;</summary> <!-- RAID -->
 
 ### Topic: [Provisioning Private Cloud Storage Solutions](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/ProvisioningPrivateCloudStorageSolutions.htm) <a id="ProvisioningPrivateCloudStorageSolutions"></a>
 
@@ -2691,7 +2690,7 @@ There are different features of different storage types, such as:
 
 - User quotas: This concept in cloud computing allows you to split up an overall storage space into smaller portions or partitions. For example, you could provision storage for an infrastructure and then partition out different capacities for production, staging and management environments as necessary, which is a key consideration when overall storage space is limited.
 
-- Hypverconverged Infrastructure (HCI): This term applies to the virtualization of different resources in a cloud environment, aiming to consolidate things into one unit. This can include virtualized compute, network and storage resources and allows users to modify things as if they were one infrastructure rather than separate resources.
+- Hyperconverged Infrastructure (HCI): This term applies to the virtualization of different resources in a cloud environment, aiming to consolidate things into one unit. This can include virtualized compute, network and storage resources and allows users to modify things as if they were one infrastructure rather than separate resources.
 
 ``Tiers``
 
@@ -2711,14 +2710,15 @@ When it comes to accessing storage and storage protocol technologies in cloud en
 
 - Network File System (NFS): The NFS file storage protocol is an older communication protocol and has been historically used in UNIX based systems and is a general standard for storage communication online today and, like modern counterparts, allows for file transfer between Windows and non-Windows operating systems. As of the time of writing, the most recent version of NFS is Version 3.
 
-- Common Internet File System (CIFS):CIFS is a legacy protocol based on the Server Messaging Block (SMB), the original transfer protocol used by Windows servers. You may find that it is unsupported for different types of file storage.
+- Common Internet File System (CIFS): CIFS is a legacy protocol based on the Server Messaging Block (SMB), the original transfer protocol used by Windows servers. You may find that it is unsupported for different types of file storage.
 
-- Internet Small Computer System Interface (iSCI):The iSCI protocol places SMB and Command Descriptor Block (CBD) protocols into IP packets that can quickly be shared across the internet. This protocol supports communication over 10Gbps links, allowing quick data transmission speeds and performance. 
+- Internet Small Computer System Interface (iSCI): The iSCI protocol places SMB and Command Descriptor Block (CBD) protocols into IP packets that can quickly be shared across the internet. This protocol supports communication over 10Gbps links, allowing quick data transmission speeds and performance. 
 
 - Fibre Channel (FC): The FC protocol allows incredible transfer speeds and utilizes Fiber optics and dedicated infrastructure to allow transfers with little latency. The main downside of utilizing FC is the overarching cost due to requiring its own infrastructure to support.
 
-- Non-volatile Memory Express over Fabrics (NVMe-oF):This is the most recent transfer protocol compared to the above. This type of protocol allows a native connection of flash storage directly to a PCIe bus, freeing up some potential bottlenecks in storage transfer, again allowing for lossless high-speed transfer. This can be combined with the FC protocol, known as NVme-oF over FC, as well as with the Remote Direct Memory Access Protocol (RDMA) (NVMe-oF over RDMA) and TCP/IP (NVMe-oF over TCP/IP) protocols.
+- Non-volatile Memory Express over Fabrics (NVMe-oF): This is the most recent transfer protocol compared to the above. This type of protocol allows a native connection of flash storage directly to a PCIe bus, freeing up some potential bottlenecks in storage transfer, again allowing for lossless high-speed transfer. This can be combined with the FC protocol, known as NVme-oF over FC, as well as with the Remote Direct Memory Access Protocol (RDMA) (NVMe-oF over RDMA) and TCP/IP (NVMe-oF over TCP/IP) protocols.
 </details>
+<!--
 <details close>
     <summary>Deploying Cloud Networking Solutions &#x21A9; &#x2B55;</summary>
 
