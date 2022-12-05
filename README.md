@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 05/12/2022
-"update repository ./cdp-practice-labs - Implementing Cloud Backup and Restore Solutions" 
+"update repository ./cdp-practice-labs - Cloud Disaster Recovery Concepts" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -3261,7 +3261,6 @@ Backup and restore policies standardize the process of performing backups and pl
 
 Depending on how to design your procedures, there are several concepts regarding restoration methods. One common method is to have an exact copy in place within the same environment, ready to be restored if the production virtual machine or instance fails. Another common method that you will see used for disaster recovery is alternate site restoration. This is when an entirely different site is used for recovery; this is common for disaster recovery and continuity planning as if something were to physically happen to one location, the other location is still functioning.
 </details>
-<!--
 <details close>
     <summary>Cloud Disaster Recovery Concepts &#x21A9; &#x2B55;</summary>
 
@@ -3271,6 +3270,7 @@ Depending on how to design your procedures, there are several concepts regarding
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabdm01.png?raw=true)
 </details>
+<!--
 <details close>
     <summary>Cloud Troubleshooting Methodologies &#x21A9; &#x2B55;</summary>
 
