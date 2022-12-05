@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 05/12/2022
-"update repository ./cdp-practice-labs - Security Troubleshooting Techniques" 
+"update repository ./cdp-practice-labs - Troubleshooting Cloud Deployments" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -3316,7 +3316,6 @@ Misconfigured or failed security appliances can easily allow access to a resourc
 
 Make sure that you are not use outdated protocols that are no longer supported poise security risks. You do not want to do something like use WEP for your wireless infrastructure. Whatever protocols you use always look into what the best protocol is for what you are doing and follow those guidelines.
 </details>
-<!--
 <details close>
     <summary>Troubleshooting Cloud Deployments &#x21A9; &#x2B55;</summary>
 
@@ -3390,8 +3389,9 @@ Due to the nature of working with a vendor in public cloud environments, several
 
 - API Requests: An API request is a method of communication between two or more Application Programming Interfaces (APIs) and involves data being transmitted from one device requesting an API to access data. However, this can have underlying issues, such as an infrastructure meeting API request limits, which are hard limits on the number of requests an API can process at any time. These can be remediated via API management tools, such as Amazon API Gateway.
 
-- Billing:Different infrastructures have different cost structures, so it should always be considered when working with or migrating to a particular vendor. Specifically, migration should be one of the first considerations and should have sign-off, including potential future spending.
+- Billing: Different infrastructures have different cost structures, so it should always be considered when working with or migrating to a particular vendor. Specifically, migration should be one of the first considerations and should have sign-off, including potential future spending.
 </details>
+<!--
 <details close>
     <summary>Cloud Networking Troubleshooting Concepts &#x21A9; &#x2B55;</summary>
 
