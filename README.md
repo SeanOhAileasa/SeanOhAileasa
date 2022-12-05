@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 05/12/2022
-"update repository ./cdp-practice-labs - Cloud Networking Troubleshooting Concepts" 
+"update repository ./cdp-practice-labs - Troubleshooting Cloud Resource Utilization" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -3572,11 +3572,10 @@ The openssl program is a command line tool for using the different cryptography 
 
 - Time Stamp requests, creation and validation
 </details>
-<!--
 <details close>
     <summary>Troubleshooting Cloud Resource Utilization &#x21A9; &#x2B55;</summary>
 
-### Topic: [Troubleshooting Cloud Resource Utilization](https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/TroubleshootingCloudResourceUtilization.htm) <a id="TroubleshootingCloudResourceUtilization"></a>
+### Topic: Troubleshooting Cloud Resource Utilization
 
 ###### ``Troubleshooting Cloud Resources``
 
@@ -3584,7 +3583,7 @@ The openssl program is a command line tool for using the different cryptography 
 
 When considering the individual resources that make up an environment, multiple factors can impact a network's speed and performance.
 
-This includes both real and virtual hardware that each individual compute resource (such as a Virtual Machine (VM)) utilizes to run, such as:
+This includes both real and virtual hardware that each individual compute resource (such as a Virtual Machine (VM) utilizes to run, such as:
 
 - CPU: A Central Processing Unit (CPU) is the main processor that each VM requires to function. With higher demand, issues with CPU allocation can arise, such as system freezing and slow response times.
 
@@ -3614,6 +3613,7 @@ Alongside compute and storage resources, Networking resources should also be rev
 
 - Load balancing: Just as with other configurations of resources, load balancers also have the capacity to experience issues in the daily running of an environment and can impact network performance. This can include incorrect configurations of each load balancer used and general failures to intercept and direct traffic. To remediate load balancing issues, you may use secondary failover balancers and scrutinize network traffic using packet capturing software such as Wireshark. 
 </details>
+<!--
 <details close>
     <summary>Automation and Orchestration Troubleshooting Methodologies &#x21A9; &#x2B55;</summary>
 
