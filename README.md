@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 05/12/2022
-"update repository ./cdp-practice-labs - Troubleshooting Cloud Deployments" 
+"update repository ./cdp-practice-labs - Cloud Networking Troubleshooting Concepts" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -3391,7 +3391,6 @@ Due to the nature of working with a vendor in public cloud environments, several
 
 - Billing: Different infrastructures have different cost structures, so it should always be considered when working with or migrating to a particular vendor. Specifically, migration should be one of the first considerations and should have sign-off, including potential future spending.
 </details>
-<!--
 <details close>
     <summary>Cloud Networking Troubleshooting Concepts &#x21A9; &#x2B55;</summary>
 
@@ -3495,7 +3494,7 @@ Almost all networked devices that display or use time are NTP Clients, and issue
 
 ``Ping``
 
-Ping commands can be used across platforms and uses ICMP (Internet Control Message Protocol) to communicate with hosts. It is used to check if remote hosts are reachable on the network. The pathping command can be used on Windows devices to determine more in detail information on the network statics, for example, the delay it takes to communicate to specific routers on a network.
+Ping commands can be used across platforms and uses ICMP (Internet Control Message Protocol) to communicate with hosts. It is used to check if remote hosts are reachable on the network. The pathping command can be used on Windows devices to determine more in detail information on the network statistics, for example, the delay it takes to communicate to specific routers on a network.
 
 ``Tracert/Tracerout``
 
@@ -3513,7 +3512,7 @@ The ipconfig command is used to obtain information about a host. The command sho
 
 The nslookup command is used to query DNS records using a Windows device. The Dig command is the Linux equivalent for nslookup. It is used to query individual DNS records or all DNS records in a domain and can be used to gather more information about the domain, such as the IP address of the DNS server.
 
-``Netstat/SS``
+``Netstat``
 
 The netstat command is used to look at the current communication on a host. It also helps in identifying open ports and established connections. It is most often used for troubleshooting to determine if a host is listening on specific ports.
 
@@ -3531,7 +3530,7 @@ The curl command is used for transferring data over networks using specific prot
 
 ``Packet Capture and Analyzers``
 
-Cloud security and networking professional needsto assess network security posture by analyzing the traffic that traverses across a network, and several packet capturing applications are available to analyze network traffic.
+Cloud security and networking professional needs to assess network security posture by analyzing the traffic that traverses across a network, and several packet capturing applications are available to analyze network traffic.
 
 Packet replay and analysis refers to capturing network traffic over a specified period of time and then saving it, which can then be replayed over a dedicated network interface for analysis. You can choose from several packet replay applications that are available to perform this function such as tcpreplay.
 
@@ -3573,6 +3572,7 @@ The openssl program is a command line tool for using the different cryptography 
 
 - Time Stamp requests, creation and validation
 </details>
+<!--
 <details close>
     <summary>Troubleshooting Cloud Resource Utilization &#x21A9; &#x2B55;</summary>
 
