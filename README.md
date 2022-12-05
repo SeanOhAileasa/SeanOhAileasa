@@ -3723,7 +3723,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 05/12/2022
-"update repository ./asp-secure-cloud-computing - Cloud Network Security / Viewing CSA STAR Data / Configuring Cloud VNets" 
+"update repository ./asp-secure-cloud-computing - Limiting Network Traffic with a Network Security Group" 
 -->
 <details open>
     <summary>Secure Cloud Computing &#x21A9; <b></b></summary>
@@ -3742,7 +3742,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 > &#x1F52C; { ["**Configuring Cloud VNets**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#G) : &#x2B55; }
 
-- { ["**Limiting Network Traffic with a Network Security Group**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#H) : &#x1F6A7; }
+> &#x1F52C; { ["**Limiting Network Traffic with a Network Security Group**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#H) : &#x2B55; }
 
 - { ["**Deploying a Windows Virtual Machine in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#I) : &#x1F6A7; }
 
