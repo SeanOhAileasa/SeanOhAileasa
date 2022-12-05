@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 05/12/2022
-"update repository ./cdp-practice-labs - Implementing Cloud Resource Automation Solutions" 
+"update repository ./cdp-practice-labs - Implementing Cloud Backup and Restore Solutions" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -3224,7 +3224,6 @@ One of the important things to remember when using scripts would be that in orde
 
 It is highly recommended that you do not include the credentials to be used in the script but rather use either an authentication key or utilize your cloud platform's password vault and reference the stored credentials in that manner. This is much more secure, and you never want to store credentials in plain text.
 </details>
-<!--
 <details close>
     <summary>Implementing Cloud Backup and Restore Solutions &#x21A9; &#x2B55;</summary>
 
@@ -3246,7 +3245,7 @@ It is important you are able to perform backups in environments to protect again
 
 - Synthetic Full: This is when an outdated full backup is updated with newer incremental backups.
 
-- Snapshots:Snapshots are an exact copy of a storage volume or virtual machine image. Snapshots can spin up copies of VMs used in continuity planning and disaster recovery.
+- Snapshots: Snapshots are an exact copy of a storage volume or virtual machine image. Snapshots can spin up copies of VMs used in continuity planning and disaster recovery.
 
 ``Backup Objects and Targets``
 
@@ -3262,6 +3261,7 @@ Backup and restore policies standardize the process of performing backups and pl
 
 Depending on how to design your procedures, there are several concepts regarding restoration methods. One common method is to have an exact copy in place within the same environment, ready to be restored if the production virtual machine or instance fails. Another common method that you will see used for disaster recovery is alternate site restoration. This is when an entirely different site is used for recovery; this is common for disaster recovery and continuity planning as if something were to physically happen to one location, the other location is still functioning.
 </details>
+<!--
 <details close>
     <summary>Cloud Disaster Recovery Concepts &#x21A9; &#x2B55;</summary>
 
