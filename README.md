@@ -3725,7 +3725,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 05/12/2022
-"update repository ./asp-secure-cloud-computing - Reviewing Cloud Service Level Agreements" 
+"update repository ./asp-secure-cloud-computing - Cloud Network Security / Viewing CSA STAR Data / Configuring Cloud VNets" 
 -->
 <details open>
     <summary>Secure Cloud Computing &#x21A9; <b></b></summary>
@@ -3738,11 +3738,11 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 - { ["**Reviewing Cloud Service Level Agreements**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#D) : &#x2B55; }
 
-- { ["**Cloud Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#E) : &#x1F6A7; }
+- { ["**Cloud Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#E) : &#x2B55; }
 
-- { ["**Viewing CSA STAR Data**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#F) : &#x1F6A7; }
+- { ["**Viewing CSA STAR Data**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#F) : &#x2B55; }
 
-- { ["**Configuring Cloud VNets**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#G) : &#x1F6A7; }
+> &#x1F52C; { ["**Configuring Cloud VNets**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#G) : &#x2B55; }
 
 - { ["**Limiting Network Traffic with a Network Security Group**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#H) : &#x1F6A7; }
 
