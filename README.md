@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 05/12/2022
-"update repository ./cdp-practice-labs - Cloud Troubleshooting Methodologies" 
+"update repository ./cdp-practice-labs - Security Troubleshooting Techniques" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -3279,7 +3279,6 @@ Depending on how to design your procedures, there are several concepts regarding
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
-<!--
 <details close>
     <summary>Security Troubleshooting Techniques &#x21A9; &#x2B55;</summary>
 
@@ -3317,6 +3316,7 @@ Misconfigured or failed security appliances can easily allow access to a resourc
 
 Make sure that you are not use outdated protocols that are no longer supported poise security risks. You do not want to do something like use WEP for your wireless infrastructure. Whatever protocols you use always look into what the best protocol is for what you are doing and follow those guidelines.
 </details>
+<!--
 <details close>
     <summary>Troubleshooting Cloud Deployments &#x21A9; &#x2B55;</summary>
 
