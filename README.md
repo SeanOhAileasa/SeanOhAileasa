@@ -1949,7 +1949,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <br/>
 <!--
 05/12/2022
-"update repository ./cdp-practice-labs - Cloud Disaster Recovery Concepts" 
+"update repository ./cdp-practice-labs - Cloud Troubleshooting Methodologies" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -3270,7 +3270,6 @@ Depending on how to design your procedures, there are several concepts regarding
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabdm01.png?raw=true)
 </details>
-<!--
 <details close>
     <summary>Cloud Troubleshooting Methodologies &#x21A9; &#x2B55;</summary>
 
@@ -3280,6 +3279,7 @@ Depending on how to design your procedures, there are several concepts regarding
 
 ![Lab](https://github.com/SeanOhAileasa/cdp-practice-labs/blob/main/rc/labs/plabwin10.png?raw=true)
 </details>
+<!--
 <details close>
     <summary>Security Troubleshooting Techniques &#x21A9; &#x2B55;</summary>
 
