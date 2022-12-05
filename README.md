@@ -1948,8 +1948,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
 <!--
-04/12/2022
-"update repository ./cdp-practice-labs - Optimizing Cloud Solutions" 
+05/12/2022
+"update repository ./cdp-practice-labs - Implementing Cloud Resource Automation Solutions" 
 -->
 <details close>
     <summary>Cloud Deployment Models &#x21A9; &#x2705;</summary>
@@ -3181,7 +3181,6 @@ Today, it is typical to see major websites with users spreading the world to uti
 
 Azure offers a range of different networking services that allow you to customize your environment based on your needs. Within the Azure portal, you can manage public IP addresses, reserve IPs, customize your routing tables, create a Virtual Network, or even a Virtual WAN.
 </details>
-<!--
 <details close>
     <summary>Implementing Cloud Resource Automation Solutions &#x21A9; &#x2B55;</summary>
 
@@ -3205,7 +3204,7 @@ Once an application has gone through QA and has been approved for the production
 
 This is the process of continuous integration, and as they further enhance the application, the repository where the newer code is housed is taken and automatically compiled into a build for QA.
 
-continuous deployment is the process of providing automatic updates on a regular basis once the compiled code has passed QA. The repositories that developers use allow them to keep copies of the different versions of software they have developed.
+Continuous deployment is the process of providing automatic updates on a regular basis once the compiled code has passed QA. The repositories that developers use allow them to keep copies of the different versions of software they have developed.
 
 ``Configuration Management``
 
@@ -3225,6 +3224,7 @@ One of the important things to remember when using scripts would be that in orde
 
 It is highly recommended that you do not include the credentials to be used in the script but rather use either an authentication key or utilize your cloud platform's password vault and reference the stored credentials in that manner. This is much more secure, and you never want to store credentials in plain text.
 </details>
+<!--
 <details close>
     <summary>Implementing Cloud Backup and Restore Solutions &#x21A9; &#x2B55;</summary>
 
