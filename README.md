@@ -359,7 +359,7 @@
 	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
-05/12/2022
+06/12/2022
 "update repository ./syp-cybersecurity-apprenticeship" 
 -->
 - { ["**Cybersecurity Apprenticeship**"](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) : &#x23F2; }
@@ -1973,7 +1973,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - A hybrid cloud Infrastructure is a combination of a public and private cloud where the services that are provided are shared between the different infrastructures.
 
 ``Community cloud``
-
+block s
 - In a community cloud, users share the same set of data and resources. Multiple parties access it. For example, a cloud deployed for the students at a university or a college would normally be a community cloud – accessed by all students.
 
 ###### ``Exploring Private Clouds``
