@@ -1937,8 +1937,8 @@ eC=Lesson 6-Automation Concepts
 <!--
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
-01/12/2022
-"update repository ./cdp-cloud - Review/Summary - Practice Questions - Implementing High Availability and Disaster Recovery in the Cloud"
+07/12/2022
+"update repository ./cdp-cloud - Review/Summary - Practice Questions - Cloud Architecture and Design (13%)"
 -->
 
 - { ["**CompTIA Cloud+**"](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) : &#x1F6A7; }
