@@ -1,4 +1,6 @@
-<details open> 
+[ [``Credly``](https://www.credly.com/users/johnhallissey/badges) ]
+
+<details close> 
 	<summary><h3>2022 Cybersecurity&nbsp;&nbsp;&#x21A9;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
@@ -4310,7 +4312,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
               
 |**Prefix**|**'22/'23 Cybersecurity Career Pathway...**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
-| &nbsp;&nbsp;&nbsp;~~``msc-``~~&nbsp;&nbsp; | <br/>~~MSc in Cybersecurity, Privacy and Trust~~<br/>[ [HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ] or [``mtu-`` and ``osc-``]<br/><br/>                   | ~~9th Jan 2023~~<br/>~~``Part-time``~~ |
+| &nbsp;&nbsp;&nbsp;~~``msc-``~~&nbsp;&nbsp; | <br/>~~MSc in Cybersecurity, Privacy and Trust~~<br/>[ [HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ] or [``mtu-`` and ``osc-``]<br/><br/>                   | ~~16th Jan 2023~~<br/>~~``Part-time``~~ |
 | &nbsp;&nbsp;&nbsp;``mtu-``&nbsp;&nbsp; | <br/>PGDip in Cybersecurity<br/>[ [HEA](https://springboardcourses.ie/details/10457) ][ [Subjects](https://cs.cit.ie/contentfiles/PDFs/MScFlyers/MScCyber_Online_2022.pdf) ][ and ``osc-`` ]<br/><br/>                   | Sept 2023<br/>``Part-time`` |
 | &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | <br/>Offensive Security<br/>[ [Learn One](https://www.offensive-security.com/learn/) ][ and ``mtu-`` ]<br/><br/>| [![OffSec](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec.png?raw=true)](https://www.cybrary.it/course/offensive-penetration-testing/) |
 | &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/> | ![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true) |
