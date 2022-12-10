@@ -1,4 +1,4 @@
-[ [``Credly``](https://www.credly.com/users/johnhallissey/badges) ]
+[ [``LinkedIn``](https://www.linkedin.com/in/johnhallissey) ] [ [``Credly``](https://www.credly.com/users/johnhallissey/badges) ]
 
 <details close> 
 	<summary><h3>2022 Cybersecurity&nbsp;&nbsp;&#x21A9;</h3></summary>
@@ -1345,7 +1345,7 @@ eC=Lesson 6-Automation Concepts
 <hr width=10%;>	
 </details> <!-- END LABS - CySa+ -->    
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
 <br/> <!-- "delete repository ./cdp-configurations-and-deployments (Programme Exit - Focus: Security+/CySa+ < Oct Bank Holiday)" -->
 <!--
@@ -1946,7 +1946,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - { ["**CompTIA Cloud+**"](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) : &#x1F6A7; }
 </details> <!-- END (Supplemental) -->
 </details> <!-- END (CompTIA Cloud+) -->
-<details open>
+<details close>
 	<summary>&#x1F52C; &#x21A9;</summary>
 <br/>
 <!--
@@ -3658,7 +3658,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 </details>
 </details>
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
 
 <!--
