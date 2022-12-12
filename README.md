@@ -1,6 +1,6 @@
 [ [``LinkedIn``](https://www.linkedin.com/in/johnhallissey) ] [ [``Credly``](https://www.credly.com/users/johnhallissey/badges) ]
 
-<details close> 
+<details open> 
 	<summary><h3>2022 Cybersecurity&nbsp;&nbsp;&#x21A9;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
@@ -3658,7 +3658,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 </details>
 </details>
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
 
 <!--
@@ -3724,8 +3724,8 @@ As with other considerations when patching an environment, sandbox testing is ke
 </details>
 <hr width=25%;>
 <!--
-05/12/2022
-"update repository ./asp-secure-cloud-computing - Limiting Network Traffic with a Network Security Group" 
+12/12/2022
+"update repository ./asp-secure-cloud-computing - Deploying a Windows Virtual Machine in the Cloud" 
 -->
 <details open>
     <summary>Secure Cloud Computing &#x21A9; <b></b></summary>
@@ -3746,7 +3746,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 > &#x1F52C; { ["**Limiting Network Traffic with a Network Security Group**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#H) : &#x2B55; }
 
-- { ["**Deploying a Windows Virtual Machine in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#I) : &#x1F6A7; }
+> &#x1F52C; { ["**Deploying a Windows Virtual Machine in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#I) : &#x2705; }
 
 - { ["**Deploying a Linux Virtual Machine in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#J) : &#x1F6A7; }
 
