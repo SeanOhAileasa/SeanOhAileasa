@@ -4300,8 +4300,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	<summary><b>Splunk &#x21A9;</b></summary><br/>
 
 <!--
-15/12/2022
-"update repository ./spk-core-certified-user (Scheduling Reports and Alerts)" 
+16/12/2022
+"update repository ./spk-core-certified-user (Visualizations)" 
 -->
 
 - [Splunk Core Certified User](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user.ipynb) &#x1F6A7; <br/> 
