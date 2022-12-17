@@ -16,6 +16,9 @@
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified User<br/><br/>                   | &#x2935; |
 
 <details close>
+	<summary><h4>&#x1F4CC; ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
+
+<details close>
 <!--
 24/06/2022
 "update repository ./itf-cybersecurity-apprenticeship (Exam - CompITA IT Fundamentals)"
@@ -1343,6 +1346,7 @@ eC=Lesson 6-Automation Concepts
 <hr width=10%;>	
 </details> <!-- END LABS - CySa+ -->    
 <hr width=33%;>
+</details> <!-- ICT Associate Apprenticeship Programme (Cybersecurity) -->
 <details close>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
 <br/> <!-- "delete repository ./cdp-configurations-and-deployments (Programme Exit - Focus: Security+/CySa+ < Oct Bank Holiday)" -->
@@ -3656,7 +3660,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 </details>
 </details>
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
 
 <!--
@@ -4296,15 +4300,25 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <hr width=10%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
 <hr width=33%;> <!-- -->
-<details close>
+<details open>
 	<summary><b>Splunk &#x21A9;</b></summary><br/>
 
 <!--
-16/12/2022
-"update repository ./spk-core-certified-user (Visualizations)" 
+17/12/2022
+"update repository ./spk-core-certified-user - Tidy Repository" 
 -->
 
-- [Splunk Core Certified User](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user.ipynb) &#x1F6A7; <br/> 
+- [Splunk](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-splunk.ipynb) [&#x2705;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-splunk.ipynb#CertificateofCompletionWhatisSplunk) <br/> 
+- [Intro to Splunk](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-intro-to-splunk.ipynb) [&#x2705;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-intro-to-splunk.ipynb#CertificateofCompletionIntrotoSplunk) <br/> 
+- [Using Fields](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-using-fields.ipynb) [&#x2705;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-using-fields.ipynb#CertificateofCompletionUsingFields) <br/> 
+- [Scheduling Reports and Alerts](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-scheduling-reports-alerts.ipynb) [&#x2705;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-scheduling-reports-alerts.ipynb#CertificateofCompletionSchedulingReportsAlerts) <br/> 
+- ``Visualizations``  <br/>
+	- [Using Formatting Commands](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-visualizations_using-formatting-commands.ipynb) <br/> 
+	- [Visualizating Data](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-visualizations_visualizating-data.ipynb) <br/> 
+	- [Generating Maps](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-visualizations_generating-maps.ipynb) <br/> 	
+	- [Single value Visualizations](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-visualizations_single-value-visualizations.ipynb) <br/> 	
+	- [Formatting Visualizations](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-visualizations_formatting-visualizations.ipynb) [&#x2705;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-visualizations_formatting-visualizations.ipynb#CertificateofCompletionVisualizations) <br/>
+
 </details> <!-- END: Splunk -->
 <hr width=33%;> <!-- -->
               
