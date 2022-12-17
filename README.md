@@ -1347,7 +1347,7 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END LABS - CySa+ -->    
 <hr width=33%;>
 </details> <!-- ICT Associate Apprenticeship Programme (Cybersecurity) -->
-<details close>
+<details open>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
 <br/> <!-- "delete repository ./cdp-configurations-and-deployments (Programme Exit - Focus: Security+/CySa+ < Oct Bank Holiday)" -->
 <!--
@@ -1941,8 +1941,8 @@ eC=Lesson 6-Automation Concepts
 <!--
 from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
-07/12/2022
-"update repository ./cdp-cloud - Review/Summary - Practice Questions - Cloud Architecture and Design (13%)"
+17/12/2022
+"update repository ./cdp-cloud - Review/Summary - Practice Questions - [WIP - 21%] Security"
 -->
 
 - { ["**CompTIA Cloud+**"](https://github.com/SeanOhAileasa/cdp-cloud/blob/main/README.md) : &#x1F6A7; }
