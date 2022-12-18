@@ -4305,7 +4305,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 <!--
 18/12/2022
-"update repository ./spk-core-certified-user - Working with Time (Working with Time Zones)" 
+"update repository ./spk-core-certified-user - :construction: Statistical Processing" 
 -->
 - [Splunk](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-splunk.ipynb) [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-splunk.ipynb#CertificateofCompletionWhatisSplunk) <br/> 
 - [Intro to Splunk](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-intro-to-splunk.ipynb) [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-intro-to-splunk.ipynb#CertificateofCompletionIntrotoSplunk) <br/> 
@@ -4322,6 +4322,20 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- [Formatting Time](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_formatting-time.ipynb) &#x1F6A7; <br/>
 	- [Using Time Commands](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_using-time-commands.ipynb) <br/>
 	- [Working with Time Zones](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_working-with-time-zones.ipynb) <br/> 
+- ``Statistical Processing``  <br/>
+	- [What is a Data Series?](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_what-is-a-data-series.ipynb) &#x274C; <br/>
+	- [Chart Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_chart-command.ipynb) &#x274C; <br/>
+	- [Timechart Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_timechart-command.ipynb) &#x274C; <br/>
+	- [Top Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_top-command.ipynb) &#x274C; <br/>
+	- [Rare Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_rare-command.ipynb) &#x274C; <br/>
+	- [Stats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_stats-command.ipynb) &#x274C; <br/>
+	- [Functions of the Stats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_functions-of-the-stats-command.ipynb) &#x274C; <br/>
+	- [Transforming Commands Summary](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_transforming-commands-summary.ipynb) &#x274C; <br/>
+	- [Eval Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_eval-command.ipynb) &#x274C; <br/>
+	- [Functions of the Eval Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_functions-of-the-eval-command.ipynb) &#x274C; <br/>
+	- [Eval as a Function](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_eval-as-a-function.ipynb) &#x274C; <br/>
+	- [Rename Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_rename-command.ipynb) &#x274C; <br/>
+	- [Sort Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_sort-command.ipynb) &#x274C; <br/>
 
 </details> <!-- END: Splunk -->
 <hr width=33%;> <!-- -->
