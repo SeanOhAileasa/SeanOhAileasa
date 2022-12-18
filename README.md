@@ -4301,11 +4301,11 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
 <hr width=33%;> <!-- -->
 <details open>
-	<summary><b>Splunk &#x21A9;</b></summary><br/>
+	<summary><b>Splunk Core Certified User &#x21A9;</b></summary><br/>
 
 <!--
 18/12/2022
-"update repository ./spk-core-certified-user - [WIP - Review] Working with Time (Formatting Time)" 
+"update repository ./spk-core-certified-user - Working with Time (Using Time Commands)" 
 -->
 - [Splunk](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-splunk.ipynb) [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-splunk.ipynb#CertificateofCompletionWhatisSplunk) <br/> 
 - [Intro to Splunk](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-intro-to-splunk.ipynb) [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-intro-to-splunk.ipynb#CertificateofCompletionIntrotoSplunk) <br/> 
@@ -4319,7 +4319,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- [Formatting Visualizations](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-visualizations_formatting-visualizations.ipynb) <br/>
 - ``Working with Time``  <br/>
 	- [Searching with Time](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_searching-with-time.ipynb) &#x1F6A7; <br/> 
-	- [Formatting Time](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_formatting-time.ipynb) &#x2B55; <br/>
+	- [Formatting Time](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_formatting-time.ipynb) &#x1F6A7; <br/>
+	- [Using Time Commands](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_using-time-commands.ipynb) <br/>
 
 </details> <!-- END: Splunk -->
 <hr width=33%;> <!-- -->
