@@ -4305,7 +4305,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 <!--
 18/12/2022
-"update repository ./spk-core-certified-user - :construction: Statistical Processing" 
+"update repository ./spk-core-certified-user - :construction: Leveraging Lookups and Subsearches" 
 -->
 - [Splunk](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-splunk.ipynb) [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-splunk.ipynb#CertificateofCompletionWhatisSplunk) <br/> 
 - [Intro to Splunk](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-intro-to-splunk.ipynb) [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-intro-to-splunk.ipynb#CertificateofCompletionIntrotoSplunk) <br/> 
@@ -4336,6 +4336,16 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- [Eval as a Function](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_eval-as-a-function.ipynb) &#x274C; <br/>
 	- [Rename Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_rename-command.ipynb) &#x274C; <br/>
 	- [Sort Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_sort-command.ipynb) &#x274C; <br/>
+- ``Leveraging Lookups and Subsearches`` <br/>
+	- [Introduction to Lookups](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_introduction-to-lookups.ipynb) &#x274C; <br/>
+	- [Using Lookups Commands](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_using-lookups-commands.ipynb) &#x274C; <br/>
+	- [Inputlookup Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_inputlookup-command.ipynb) &#x274C; <br/>
+	- [Lookup Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_lookup-command.ipynb) &#x274C; <br/>
+	- [Outputlookup Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_outputlookup-command.ipynb) &#x274C; <br/>
+	- [Adding a Subsearch](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_adding-a-subsearch.ipynb) &#x274C; <br/>
+	- [When to Use Subsearch](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_when-to-use-subsearch.ipynb) &#x274C; <br/>
+	- [Troubleshooting Subsearch](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_troubleshooting-subsearch.ipynb) &#x274C; <br/>
+	- [Return Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_return-command.ipynb) &#x274C; <br/>
 
 </details> <!-- END: Splunk -->
 <hr width=33%;> <!-- -->
