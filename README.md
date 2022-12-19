@@ -14,6 +14,9 @@
 | &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified User<br/><br/>                   | &#x2935; |
+<!--
+| &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
+-->
 
 <details close>
 	<summary><h4>&#x1F4CC; ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
@@ -1347,7 +1350,7 @@ eC=Lesson 6-Automation Concepts
 </details> <!-- END LABS - CySa+ -->    
 <hr width=33%;>
 </details> <!-- ICT Associate Apprenticeship Programme (Cybersecurity) -->
-<details open>
+<details close>
 	<summary><b>CompTIA Cloud+ &#x21A9;</b></summary>
 <br/> <!-- "delete repository ./cdp-configurations-and-deployments (Programme Exit - Focus: Security+/CySa+ < Oct Bank Holiday)" -->
 <!--
@@ -4304,8 +4307,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	<summary><b>Splunk Core Certified User &#x21A9;</b></summary><br/>
 
 <!--
-18/12/2022
-"update repository ./spk-core-certified-user - :construction: Search Optimization" 
+19/12/2022
+"update repository ./spk-core-certified-user - Statistical Processing" 
 -->
 - [Splunk](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-splunk.ipynb) [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-splunk.ipynb#CertificateofCompletionWhatisSplunk) <br/> 
 - [Intro to Splunk](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-intro-to-splunk.ipynb) [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-intro-to-splunk.ipynb#CertificateofCompletionIntrotoSplunk) <br/> 
@@ -4322,20 +4325,20 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- [Formatting Time](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_formatting-time.ipynb) &#x1F6A7; <br/>
 	- [Using Time Commands](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_using-time-commands.ipynb) <br/>
 	- [Working with Time Zones](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-working-with-time_working-with-time-zones.ipynb) <br/> 
-- ``Statistical Processing``  <br/>
-	- [What is a Data Series?](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_what-is-a-data-series.ipynb) &#x274C; <br/>
-	- [Chart Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_chart-command.ipynb) &#x274C; <br/>
-	- [Timechart Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_timechart-command.ipynb) &#x274C; <br/>
-	- [Top Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_top-command.ipynb) &#x274C; <br/>
-	- [Rare Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_rare-command.ipynb) &#x274C; <br/>
-	- [Stats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_stats-command.ipynb) &#x274C; <br/>
-	- [Functions of the Stats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_functions-of-the-stats-command.ipynb) &#x274C; <br/>
-	- [Transforming Commands Summary](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_transforming-commands-summary.ipynb) &#x274C; <br/>
-	- [Eval Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_eval-command.ipynb) &#x274C; <br/>
-	- [Functions of the Eval Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_functions-of-the-eval-command.ipynb) &#x274C; <br/>
-	- [Eval as a Function](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_eval-as-a-function.ipynb) &#x274C; <br/>
-	- [Rename Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_rename-command.ipynb) &#x274C; <br/>
-	- [Sort Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_sort-command.ipynb) &#x274C; <br/>
+- ``Statistical Processing``  [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_sort-command.ipynb#StatisticalProcessing) <br/>
+	- [What is a Data Series?](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_what-is-a-data-series.ipynb) <br/>
+	- [Chart Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_chart-command.ipynb) <br/>
+	- [Timechart Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_timechart-command.ipynb) <br/>
+	- [Top Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_top-command.ipynb) <br/>
+	- [Rare Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_rare-command.ipynb) <br/>
+	- [Stats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_stats-command.ipynb) <br/>
+	- [Functions of the Stats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_functions-of-the-stats-command.ipynb) <br/>
+	- [Transforming Commands Summary](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_transforming-commands-summary.ipynb) <br/>
+	- [Eval Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_eval-command.ipynb) <br/>
+	- [Functions of the Eval Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_functions-of-the-eval-command.ipynb) <br/>
+	- [Eval as a Function](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_eval-as-a-function.ipynb) <br/>
+	- [Rename Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_rename-command.ipynb) <br/>
+	- [Sort Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-statistical-processing_sort-command.ipynb) <br/>
 - ``Leveraging Lookups and Subsearches`` <br/>
 	- [Introduction to Lookups](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_introduction-to-lookups.ipynb) &#x274C; <br/>
 	- [Using Lookups Commands](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_using-lookups-commands.ipynb) &#x274C; <br/>
@@ -4354,7 +4357,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- [Data Model Acceleration](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_data-model-acceleration.ipynb) &#x274C; <br/>
 	- [Datamodel Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_datamodel-command.ipynb) &#x274C; <br/>
 	- [Tstats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_tstats-command.ipynb) &#x274C; <br/>
-	
+
 </details> <!-- END: Splunk -->
 <hr width=33%;> <!-- -->
               
