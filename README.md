@@ -4308,7 +4308,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 <!--
 20/12/2022
-"update repository ./spk-core-certified-user - Leveraging Lookups and Subsearches" 
+"update repository ./spk-core-certified-user - Search Optimization" 
 -->
 - [Splunk](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-splunk.ipynb) [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-splunk.ipynb#CertificateofCompletionWhatisSplunk) <br/> 
 - [Intro to Splunk](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-intro-to-splunk.ipynb) [&#x1F393;](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-intro-to-splunk.ipynb#CertificateofCompletionIntrotoSplunk) <br/> 
@@ -4349,14 +4349,14 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- [When to Use Subsearch](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_when-to-use-subsearch.ipynb) <br/>
 	- [Troubleshooting Subsearch](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_troubleshooting-subsearch.ipynb) <br/>
 	- [Return Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-leveraging-lookups-and-subsearches_return-command.ipynb) <br/>
-- ``Search Optimization`` <br/>
-	- [Search Optimization Overview](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_search-optimization-overview.ipynb) &#x274C; <br/>
-	- [Splunk Search Scheduler](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_splunk-search-scheduler.ipynb) &#x274C; <br/>
-	- [Search Acceleration Overview](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_search-acceleration-overview.ipynb) &#x274C; <br/>
-	- [Report Acceleration](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_report-acceleration.ipynb) &#x274C; <br/>
-	- [Data Model Acceleration](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_data-model-acceleration.ipynb) &#x274C; <br/>
-	- [Datamodel Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_datamodel-command.ipynb) &#x274C; <br/>
-	- [Tstats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_tstats-command.ipynb) &#x274C; <br/>
+- ``Search Optimization`` &#x2705; <br/>
+	- [Search Optimization Overview](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_search-optimization-overview.ipynb) <br/>
+	- [Splunk Search Scheduler](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_splunk-search-scheduler.ipynb) <br/>
+	- [Search Acceleration Overview](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_search-acceleration-overview.ipynb) <br/>
+	- [Report Acceleration](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_report-acceleration.ipynb) <br/>
+	- [Data Model Acceleration](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_data-model-acceleration.ipynb) <br/>
+	- [Datamodel Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_datamodel-command.ipynb) <br/>
+	- [Tstats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_tstats-command.ipynb) <br/>
 
 </details> <!-- END: Splunk -->
 <hr width=33%;> <!-- -->
