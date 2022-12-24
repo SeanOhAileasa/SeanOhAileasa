@@ -3772,7 +3772,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 24/12/2022
-"update repository ./asp-cryptography-and-pki - Protecting Files with Encrypting File System" 
+"update repository ./asp-cryptography-and-pki - Protecting Disk Volumes with BitLocker" 
 -->
 <details open>
     <summary>Cryptography and PKI &#x21A9; <b></b></summary>
@@ -3787,7 +3787,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 > &#x1F52C; { ["**Protecting Files with Encrypting File System**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#E) : &#x274C; }
 
-- { ["**Protecting Disk Volumes with BitLocker**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#F) : &#x1F6A7; }
+> &#x1F52C;  { ["**Protecting Disk Volumes with BitLocker**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#F) : &#x274C; }
 
 - { ["**Cryptography and Network Communications**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#G) : &#x1F6A7; }
 
