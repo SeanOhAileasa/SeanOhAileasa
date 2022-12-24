@@ -3772,7 +3772,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 24/12/2022
-"update repository ./asp-cryptography-and-pki - The PKI Hierarchy" 
+"update repository ./asp-cryptography-and-pki - PKI Certificates" 
 -->
 <details open>
     <summary>Cryptography and PKI &#x21A9; <b></b></summary>
@@ -3795,7 +3795,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 - { ["**The PKI Hierarchy**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#I) : &#x2B55; }
 
-- { ["**PKI Certificates**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#J) : &#x1F6A7; }
+- { ["**PKI Certificates**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#J) : &#x2B55; }
 
 - { ["**Deploying a Private Certificate Authority**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#K) : &#x1F6A7; }
 
