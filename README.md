@@ -3772,7 +3772,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 24/12/2022
-"update repository ./asp-cryptography-and-pki - Cryptography and Network Communications" 
+"update repository ./asp-cryptography-and-pki - Enabling IPsec to Secure IP Traffic" 
 -->
 <details open>
     <summary>Cryptography and PKI &#x21A9; <b></b></summary>
@@ -3791,7 +3791,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 - { ["**Cryptography and Network Communications**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#G) : &#x2B55; }
 
-- { ["**Enabling IPsec to Secure IP Traffic**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#H) : &#x1F6A7; }
+> &#x1F52C; { ["**Enabling IPsec to Secure IP Traffic**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#H) : &#x274C; }
 
 - { ["**The PKI Hierarchy**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#I) : &#x1F6A7; }
 
