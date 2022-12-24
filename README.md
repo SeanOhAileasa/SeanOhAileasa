@@ -3772,7 +3772,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 24/12/2022
-"update repository ./asp-cryptography-and-pki - Issuing PKI Certificates" 
+"update repository ./asp-cryptography-and-pki - Generating Certificates in the Cloud" 
 -->
 <details open>
     <summary>Cryptography and PKI &#x21A9; <b></b></summary>
@@ -3801,9 +3801,9 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 > &#x1F52C; { ["**Configuring Custom Certificate Templates**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#L) : &#x2B55; }
 
-- { ["**Issuing PKI Certificates**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#M) : &#x1F6A7; }
+> &#x1F52C; { ["**Issuing PKI Certificates**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#M) : &#x2B55; }
 
-- { ["**Generating Certificates in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#N) : &#x1F6A7; }
+> &#x1F52C; { ["**Generating Certificates in the Cloud**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#N) : &#x2B55; }
 
 - { ["**Generating File Hashes**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#O) : &#x1F6A7; }
 </details>
