@@ -3772,7 +3772,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 24/12/2022
-"update repository ./asp-cryptography-and-pki - Configuring Custom Certificate Templates" 
+"update repository ./asp-cryptography-and-pki - Issuing PKI Certificates" 
 -->
 <details open>
     <summary>Cryptography and PKI &#x21A9; <b></b></summary>
