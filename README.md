@@ -13,7 +13,7 @@
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CNSP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnsp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Security-Professional-CNSP.pdf) |
 | &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | &#x2935; |
-| &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified User<br/><br/>                   | &#x2935; |
+| &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified User<br/><br/>                   | &#x1F393; |
 <!--
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
 -->
@@ -3663,7 +3663,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 </details>
 </details>
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
 
 <!--
@@ -3732,7 +3732,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 12/12/2022
 "update repository ./asp-secure-cloud-computing - Deploying a Windows Virtual Machine in the Cloud" 
 -->
-<details open>
+<details close>
     <summary>Secure Cloud Computing &#x21A9; <b></b></summary>
 
 - { ["**Cloud Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#A) : &#x2B55; }
@@ -3770,10 +3770,14 @@ As with other considerations when patching an environment, sandbox testing is ke
 - { ["**Enabling Cloud Storage Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-secure-cloud-computing/blob/main/asp-secure-cloud-computing.ipynb#Q) : &#x1F6A7; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+24/12/2022
+"update repository ./asp-cryptography-and-pki - Cryptography Concepts" 
+-->
+<details open>
     <summary>Cryptography and PKI &#x21A9; <b></b></summary>
 
-- { ["**Cryptography Concepts**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#A) : &#x1F6A7; }
+- { ["**Cryptography Concepts**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#A) : &#x2705; }
 
 - { ["**Symmetric and Asymmetric Encryption**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#B) : &#x1F6A7; }
 
@@ -4303,7 +4307,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <hr width=10%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
 <hr width=33%;> <!-- -->
-<details open>
+<details close>
 	<summary><b>Splunk Core Certified User &#x21A9;</b></summary><br/>
 
 <!--
@@ -4363,9 +4367,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
               
 |**Prefix**|**'22/'23 Cybersecurity Career Pathway...**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
-| &nbsp;&nbsp;&nbsp;~~``msc-``~~&nbsp;&nbsp; | <br/>~~MSc in Cybersecurity, Privacy and Trust~~<br/>[ [HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ] or [``mtu-`` and ``osc-``]<br/><br/>                   | ~~16th Jan 2023~~<br/>~~``Part-time``~~ |
-| &nbsp;&nbsp;&nbsp;``mtu-``&nbsp;&nbsp; | <br/>PGDip in Cybersecurity<br/>[ [HEA](https://springboardcourses.ie/details/10457) ][ [Subjects](https://cs.cit.ie/contentfiles/PDFs/MScFlyers/MScCyber_Online_2022.pdf) ][ and ``osc-`` ]<br/><br/>                   | Sept 2023<br/>``Part-time`` |
-| &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | <br/>Offensive Security<br/>[ [Learn One](https://www.offensive-security.com/learn/) ][ and ``mtu-`` ]<br/><br/>| [![OffSec](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec.png?raw=true)](https://www.cybrary.it/course/offensive-penetration-testing/) |
+| &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ] <br/><br/>                   | 16th Jan 2023<br/>``Part-time`` |
 | &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/> | ![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true) |
 
 <hr width=33%;> <!-- -->
@@ -4386,7 +4388,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 <hr width=33%;> <!-- -->
 
-### Project Management Tracking (Task - Status / Priority)
+<details close>
+	<summary><h4>&#x1F4CC; Project Management Tracking (Task - Status / Priority) &#x21A9; </h4></summary>
 
 - &#x21A9; Expand / Dropdown List
 - &#x274C; Outstanding / Why? / Go
@@ -4403,6 +4406,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - &#x1F512; Live Lab Completed (1st)  
 - &#x2705; Semester / Topic Finished
 - &#x2623; Private Repository / Exit
+</details>
 
 <hr width=33%;> <!-- -->
 
