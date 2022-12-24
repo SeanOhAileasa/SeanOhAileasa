@@ -3772,7 +3772,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 24/12/2022
-"update repository ./asp-cryptography-and-pki - Symmetric and Asymmetric Encryption" 
+"update repository ./asp-cryptography-and-pki - Hashing and Digital Signatures" 
 -->
 <details open>
     <summary>Cryptography and PKI &#x21A9; <b></b></summary>
@@ -3781,7 +3781,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 - { ["**Symmetric and Asymmetric Encryption**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#B) : &#x2705; }
 
-- { ["**Hashing and Digital Signatures**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#C) : &#x1F6A7; }
+- { ["**Hashing and Digital Signatures**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#C) : &#x2B55; }
 
 - { ["**Cryptography and Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#D) : &#x1F6A7; }
 
