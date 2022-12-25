@@ -13,7 +13,7 @@
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CNSP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnsp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Security-Professional-CNSP.pdf) |
 | &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | &#x2935; |
-| &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified User<br/><br/>                   | &#x1F393; |
+| &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified User<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/splunk/SPLK-1001_Splunk-Core-Certified-User.png?raw=true)](https://www.credly.com/badges/1040f6ad-98dd-4ef8-b3ae-3234d49c6656) |
 <!--
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
 -->
@@ -3663,7 +3663,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 </details>
 </details>
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
 
 <!--
@@ -4307,7 +4307,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <hr width=10%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
 <hr width=33%;> <!-- -->
-<details close>
+<details open>
 	<summary><b>Splunk Core Certified User &#x21A9;</b></summary><br/>
 
 <!--
@@ -4361,7 +4361,18 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- [Data Model Acceleration](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_data-model-acceleration.ipynb) <br/>
 	- [Datamodel Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_datamodel-command.ipynb) <br/>
 	- [Tstats Command](https://nbviewer.org/github/SeanOhAileasa/spk-core-certified-user/blob/main/spk-core-certified-user-search-optimization_tstats-command.ipynb) <br/>
+<hr width=25%;>  
+<details open>
+    <summary>Supplemental &#x21A9;</summary>
+<!--
+from IPython.display import display,HTML
+display(HTML("<style>.container { width:100% !important; }</style>"))	
+23/12/2022
+"Splunk Core Certified User - Status Pass"
+-->
 
+- { ["**Splunk Core Certified User**"](https://github.com/SeanOhAileasa/spk-splunk/blob/main/README.md) : &#x2623; }
+</details> <!-- END (Supplemental) -->
 </details> <!-- END: Splunk -->
 <hr width=33%;> <!-- -->
               
