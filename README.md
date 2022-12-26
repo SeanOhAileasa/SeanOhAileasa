@@ -3810,7 +3810,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 26/12/2022
-"update repository ./asp-storage-and-network-security - Managing the Windows Defender Firewall"
+"update repository ./asp-storage-and-network-security - Virtual Private Networks"
 -->
 <details open>
     <summary>Storage and Network Security &#x21A9; <b></b></summary><br/>
@@ -3831,7 +3831,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 > &#x1F52C; { ["**Managing the Windows Defender Firewall**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#H) : &#x274C; }
 
-- { ["**Virtual Private Networks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#I) : &#x1F6A7; }
+- { ["**Virtual Private Networks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#I) : &#x2B55; }
 
 - { ["**Configuring Cloud VPN Connectivity**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#J) : &#x1F6A7; }
 
