@@ -4031,7 +4031,7 @@ from IPython.display import display,HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))	
 26/12/2022
 "update repository ./asp-casp - Review/Summary - Practice Questions"
-"update repository ./asp-casp - Practice Questions - Summarizing Governance & Compliance Strategies"
+"update repository ./asp-casp - Practice Questions - Implementing Business Continuity & Disaster Recovery"
 -->
 
 - { ["**CompTIA CASP+**"](https://github.com/SeanOhAileasa/asp-casp/blob/main/README.md) : &#x1F6A7; }
