@@ -3810,7 +3810,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 26/12/2022
-"update repository ./asp-cryptography-and-pki - Network Storage"
+"update repository ./asp-storage-and-network-security - Securing DNS"
 -->
 <details open>
     <summary>Storage and Network Security &#x21A9; <b></b></summary><br/>
@@ -3823,7 +3823,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 - { ["**Network Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#D) : &#x2B55; }
 
-- { ["**Securing DNS**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#E) : &#x1F6A7; }
+> &#x1F52C; { ["**Securing DNS**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#E) : &#x274C; }
 
 - { ["**Firewalls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#F) : &#x1F6A7; }
 
