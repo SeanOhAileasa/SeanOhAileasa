@@ -3810,10 +3810,10 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 26/12/2022
-"update repository ./asp-cryptography-and-pki - Enabling Software RAID in Linux"
+"update repository ./asp-cryptography-and-pki - Network Storage"
 -->
 <details open>
-    <summary>Storage and Network Security &#x21A9; <b></b></summary>
+    <summary>Storage and Network Security &#x21A9; <b></b></summary><br/>
 
 - { ["**Redundant Array of Inexpensive Disks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#A) : &#x2B55; }
 
@@ -3821,7 +3821,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 > &#x1F52C; { ["**Enabling Software RAID in Linux**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#C) : &#x274C; }
 
-- { ["**Network Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#D) : &#x1F6A7; }
+- { ["**Network Storage**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#D) : &#x2B55; }
 
 - { ["**Securing DNS**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#E) : &#x1F6A7; }
 
