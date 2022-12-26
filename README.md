@@ -3663,7 +3663,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 </details>
 </details>
 <hr width=33%;>
-<details close>
+<details open>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
 
 <!--
@@ -3774,7 +3774,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 24/12/2022
 "update repository ./asp-cryptography-and-pki - Generating File Hashes" 
 -->
-<details open>
+<details close>
     <summary>Cryptography and PKI &#x21A9; <b></b></summary>
 
 - { ["**Cryptography Concepts**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#A) : &#x2705; }
@@ -3808,10 +3808,14 @@ As with other considerations when patching an environment, sandbox testing is ke
 > &#x1F52C; { ["**Generating File Hashes**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-cryptography-and-pki/blob/main/asp-cryptography-and-pki.ipynb#O) : &#x274C; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+26/12/2022
+"update repository ./asp-cryptography-and-pki - Redundant Array of Inexpensive Disks"
+-->
+<details open>
     <summary>Storage and Network Security &#x21A9; <b></b></summary>
 
-- { ["**Redundant Array of Inexpensive Disks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#A) : &#x1F6A7; }
+- { ["**Redundant Array of Inexpensive Disks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#A) : &#x2B55; }
 
 - { ["**Enabling Software RAID in Windows**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#B) : &#x1F6A7; }
 
@@ -4307,7 +4311,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <hr width=10%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
 <hr width=33%;> <!-- -->
-<details open>
+<details close>
 	<summary><b>Splunk Core Certified User &#x21A9;</b></summary><br/>
 
 <!--
