@@ -3810,7 +3810,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 26/12/2022
-"update repository ./asp-storage-and-network-security - Firewalls"
+"update repository ./asp-storage-and-network-security - Deploying Azure Firewall"
 -->
 <details open>
     <summary>Storage and Network Security &#x21A9; <b></b></summary><br/>
@@ -3827,7 +3827,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 - { ["**Firewalls**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#F) : &#x2B55; }
 
-- { ["**Deploying Azure Firewall**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#G) : &#x1F6A7; }
+> &#x1F52C; { ["**Deploying Azure Firewall**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#G) : &#x274C; }
 
 - { ["**Managing the Windows Defender Firewall**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#H) : &#x1F6A7; }
 
