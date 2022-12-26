@@ -3810,14 +3810,14 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 26/12/2022
-"update repository ./asp-cryptography-and-pki - Redundant Array of Inexpensive Disks"
+"update repository ./asp-cryptography-and-pki - Enabling Software RAID in Windows"
 -->
 <details open>
     <summary>Storage and Network Security &#x21A9; <b></b></summary>
 
 - { ["**Redundant Array of Inexpensive Disks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#A) : &#x2B55; }
 
-- { ["**Enabling Software RAID in Windows**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#B) : &#x1F6A7; }
+> &#x1F52C; { { ["**Enabling Software RAID in Windows**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#B) : &#x274C; }
 
 - { ["**Enabling Software RAID in Linux**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#C) : &#x1F6A7; }
 
