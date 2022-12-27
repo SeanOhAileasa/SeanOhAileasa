@@ -3810,7 +3810,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 27/12/2022
-"update repository ./asp-storage-and-network-security - Managing Servers through a Jump Box"
+"update repository ./asp-storage-and-network-security - Using Netcat to Establish a Reverse Shell"
 -->
 <details open>
     <summary>Storage and Network Security &#x21A9; <b></b></summary><br/>
@@ -3841,7 +3841,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 > &#x1F52C; { ["**Managing Servers through a Jump Box**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#M) : &#x274C; }
 
-- { ["**Using Netcat to Establish a Reverse Shell**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#N) : &#x1F6A7; }
+> &#x1F52C; { ["**Using Netcat to Establish a Reverse Shell**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#N) : &#x2705; }
 </details>
 <hr width=25%;>
 <details close>
