@@ -3809,8 +3809,8 @@ As with other considerations when patching an environment, sandbox testing is ke
 </details>
 <hr width=25%;>
 <!--
-26/12/2022
-"update repository ./asp-storage-and-network-security - Configuring Cloud VPN Connectivity"
+27/12/2022
+"update repository ./asp-storage-and-network-security - Wired Network Security"
 -->
 <details open>
     <summary>Storage and Network Security &#x21A9; <b></b></summary><br/>
@@ -3835,7 +3835,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 > &#x1F52C; { ["**Configuring Cloud VPN Connectivity**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#J) : &#x274C; }
 
-- { ["**Wired Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#K) : &#x1F6A7; }
+- { ["**Wired Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#K) : &#x2B55; }
 
 - { ["**Wireless Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#L) : &#x1F6A7; }
 
