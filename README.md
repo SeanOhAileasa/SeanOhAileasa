@@ -3812,7 +3812,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 27/12/2022
 "update repository ./asp-storage-and-network-security - Using Netcat to Establish a Reverse Shell"
 -->
-<details open>
+<details close>
     <summary>Storage and Network Security &#x21A9; <b></b></summary><br/>
 
 - { ["**Redundant Array of Inexpensive Disks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#A) : &#x2B55; }
@@ -3844,26 +3844,30 @@ As with other considerations when patching an environment, sandbox testing is ke
 > &#x1F52C; { ["**Using Netcat to Establish a Reverse Shell**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#N) : &#x2705; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+27/12/2022
+"update repository ./asp-authentication-and-authorization - Authentication and Authorization"
+-->
+<details open>
     <summary>Authentication and Authorization &#x21A9; <b></b></summary>
 
-- { ["**Authentication and Authorization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#A) : &#x1F6A7; }
+- { ["**Authentication and Authorization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#A) : &#x2B55; }
 
-- { ["**Enabling Cloud User MFA and Conditional Access**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#B) : &#x1F6A7; }
+> &#x1F52C; { ["**Enabling Cloud User MFA and Conditional Access**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#B) : &#x1F6A7; }
 
-- { ["**Enabling 2FA for Web Apps**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#C) : &#x1F6A7; }
+> &#x1F52C; { ["**Enabling 2FA for Web Apps**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#C) : &#x1F6A7; }
 
-- { ["**Enabling RADIUS for Wi-Fi**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#D) : &#x1F6A7; }
+> &#x1F52C; { ["**Enabling RADIUS for Wi-Fi**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#D) : &#x1F6A7; }
 
-- { ["**Configuring Attribute-based Access Control**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#E) : &#x1F6A7; }
+> &#x1F52C; { ["**Configuring Attribute-based Access Control**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#E) : &#x1F6A7; }
 
-- { ["**Enabling Password Policy Settings**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#F) : &#x1F6A7; }
+> &#x1F52C; { ["**Enabling Password Policy Settings**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#F) : &#x1F6A7; }
 
-- { ["**Cracking Linux Passwords**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#G) : &#x1F6A7; }
+> &#x1F52C; { ["**Cracking Linux Passwords**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#G) : &#x2705; }
 
-- { ["**Brute-forcing Windows RDP**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#H) : &#x1F6A7; }
+> &#x1F52C; { ["**Brute-forcing Windows RDP**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#H) : &#x2705; }
 
-- { ["**Limiting Cloud Management Using RBAC**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#I) : &#x1F6A7; }
+> &#x1F52C; { ["**Limiting Cloud Management Using RBAC**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#I) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
