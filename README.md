@@ -3810,7 +3810,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 <hr width=25%;>
 <!--
 27/12/2022
-"update repository ./asp-storage-and-network-security - Wired Network Security"
+"update repository ./asp-storage-and-network-security - Wireless Network Security"
 -->
 <details open>
     <summary>Storage and Network Security &#x21A9; <b></b></summary><br/>
@@ -3837,7 +3837,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 
 - { ["**Wired Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#K) : &#x2B55; }
 
-- { ["**Wireless Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#L) : &#x1F6A7; }
+- { ["**Wireless Network Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#L) : &#x2B55; }
 
 - { ["**Managing Servers through a Jump Box**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-storage-and-network-security/blob/main/asp-storage-and-network-security.ipynb#M) : &#x1F6A7; }
 
