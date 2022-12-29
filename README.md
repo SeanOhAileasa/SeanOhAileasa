@@ -3848,8 +3848,8 @@ As with other considerations when patching an environment, sandbox testing is ke
 27/12/2022
 "update repository ./asp-authentication-and-authorization - Authentication and Authorization"
 -->
-<details open>
-    <summary>Authentication and Authorization &#x21A9; <b></b></summary>
+<details close>
+    <summary>Authentication and Authorization &#x21A9; <b></b></summary><br/>
 
 - { ["**Authentication and Authorization**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#A) : &#x2B55; }
 
@@ -3870,28 +3870,32 @@ As with other considerations when patching an environment, sandbox testing is ke
 > &#x1F52C; { ["**Limiting Cloud Management Using RBAC**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-authentication-and-authorization/blob/main/asp-authentication-and-authorization.ipynb#I) : &#x1F6A7; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+29/12/2022
+"update repository ./asp-governance-and-security-compliance - Governance and Security Compliance"
+-->
+<details open>
     <summary>Governance and Security Compliance &#x21A9; <b></b></summary>
 
-- { ["**Data Privacy Standards and Compliance**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#A) : &#x1F6A7; }
+- { ["**Data Privacy Standards and Compliance**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#A) : &#x1F513; }
 
-- { ["**IT Services and Business Agreements**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#B) : &#x1F6A7; }
+- { ["**IT Services and Business Agreements**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#B) : &#x1F513; }
 
-- { ["**Personally Identifiable Information**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#C) : &#x1F6A7; }
+- { ["**Personally Identifiable Information**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#C) : &#x1F513; }
 
-- { ["**Classifying Data with Amazon Macie**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#D) : &#x1F6A7; }
+> &#x1F52C; { ["**Classifying Data with Amazon Macie**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#D) : &#x2B55; }
 
-- { ["**Preventing Data Exfiltration with Microsoft Azure**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#E) : &#x1F6A7; }
+> &#x1F52C; { ["**Preventing Data Exfiltration with Microsoft Azure**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#E) : &#x274C; }
 
-- { ["**Tagging Cloud Resources**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#F) : &#x1F6A7; }
+> &#x1F52C; { ["**Tagging Cloud Resources**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#F) : &#x274C; }
 
-- { ["**Data Security Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#G) : &#x1F6A7; }
+- { ["**Data Security Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#G) : &#x1F513; }
 
-- { ["**Securely Wiping a Storage Device**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#H) : &#x1F6A7; }
+> &#x1F52C; { ["**Securely Wiping a Storage Device**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#H) : &#x2705; }
 
-- { ["**Organizational Security Policies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#I) : &#x1F6A7; }
+- { ["**Organizational Security Policies**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#I) : &#x1F513; }
 
-- { ["**Data Roles and Data Sovereignty**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#J) : &#x1F6A7; }
+- { ["**Data Roles and Data Sovereignty**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#J) : &#x1F513; }
 </details>
 <hr width=25%;>
 <details close>
