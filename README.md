@@ -3874,7 +3874,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 29/12/2022
 "update repository ./asp-governance-and-security-compliance - Governance and Security Compliance"
 -->
-<details open>
+<details close>
     <summary>Governance and Security Compliance &#x21A9; <b></b></summary>
 
 - { ["**Data Privacy Standards and Compliance**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#A) : &#x1F513; }
@@ -3898,20 +3898,24 @@ As with other considerations when patching an environment, sandbox testing is ke
 - { ["**Data Roles and Data Sovereignty**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-governance-and-security-compliance/blob/main/asp-governance-and-security-compliance.ipynb#J) : &#x1F513; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+29/12/2022
+"update repository ./asp-mobile-and-embedded-devices - Mobile and Embedded Devices"
+-->
+<details open>
     <summary>Mobile and Embedded Devices &#x21A9; <b></b></summary>
 
-- { ["**Mobile Devices**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#A) : &#x1F6A7; }
+- { ["**Mobile Devices**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#A) : &#x1F513; }
 
-- { ["**IoT Drones and Embedded Devices**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#B) : &#x1F6A7; }
+- { ["**IoT Drones and Embedded Devices**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#B) : &#x1F513; }
 
-- { ["**Querying the Shodan.io Web Site**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#C) : &#x1F6A7; }
+> &#x1F52C; { ["**Querying the Shodan.io Web Site**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#C) : &#x2B55; }
 
-- { ["**Hardening a Smartphone**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#D) : &#x1F6A7; }
+> &#x1F52C; { ["**Hardening a Smartphone**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#D) : &#x1F6A7; }
 
-- { ["**Registering an Android Device with a MDM**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#E) : &#x1F6A7; }
+> &#x1F52C; { ["**Registering an Android Device with a MDM**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#E) : &#x1F6A7; }
 
-- { ["**Managing an Android Device Using MDM**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#F) : &#x1F6A7; }
+> &#x1F52C; { ["**Managing an Android Device Using MDM**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#F) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
