@@ -3902,7 +3902,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 29/12/2022
 "update repository ./asp-mobile-and-embedded-devices - Mobile and Embedded Devices"
 -->
-<details open>
+<details close>
     <summary>Mobile and Embedded Devices &#x21A9; <b></b></summary>
 
 - { ["**Mobile Devices**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#A) : &#x1F513; }
@@ -3918,20 +3918,24 @@ As with other considerations when patching an environment, sandbox testing is ke
 > &#x1F52C; { ["**Managing an Android Device Using MDM**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-mobile-and-embedded-devices/blob/main/asp-mobile-and-embedded-devices.ipynb#F) : &#x1F6A7; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+31/12/2022
+"update repository ./asp-industrial-computing-environments - Industrial Computing Environments"
+-->
+<details open>
     <summary>Industrial Computing Environments &#x21A9; <b></b></summary>
 
-- { ["**Security and Industrial Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#A) : &#x1F6A7; }
+- { ["**Security and Industrial Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#A) : &#x1F513; }
 
-- { ["**Industrial Control System Protocols**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#B) : &#x1F6A7; }
+- { ["**Industrial Control System Protocols**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#B) : &#x1F513; }
 
-- { ["**Supervisory Control and Data Acquisition**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#C) : &#x1F6A7; }
+- { ["**Supervisory Control and Data Acquisition**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#C) : &#x1F513; }
 
-- { ["**Applying NIST SP 800-82 - Guide to ICS Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#D) : &#x1F6A7; }
+- { ["**Applying NIST SP 800-82 - Guide to ICS Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#D) : &#x1F513; }
 
-- { ["**Installing and Starting an S7 PLC Emulator in Linux**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#E) : &#x1F6A7; }
+> &#x1F52C; { ["**Installing and Starting an S7 PLC Emulator in Linux**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#E) : &#x2705; }
 
-- { ["**Using Metasploit to Remotely Stop a Siemens S7 PLC**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#F) : &#x1F6A7; }
+> &#x1F52C; { ["**Using Metasploit to Remotely Stop a Siemens S7 PLC**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#F) : &#x2705; }
 </details>
 <hr width=25%;>
 <details close>
