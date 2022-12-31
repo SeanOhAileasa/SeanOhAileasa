@@ -3922,7 +3922,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 31/12/2022
 "update repository ./asp-industrial-computing-environments - Industrial Computing Environments"
 -->
-<details open>
+<details close>
     <summary>Industrial Computing Environments &#x21A9; <b></b></summary>
 
 - { ["**Security and Industrial Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#A) : &#x1F513; }
@@ -3938,20 +3938,24 @@ As with other considerations when patching an environment, sandbox testing is ke
 > &#x1F52C; { ["**Using Metasploit to Remotely Stop a Siemens S7 PLC**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-industrial-computing-environments/blob/main/asp-industrial-computing-environments.ipynb#F) : &#x2705; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+31/12/2022
+"update repository ./asp-emerging-technologies-and-secdevops - Emerging Technologies and SecDevOps"
+-->
+<details open>
     <summary>Emerging Technologies and SecDevOps &#x21A9; <b></b></summary>
 
-- { ["**Artificial Intelligence and Machine Learning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#A) : &#x1F6A7; }
+- { ["**Artificial Intelligence and Machine Learning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#A) : &#x1F513; }
 
-- { ["**3-D Printing and Blockchain and Quantum Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#B) : &#x1F6A7; }
+- { ["**3-D Printing and Blockchain and Quantum Computing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#B) : &#x1F513; }
 
-- { ["**Secure DevOps**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#C) : &#x1F6A7; }
+- { ["**Secure DevOps**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#C) : &#x1F513; }
 
-- { ["**OWASP Top 10**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#D) : &#x1F6A7; }
+- { ["**OWASP Top 10**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#D) : &#x1F513; }
 
-- { ["**Testing Web App Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#E) : &#x1F6A7; }
+> &#x1F52C; { ["**Testing Web App Security**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#E) : &#x1F6A7; }
 
-- { ["**Software Testing Types**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#F) : &#x1F6A7; }
+- { ["**Software Testing Types**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#F) : &#x1F513; }
 </details>
 <hr width=25%;>
 <details close>
