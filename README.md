@@ -3942,7 +3942,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 31/12/2022
 "update repository ./asp-emerging-technologies-and-secdevops - Emerging Technologies and SecDevOps"
 -->
-<details open>
+<details close>
     <summary>Emerging Technologies and SecDevOps &#x21A9; <b></b></summary>
 
 - { ["**Artificial Intelligence and Machine Learning**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#A) : &#x1F513; }
@@ -3958,34 +3958,38 @@ As with other considerations when patching an environment, sandbox testing is ke
 - { ["**Software Testing Types**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-emerging-technologies-and-secdevops/blob/main/asp-emerging-technologies-and-secdevops.ipynb#F) : &#x1F513; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+31/12/2022
+"update repository ./asp-monitoring-and-incident-response - Monitoring and Incident Response"
+-->
+<details open>
     <summary>Monitoring and Incident Response &#x21A9; <b></b></summary>
 
-- { ["**Host and Device and Network Monitoring**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#A) : &#x1F6A7; }
+- { ["**Host and Device and Network Monitoring**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#A) : &#x1F513; }
 
-- { ["**Enabling Linux Syslog Forwarding**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#B) : &#x1F6A7; }
+> &#x1F52C; { ["**Enabling Linux Syslog Forwarding**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#B) : &#x2705; }
 
-- { ["**Managing Windows Event Viewer Logs**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#C) : &#x1F6A7; }
+> &#x1F52C; { ["**Managing Windows Event Viewer Logs**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#C) : &#x1F6A7; }
 
-- { ["**Managing Cloud Logging and Alerts**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#D) : &#x1F6A7; }
+> &#x1F52C; { ["**Managing Cloud Logging and Alerts**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#D) : &#x1F6A7; }
 
-- { ["**Honeynets and Honeypots and Honeyfiles**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#E) : &#x1F6A7; }
+- { ["**Honeynets and Honeypots and Honeyfiles**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#E) : &#x1F513; }
 
-- { ["**Intrusion Detection and Prevention**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#F) : &#x1F6A7; }
+- { ["**Intrusion Detection and Prevention**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#F) : &#x1F513; }
 
-- { ["**Installing the Snort IDS**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#G) : &#x1F6A7; }
+> &#x1F52C; { ["**Installing the Snort IDS**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#G) : &#x2B55; }
 
-- { ["**Testing the Snort IDS**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#H) : &#x1F6A7; }
+> &#x1F52C; { ["**Testing the Snort IDS**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#H) : &#x2B55; }
 
-- { ["**SIEM and SOAR**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#I) : &#x1F6A7; }
+- { ["**SIEM and SOAR**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#I) : &#x1F513; }
 
-- { ["**Network Traffic Capture Using tcpdump**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#J) : &#x1F6A7; }
+> &#x1F52C; { ["**Network Traffic Capture Using tcpdump**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#J) : &#x2705; }
 
-- { ["**Network Traffic Filtering Using Wireshark**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#K) : &#x1F6A7; }
+> &#x1F52C; { ["**Network Traffic Filtering Using Wireshark**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#K) : &#x1F6A7; }
 
-- { ["**Using nmap For Network Reconnaissance**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#L) : &#x1F6A7; }
+> &#x1F52C; { ["**Using nmap For Network Reconnaissance**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#L) : &#x2705; }
 
-- { ["**Analyzing Packet Captures for Malicious Activity**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#M) : &#x1F6A7; }
+> &#x1F52C; { ["**Analyzing Packet Captures for Malicious Activity**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#M) : &#x2B55; }
 </details>
 <hr width=25%;>
 <details close>
