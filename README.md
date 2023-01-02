@@ -3962,8 +3962,9 @@ As with other considerations when patching an environment, sandbox testing is ke
 31/12/2022
 "update repository ./asp-monitoring-and-incident-response - Monitoring and Incident Response"
 -->
-<details open>
+<details close>
     <summary>Monitoring and Incident Response &#x21A9; <b></b></summary>
+<br/>
 
 - { ["**Host and Device and Network Monitoring**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#A) : &#x1F513; }
 
@@ -3992,30 +3993,34 @@ As with other considerations when patching an environment, sandbox testing is ke
 > &#x1F52C; { ["**Analyzing Packet Captures for Malicious Activity**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-monitoring-and-incident-response/blob/main/asp-monitoring-and-incident-response.ipynb#M) : &#x2B55; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+02/01/2023
+"update repository ./asp-vulnerabilities-and-hardening - Vulnerabilities and Hardening"
+-->
+<details open>
     <summary>Vulnerabilities and Hardening &#x21A9; <b></b></summary>
 
-- { ["**The Attacker Method**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#A) : &#x1F6A7; }
+- { ["**The Attacker Method**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#A) : &#x1F513; }
 
-- { ["**Network Segmentation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#B) : &#x1F6A7; }
+- { ["**Network Segmentation**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#B) : &#x1F513; }
 
-- { ["**Zombies and Botnets**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#C) : &#x1F6A7; }
+- { ["**Zombies and Botnets**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#C) : &#x1F513; }
 
-- { ["**Common Attacks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#D) : &#x1F6A7; }
+- { ["**Common Attacks**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#D) : &#x1F513; }
 
-- { ["**Hardening Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#E) : &#x1F6A7; }
+- { ["**Hardening Techniques**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#E) : &#x1F513; }
 
-- { ["**Vulnerability Scans and Penetration Tests**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#F) : &#x1F6A7; }
+- { ["**Vulnerability Scans and Penetration Tests**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#F) : &#x1F513; }
 
-- { ["**Using OpenVAS for Vulnerability Assessments**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#G) : &#x1F6A7; }
+- { ["**Using OpenVAS for Vulnerability Assessments**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#G) : &#x2705; }
 
-- { ["**Navigating the Metasploit Framework**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#H) : &#x1F6A7; }
+> &#x1F52C; { ["**Navigating the Metasploit Framework**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#H) : &#x1F6A7; }
 
-- { ["**Cloning Using the Social Engineering Toolkit Site**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#I) : &#x1F6A7; }
+> &#x1F52C; { ["**Cloning Using the Social Engineering Toolkit Site**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#I) : &#x2705; }
 
-- { ["**Compromising a Web Browser**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#J) : &#x1F6A7; }
+> &#x1F52C; { ["**Compromising a Web Browser**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#J) : &#x2B55; }
 
-- { ["**Cracking WPA2 Passphrases**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#K) : &#x1F6A7; }
+> &#x1F52C; { ["**Cracking WPA2 Passphrases**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#K) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
@@ -4405,9 +4410,9 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 </details> <!-- END: Splunk -->
 <hr width=33%;> <!-- -->
               
-|**Prefix**|**'22/'23 Cybersecurity Career Pathway...**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|**Prefix**|**2023 Cybersecurity Career Pathway...**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
-| &nbsp;&nbsp;&nbsp;``msc-``&nbsp;&nbsp; | <br/>MSc in Cybersecurity, Privacy and Trust<br/>[ [HEA](https://springboardcourses.ie/details/10501) ][ [Subjects](https://www.itcarlow.ie/study/postgraduate-rd/postgraduate-programmes-taught/computing-data-science/master-cybersecurity-privacy-trust.htm) ] <br/><br/>                   | 16th Jan 2023<br/>``Part-time`` |
+| &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | <br/>Offensive Security [ [Learn One](https://www.offensive-security.com/learn/) ]<br/><br/>| [![OffSec](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec.png?raw=true)](https://www.cybrary.it/course/offensive-penetration-testing/) |
 | &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/> | ![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true) |
 
 <hr width=33%;> <!-- -->
