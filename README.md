@@ -4027,7 +4027,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 05/01/2023
 "update repository ./asp-digital-forensics - Digital Forensics"
 -->
-<details open>
+<details close>
     <summary>Digital Forensics &#x21A9; <b></b></summary>
 
 - { ["**Evidence Gathering and Digital Forensics**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#A) : &#x1F513; }
@@ -4043,18 +4043,22 @@ As with other considerations when patching an environment, sandbox testing is ke
 > &#x1F52C; { ["**Using Steganography to Hide Messages**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#F) : &#x1F6A7; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+05/01/2023
+"update repository ./asp-business-continuity - Business Continuity"
+-->
+<details open>
     <summary>Business Continuity &#x21A9; <b></b></summary>
 
-- { ["**Business Continuity and Disaster Recovery**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#A) : &#x1F6A7; }
+- { ["**Business Continuity and Disaster Recovery**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#A) : &#x1F513; }
 
-- { ["**Physical and Logical Redundancy**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#B) : &#x1F6A7; }
+- { ["**Physical and Logical Redundancy**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#B) : &#x1F513; }
 
-- { ["**Clustering and Load Balancing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#C) : &#x1F6A7; }
+- { ["**Clustering and Load Balancing**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#C) : &#x1F513; }
 
-- { ["**Deploying a Microsoft Azure Load Balancer**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#D) : &#x1F6A7; }
+> &#x1F52C; { ["**Deploying a Microsoft Azure Load Balancer**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#D) : &#x1F6A7; }
 
-- { ["**Backing Up Data Using Microsoft Azure**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#E) : &#x1F6A7; }
+> &#x1F52C; { ["**Backing Up Data Using Microsoft Azure**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-business-continuity/blob/main/asp-business-continuity.ipynb#E) : &#x1F6A7; }
 </details>
 <hr width=25%;>  
 <details open>
