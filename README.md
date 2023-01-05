@@ -3997,7 +3997,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 02/01/2023
 "update repository ./asp-vulnerabilities-and-hardening - Vulnerabilities and Hardening"
 -->
-<details open>
+<details close>
     <summary>Vulnerabilities and Hardening &#x21A9; <b></b></summary>
 
 - { ["**The Attacker Method**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#A) : &#x1F513; }
@@ -4023,20 +4023,24 @@ As with other considerations when patching an environment, sandbox testing is ke
 > &#x1F52C; { ["**Cracking WPA2 Passphrases**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-vulnerabilities-and-hardening/blob/main/asp-vulnerabilities-and-hardening.ipynb#K) : &#x1F6A7; }
 </details>
 <hr width=25%;>
-<details close>
+<!--
+05/01/2023
+"update repository ./asp-digital-forensics - Digital Forensics"
+-->
+<details open>
     <summary>Digital Forensics &#x21A9; <b></b></summary>
 
-- { ["**Evidence Gathering and Digital Forensics**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#A) : &#x1F6A7; }
+- { ["**Evidence Gathering and Digital Forensics**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#A) : &#x1F513; }
 
-- { ["**Digital Forensic Hardware and Software**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#B) : &#x1F6A7; }
+- { ["**Digital Forensic Hardware and Software**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#B) : &#x1F513; }
 
-- { ["**Creating and Hashing a Linux Disk Image**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#C) : &#x1F6A7; }
+> &#x1F52C; { ["**Creating and Hashing a Linux Disk Image**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#C) : &#x2705; }
 
-- { ["**Acquiring a Forensic Disk Image Using FTK Imager**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#D) : &#x1F6A7; }
+> &#x1F52C; { ["**Acquiring a Forensic Disk Image Using FTK Imager**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#D) : &#x2705; }
 
-- { ["**Using the Android Debug Bridge**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#E) : &#x1F6A7; }
+> &#x1F52C; { ["**Using the Android Debug Bridge**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#E) : &#x2705; }
 
-- { ["**Using Steganography to Hide Messages**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#F) : &#x1F6A7; }
+> &#x1F52C; { ["**Using Steganography to Hide Messages**"](https://nbviewer.jupyter.org/github/SeanOhAileasa/asp-digital-forensics/blob/main/asp-digital-forensics.ipynb#F) : &#x1F6A7; }
 </details>
 <hr width=25%;>
 <details close>
