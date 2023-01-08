@@ -11,8 +11,10 @@
 | &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA Cybersecurity Analyst (CySa+) <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-cysa-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-CySa-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CSAP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csap.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-Analytics-Professional-CSAP.pdf) |
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CNSP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnsp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Security-Professional-CNSP.pdf) |
+| &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-casp-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-CASP-certificate.pdf) |
+| &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA CSIE <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csie.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CSIE.pdf) |
+| &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA CSAE<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csae.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CSAE.pdf) |
 | &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x2935; |
-| &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified User<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/splunk/SPLK-1001_Splunk-Core-Certified-User.png?raw=true)](https://www.credly.com/badges/1040f6ad-98dd-4ef8-b3ae-3234d49c6656) |
 <!--
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
@@ -3663,7 +3665,7 @@ As with other considerations when patching an environment, sandbox testing is ke
 </details>
 </details>
 <hr width=33%;>
-<details open>
+<details close>
 	<summary><b>CompTIA CASP+ &#x21A9;</b></summary><br/>
 
 <!--
