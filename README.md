@@ -20,7 +20,7 @@
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
 -->
 
-<details close>
+<details open>
 	<summary><h4>&#x1F4CC; ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
 
 <details close>
@@ -4464,6 +4464,10 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 </details>
 
 <hr width=33%;> <!-- -->
+<!--
+14/01/2023
+"update ./add repository ./cti-cyber-threat-intelligence - Why You Need a Threat Intelligence Program"
+-->
 
 </details>
 </details> <!-- END (Cybersecurity Associate Candidate (Apprenticeship NFQ L6)) -->
