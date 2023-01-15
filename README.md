@@ -5,17 +5,20 @@
 |:-----:| :-----------------------------------------------|:-----:|
 | &nbsp;&nbsp;&nbsp;``itf-``&nbsp;&nbsp; | CompTIA ITF+ &#x2705; [``31st May:24th Jun``] |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+ &#x2705; [``18th Jul:7th Oct``] <br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
-| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>[ [CompTIA Security+](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) ] &#x1F4CC; [``:16th Dec``] <br/><br/>                               |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-security-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-plus-certificate.pdf)|
+| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>[ [CompTIA Security+](https://nbviewer.org/github/SeanOhAileasa/syp-cybersecurity-apprenticeship/blob/main/syp-cybersecurity-apprenticeship.ipynb#topToday) ] &#x2705; [``:16th Dec 2022``] <br/><br/>                               |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-security-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-plus-certificate.pdf)|
+| &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA (CySa+) &#x1F4CC; [``:12th May 2023``]<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-cysa-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-CySa-certificate.pdf) |
+| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CSAP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csap.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-Analytics-Professional-CSAP.pdf) |
 | &nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA PenTest+ <br/><br/>                | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-pentest-pt-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-PenTest-plus-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp; | <br/>CompTIA CNVP <br/><br/>                | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnvp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Vulnerability-Assessment-Professional-CNVP.pdf) |
-| &nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA Cybersecurity Analyst (CySa+) <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-cysa-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-CySa-certificate.pdf) |
-| &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CSAP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csap.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-Analytics-Professional-CSAP.pdf) |
 | &nbsp;&nbsp;&nbsp;``syp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``ptp-``&nbsp;&nbsp;<br/>&nbsp;&nbsp;&nbsp;``cap-``&nbsp;&nbsp; | <br/>CompTIA CNSP <br/><br/>                   | [![Stack](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/cnsp.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-Security-Professional-CNSP.pdf) |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-casp-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-CASP-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA CSIE <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csie.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CSIE.pdf) |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA CSAE<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csae.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CSAE.pdf) |
 | &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified User<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/splunk/SPLK-1001_Splunk-Core-Certified-User.png?raw=true)](https://www.credly.com/badges/1040f6ad-98dd-4ef8-b3ae-3234d49c6656) |
+| &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | Darktrace Threat Visualizer Part 1<br/>Course Attendance: Familiarization<br/>``Certification Prerequisite``                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Threat-Visualizer-Part-1-Familiarization.pdf) |
+| &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | Darktrace Threat Visualizer Part 2<br/>Course Attendance: Investigation<br/>``Certification Prerequisite``                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Threat-Visualizer-Part-2-Investigation.pdf) |
+| &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | Offensive Security [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ Fundamental Content ]-100<br/> PEN‑200 (OSCP) / PEN-210 (OSWP)| [![OffSec](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec.png?raw=true)](https://www.cybrary.it/course/offensive-penetration-testing/) |
 <!--
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
 -->
@@ -364,7 +367,7 @@
 </details>
 <hr width=33%;>
 <details close>
-	<summary><b>&#x1F4CC; CompTIA Security+ &#x21A9;</b></summary>
+	<summary><b>&#x2705; CompTIA Security+ &#x21A9;</b></summary>
 
 <!--
 09/12/2022
@@ -4418,13 +4421,6 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - { ["**Splunk Core Certified User**"](https://github.com/SeanOhAileasa/spk-splunk/blob/main/README.md) : &#x2623; }
 </details> <!-- END (Supplemental) -->
 </details> <!-- END: Splunk -->
-<hr width=33%;> <!-- -->
-              
-|**Prefix**|**2023 Cybersecurity Career Pathway...**|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
-|:-----:| :-----------------------------------------------|:-----:|
-| &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | <br/>Offensive Security [ [Learn One](https://www.offensive-security.com/learn/) ]<br/><br/>| [![OffSec](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec.png?raw=true)](https://www.cybrary.it/course/offensive-penetration-testing/) |
-| &nbsp;&nbsp;&nbsp;``dcp-``&nbsp;&nbsp; | <br/>DataCamp [``Self-paced/Non-proctored``]<br/><br/> | ![DataCamp](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dcp.png?raw=true) |
-
 <hr width=33%;> <!-- -->
 
 <details close>
