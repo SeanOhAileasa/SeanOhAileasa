@@ -4466,6 +4466,11 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 "update ./add repository ./cti-cyber-threat-intelligence - Threat Actors, Campaigns, and Tooling"
 -->
 
+<!--
+29/01/2023
+"add repository ./azs-azure-security - Introduction to Azure Security"
+-->
+
 </details>
 </details> <!-- END (Cybersecurity Associate Candidate (Apprenticeship NFQ L6)) -->
 <details close> 
