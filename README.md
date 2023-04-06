@@ -22,7 +22,7 @@
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Cyber Engineer``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Cyber-Engineer.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Threat Visualizer Administration``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Threat-Visualizer-Administration.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Darktrace RESPOND/Network``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace-RESPOND_Network.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
-| &nbsp;&nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/courses) ]<br/>Cyber Threat Intelligence 101<br/>Foundation Level Certification<br/>                   | &#x2935; |
+| &nbsp;&nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/verify-certificate?id=ba1fd57e1ab75c5e0ee149a04f290ccad108cb2f&k=191528b51e3f4ca49b88c3dc1ba64c91) ]<br/>Cyber Threat Intelligence 101<br/>Foundation Level Certification<br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/badge.jpg?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/101-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | Offensive Security [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[``Fundamental Content``]-100<br/> PEN‑200 (OSCP) / PEN-210 (OSWP)| &#x1F6A7; |
 <!--
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
@@ -4443,9 +4443,9 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 <!--
 06/04/2023
-"add repository ./arc-cti-101"
+"update repository ./arc-cti-101 - Cyber Threat Intelligence 101 - Status Pass"
 -->
-* { [``arcX``](https://github.com/SeanOhAileasa/arc-cti-101/blob/main/README.md) : &#x1F6A7; }
+- [``arcX``](https://github.com/SeanOhAileasa/arc-cti-101/blob/main/README.md) : &#x2705;
 </details>
 
 </details>
