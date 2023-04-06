@@ -22,6 +22,7 @@
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Cyber Engineer``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Cyber-Engineer.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Threat Visualizer Administration``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Threat-Visualizer-Administration.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Darktrace RESPOND/Network``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace-RESPOND_Network.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
+| &nbsp;&nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/courses) ]<br/>Cyber Threat Intelligence 101<br/>Foundation Level Certification<br/>                   | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | Offensive Security [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[``Fundamental Content``]-100<br/> PEN‑200 (OSCP) / PEN-210 (OSWP)| &#x1F6A7; |
 <!--
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
@@ -4425,43 +4426,6 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - { ["**Splunk Core Certified User**"](https://github.com/SeanOhAileasa/spk-splunk/blob/main/README.md) : &#x2623; }
 </details> <!-- END (Supplemental) -->
 </details> <!-- END: Splunk -->
-<hr width=33%;> <!-- -->
-
-<details close>
-	<summary><b>DataCamp &#x21A9;</b></summary><br/>
-
-<!--
-08/11/2022
-"update ./rc - DataCamp - Introduction to Data Science in Python"
--->
-<details open>
-	<summary><b>Python &#x21A9;</b> 6%</summary><br/>
-
-- { ["**Introduction to Data Science in Python**"](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/DataCamp/20221108_IntroductiontoDataScienceinPython.pdf) &#x2705; <br/> 
-</details>
-</details>
-
-<hr width=33%;> <!-- -->
-
-<details close>
-	<summary><h4>&#x1F4CC; Project Management Tracking (Task - Status / Priority) &#x21A9; </h4></summary>
-
-- &#x21A9; Expand / Dropdown List
-- &#x274C; Outstanding / Why? / Go
-- &#x1F4CC; Apprenticeship Status
-- &#x23F2; Timesheet (On Request)
-- &#x1F6A7; Work-in-Progress / WIP
-- &#x1F201; Here / Revision / Review
-- &#x1F530; Beginner / Future Priority
-- &#x1F23A; Open for Business / &#x1F6A7;
-- &#x1F232; Prohibited / Low Priority
-- &#x1F52C; Walkthrough / Practice
-- &#x1F513; Read / Review / Skim &#x2B55;
-- &#x1F4DC; Non-interactive / Theory
-- &#x1F512; Live Lab Completed (1st)  
-- &#x2705; Semester / Topic Finished
-- &#x2623; Private Repository / Exit
-</details>
 
 <hr width=33%;> <!-- -->
 <!--
@@ -4474,7 +4438,18 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 "add repository ./azs-azure-security - Introduction to Azure Security"
 -->
 
+<details open>
+    <summary><b>Cyber Threat Intelligence 101&#x21A9;</b></summary><br/>
+
+<!--
+06/04/2023
+"add repository ./arc-cti-101"
+-->
+* { [``arcX``](https://github.com/SeanOhAileasa/arc-cti-101/blob/main/README.md) : &#x1F6A7; }
 </details>
+
+</details>
+<hr width=33%;> <!-- -->
 </details> <!-- END (Cybersecurity Associate Candidate (Apprenticeship NFQ L6)) -->
 <details open> 
 	<summary><h3>2022 Data Analytics &#x21A9;</h3></summary>
@@ -4671,4 +4646,44 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 </details>
 
+<hr width=33%;> <!-- -->
+
+<details close>
+	<summary><b>DataCamp &#x21A9;</b></summary><br/>
+
+<!--
+08/11/2022
+"update ./rc - DataCamp - Introduction to Data Science in Python"
+-->
+<details open>
+	<summary><b>Python &#x21A9;</b> 6%</summary><br/>
+
+- { ["**Introduction to Data Science in Python**"](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/DataCamp/20221108_IntroductiontoDataScienceinPython.pdf) &#x2705; <br/> 
+</details>
+</details>
+
 </details> <!-- END: Higher Diploma in Science in Computing (in Data Analytics) -->
+
+<hr width=33%;> <!-- -->
+
+<details close>
+	<summary><h4>&#x1F4CC; Project Management Tracking (Task - Status / Priority) &#x21A9; </h4></summary>
+
+- &#x21A9; Expand / Dropdown List
+- &#x274C; Outstanding / Why? / Go
+- &#x1F4CC; Apprenticeship Status
+- &#x23F2; Timesheet (On Request)
+- &#x1F6A7; Work-in-Progress / WIP
+- &#x1F201; Here / Revision / Review
+- &#x1F530; Beginner / Future Priority
+- &#x1F23A; Open for Business / &#x1F6A7;
+- &#x1F232; Prohibited / Low Priority
+- &#x1F52C; Walkthrough / Practice
+- &#x1F513; Read / Review / Skim &#x2B55;
+- &#x1F4DC; Non-interactive / Theory
+- &#x1F512; Live Lab Completed (1st)  
+- &#x2705; Semester / Topic Finished
+- &#x2623; Private Repository / Exit
+</details>
+
+<hr width=33%;> <!-- -->
