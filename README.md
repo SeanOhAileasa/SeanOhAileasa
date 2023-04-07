@@ -4459,13 +4459,14 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/    
 
 07/04/2023
-"update repository pen-100 ./pen-100 - Windows Basics I - Windows Shells"
+"update repository pen-100 ./pen-100 - Windows Basics I - Windows File System Navigation"
 -->
 <details open>
     <summary><b>Windows Basics I &#x21A9;</b></summary>
 
 - Linux vs Windows &#x1F52C; <u>6%</u> &#x2705; (3)<br/>
 - Windows Shells &#x1F52C; <u>14%</u> &#x2705; (4)<br/>
+- Windows File System Navigation &#x1F52C; <u>28%</u> &#x2705; (13)<br/>
 <hr width=25%;>  
 </details>
 </details>
