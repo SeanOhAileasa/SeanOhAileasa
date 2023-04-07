@@ -4448,8 +4448,6 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - [``arcX``](https://github.com/SeanOhAileasa/arc-cti-101/blob/main/README.md) : &#x2705;
 </details>
 
-</details>
-
 <hr width=33%;> <!-- -->
 
 <details open>
@@ -4461,14 +4459,22 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/    
 
 07/04/2023
-"add repository pen-100 ./pen-100"
+"update repository pen-100 ./pen-100 - Windows Basics I - Linux vs Windows"
 -->
+<details open>
+    <summary><b>Windows Basics I &#x21A9;</b></summary>
+
+- Linux vs Windows &#x1F52C; <u>6%</u> &#x2705; (3)<br/>
+<hr width=25%;>  
+</details>
+</details>
+
 </details>
 
 <hr width=33%;> <!-- -->
 
 </details> <!-- END (Cybersecurity Associate Candidate (Apprenticeship NFQ L6)) -->
-<details open> 
+<details close> 
 	<summary><h3>2022 Data Analytics &#x21A9;</h3></summary>
 
 | **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade |
