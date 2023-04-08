@@ -4470,8 +4470,17 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - System Information and Environment Variables &#x1F52C; <u>63%</u> &#x2705; (11)<br/>
 - Managing Files From the Command Line &#x1F52C; <u>77%</u> &#x2705; (7)<br/>
 - Searching For Files and Text &#x1F52C; <u>100%</u> &#x2705; (11)<br/>
-<hr width=25%;>  
+<hr width=25%;>
 </details>
+<!-- 
+08/04/2023
+"update repository pen-100 ./pen-100 - Windows Basics II - Windows Access Controls and Security Principles"
+-->
+<details open>
+    <summary><b>Windows Basics II &#x21A9;</b></summary>
+
+- Windows Access Controls and Security Principles &#x1F52C; <u>6%</u> &#x2705; (4/69)<br/>
+<hr width=25%;> 
 </details>
 
 </details>
