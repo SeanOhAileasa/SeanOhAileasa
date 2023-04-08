@@ -4474,12 +4474,13 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 </details>
 <!-- 
 08/04/2023
-"update repository pen-100 ./pen-100 - Windows Basics II - Windows Access Controls and Security Principles"
+"update repository pen-100 ./pen-100 - Windows Basics II - Windows User and Group Permissions"
 -->
 <details open>
     <summary><b>Windows Basics II &#x21A9;</b></summary>
 
 - Windows Access Controls and Security Principles &#x1F52C; <u>6%</u> &#x2705; (4/69)<br/>
+- Windows User and Group Permissions &#x1F52C; <u>25%</u> &#x2705; (13)<br/>
 <hr width=25%;> 
 </details>
 
