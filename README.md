@@ -4473,8 +4473,8 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 <hr width=25%;>
 </details>
 <!-- 
-09/04/2023
-"update repository pen-100 ./pen-100 - Windows Basics II - Introduction to Windows Permissions"
+10/04/2023
+"update repository pen-100 ./pen-100 - Windows Basics II - Windows Processes"
 -->
 <details open>
     <summary><b>Windows Basics II &#x21A9;</b></summary>
@@ -4482,6 +4482,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Windows Access Controls and Security Principles &#x1F52C; <u>6%</u> &#x2705; (4/69)<br/>
 - Windows User and Group Permissions &#x1F52C; <u>25%</u> &#x2705; (13)<br/>
 - Introduction to Windows Permissions &#x1F52C; <u>42%</u> &#x2705; (12)<br/>
+- Windows Processes &#x1F52C; <u>58%</u> &#x2705; (11)<br/>
 <hr width=25%;> 
 </details>
 
