@@ -4474,7 +4474,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 </details>
 <!-- 
 11/04/2023
-"update repository pen-100 ./pen-100 - Windows Basics II - Scheduling Tasks on Windows"
+"update repository pen-100 ./pen-100 - Windows Basics II - Windows Disk Utilities"
 -->
 <details open>
     <summary><b>Windows Basics II &#x21A9;</b></summary>
@@ -4486,6 +4486,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Windows Libraries &#x1F52C; <u>63%</u> &#x2705; (4)<br/>
 - Windows Registry &#x1F52C; <u>75%</u> &#x2705; (8)<br/>
 - Scheduling Tasks on Windows &#x1F52C; <u></u> &#x1F6A7; (6)<br/>
+- Windows Disk Utilities &#x1F52C; <u></u> &#x1F6A7; (5)<br/>
 <hr width=25%;> 
 </details>
 
