@@ -4461,7 +4461,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 08/04/2023
 "update repository pen-100 ./pen-100 - Windows Basics I - Searching For Files and Text"
 -->
-<details open>
+<details close>
     <summary><b>Windows Basics I &#x21A9;</b></summary>
 
 - Linux vs Windows &#x1F52C; <u>6%</u> &#x2705; (3/49)<br/>
@@ -4476,7 +4476,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 11/04/2023
 "update repository pen-100 ./pen-100 - Windows Basics II - Windows Basics I & II: Cumulative Exercise"
 -->
-<details open>
+<details close>
     <summary><b>Windows Basics II &#x21A9;</b></summary>
 
 - Windows Access Controls and Security Principles &#x1F52C; <u>6%</u> &#x2705; (4/69)<br/>
@@ -4488,6 +4488,16 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Scheduling Tasks on Windows &#x1F52C; <u></u> &#x1F6A7; (6)<br/>
 - Windows Disk Utilities &#x1F52C; <u></u> &#x1F6A7; (5)<br/>
 - Windows Basics I & II: Cumulative Exercise &#x1F52C; <u></u> &#x1F6A7; (6)<br/>
+<hr width=25%;> 
+</details>
+<!-- 
+11/04/2023
+"update repository pen-100 ./pen-100 - Networking Fundamentals - The OSI Model"
+-->
+<details open>
+    <summary><b>Networking Fundamentals &#x21A9;</b></summary>
+
+- The OSI Model &#x1F52C; <u>8%</u> &#x1F52C; (6/73)<br/>
 <hr width=25%;> 
 </details>
 
