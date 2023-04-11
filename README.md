@@ -4469,12 +4469,12 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Windows File System Navigation &#x1F52C; <u>28%</u> &#x2705; (13)<br/>
 - System Information and Environment Variables &#x1F52C; <u>63%</u> &#x2705; (11)<br/>
 - Managing Files From the Command Line &#x1F52C; <u>77%</u> &#x2705; (7)<br/>
-- Searching For Files and Text &#x1F52C; <u>100%</u> &#x2705; (11)<br/>
+- Searching For Files and Text &#x1F52C; <u>84%</u> &#x2705; (11)<br/>
 <hr width=25%;>
 </details>
 <!-- 
 11/04/2023
-"update repository pen-100 ./pen-100 - Windows Basics II - Windows Registry"
+"update repository pen-100 ./pen-100 - Windows Basics II - Scheduling Tasks on Windows"
 -->
 <details open>
     <summary><b>Windows Basics II &#x21A9;</b></summary>
@@ -4485,6 +4485,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Windows Processes &#x1F52C; <u>58%</u> &#x2705; (11)<br/>
 - Windows Libraries &#x1F52C; <u>63%</u> &#x2705; (4)<br/>
 - Windows Registry &#x1F52C; <u>75%</u> &#x2705; (8)<br/>
+- Scheduling Tasks on Windows &#x1F52C; <u></u> &#x1F6A7; (6)<br/>
 <hr width=25%;> 
 </details>
 
