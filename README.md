@@ -4464,12 +4464,12 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 <details close>
     <summary><b>Windows Basics I &#x21A9;</b></summary>
 
-- Linux vs Windows &#x1F52C; <u>6%</u> &#x2705; (3/49)<br/>
-- Windows Shells &#x1F52C; <u>14%</u> &#x2705; (4)<br/>
-- Windows File System Navigation &#x1F52C; <u>28%</u> &#x2705; (13)<br/>
-- System Information and Environment Variables &#x1F52C; <u>63%</u> &#x2705; (11)<br/>
-- Managing Files From the Command Line &#x1F52C; <u>77%</u> &#x2705; (7)<br/>
-- Searching For Files and Text &#x1F52C; <u>84%</u> &#x2705; (11)<br/>
+- Linux vs Windows &#x1F52C; <u>(3/49)</u> &#x2705; <br/>
+- Windows Shells &#x1F52C; <u>(4)</u> &#x2705; <br/>
+- Windows File System Navigation &#x1F52C; <u>(13)</u> &#x2705; <br/>
+- System Information and Environment Variables &#x1F52C; <u>(11)</u> &#x2705; <br/>
+- Managing Files From the Command Line &#x1F52C; <u>(7)</u> &#x2705;<br/>
+- Searching For Files and Text &#x1F52C; <u>(11)</u> &#x2705; <br/>
 <hr width=25%;>
 </details>
 <!-- 
@@ -4479,30 +4479,31 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 <details close>
     <summary><b>Windows Basics II &#x21A9;</b></summary>
 
-- Windows Access Controls and Security Principles &#x1F52C; <u>6%</u> &#x2705; (4/69)<br/>
-- Windows User and Group Permissions &#x1F52C; <u>25%</u> &#x2705; (13)<br/>
-- Introduction to Windows Permissions &#x1F52C; <u>42%</u> &#x2705; (12)<br/>
-- Windows Processes &#x1F52C; <u>58%</u> &#x2705; (11)<br/>
-- Windows Libraries &#x1F52C; <u>63%</u> &#x2705; (4)<br/>
-- Windows Registry &#x1F52C; <u>75%</u> &#x2705; (8)<br/>
-- Scheduling Tasks on Windows &#x1F52C; <u></u> &#x1F6A7; (6)<br/>
-- Windows Disk Utilities &#x1F52C; <u></u> &#x1F6A7; (5)<br/>
-- Windows Basics I & II: Cumulative Exercise &#x1F52C; <u></u> &#x1F6A7; (6)<br/>
+- Windows Access Controls and Security Principles &#x1F52C; <u>(4/69)</u> &#x2705; <br/>
+- Windows User and Group Permissions &#x1F52C; <u>(13)</u> &#x2705; <br/>
+- Introduction to Windows Permissions &#x1F52C; <u>(12)</u> &#x2705; <br/>
+- Windows Processes &#x1F52C; <u>(11)</u> &#x2705; <br/>
+- Windows Libraries &#x1F52C; <u>(4)</u> &#x2705; <br/>
+- Windows Registry &#x1F52C; <u>(8)</u> &#x2705; <br/>
+- Scheduling Tasks on Windows &#x1F52C; <u>(0/6)</u> &#x1F6A7; <br/>
+- Windows Disk Utilities &#x1F52C; <u>(0/5)</u> &#x1F6A7; <br/>
+- Windows Basics I & II: Cumulative Exercise &#x1F52C; <u>(0/6)</u> &#x1F6A7; <br/>
 <hr width=25%;> 
 </details>
 <!-- 
 12/04/2023
-"update repository pen-100 ./pen-100 - Networking Fundamentals - TCP IP Helper Protocols"
+"update repository pen-100 ./pen-100 - Networking Fundamentals - Useful Network Technologies"
 -->
 <details open>
     <summary><b>Networking Fundamentals &#x21A9;</b></summary>
 
-- The OSI Model &#x1F52C; <u>8%</u> &#x2705; (6/73)<br/>
-- The TCP IP Model &#x1F52C; <u>15%</u> &#x2705; (5)<br/>
-- Network Protocols &#x1F52C; <u>38%</u> &#x2705; (17)<br/>
-- Data Packets and Analysis I &#x1F52C; <u>51%</u> &#x2705; (9)<br/>
-- Data Packets and Analysis II &#x1F52C; <u>64%</u> &#x1F6A7; (10/12)<br/>
-- TCP IP Helper Protocols &#x1F52C; <u>80%</u> &#x1F6A7; (12/13)<br/>
+- The OSI Model &#x1F52C; <u>(6/73)</u> &#x2705; <br/>
+- The TCP IP Model &#x1F52C; <u>(5)</u> &#x2705; <br/>
+- Network Protocols &#x1F52C; <u>(17)</u> &#x2705; <br/>
+- Data Packets and Analysis I &#x1F52C; <u>(9)</u> &#x2705; <br/>
+- Data Packets and Analysis II &#x1F52C; <u>(10/12)</u> &#x1F6A7; <br/>
+- TCP IP Helper Protocols &#x1F52C; <u>(12/13)</u> &#x1F6A7; <br/>
+- Useful Network Technologies &#x1F52C; <u>(11/11)</u> &#x2705; <br/>
 <hr width=25%;> 
 </details>
 
