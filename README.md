@@ -4464,7 +4464,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 <details close>
     <summary><b>Windows Basics I &#x21A9;</b></summary>
 
-- Linux vs Windows &#x1F52C; <u>(3/49)</u> &#x2705; <br/>
+- Linux vs Windows &#x1F52C; <u>(3)</u> &#x2705; ``/49`` <br/>
 - Windows Shells &#x1F52C; <u>(4)</u> &#x2705; <br/>
 - Windows File System Navigation &#x1F52C; <u>(13)</u> &#x2705; <br/>
 - System Information and Environment Variables &#x1F52C; <u>(11)</u> &#x2705; <br/>
@@ -4479,7 +4479,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 <details close>
     <summary><b>Windows Basics II &#x21A9;</b></summary>
 
-- Windows Access Controls and Security Principles &#x1F52C; <u>(4/69)</u> &#x2705; <br/>
+- Windows Access Controls and Security Principles &#x1F52C; <u>(4)</u> &#x2705; ``/69`` <br/>
 - Windows User and Group Permissions &#x1F52C; <u>(13)</u> &#x2705; <br/>
 - Introduction to Windows Permissions &#x1F52C; <u>(12)</u> &#x2705; <br/>
 - Windows Processes &#x1F52C; <u>(11)</u> &#x2705; <br/>
@@ -4494,16 +4494,35 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 12/04/2023
 "update repository pen-100 ./pen-100 - Networking Fundamentals - Useful Network Technologies"
 -->
-<details open>
+<details close>
     <summary><b>Networking Fundamentals &#x21A9;</b></summary>
 
-- The OSI Model &#x1F52C; <u>(6/73)</u> &#x2705; <br/>
+- The OSI Model &#x1F52C; <u>(6)</u> &#x2705; ``/73`` <br/>
 - The TCP IP Model &#x1F52C; <u>(5)</u> &#x2705; <br/>
 - Network Protocols &#x1F52C; <u>(17)</u> &#x2705; <br/>
 - Data Packets and Analysis I &#x1F52C; <u>(9)</u> &#x2705; <br/>
 - Data Packets and Analysis II &#x1F52C; <u>(10/12)</u> &#x1F6A7; <br/>
 - TCP IP Helper Protocols &#x1F52C; <u>(12/13)</u> &#x1F6A7; <br/>
 - Useful Network Technologies &#x1F52C; <u>(11/11)</u> &#x2705; <br/>
+<hr width=25%;> 
+</details>
+<!-- 
+12/04/2023
+"update repository pen-100 ./pen-100 - Cryptography - Cryptography Jargon"
+-->
+<details open>
+    <summary><b>Cryptography &#x21A9;</b></summary>
+
+- Cryptography Jargon &#x1F52C; <u>(0)</u> &#x2705; ``/68`` <br/>
+<!--
+- Encoding Part I &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+- Encoding Part II &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+- Hashing &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+- Password Security &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+- SymmetricKey Encryption &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+- Asymmetric Encryption &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+- Cryptography Cumulative Exercise &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+-->
 <hr width=25%;> 
 </details>
 
