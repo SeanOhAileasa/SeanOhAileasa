@@ -4492,7 +4492,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 </details>
 <!-- 
 12/04/2023
-"update repository pen-100 ./pen-100 - Networking Fundamentals - Data Packets and Analysis II"
+"update repository pen-100 ./pen-100 - Networking Fundamentals - TCP IP Helper Protocols"
 -->
 <details open>
     <summary><b>Networking Fundamentals &#x21A9;</b></summary>
@@ -4502,6 +4502,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Network Protocols &#x1F52C; <u>38%</u> &#x2705; (17)<br/>
 - Data Packets and Analysis I &#x1F52C; <u>51%</u> &#x2705; (9)<br/>
 - Data Packets and Analysis II &#x1F52C; <u>64%</u> &#x1F6A7; (10/12)<br/>
+- TCP IP Helper Protocols &#x1F52C; <u>80%</u> &#x1F6A7; (12/13)<br/>
 <hr width=25%;> 
 </details>
 
