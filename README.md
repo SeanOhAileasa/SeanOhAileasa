@@ -4492,7 +4492,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 </details>
 <!-- 
 12/04/2023
-"update repository pen-100 ./pen-100 - Networking Fundamentals - Data Packets and Analysis I"
+"update repository pen-100 ./pen-100 - Networking Fundamentals - Data Packets and Analysis II"
 -->
 <details open>
     <summary><b>Networking Fundamentals &#x21A9;</b></summary>
@@ -4501,6 +4501,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - The TCP IP Model &#x1F52C; <u>15%</u> &#x2705; (5)<br/>
 - Network Protocols &#x1F52C; <u>38%</u> &#x2705; (17)<br/>
 - Data Packets and Analysis I &#x1F52C; <u>51%</u> &#x2705; (9)<br/>
+- Data Packets and Analysis II &#x1F52C; <u>64%</u> &#x1F6A7; (10/12)<br/>
 <hr width=25%;> 
 </details>
 
