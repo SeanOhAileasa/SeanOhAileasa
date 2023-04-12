@@ -4508,14 +4508,14 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 </details>
 <!-- 
 12/04/2023
-"update repository pen-100 ./pen-100 - Cryptography - Cryptography Jargon"
+"update repository pen-100 ./pen-100 - Cryptography - Encoding Part I"
 -->
 <details open>
     <summary><b>Cryptography &#x21A9;</b></summary>
 
 - Cryptography Jargon &#x1F52C; <u>(0)</u> &#x2705; ``/68`` <br/>
+- Encoding Part I &#x1F52C; <u>(9)</u> &#x2705; <br/>
 <!--
-- Encoding Part I &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
 - Encoding Part II &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
 - Hashing &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
 - Password Security &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
