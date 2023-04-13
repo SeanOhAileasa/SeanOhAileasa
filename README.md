@@ -4457,11 +4457,36 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished
 https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/    
+-->
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - Linux Basics I - ..."
+-->
+<details close>
+    <summary><b>Linux Basics I &#x21A9;</b></summary>
 
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - Linux Basics II - ..."
+-->
+<details close>
+    <summary><b>Linux Basics II &#x21A9;</b></summary>
+
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
+-->
+<hr width=25%;> 
+</details>
+<!--
 08/04/2023
 "update repository pen-100 ./pen-100 - Windows Basics I - Searching For Files and Text"
 -->
-<details close>
+<details open>
     <summary><b>Windows Basics I &#x21A9;</b></summary>
 
 - Linux vs Windows &#x1F52C; <u>(3)</u> &#x2705; ``/49`` <br/>
@@ -4476,7 +4501,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 11/04/2023
 "update repository pen-100 ./pen-100 - Windows Basics II - Windows Basics I & II: Cumulative Exercise"
 -->
-<details close>
+<details open>
     <summary><b>Windows Basics II &#x21A9;</b></summary>
 
 - Windows Access Controls and Security Principles &#x1F52C; <u>(4)</u> &#x2705; ``/69`` <br/>
@@ -4494,7 +4519,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 12/04/2023
 "update repository pen-100 ./pen-100 - Networking Fundamentals - Useful Network Technologies"
 -->
-<details close>
+<details open>
     <summary><b>Networking Fundamentals &#x21A9;</b></summary>
 
 - The OSI Model &#x1F52C; <u>(6)</u> &#x2705; ``/73`` <br/>
@@ -4507,21 +4532,172 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 <hr width=25%;> 
 </details>
 <!-- 
-12/04/2023
-"update repository pen-100 ./pen-100 - Cryptography - Encoding Part I"
+xx/04/2023
+"update repository pen-100 ./pen-100 - Bash Scripting Basics - ..."
+-->
+<details close>
+    <summary><b>Bash Scripting Basics &#x21A9;</b></summary>
+
+<!--
+- Intro to Bash Scripting &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/34`` <br/>
+- Variables and Assignment &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+- Using Arguments &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+- Input and Output in Bash &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+- Conditional Statements &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+- Boolean Operations &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+- Looping in Scripts &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+- Functions for Clarity &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - Python Scripting Basics - ..."
+-->
+<details close>
+    <summary><b>Python Scripting Basics &#x21A9;</b></summary>
+
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - PowerShell Scripting Basics - ..."
+-->
+<details close>
+    <summary><b>PowerShell Scripting Basics &#x21A9;</b></summary>
+
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - Linux Networking and Services I - ..."
+-->
+<details close>
+    <summary><b>Linux Networking and Services I &#x21A9;</b></summary>
+
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - Linux Networking and Services II - ..."
+-->
+<details close>
+    <summary><b>Linux Networking and Services II &#x21A9;</b></summary>
+
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - Windows Networking and Services - ..."
+-->
+<details close>
+    <summary><b>Windows Networking and Services &#x21A9;</b></summary>
+
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - Network Scripting - ..."
+-->
+<details close>
+    <summary><b>Network Scripting &#x21A9;</b></summary>
+
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - Working with Shells - ..."
+-->
+<details close>
+    <summary><b>Working with Shells &#x21A9;</b></summary>
+
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - Troubleshooting - ..."
+-->
+<details close>
+    <summary><b>Troubleshooting &#x21A9;</b></summary>
+
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+13/04/2023
+"update repository pen-100 ./pen-100 - Cryptography - Encoding Part II"
 -->
 <details open>
     <summary><b>Cryptography &#x21A9;</b></summary>
 
 - Cryptography Jargon &#x1F52C; <u>(0)</u> &#x2705; ``/68`` <br/>
 - Encoding Part I &#x1F52C; <u>(9)</u> &#x2705; <br/>
+- Encoding Part II &#x1F52C; <u>(11)</u> &#x2705; <br/>
 <!--
-- Encoding Part II &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
 - Hashing &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
 - Password Security &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
 - SymmetricKey Encryption &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
 - Asymmetric Encryption &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
 - Cryptography Cumulative Exercise &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - Web Applications - ..."
+-->
+<details close>
+    <summary><b>Web Applications &#x21A9;</b></summary>
+
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/34`` <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - Introduction to Active Directory - ..."
+-->
+<details close>
+    <summary><b>Introduction to Active Directory &#x21A9;</b></summary>
+
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
+-->
+<hr width=25%;> 
+</details>
+<!-- 
+xx/04/2023
+"update repository pen-100 ./pen-100 - File Transfers - ..."
+-->
+<details close>
+    <summary><b>File Transfers &#x21A9;</b></summary>
+
+<!--
+&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
 -->
 <hr width=25%;> 
 </details>
