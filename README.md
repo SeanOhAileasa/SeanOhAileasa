@@ -4664,15 +4664,13 @@ xx/04/2023
 <hr width=25%;> 
 </details>
 <!-- 
-xx/04/2023
-"update repository pen-100 ./pen-100 - Web Applications - ..."
+14/04/2023
+"update repository pen-100 ./pen-100 - Web Applications - The OWASP Top Ten"
 -->
-<details close>
+<details open>
     <summary><b>Web Applications &#x21A9;</b></summary>
 
-<!--
-&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/34`` <br/>
--->
+- The OWASP Top Ten &#x1F52C; <u>(4)</u> &#x2705; ``/65`` <br/>
 <hr width=25%;> 
 </details>
 <!-- 
