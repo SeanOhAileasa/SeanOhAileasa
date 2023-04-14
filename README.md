@@ -4648,7 +4648,7 @@ xx/04/2023
 </details>
 <!-- 
 14/04/2023
-"update repository pen-100 ./pen-100 - Cryptography - Password Security"
+"update repository pen-100 ./pen-100 - Cryptography - SymmetricKey Encryption"
 -->
 <details open>
     <summary><b>Cryptography &#x21A9;</b></summary>
@@ -4658,8 +4658,8 @@ xx/04/2023
 - Encoding Part II &#x1F52C; <u>(11)</u> &#x2705; <br/>
 - Hashing &#x1F52C; <u>(12)</u> &#x2705; <br/>
 - Password Security &#x1F52C; <u>(0/13)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
+- SymmetricKey Encryption &#x1F52C; <u>(0/7)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 <!--
-- SymmetricKey Encryption &#x1F52C; <u>(7)</u> &#x1F6A7; &#x2705; <br/>
 - Asymmetric Encryption &#x1F52C; <u>(12)</u> &#x1F6A7; &#x2705; <br/>
 - Cryptography Cumulative Exercise &#x1F52C; <u>(4)</u> &#x1F6A7; &#x2705; <br/>
 -->
