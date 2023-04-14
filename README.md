@@ -4665,12 +4665,13 @@ xx/04/2023
 </details>
 <!-- 
 14/04/2023
-"update repository pen-100 ./pen-100 - Web Applications - The OWASP Top Ten"
+"update repository pen-100 ./pen-100 - Web Applications - Hypertext Transfer Protocol HTTP"
 -->
 <details open>
     <summary><b>Web Applications &#x21A9;</b></summary>
 
 - The OWASP Top Ten &#x1F52C; <u>(4)</u> &#x2705; ``/65`` <br/>
+- Hypertext Transfer Protocol HTTP &#x1F52C; <u>(4)</u> &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <!-- 
