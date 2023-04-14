@@ -4648,7 +4648,7 @@ xx/04/2023
 </details>
 <!-- 
 14/04/2023
-"update repository pen-100 ./pen-100 - Cryptography - Asymmetric Encryption"
+"update repository pen-100 ./pen-100 - Cryptography - Cryptography Cumulative Exercise"
 -->
 <details open>
     <summary><b>Cryptography &#x21A9;</b></summary>
@@ -4660,9 +4660,7 @@ xx/04/2023
 - Password Security &#x1F52C; <u>(0/13)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 - SymmetricKey Encryption &#x1F52C; <u>(0/7)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 - Asymmetric Encryption &#x1F52C; <u>(0/12)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
-<!--
-- Cryptography Cumulative Exercise &#x1F52C; <u>(0/4)</u> &#x1F6A7; &#x2705; <br/>
--->
+- Cryptography Cumulative Exercise &#x1F52C; <u>(0/4)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 <hr width=25%;> 
 </details>
 <!-- 
