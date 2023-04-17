@@ -4665,7 +4665,7 @@ xx/04/2023
 </details>
 <!-- 
 17/04/2023
-"update repository pen-100 ./pen-100 - Web Applications - Browser Development Tools HTML and CSS"
+"update repository pen-100 ./pen-100 - Web Applications - Introduction to JavaScript"
 -->
 <details open>
     <summary><b>Web Applications &#x21A9;</b></summary>
@@ -4674,8 +4674,9 @@ xx/04/2023
 - Hypertext Transfer Protocol HTTP &#x1F52C; <u>(4)</u> &#x2705; <br/>
 - HTTP Proxying and Burp Suite &#x1F52C; <u>(4/6)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 - HTTP Methods and Responses &#x1F52C; <u>(16/17)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
-- HTTP Headers &#x1F52C; <u>(8/8)</u> &#x2705; <br/>
+- HTTP Headers &#x1F52C; <u>(8)</u> &#x2705; <br/>
 - Browser Development Tools HTML and CSS &#x1F52C; <u>(8)</u> &#x2705; <br/>
+- Introduction to JavaScript &#x1F52C; <u>(5)</u> &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <!-- 
