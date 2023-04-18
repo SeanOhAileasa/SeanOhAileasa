@@ -4590,7 +4590,7 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - Linux Networking and Services II - ..."
 -->
-<details close>
+<details open>
     <summary><b>Linux Networking and Services II &#x21A9;</b></summary>
 
 <!--
@@ -4600,12 +4600,13 @@ xx/04/2023
 </details>
 <!-- 
 18/04/2023
-"update repository pen-100 ./pen-100 - Windows Networking and Services - Essential Network Utilities"
+"update repository pen-100 ./pen-100 - Windows Networking and Services - Common Clients"
 -->
 <details close>
     <summary><b>Windows Networking and Services &#x21A9;</b></summary>
 
 - Essential Network Utilities &#x1F52C; <u>(0/17)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
+- Common Clients &#x1F52C; <u>(0/9)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 <hr width=25%;> 
 </details>
 <!-- 
