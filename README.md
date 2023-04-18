@@ -4600,7 +4600,7 @@ xx/04/2023
 </details>
 <!-- 
 18/04/2023
-"update repository pen-100 ./pen-100 - Windows Networking and Services - Firewalls"
+"update repository pen-100 ./pen-100 - Windows Networking and Services - Services"
 -->
 <details open>
     <summary><b>Windows Networking and Services &#x21A9;</b></summary>
@@ -4608,6 +4608,10 @@ xx/04/2023
 - Essential Network Utilities &#x1F52C; <u>(0/17)</u> &#x1F6A7; <!-- &#x2705; --> ``/48`` <br/>
 - Common Clients &#x1F52C; <u>(0/9)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 - Firewalls &#x1F52C; <u>(0/3)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
+- Services &#x1F52C; <u>(0/11)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
+<!--
+- Windows Networking Cumulative Exercise &#x1F52C; <u>(0/)</u> &#x1F6A7; &#x2705; <br/>
+-->
 <hr width=25%;> 
 </details>
 <!-- 
