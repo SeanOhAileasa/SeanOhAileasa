@@ -4590,7 +4590,7 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - Linux Networking and Services II - ..."
 -->
-<details open>
+<details close>
     <summary><b>Linux Networking and Services II &#x21A9;</b></summary>
 
 <!--
@@ -4686,13 +4686,14 @@ xx/04/2023
 <hr width=25%;> 
 </details>
 <!-- 
-18/04/2023
-"update repository pen-100 ./pen-100 - Introduction to Active Directory - Active Directory Introduction"
+19/04/2023
+"update repository pen-100 ./pen-100 - Introduction to Active Directory - Active Directory Elements"
 -->
 <details open>
     <summary><b>Introduction to Active Directory &#x21A9;</b></summary>
 
 - Active Directory Introduction <u>(3)</u> &#x2705; ``/14`` <br/>
+- Active Directory Elements <u>(6)</u> &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <!-- 
