@@ -4687,13 +4687,14 @@ xx/04/2023
 </details>
 <!-- 
 19/04/2023
-"update repository pen-100 ./pen-100 - Introduction to Active Directory - Active Directory Elements"
+"update repository pen-100 ./pen-100 - Introduction to Active Directory - Administering Active Directory"
 -->
 <details open>
     <summary><b>Introduction to Active Directory &#x21A9;</b></summary>
 
 - Active Directory Introduction <u>(3)</u> &#x2705; ``/14`` <br/>
 - Active Directory Elements <u>(6)</u> &#x2705; <br/>
+- Administering Active Directory <u>(4/5)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 <hr width=25%;> 
 </details>
 <!-- 
