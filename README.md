@@ -4461,13 +4461,14 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 -->
 <!-- 
 21/04/2023
-"update repository pen-100 ./pen-100 - Linux Basics I - Command Line Basics"
+"update repository pen-100 ./pen-100 - Linux Basics I - Manuals and Help"
 -->
 <details open>
     <summary><b>Linux Basics I &#x21A9;</b></summary>
 
 - Introduction to Linux &#x1F52C; <u>(5)</u> &#x2705; ``/62`` <br/>
 - Command Line Basics &#x1F52C; <u>(14)</u> &#x2705; <br/>
+- Manuals and Help &#x1F52C; <u>(3)</u> &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <!-- 
