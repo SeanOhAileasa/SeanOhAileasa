@@ -4460,22 +4460,20 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/    
 -->
 <!-- 
-xx/04/2023
-"update repository pen-100 ./pen-100 - Linux Basics I - ..."
+21/04/2023
+"update repository pen-100 ./pen-100 - Linux Basics I - Introduction to Linux"
 -->
-<details close>
+<details open>
     <summary><b>Linux Basics I &#x21A9;</b></summary>
 
-<!--
-&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
--->
+- Introduction to Linux &#x1F52C; <u>(5)</u> &#x2705; ``/62`` <br/>
 <hr width=25%;> 
 </details>
 <!-- 
 xx/04/2023
 "update repository pen-100 ./pen-100 - Linux Basics II - ..."
 -->
-<details close>
+<details open>
     <summary><b>Linux Basics II &#x21A9;</b></summary>
 
 <!--
@@ -4536,7 +4534,7 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - Bash Scripting Basics - ..."
 -->
-<details close>
+<details open>
     <summary><b>Bash Scripting Basics &#x21A9;</b></summary>
 
 <!--
@@ -4555,7 +4553,7 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - Python Scripting Basics - ..."
 -->
-<details close>
+<details open>
     <summary><b>Python Scripting Basics &#x21A9;</b></summary>
 
 <!--
@@ -4567,7 +4565,7 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - PowerShell Scripting Basics - ..."
 -->
-<details close>
+<details open>
     <summary><b>PowerShell Scripting Basics &#x21A9;</b></summary>
 
 <!--
@@ -4579,7 +4577,7 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - Linux Networking and Services I - ..."
 -->
-<details close>
+<details open>
     <summary><b>Linux Networking and Services I &#x21A9;</b></summary>
 
 <!--
@@ -4591,7 +4589,7 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - Linux Networking and Services II - ..."
 -->
-<details close>
+<details open>
     <summary><b>Linux Networking and Services II &#x21A9;</b></summary>
 
 <!--
@@ -4619,7 +4617,7 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - Network Scripting - ..."
 -->
-<details close>
+<details open>
     <summary><b>Network Scripting &#x21A9;</b></summary>
 
 <!--
@@ -4631,7 +4629,7 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - Working with Shells - ..."
 -->
-<details close>
+<details open>
     <summary><b>Working with Shells &#x21A9;</b></summary>
 
 <!--
@@ -4643,7 +4641,7 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - Troubleshooting - ..."
 -->
-<details close>
+<details open>
     <summary><b>Troubleshooting &#x21A9;</b></summary>
 
 <!--
@@ -4702,12 +4700,10 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - File Transfers - ..."
 -->
-<details close>
+<details open>
     <summary><b>File Transfers &#x21A9;</b></summary>
-
 <!--
-&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
--->
+- Considerations-and-Preparations &#x1F52C; <u>(2+3/2+4)</u> &#x1F6A7; &#x2705; ``/31`` <br/> -->
 <hr width=25%;> 
 </details>
 
@@ -4717,17 +4713,6 @@ xx/04/2023
 
 <details open>
     <summary><b>OffSec WEB-100 &#x21A9;</b></summary><br/>
-
-<!--
-&#x1F6A7; Work-in-Progress / WIP
-&#x2705; Semester / Topic Finished
-https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/    
--->
-<!-- 
-19/04/2023
-"add repository web-100 ./web-100 - xxx - ..."
--->
-
 
 </details> <!-- WEB-100 -->
 
