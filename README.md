@@ -4460,8 +4460,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/    
 -->
 <!-- 
-21/04/2023
-"update repository pen-100 ./pen-100 - Linux Basics I - The Linux Environment"
+22/04/2023
+"update repository pen-100 ./pen-100 - Linux Basics I - Linux File Management"
 -->
 <details open>
     <summary><b>Linux Basics I &#x21A9;</b></summary>
@@ -4471,6 +4471,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Manuals and Help &#x1F52C; <u>(3)</u> &#x2705; <br/>
 - The Linux Filesystem &#x1F52C; <u>(6)</u> &#x2705; <br/>
 - The Linux Environment &#x1F52C; <u>(11)</u> &#x2705; <br/>
+- Linux File Management &#x1F52C; <u>(12)</u> &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <!-- 
