@@ -4461,7 +4461,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 -->
 <!-- 
 22/04/2023
-"update repository pen-100 ./pen-100 - Linux Basics I - Piping and Redirection"
+"update repository pen-100 ./pen-100 - Linux Basics I - Searching and Text Manipulation"
 -->
 <details open>
     <summary><b>Linux Basics I &#x21A9;</b></summary>
@@ -4473,6 +4473,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - The Linux Environment &#x1F52C; <u>(11)</u> &#x2705; <br/>
 - Linux File Management &#x1F52C; <u>(12)</u> &#x2705; <br/>
 - Piping and Redirection &#x1F52C; <u>(5)</u> &#x2705; <br/>
+- Searching and Text Manipulation &#x1F52C; <u>(6)</u> &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <!-- 
