@@ -4483,9 +4483,7 @@ xx/04/2023
 <details open>
     <summary><b>Linux Basics II &#x21A9;</b></summary>
 
-<!--
-&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
--->
+- Users and Groups &#x1F52C; <u>()</u> &#x2705; ``/66`` <br/>
 <hr width=25%;> 
 </details>
 <!--
@@ -4704,13 +4702,13 @@ xx/04/2023
 <hr width=25%;> 
 </details>
 <!-- 
-xx/04/2023
-"update repository pen-100 ./pen-100 - File Transfers - ..."
+23/04/2023
+"update repository pen-100 ./pen-100 - File Transfers - Considerations and Preparations"
 -->
 <details open>
     <summary><b>File Transfers &#x21A9;</b></summary>
-<!--
-- Considerations-and-Preparations &#x1F52C; <u>(2+3/2+4)</u> &#x1F6A7; &#x2705; ``/31`` <br/> -->
+
+- Considerations and Preparations &#x1F52C; <u>(12)</u> &#x2705; ``/31`` <br/>
 <hr width=25%;> 
 </details>
 
