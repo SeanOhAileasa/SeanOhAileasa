@@ -4477,13 +4477,13 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 <hr width=25%;> 
 </details>
 <!-- 
-xx/04/2023
-"update repository pen-100 ./pen-100 - Linux Basics II - ..."
+29/04/2023
+"update repository pen-100 ./pen-100 - Linux Basics II - Users and Groups"
 -->
 <details open>
     <summary><b>Linux Basics II &#x21A9;</b></summary>
 
-- Users and Groups &#x1F52C; <u>()</u> &#x2705; ``/66`` <br/>
+- Users and Groups &#x1F52C; <u>(0/20)</u> &#x1F6A7; ``/66`` <br/>
 <hr width=25%;> 
 </details>
 <!--
@@ -4709,6 +4709,8 @@ xx/04/2023
     <summary><b>File Transfers &#x21A9;</b></summary>
 
 - Considerations and Preparations &#x1F52C; <u>(12)</u> &#x2705; ``/31`` <br/>
+<!--
+- Transfer-Techniques &#x1F52C; <u>(0/13)</u> &#x1F6A7; &#x2705; --> <br/>
 <hr width=25%;> 
 </details>
 
