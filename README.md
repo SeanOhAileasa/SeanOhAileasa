@@ -4486,7 +4486,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished
 30/04/2023
-"update repository pen-100 ./pen-100 - Linux Basics II - File and Command Monitoring"
+"update repository pen-100 ./pen-100 - Linux Basics II - Linux Applications"
 -->
 <details open>
     <summary><b>Linux Basics II &#x21A9;</b></summary>
@@ -4495,6 +4495,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - File Permissions &#x1F52C; <u>(0/17)</u> &#x1F4DC; <br/>
 - Linux Processes &#x1F52C; <u>(0/6)</u> &#x1F4DC; <br/>
 - File and Command Monitoring &#x1F52C; <u>(0/1)</u> &#x1F4DC; <br/>
+- Linux Applications &#x1F52C; <u>(0/3)</u> &#x1F4DC; <br/>
 <hr width=25%;> 
 </details>
 <!--
