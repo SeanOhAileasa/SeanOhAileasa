@@ -24,7 +24,8 @@
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Darktrace RESPOND/Network``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace-RESPOND_Network.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/verify-certificate?id=ba1fd57e1ab75c5e0ee149a04f290ccad108cb2f&k=191528b51e3f4ca49b88c3dc1ba64c91) ]<br/>Cyber Threat Intelligence 101<br/>Foundation Level Certification<br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/badge.jpg?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/101-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``pen-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-100``](https://portal.offsec.com/courses/pen-100) ]<br/>[Fundamental Content]-100 | &#x2935; |
-| &nbsp;&nbsp;&nbsp;``web-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``WEB-100``](https://portal.offsec.com/courses/web-100) ]<br/>[Fundamental Content]-100 | &#x2935; |
+| &nbsp;&nbsp;&nbsp;``soc-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``SOC-100``](https://portal.offsec.com/courses/soc-100) ]<br/>[Fundamental Content]-100 | &#x274C; |
+| &nbsp;&nbsp;&nbsp;``web-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``WEB-100``](https://portal.offsec.com/courses/web-100) ]<br/>[Fundamental Content]-100 | &#x274C; |
 <!--
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
 -->
@@ -4455,11 +4456,15 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
     <summary><b>OffSec PEN-100 &#x21A9;</b></summary><br/>
 
 <!--
+&#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished
 https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/    
 -->
 <!-- 
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished
 22/04/2023
 "update repository pen-100 ./pen-100 - Linux Basics I - Searching and Text Manipulation"
 -->
@@ -4477,16 +4482,23 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 <hr width=25%;> 
 </details>
 <!-- 
-29/04/2023
-"update repository pen-100 ./pen-100 - Linux Basics II - Users and Groups"
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished
+30/04/2023
+"update repository pen-100 ./pen-100 - Linux Basics II - File Permissions"
 -->
 <details open>
     <summary><b>Linux Basics II &#x21A9;</b></summary>
 
-- Users and Groups &#x1F52C; <u>(0/20)</u> &#x1F6A7; ``/66`` <br/>
+- Users and Groups &#x1F52C; <u>(0/20)</u> &#x1F4DC; ``/66`` <br/>
+- File Permissions &#x1F52C; <u>(0/17)</u> &#x1F4DC; <br/>
 <hr width=25%;> 
 </details>
 <!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished
 08/04/2023
 "update repository pen-100 ./pen-100 - Windows Basics I - Searching For Files and Text"
 -->
@@ -4502,6 +4514,9 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 <hr width=25%;>
 </details>
 <!-- 
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished
 11/04/2023
 "update repository pen-100 ./pen-100 - Windows Basics II - Windows Basics I & II: Cumulative Exercise"
 -->
@@ -4514,12 +4529,15 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Windows Processes &#x1F52C; <u>(11)</u> &#x2705; <br/>
 - Windows Libraries &#x1F52C; <u>(4)</u> &#x2705; <br/>
 - Windows Registry &#x1F52C; <u>(8)</u> &#x2705; <br/>
-- Scheduling Tasks on Windows &#x1F52C; <u>(0/6)</u> &#x1F6A7; <br/>
-- Windows Disk Utilities &#x1F52C; <u>(0/5)</u> &#x1F6A7; <br/>
-- Windows Basics I & II: Cumulative Exercise &#x1F52C; <u>(0/6)</u> &#x1F6A7; <br/>
+- Scheduling Tasks on Windows &#x1F52C; <u>(0/6)</u> &#x1F4DC; <br/>
+- Windows Disk Utilities &#x1F52C; <u>(0/5)</u> &#x1F4DC; <br/>
+- Windows Basics I & II: Cumulative Exercise &#x1F52C; <u>(0/6)</u> &#x1F4DC; <br/>
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
 12/04/2023
 "update repository pen-100 ./pen-100 - Networking Fundamentals - Useful Network Technologies"
 -->
@@ -4535,7 +4553,10 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Useful Network Technologies &#x1F52C; <u>(11/11)</u> &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
 xx/04/2023
 "update repository pen-100 ./pen-100 - Bash Scripting Basics - ..."
 -->
@@ -4554,7 +4575,10 @@ xx/04/2023
 -->
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
 xx/04/2023
 "update repository pen-100 ./pen-100 - Python Scripting Basics - ..."
 -->
@@ -4562,11 +4586,17 @@ xx/04/2023
     <summary><b>Python Scripting Basics &#x21A9;</b></summary>
 
 <!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished
 &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
 -->
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
 xx/04/2023
 "update repository pen-100 ./pen-100 - PowerShell Scripting Basics - ..."
 -->
@@ -4574,11 +4604,17 @@ xx/04/2023
     <summary><b>PowerShell Scripting Basics &#x21A9;</b></summary>
 
 <!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished	
 &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
 -->
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
 xx/04/2023
 "update repository pen-100 ./pen-100 - Linux Networking and Services I - ..."
 -->
@@ -4586,11 +4622,17 @@ xx/04/2023
     <summary><b>Linux Networking and Services I &#x21A9;</b></summary>
 
 <!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished	
 &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
 -->
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished
 xx/04/2023
 "update repository pen-100 ./pen-100 - Linux Networking and Services II - ..."
 -->
@@ -4598,27 +4640,36 @@ xx/04/2023
     <summary><b>Linux Networking and Services II &#x21A9;</b></summary>
 
 <!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished	
 &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
 -->
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
 18/04/2023
 "update repository pen-100 ./pen-100 - Windows Networking and Services - Services"
 -->
 <details open>
     <summary><b>Windows Networking and Services &#x21A9;</b></summary>
 
-- Essential Network Utilities &#x1F52C; <u>(0/17)</u> &#x1F6A7; <!-- &#x2705; --> ``/48`` <br/>
-- Common Clients &#x1F52C; <u>(0/9)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
-- Firewalls &#x1F52C; <u>(0/3)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
-- Services &#x1F52C; <u>(0/11)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
+- Essential Network Utilities &#x1F52C; <u>(0/17)</u> &#x1F4DC; <!-- &#x2705; --> ``/48`` <br/>
+- Common Clients &#x1F52C; <u>(0/9)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
+- Firewalls &#x1F52C; <u>(0/3)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
+- Services &#x1F52C; <u>(0/11)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
 <!--
 - Windows Networking Cumulative Exercise &#x1F52C; <u>(0/)</u> &#x1F6A7; &#x2705; <br/>
 -->
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
 xx/04/2023
 "update repository pen-100 ./pen-100 - Network Scripting - ..."
 -->
@@ -4626,11 +4677,17 @@ xx/04/2023
     <summary><b>Network Scripting &#x21A9;</b></summary>
 
 <!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished	
 &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
 -->
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
 xx/04/2023
 "update repository pen-100 ./pen-100 - Working with Shells - ..."
 -->
@@ -4638,11 +4695,17 @@ xx/04/2023
     <summary><b>Working with Shells &#x21A9;</b></summary>
 
 <!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished	
 &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
 -->
 <hr width=25%;> 
 </details>
 <!-- 
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished
 xx/04/2023
 "update repository pen-100 ./pen-100 - Troubleshooting - ..."
 -->
@@ -4650,11 +4713,17 @@ xx/04/2023
     <summary><b>Troubleshooting &#x21A9;</b></summary>
 
 <!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished	
 &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
 -->
 <hr width=25%;> 
 </details>
 <!-- 
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished	
 14/04/2023
 "update repository pen-100 ./pen-100 - Cryptography - Cryptography Cumulative Exercise"
 -->
@@ -4665,13 +4734,16 @@ xx/04/2023
 - Encoding Part I &#x1F52C; <u>(9)</u> &#x2705; <br/>
 - Encoding Part II &#x1F52C; <u>(11)</u> &#x2705; <br/>
 - Hashing &#x1F52C; <u>(12)</u> &#x2705; <br/>
-- Password Security &#x1F52C; <u>(0/13)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
-- SymmetricKey Encryption &#x1F52C; <u>(0/7)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
-- Asymmetric Encryption &#x1F52C; <u>(0/12)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
-- Cryptography Cumulative Exercise &#x1F52C; <u>(0/4)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
+- Password Security &#x1F52C; <u>(0/13)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
+- SymmetricKey Encryption &#x1F52C; <u>(0/7)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
+- Asymmetric Encryption &#x1F52C; <u>(0/12)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
+- Cryptography Cumulative Exercise &#x1F52C; <u>(0/4)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
 17/04/2023
 "update repository pen-100 ./pen-100 - Web Applications - Introduction to Databases and SQL"
 -->
@@ -4689,7 +4761,10 @@ xx/04/2023
 - Introduction to Databases and SQL &#x1F52C; <u>(8/9)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
 19/04/2023
 "update repository pen-100 ./pen-100 - Introduction to Active Directory - Administering Active Directory"
 -->
@@ -4701,7 +4776,10 @@ xx/04/2023
 - Administering Active Directory <u>(4/5)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
 23/04/2023
 "update repository pen-100 ./pen-100 - File Transfers - Considerations and Preparations"
 -->
@@ -4710,6 +4788,9 @@ xx/04/2023
 
 - Considerations and Preparations &#x1F52C; <u>(12)</u> &#x2705; ``/31`` <br/>
 <!--
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished	
 - Transfer-Techniques &#x1F52C; <u>(0/13)</u> &#x1F6A7; &#x2705; --> <br/>
 <hr width=25%;> 
 </details>
@@ -4718,10 +4799,19 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b>OffSec WEB-100 &#x21A9;</b></summary><br/>
 
+&#x274C;
 </details> <!-- WEB-100 -->
+
+<hr width=33%;> <!-- -->
+
+<details close>
+    <summary><b>OffSec SOC-100 &#x21A9;</b></summary><br/>
+
+&#x274C;
+</details> <!-- SOC-100 -->
 
 <hr width=33%;> <!-- -->
 
