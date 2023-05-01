@@ -4561,28 +4561,29 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 <hr width=25%;> 
 </details>
 <!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-xx/04/2023
+01/05/2023
+"update repository pen-100 ./pen-100 - Bash Scripting Basics"
 "update repository pen-100 ./pen-100 - Bash Scripting Basics - ..."
 -->
 <details open>
     <summary><b>Bash Scripting Basics &#x21A9;</b></summary>
 
-<!--
-- Intro to Bash Scripting &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/34`` <br/>
-- Variables and Assignment &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
-- Using Arguments &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
-- Input and Output in Bash &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
-- Conditional Statements &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
-- Boolean Operations &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
-- Looping in Scripts &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
-- Functions for Clarity &#x1F52C; <u>()</u> &#x1F6A7; &#x2705; <br/>
--->
+- Intro to Bash Scripting &#x1F52C; <u>(0/2)</u> &#x2B55; ``/34`` <br/>
+- Variables and Assignment &#x1F52C; <u>(0/4)</u> &#x2B55; <br/>
+- Using Arguments &#x1F52C; <u>(/7)</u> &#x2B55; <br/>
+- Input and Output in Bash &#x1F52C; <u>(0/5)</u> &#x2B55; <br/>
+- Conditional Statements &#x1F52C; <u>(0/3)</u> &#x2B55; <br/>
+- Boolean Operations &#x1F52C; <u>(/4)</u> &#x2B55; <br/>
+- Looping in Scripts &#x1F52C; <u>(/5)</u> &#x2B55; <br/>
+- Functions for Clarity &#x1F52C; <u>(/4)</u> &#x2B55; <br/>
 <hr width=25%;> 
 </details>
 <!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -4592,15 +4593,10 @@ xx/04/2023
 <details open>
     <summary><b>Python Scripting Basics &#x21A9;</b></summary>
 
-<!--
-&#x1F4DC; Theory
-&#x1F6A7; Work-in-Progress / WIP
-&#x2705; Semester / Topic Finished
-&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
--->
 <hr width=25%;> 
 </details>
 <!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -4610,15 +4606,10 @@ xx/04/2023
 <details open>
     <summary><b>PowerShell Scripting Basics &#x21A9;</b></summary>
 
-<!--
-&#x1F4DC; Theory
-&#x1F6A7; Work-in-Progress / WIP
-&#x2705; Semester / Topic Finished	
-&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
--->
 <hr width=25%;> 
 </details>
 <!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -4628,15 +4619,10 @@ xx/04/2023
 <details open>
     <summary><b>Linux Networking and Services I &#x21A9;</b></summary>
 
-<!--
-&#x1F4DC; Theory
-&#x1F6A7; Work-in-Progress / WIP
-&#x2705; Semester / Topic Finished	
-&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
--->
 <hr width=25%;> 
 </details>
 <!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished
@@ -4646,15 +4632,10 @@ xx/04/2023
 <details open>
     <summary><b>Linux Networking and Services II &#x21A9;</b></summary>
 
-<!--
-&#x1F4DC; Theory
-&#x1F6A7; Work-in-Progress / WIP
-&#x2705; Semester / Topic Finished	
-&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
--->
 <hr width=25%;> 
 </details>
 <!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -4674,6 +4655,7 @@ xx/04/2023
 <hr width=25%;> 
 </details>
 <!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -4683,15 +4665,10 @@ xx/04/2023
 <details open>
     <summary><b>Network Scripting &#x21A9;</b></summary>
 
-<!--
-&#x1F4DC; Theory
-&#x1F6A7; Work-in-Progress / WIP
-&#x2705; Semester / Topic Finished	
-&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
--->
 <hr width=25%;> 
 </details>
 <!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -4701,15 +4678,10 @@ xx/04/2023
 <details open>
     <summary><b>Working with Shells &#x21A9;</b></summary>
 
-<!--
-&#x1F4DC; Theory
-&#x1F6A7; Work-in-Progress / WIP
-&#x2705; Semester / Topic Finished	
-&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
--->
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished
@@ -4719,15 +4691,10 @@ xx/04/2023
 <details open>
     <summary><b>Troubleshooting &#x21A9;</b></summary>
 
-<!--
-&#x1F4DC; Theory
-&#x1F6A7; Work-in-Progress / WIP
-&#x2705; Semester / Topic Finished	
-&#x1F52C; <u>()</u> &#x1F6A7; &#x2705; ``/..`` <br/>
--->
 <hr width=25%;> 
 </details>
-<!-- 
+<!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished	
@@ -4748,6 +4715,7 @@ xx/04/2023
 <hr width=25%;> 
 </details>
 <!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -4769,6 +4737,7 @@ xx/04/2023
 <hr width=25%;> 
 </details>
 <!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -4784,6 +4753,7 @@ xx/04/2023
 <hr width=25%;> 
 </details>
 <!--
+&#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -4795,6 +4765,7 @@ xx/04/2023
 
 - Considerations and Preparations &#x1F52C; <u>(12)</u> &#x2705; ``/31`` <br/>
 <!--
+&#x2B55; Skim
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished	
