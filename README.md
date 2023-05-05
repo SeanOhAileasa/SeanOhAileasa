@@ -4587,12 +4587,19 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-xx/04/2023
-"update repository pen-100 ./pen-100 - Python Scripting Basics - ..."
+05/05/2023
+"update repository pen-100 ./pen-100 - Python Scripting Basics - Variables Slicing and Type Casting"
 -->
 <details open>
     <summary><b>Python Scripting Basics &#x21A9;</b></summary>
 
+- Variables Slicing and Type Casting &#x1F52C; <u>(27/27)</u> &#x2705; ``/69`` <br/>
+- Lists and Dictionaries &#x1F52C; <u>(/7)</u> &#x2B55; <br/>
+- Loops Logic and User Input &#x1F52C; <u>(/7)</u> &#x2B55; <br/>
+- Files and Functions &#x1F52C; <u>(/8)</u> &#x2B55; <br/>
+- Modules and Web Requests &#x1F52C; <u>(/7)</u> &#x2B55; <br/>
+- Python Network Sockets &#x1F52C; <u>(/10)</u> &#x2B55; <br/>
+- Putting It All Together &#x1F52C; <u>(/4)</u> &#x2B55; <br/>
 <hr width=25%;> 
 </details>
 <!--
