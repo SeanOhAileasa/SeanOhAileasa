@@ -4607,12 +4607,15 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-xx/04/2023
-"update repository pen-100 ./pen-100 - PowerShell Scripting Basics - ..."
+05/04/2023
+"update repository pen-100 ./pen-100 - PowerShell Scripting Basics"
 -->
 <details open>
     <summary><b>PowerShell Scripting Basics &#x21A9;</b></summary>
 
+- PowerShell-Basics-I &#x1F52C; <u>(/5)</u> &#x2B55; ``/39`` <br/>
+- PowerShell-Basics-II &#x1F52C; <u>(/13)</u> &#x2B55; <br/>
+- PowerShell-Basics-III &#x1F52C; <u>(/21)</u> &#x2B55; <br/>
 <hr width=25%;> 
 </details>
 <!--
