@@ -4699,6 +4699,10 @@ xx/04/2023
 "update repository pen-100 ./pen-100 - Working with Shells"
 -->
 
+- Common-Shells &#x1F52C; <u>(/)</u> &#x274C; ``/38`` <br/>
+- Shells-on-Linux &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Shells-on-Windows &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Creating-Custom-Shells &#x1F52C; <u>(/)</u> &#x274C; <br/>
 <hr width=25%;> 
 </details>
 <details open>
