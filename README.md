@@ -4713,10 +4713,16 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished
-xx/04/2023
-"update repository pen-100 ./pen-100 - Troubleshooting - ..."
+06/04/2023
+"update repository pen-100 ./pen-100 - Troubleshooting"
 -->
 
+- Simple Strategies &#x1F52C; <u>(/)</u> &#x274C; ``/26`` <br/>
+- Misaligned Instructions &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Basic Python Coding Error user error &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Fixing a Broken Exploit VulnHub Kioptrix Level 1 &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Network Troubleshooting &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Accidentally Deleted File &#x1F52C; <u>(/)</u> &#x274C; <br/>
 <hr width=25%;> 
 </details>
 <details open>
