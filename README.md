@@ -4454,13 +4454,15 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 <details open>
     <summary><b>OffSec PEN-100 &#x21A9;</b></summary><br/>
-
 <!--
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished
 https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/    
 -->
+
+<details open>
+    <summary><b>Linux Basics I &#x21A9;</b></summary>
 <!-- 
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4468,8 +4470,6 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 22/04/2023
 "update repository pen-100 ./pen-100 - Linux Basics I - Searching and Text Manipulation"
 -->
-<details open>
-    <summary><b>Linux Basics I &#x21A9;</b></summary>
 
 - Introduction to Linux &#x1F52C; <u>(5)</u> &#x2705; ``/62`` <br/>
 - Command Line Basics &#x1F52C; <u>(14)</u> &#x2705; <br/>
@@ -4481,6 +4481,8 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Searching and Text Manipulation &#x1F52C; <u>(6)</u> &#x2705; <br/>
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Linux Basics II &#x21A9;</b></summary>
 <!-- 
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4488,8 +4490,6 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 01/05/2023
 "update repository pen-100 ./pen-100 - Linux Basics II - Disk Management"
 -->
-<details open>
-    <summary><b>Linux Basics II &#x21A9;</b></summary>
 
 - Users and Groups &#x1F52C; <u>(0/20)</u> &#x1F4DC; ``/66`` <br/>
 - File Permissions &#x1F52C; <u>(0/17)</u> &#x1F4DC; <br/>
@@ -4502,6 +4502,8 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Linux Basics I II Cumulative Exercise &#x1F52C; <u>(0/7)</u> &#x1F4DC; <br/>
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Windows Basics I &#x21A9;</b></summary>
 <!--
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4509,8 +4511,6 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 08/04/2023
 "update repository pen-100 ./pen-100 - Windows Basics I - Searching For Files and Text"
 -->
-<details open>
-    <summary><b>Windows Basics I &#x21A9;</b></summary>
 
 - Linux vs Windows &#x1F52C; <u>(3)</u> &#x2705; ``/49`` <br/>
 - Windows Shells &#x1F52C; <u>(4)</u> &#x2705; <br/>
@@ -4520,6 +4520,8 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Searching For Files and Text &#x1F52C; <u>(11)</u> &#x2705; <br/>
 <hr width=25%;>
 </details>
+<details open>
+    <summary><b>Windows Basics II &#x21A9;</b></summary>
 <!-- 
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4527,8 +4529,6 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 11/04/2023
 "update repository pen-100 ./pen-100 - Windows Basics II - Windows Basics I & II: Cumulative Exercise"
 -->
-<details open>
-    <summary><b>Windows Basics II &#x21A9;</b></summary>
 
 - Windows Access Controls and Security Principles &#x1F52C; <u>(4)</u> &#x2705; ``/69`` <br/>
 - Windows User and Group Permissions &#x1F52C; <u>(13)</u> &#x2705; <br/>
@@ -4541,6 +4541,8 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Windows Basics I & II: Cumulative Exercise &#x1F52C; <u>(0/6)</u> &#x1F4DC; <br/>
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Networking Fundamentals &#x21A9;</b></summary>
 <!--
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4548,8 +4550,6 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 12/04/2023
 "update repository pen-100 ./pen-100 - Networking Fundamentals - Useful Network Technologies"
 -->
-<details open>
-    <summary><b>Networking Fundamentals &#x21A9;</b></summary>
 
 - The OSI Model &#x1F52C; <u>(6)</u> &#x2705; ``/73`` <br/>
 - The TCP IP Model &#x1F52C; <u>(5)</u> &#x2705; <br/>
@@ -4560,6 +4560,8 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Useful Network Technologies &#x1F52C; <u>(11/11)</u> &#x2705; <br/>
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Bash Scripting Basics &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
@@ -4569,8 +4571,6 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 "update repository pen-100 ./pen-100 - Bash Scripting Basics"
 "update repository pen-100 ./pen-100 - Bash Scripting Basics - ..."
 -->
-<details open>
-    <summary><b>Bash Scripting Basics &#x21A9;</b></summary>
 
 - Intro to Bash Scripting &#x1F52C; <u>(0/2)</u> &#x2B55; ``/34`` <br/>
 - Variables and Assignment &#x1F52C; <u>(0/4)</u> &#x2B55; <br/>
@@ -4582,6 +4582,8 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Functions for Clarity &#x1F52C; <u>(/4)</u> &#x2B55; <br/>
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Python Scripting Basics &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
@@ -4590,8 +4592,6 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 05/05/2023
 "update repository pen-100 ./pen-100 - Python Scripting Basics - Variables Slicing and Type Casting"
 -->
-<details open>
-    <summary><b>Python Scripting Basics &#x21A9;</b></summary>
 
 - Variables Slicing and Type Casting &#x1F52C; <u>(27/27)</u> &#x2705; ``/69`` <br/>
 - Lists and Dictionaries &#x1F52C; <u>(/7)</u> &#x2B55; <br/>
@@ -4602,6 +4602,8 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 - Putting It All Together &#x1F52C; <u>(/4)</u> &#x2B55; <br/>
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>PowerShell Scripting Basics &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
@@ -4610,14 +4612,14 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 05/04/2023
 "update repository pen-100 ./pen-100 - PowerShell Scripting Basics"
 -->
-<details open>
-    <summary><b>PowerShell Scripting Basics &#x21A9;</b></summary>
 
 - PowerShell-Basics-I &#x1F52C; <u>(/5)</u> &#x2B55; ``/39`` <br/>
 - PowerShell-Basics-II &#x1F52C; <u>(/13)</u> &#x2B55; <br/>
 - PowerShell-Basics-III &#x1F52C; <u>(/21)</u> &#x2B55; <br/>
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Linux Networking and Services I &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
@@ -4626,12 +4628,13 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 xx/04/2023
 "update repository pen-100 ./pen-100 - Linux Networking and Services I - ..."
 -->
-<details open>
-    <summary><b>Linux Networking and Services I &#x21A9;</b></summary>
 
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Linux Networking and Services II &#x21A9;</b></summary>
 <!--
+&#x274C;
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4639,12 +4642,13 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - Linux Networking and Services II - ..."
 -->
-<details open>
-    <summary><b>Linux Networking and Services II &#x21A9;</b></summary>
 
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Windows Networking and Services &#x21A9;</b></summary>
 <!--
+&#x274C;
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4652,8 +4656,6 @@ xx/04/2023
 18/04/2023
 "update repository pen-100 ./pen-100 - Windows Networking and Services - Services"
 -->
-<details open>
-    <summary><b>Windows Networking and Services &#x21A9;</b></summary>
 
 - Essential Network Utilities &#x1F52C; <u>(0/17)</u> &#x1F4DC; <!-- &#x2705; --> ``/48`` <br/>
 - Common Clients &#x1F52C; <u>(0/9)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
@@ -4664,33 +4666,45 @@ xx/04/2023
 -->
 <hr width=25%;> 
 </details>
-<!--
-&#x2B55; Skim / Future Priority
-&#x1F4DC; Theory
-&#x1F6A7; Work-in-Progress / WIP
-&#x2705; Semester / Topic Finished 
-xx/04/2023
-"update repository pen-100 ./pen-100 - Network Scripting - ..."
--->
 <details open>
     <summary><b>Network Scripting &#x21A9;</b></summary>
-
-<hr width=25%;> 
-</details>
 <!--
+&#x274C;
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-xx/04/2023
-"update repository pen-100 ./pen-100 - Working with Shells - ..."
+06/04/2023
+"update repository pen-100 ./pen-100 - Network Scripting"
 -->
+
+- Write a Client with Python I &#x1F52C; <u>(/)</u> &#x274C; ``/32`` <br/>
+- Write a Client Program in Python II &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Write a Server with Python &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Write a Port Scanner with Python &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Website Interaction with Python I &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Website Interaction with Python II &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Capturing and Sending Packets with Scapy &#x1F52C; <u>(/)</u> &#x274C; <br/>
+<hr width=25%;> 
+</details>
 <details open>
     <summary><b>Working with Shells &#x21A9;</b></summary>
+<!--
+&#x274C;
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+06/04/2023
+"update repository pen-100 ./pen-100 - Working with Shells"
+-->
 
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Troubleshooting &#x21A9;</b></summary>
 <!--
+&#x274C;
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4698,12 +4712,13 @@ xx/04/2023
 xx/04/2023
 "update repository pen-100 ./pen-100 - Troubleshooting - ..."
 -->
-<details open>
-    <summary><b>Troubleshooting &#x21A9;</b></summary>
 
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Cryptography &#x21A9;</b></summary>
 <!--
+&#x274C;
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4711,8 +4726,6 @@ xx/04/2023
 14/04/2023
 "update repository pen-100 ./pen-100 - Cryptography - Cryptography Cumulative Exercise"
 -->
-<details open>
-    <summary><b>Cryptography &#x21A9;</b></summary>
 
 - Cryptography Jargon &#x1F52C; <u>(0)</u> &#x2705; ``/68`` <br/>
 - Encoding Part I &#x1F52C; <u>(9)</u> &#x2705; <br/>
@@ -4724,6 +4737,8 @@ xx/04/2023
 - Cryptography Cumulative Exercise &#x1F52C; <u>(0/4)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Web Applications &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
@@ -4732,8 +4747,6 @@ xx/04/2023
 17/04/2023
 "update repository pen-100 ./pen-100 - Web Applications - Introduction to Databases and SQL"
 -->
-<details open>
-    <summary><b>Web Applications &#x21A9;</b></summary>
 
 - The OWASP Top Ten &#x1F52C; <u>(4)</u> &#x2705; ``/65`` <br/>
 - Hypertext Transfer Protocol HTTP &#x1F52C; <u>(4)</u> &#x2705; <br/>
@@ -4746,7 +4759,10 @@ xx/04/2023
 - Introduction to Databases and SQL &#x1F52C; <u>(8/9)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Introduction to Active Directory &#x21A9;</b></summary>
 <!--
+&#x274C;	
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4754,15 +4770,16 @@ xx/04/2023
 19/04/2023
 "update repository pen-100 ./pen-100 - Introduction to Active Directory - Administering Active Directory"
 -->
-<details open>
-    <summary><b>Introduction to Active Directory &#x21A9;</b></summary>
 
 - Active Directory Introduction <u>(3)</u> &#x2705; ``/14`` <br/>
 - Active Directory Elements <u>(6)</u> &#x2705; <br/>
 - Administering Active Directory <u>(4/5)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>File Transfers &#x21A9;</b></summary>
 <!--
+&#x274C;
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4770,8 +4787,6 @@ xx/04/2023
 23/04/2023
 "update repository pen-100 ./pen-100 - File Transfers - Considerations and Preparations"
 -->
-<details open>
-    <summary><b>File Transfers &#x21A9;</b></summary>
 
 - Considerations and Preparations &#x1F52C; <u>(12)</u> &#x2705; ``/31`` <br/>
 <!--
