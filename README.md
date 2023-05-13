@@ -4820,10 +4820,29 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b>OffSec SOC-100 &#x21A9;</b></summary><br/>
 
-&#x274C;
+<details open>
+    <summary><b>Data Manipulation in Python &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+15/05/2023
+"add repository soc-100 ./soc-100"
+-->
+
+- Python Data Basics &#x1F52C; <u>(/)</u> &#x274C; ``/35`` <br/>
+- Sets Lists and Dictionaries &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Different Base Representations &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Converting and Displaying Data Types &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Manipulating Binary Large Objects in Python &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- User-Defined Data Structures &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Data Structures as Records &#x1F52C; <u>(/)</u> &#x274C; <br/>
+<hr width=25%;> 
+</details>
 </details> <!-- SOC-100 -->
 
 <hr width=33%;> <!-- -->
