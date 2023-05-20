@@ -4831,12 +4831,12 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 20/05/2023
-"update repository soc-100 ./soc-100 - Data Manipulation in Python - Sets Lists and Dictionaries"
+"update repository soc-100 ./soc-100 - Data Manipulation in Python - Different Base Representations"
 -->
 
 - Python Data Basics &#x1F52C; <u>(6/6)</u> &#x2705; ``/35`` <br/>
 - Sets Lists and Dictionaries &#x1F52C; <u>(7/7)</u> &#x2705; <br/>
-- Different Base Representations &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Different Base Representations &#x1F52C; <u>(4/4)</u> &#x2705; <br/>
 - Converting and Displaying Data Types &#x1F52C; <u>(/)</u> &#x274C; <br/>
 - Manipulating Binary Large Objects in Python &#x1F52C; <u>(/)</u> &#x274C; <br/>
 - User-Defined Data Structures &#x1F52C; <u>(/)</u> &#x274C; <br/>
