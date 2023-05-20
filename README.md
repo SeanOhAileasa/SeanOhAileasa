@@ -4487,11 +4487,11 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished
-01/05/2023
-"update repository pen-100 ./pen-100 - Linux Basics II - Disk Management"
+20/05/2023
+"update repository pen-100 ./pen-100 - Linux Basics II - Users and Groups"
 -->
 
-- Users and Groups &#x1F52C; <u>(0/20)</u> &#x1F4DC; ``/66`` <br/>
+- Users and Groups &#x1F52C; <u>(20/20)</u> &#x2705; ``/66`` <br/>
 - File Permissions &#x1F52C; <u>(0/17)</u> &#x1F4DC; <br/>
 - Linux Processes &#x1F52C; <u>(0/6)</u> &#x1F4DC; <br/>
 - File and Command Monitoring &#x1F52C; <u>(0/1)</u> &#x1F4DC; <br/>
@@ -4837,10 +4837,10 @@ xx/04/2023
 - Python Data Basics &#x1F52C; <u>(6/6)</u> &#x2705; ``/35`` <br/>
 - Sets Lists and Dictionaries &#x1F52C; <u>(7/7)</u> &#x2705; <br/>
 - Different Base Representations &#x1F52C; <u>(4/4)</u> &#x2705; <br/>
-- Converting and Displaying Data Types &#x1F52C; <u>(/)</u> &#x274C; <br/>
-- Manipulating Binary Large Objects in Python &#x1F52C; <u>(/)</u> &#x274C; <br/>
-- User-Defined Data Structures &#x1F52C; <u>(/)</u> &#x274C; <br/>
-- Data Structures as Records &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Converting and Displaying Data Types &#x1F52C; <u>(/4)</u> &#x274C; <br/>
+- Manipulating Binary Large Objects in Python &#x1F52C; <u>(/3)</u> &#x274C; <br/>
+- User-Defined Data Structures &#x1F52C; <u>(/6)</u> &#x274C; <br/>
+- Data Structures as Records &#x1F52C; <u>(/5)</u> &#x274C; <br/>
 <hr width=25%;> 
 </details>
 </details> <!-- SOC-100 -->
