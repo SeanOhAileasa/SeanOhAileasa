@@ -15,6 +15,7 @@
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA CSIE <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csie.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CSIE.pdf) |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA CSAE<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csae.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CSAE.pdf) |
 | &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x2935; |
+| &nbsp;&nbsp;&nbsp;``azs-``&nbsp;&nbsp; | [ [Altered Security](https://www.alteredsecurity.com/) ]<br/>[ [``Azure Penetration Testing``](https://github.com/SeanOhAileasa/azs-introduction-to-azure-penetration-testing/blob/main/README.md) ]<br/>Credit: Nikhil Mittal | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified User<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/splunk/SPLK-1001_Splunk-Core-Certified-User.png?raw=true)](https://www.credly.com/badges/1040f6ad-98dd-4ef8-b3ae-3234d49c6656) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | Darktrace Threat Visualizer<br/>Course Attendance: [[``Part 1``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Threat-Visualizer-Part-1-Familiarization.pdf)][[``Part 2``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Threat-Visualizer-Part-2-Investigation.pdf)]<br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | Darktrace Email<br/>Course Attendance: [[``Part 1``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace_Email-Part-1-Familiarization.pdf)][[``Part 2``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace_Email-Part-2-Customization.pdf)]<br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
@@ -4361,6 +4362,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 <hr width=10%;>
 </details> <!-- END (ICT Associate Apprenticeship Programme (Cybersecurity)) -->
 <hr width=33%;> <!-- -->
+
+
 <details close>
 	<summary><b>Splunk Core Certified User &#x21A9;</b></summary><br/>
 
@@ -4488,7 +4491,7 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished
 20/05/2023
-"update repository pen-100 ./pen-100 - Linux Basics II - Users and Groups"
+"update repository pen-100 ./pen-100 - Linux Basics II - File Permissions"
 -->
 
 - Users and Groups &#x1F52C; <u>(20/20)</u> &#x2705; ``/66`` <br/>
@@ -4848,6 +4851,16 @@ xx/04/2023
 <hr width=33%;> <!-- -->
 
 </details> <!-- END (Cybersecurity Associate Candidate (Apprenticeship NFQ L6)) -->
+
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+21/05/2023
+"add repository ./azs-introduction-to-azure-penetration-testing"
+-->
+
 <details close> 
 	<summary><h3>2022 Data Analytics &#x21A9;</h3></summary>
 
