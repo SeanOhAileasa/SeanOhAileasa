@@ -4834,7 +4834,7 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 21/05/2023
-"update repository soc-100 ./soc-100 - Data Manipulation in Python - Manipulating Binary Large Objects in Python"
+"update repository soc-100 ./soc-100 - Data Manipulation in Python - User-Defined Data Structures"
 -->
 
 - Python Data Basics &#x1F52C; <u>(6/6)</u> &#x2705; ``/35`` <br/>
@@ -4842,7 +4842,7 @@ xx/04/2023
 - Different Base Representations &#x1F52C; <u>(4/4)</u> &#x2705; <br/>
 - Converting and Displaying Data Types &#x1F52C; <u>(4/4)</u> &#x2705; <br/>
 - Manipulating Binary Large Objects in Python &#x1F52C; <u>(3/3)</u> &#x2705; <br/>
-- User-Defined Data Structures &#x1F52C; <u>(/6)</u> &#x274C; <br/>
+- User-Defined Data Structures &#x1F52C; <u>(5/6)</u> &#x1F6A7; <br/>
 - Data Structures as Records &#x1F52C; <u>(/5)</u> &#x274C; <br/>
 <hr width=25%;> 
 </details>
