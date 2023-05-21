@@ -1,5 +1,5 @@
 <details open> 
-	<summary><h3>2022 Cybersecurity&nbsp;&nbsp;&#x21A9;</h3></summary>
+	<summary><h3>'22/'23 Cybersecurity&nbsp;&nbsp;&#x21A9;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
@@ -15,7 +15,6 @@
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA CSIE <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csie.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CSIE.pdf) |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA CSAE<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csae.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CSAE.pdf) |
 | &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x2935; |
-| &nbsp;&nbsp;&nbsp;``azs-``&nbsp;&nbsp; | [ [Altered Security](https://www.alteredsecurity.com/) ]<br/>[ [``Azure Penetration Testing``](https://github.com/SeanOhAileasa/azs-introduction-to-azure-penetration-testing/blob/main/README.md) ]<br/>Credit: Nikhil Mittal | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified User<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/splunk/SPLK-1001_Splunk-Core-Certified-User.png?raw=true)](https://www.credly.com/badges/1040f6ad-98dd-4ef8-b3ae-3234d49c6656) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | Darktrace Threat Visualizer<br/>Course Attendance: [[``Part 1``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Threat-Visualizer-Part-1-Familiarization.pdf)][[``Part 2``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Threat-Visualizer-Part-2-Investigation.pdf)]<br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | Darktrace Email<br/>Course Attendance: [[``Part 1``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace_Email-Part-1-Familiarization.pdf)][[``Part 2``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace_Email-Part-2-Customization.pdf)]<br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
@@ -27,6 +26,7 @@
 | &nbsp;&nbsp;&nbsp;``pen-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-100``](https://portal.offsec.com/courses/pen-100) ]<br/>[Fundamental Content]-100 | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``soc-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``SOC-100``](https://portal.offsec.com/courses/soc-100) ]<br/>[Fundamental Content]-100 | &#x2935; |
 | &nbsp;&nbsp;&nbsp;``web-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``WEB-100``](https://portal.offsec.com/courses/web-100) ]<br/>[Fundamental Content]-100 | &#x2935; |
+| &nbsp;&nbsp;&nbsp;``azs-``&nbsp;&nbsp; | [ [Altered Security](https://www.alteredsecurity.com/) ]<br/>[ [``Azure Penetration Testing``](https://github.com/SeanOhAileasa/azs-introduction-to-azure-penetration-testing/blob/main/README.md) ]<br/>Credit: Nikhil Mittal | &#x2935; |
 <!--
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
 -->
@@ -4833,14 +4833,14 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-20/05/2023
-"update repository soc-100 ./soc-100 - Data Manipulation in Python - Different Base Representations"
+21/05/2023
+"update repository soc-100 ./soc-100 - Data Manipulation in Python - Converting and Displaying Data Types"
 -->
 
 - Python Data Basics &#x1F52C; <u>(6/6)</u> &#x2705; ``/35`` <br/>
 - Sets Lists and Dictionaries &#x1F52C; <u>(7/7)</u> &#x2705; <br/>
 - Different Base Representations &#x1F52C; <u>(4/4)</u> &#x2705; <br/>
-- Converting and Displaying Data Types &#x1F52C; <u>(/4)</u> &#x274C; <br/>
+- Converting and Displaying Data Types &#x1F52C; <u>(4/4)</u> &#x2705; <br/>
 - Manipulating Binary Large Objects in Python &#x1F52C; <u>(/3)</u> &#x274C; <br/>
 - User-Defined Data Structures &#x1F52C; <u>(/6)</u> &#x274C; <br/>
 - Data Structures as Records &#x1F52C; <u>(/5)</u> &#x274C; <br/>
@@ -4862,7 +4862,7 @@ xx/04/2023
 -->
 
 <details close> 
-	<summary><h3>2022 Data Analytics &#x21A9;</h3></summary>
+	<summary><h3>'20/'22 Data Analytics &#x21A9;</h3></summary>
 
 | **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade |
 | :--------------------------------------------------------------|:-------:|:-------:|
