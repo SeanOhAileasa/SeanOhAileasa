@@ -14,7 +14,7 @@
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA Security Practitioner (CASP+)<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-casp-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-CASP-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA CSIE <br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csie.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CSIE.pdf) |
 | &nbsp;&nbsp;&nbsp;``asp-``&nbsp;&nbsp; | <br/>CompTIA CSAE<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/csae.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CSAE.pdf) |
-| &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x2935; |
+| &nbsp;&nbsp;&nbsp;``cdp-``&nbsp;&nbsp; | <br/>CompTIA Cloud+ <br/><br/>                   | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified User<br/><br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/splunk/SPLK-1001_Splunk-Core-Certified-User.png?raw=true)](https://www.credly.com/badges/1040f6ad-98dd-4ef8-b3ae-3234d49c6656) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | Darktrace Threat Visualizer<br/>Course Attendance: [[``Part 1``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Threat-Visualizer-Part-1-Familiarization.pdf)][[``Part 2``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Threat-Visualizer-Part-2-Investigation.pdf)]<br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | Darktrace Email<br/>Course Attendance: [[``Part 1``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace_Email-Part-1-Familiarization.pdf)][[``Part 2``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace_Email-Part-2-Customization.pdf)]<br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
@@ -24,15 +24,15 @@
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Darktrace RESPOND/Network``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace-RESPOND_Network.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/verify-certificate?id=ba1fd57e1ab75c5e0ee149a04f290ccad108cb2f&k=191528b51e3f4ca49b88c3dc1ba64c91) ]<br/>Cyber Threat Intelligence 101<br/>Foundation Level Certification<br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/badge.jpg?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/101-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``pen-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-100``](https://portal.offsec.com/courses/pen-100) ]<br/>[Fundamental Content]-100 | &#x2935; |
-| &nbsp;&nbsp;&nbsp;``soc-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``SOC-100``](https://portal.offsec.com/courses/soc-100) ]<br/>[Fundamental Content]-100 | &#x2935; |
-| &nbsp;&nbsp;&nbsp;``web-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``WEB-100``](https://portal.offsec.com/courses/web-100) ]<br/>[Fundamental Content]-100 | &#x2935; |
-| &nbsp;&nbsp;&nbsp;``azs-``&nbsp;&nbsp; | [ [Altered Security](https://www.alteredsecurity.com/) ]<br/>[ [``Azure Penetration Testing``](https://github.com/SeanOhAileasa/azs-introduction-to-azure-penetration-testing/blob/main/README.md) ]<br/>Credit: Nikhil Mittal | &#x2935; |
+| &nbsp;&nbsp;&nbsp;``soc-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``SOC-100``](https://portal.offsec.com/courses/soc-100) ]<br/>[Fundamental Content]-100 | &#x274C; |
+| &nbsp;&nbsp;&nbsp;``web-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``WEB-100``](https://portal.offsec.com/courses/web-100) ]<br/>[Fundamental Content]-100 | &#x274C; |
+| &nbsp;&nbsp;&nbsp;``azs-``&nbsp;&nbsp; | [ [Altered Security](https://www.alteredsecurity.com/) ]<br/>[ [``Azure Penetration Testing``](https://github.com/SeanOhAileasa/azs-introduction-to-azure-penetration-testing/blob/main/README.md) ]<br/>Credit: Nikhil Mittal | &#x274C; |
 <!--
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
 -->
 
-<details open>
-	<summary><h4>&#x1F4CC; ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
+<details close>
+	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
 
 <details close>
 <!--
@@ -4365,7 +4365,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 
 <details close>
-	<summary><b>Splunk Core Certified User &#x21A9;</b></summary><br/>
+	<summary><b>Splunk Core Certified User &#x21A9;</b></summary>
 
 <!--
 20/12/2022
@@ -4455,8 +4455,10 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 
 <hr width=33%;> <!-- -->
 
-<details open>
-    <summary><b>OffSec PEN-100 &#x21A9;</b></summary><br/>
+### &#x1F4CC; OffSec
+
+<details close>
+    <summary><b>PEN-100 &#x21A9;</b></summary><br/>
 <!--
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4816,15 +4818,15 @@ xx/04/2023
 <hr width=33%;> <!-- -->
 
 <details close>
-    <summary><b>OffSec WEB-100 &#x21A9;</b></summary><br/>
+    <summary><b>WEB-100 &#x21A9;</b></summary><br/>
 
 &#x274C;
 </details> <!-- WEB-100 -->
 
 <hr width=33%;> <!-- -->
 
-<details open>
-    <summary><b>OffSec SOC-100 &#x21A9;</b></summary><br/>
+<details close>
+    <summary><b>SOC-100 &#x21A9;</b></summary><br/>
 
 <details open>
     <summary><b>Data Manipulation in Python &#x21A9;</b></summary>
@@ -4847,6 +4849,30 @@ xx/04/2023
 <hr width=25%;> 
 </details>
 </details> <!-- SOC-100 -->
+
+<hr width=33%;> <!-- -->
+
+###### Project Management Tracking
+
+<details close>
+	<summary><h6>&#x1F4CC;Task - Status / Priority &#x21A9; </h6></summary>
+
+- &#x21A9; Expand / Dropdown List
+- &#x274C; Outstanding / Why? / Go
+- &#x1F4CC; Apprenticeship Status
+- &#x23F2; Timesheet (On Request)
+- &#x1F6A7; Work-in-Progress / WIP
+- &#x1F201; Here / Revision / Review
+- &#x1F530; Beginner / Future Priority
+- &#x1F23A; Open for Business / &#x1F6A7;
+- &#x1F232; Prohibited / Low Priority
+- &#x1F52C; Walkthrough / Practice
+- &#x1F513; Read / Review / Skim &#x2B55;
+- &#x1F4DC; Non-interactive / Theory
+- &#x1F512; Live Lab Completed (1st)  
+- &#x2705; Semester / Topic Finished
+- &#x2623; Private Repository / Exit
+</details>
 
 <hr width=33%;> <!-- -->
 
@@ -5073,27 +5099,3 @@ xx/04/2023
 </details>
 
 </details> <!-- END: Higher Diploma in Science in Computing (in Data Analytics) -->
-
-<hr width=33%;> <!-- -->
-
-<details close>
-	<summary><h4>&#x1F4CC; Project Management Tracking (Task - Status / Priority) &#x21A9; </h4></summary>
-
-- &#x21A9; Expand / Dropdown List
-- &#x274C; Outstanding / Why? / Go
-- &#x1F4CC; Apprenticeship Status
-- &#x23F2; Timesheet (On Request)
-- &#x1F6A7; Work-in-Progress / WIP
-- &#x1F201; Here / Revision / Review
-- &#x1F530; Beginner / Future Priority
-- &#x1F23A; Open for Business / &#x1F6A7;
-- &#x1F232; Prohibited / Low Priority
-- &#x1F52C; Walkthrough / Practice
-- &#x1F513; Read / Review / Skim &#x2B55;
-- &#x1F4DC; Non-interactive / Theory
-- &#x1F512; Live Lab Completed (1st)  
-- &#x2705; Semester / Topic Finished
-- &#x2623; Private Repository / Exit
-</details>
-
-<hr width=33%;> <!-- -->
