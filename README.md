@@ -4513,8 +4513,8 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished
-08/04/2023
-"update repository pen-100 ./pen-100 - Windows Basics I - Searching For Files and Text"
+03/06/2023
+"update repository pen-100 ./pen-100 - Windows Basics I"
 -->
 
 - Linux vs Windows &#x1F52C; <u>(3)</u> &#x2705; ``/49`` <br/>
