@@ -4658,11 +4658,11 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-18/04/2023
-"update repository pen-100 ./pen-100 - Windows Networking and Services - Services"
+03/06/2023
+"update repository pen-100 ./pen-100 - Windows Networking and Services - Essential Network Utilities"
 -->
 
-- Essential Network Utilities &#x1F52C; <u>(0/17)</u> &#x1F4DC; <!-- &#x2705; --> ``/48`` <br/>
+- Essential Network Utilities &#x1F52C; <u>(17/17)</u> &#x2705; <!-- &#x2705; --> ``/48`` <br/>
 - Common Clients &#x1F52C; <u>(0/9)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
 - Firewalls &#x1F52C; <u>(0/3)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
 - Services &#x1F52C; <u>(0/11)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
