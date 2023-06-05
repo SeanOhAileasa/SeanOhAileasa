@@ -4663,7 +4663,7 @@ xx/04/2023
 -->
 
 - Essential Network Utilities &#x1F52C; <u>(17/17)</u> &#x2705; <!-- &#x2705; --> ``/48`` <br/>
-- Common Clients &#x1F52C; <u>(0/9)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
+- Common Clients &#x1F52C; <u>(6/9)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
 - Firewalls &#x1F52C; <u>(0/3)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
 - Services &#x1F52C; <u>(0/11)</u> &#x1F4DC; <!-- &#x2705; --> <br/>
 <!--
@@ -4700,14 +4700,14 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-06/04/2023
-"update repository pen-100 ./pen-100 - Working with Shells"
+05/06/2023
+"update repository pen-100 ./pen-100 - Common Shells"
 -->
 
-- Common-Shells &#x1F52C; <u>(/)</u> &#x274C; ``/38`` <br/>
-- Shells-on-Linux &#x1F52C; <u>(/)</u> &#x274C; <br/>
-- Shells-on-Windows &#x1F52C; <u>(/)</u> &#x274C; <br/>
-- Creating-Custom-Shells &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Common Shells &#x1F52C; <u>(3/3)</u> &#x2705; ``/38`` <br/>
+- Shells on Linux &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Shells on Windows &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Creating Custom Shells &#x1F52C; <u>(/)</u> &#x274C; <br/>
 <hr width=25%;> 
 </details>
 <details open>
