@@ -4701,11 +4701,11 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 05/06/2023
-"update repository pen-100 ./pen-100 - Common Shells"
+"update repository pen-100 ./pen-100 - Working with Shells - Shells on Linux"
 -->
 
 - Common Shells &#x1F52C; <u>(3/3)</u> &#x2705; ``/38`` <br/>
-- Shells on Linux &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Shells on Linux &#x1F52C; <u>(14/14)</u> &#x2705; <br/>
 - Shells on Windows &#x1F52C; <u>(/)</u> &#x274C; <br/>
 - Creating Custom Shells &#x1F52C; <u>(/)</u> &#x274C; <br/>
 <hr width=25%;> 
