@@ -4689,7 +4689,7 @@ xx/04/2023
 - Write a Port Scanner with Python &#x1F52C; <u>(/)</u> &#x274C; <br/>
 - Website Interaction with Python I &#x1F52C; <u>(/)</u> &#x274C; <br/>
 - Website Interaction with Python II &#x1F52C; <u>(/)</u> &#x274C; <br/>
-- Capturing and Sending Packets with Scapy &#x1F52C; <u>(/)</u> &#x274C; <br/>
+- Capturing and Sending Packets with Scapy &#x1F52C; <u>(2/6)</u> &#x274C; <br/>
 <hr width=25%;> 
 </details>
 <details open>
@@ -4799,17 +4799,13 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-23/04/2023
-"update repository pen-100 ./pen-100 - File Transfers - Considerations and Preparations"
+10/06/2023
+"update repository pen-100 ./pen-100 - File Transfers - Transfer Techniques"
 -->
 
 - Considerations and Preparations &#x1F52C; <u>(12)</u> &#x2705; ``/31`` <br/>
-<!--
-&#x2B55; Skim
-&#x1F4DC; Theory
-&#x1F6A7; Work-in-Progress / WIP
-&#x2705; Semester / Topic Finished	
-- Transfer-Techniques &#x1F52C; <u>(0/13)</u> &#x1F6A7; &#x2705; --> <br/>
+- Transfer Techniques &#x1F52C; <u>(13/13)</u> &#x2705; <br/>
+- Windows File Transfers &#x1F52C; <u>(0/6)</u> &#x1F6A7; <br/>
 <hr width=25%;> 
 </details>
 
