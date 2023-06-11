@@ -4831,6 +4831,26 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
+11/06/2023
+"update repository soc-100 ./soc-100 - Enterprise Network Architecture - Understanding Enterprise Network Architecture"
+-->
+
+- Understanding Enterprise Network Architecture &#x1F52C; <u> (9/9) </u> &#x2705; ``/36`` <br/>
+- Approaching the Enterprise &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
+- Clients and Hosted Applications &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
+- Networking and Big Iron &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
+- Identity and Access Management &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
+- Enterprise Network Defenses &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
+- How Enterprise Data is Stored &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
+<hr width=25%;> 
+</details>
+<details open>
+    <summary><b>Data Manipulation in Python &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
 22/05/2023
 "update repository soc-100 ./soc-100 - Data Manipulation in Python - Data Structures as Records"
 -->
