@@ -4821,7 +4821,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b>SOC-100 &#x21A9;</b></summary><br/>
 
 <details open>
@@ -4832,11 +4832,11 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 11/06/2023
-"update repository soc-100 ./soc-100 - Enterprise Network Architecture - Understanding Enterprise Network Architecture"
+"update repository soc-100 ./soc-100 - Enterprise Network Architecture - Approaching the Enterprise"
 -->
 
 - Understanding Enterprise Network Architecture &#x1F52C; <u> (9/9) </u> &#x2705; ``/36`` <br/>
-- Approaching the Enterprise &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
+- Approaching the Enterprise &#x1F52C; <u> (5/5) </u> &#x2705; <br/>
 - Clients and Hosted Applications &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
 - Networking and Big Iron &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
 - Identity and Access Management &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
