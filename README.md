@@ -23,10 +23,10 @@
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Threat Visualizer Administration``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Threat-Visualizer-Administration.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Darktrace RESPOND/Network``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace-RESPOND_Network.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/verify-certificate?id=ba1fd57e1ab75c5e0ee149a04f290ccad108cb2f&k=191528b51e3f4ca49b88c3dc1ba64c91) ]<br/>Cyber Threat Intelligence 101<br/>Foundation Level Certification<br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/badge.jpg?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/101-certificate.pdf) |
-| &nbsp;&nbsp;&nbsp;``pen-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-100``](https://portal.offsec.com/courses/pen-100) ] [ [``Credential``](https://www.credential.net/3e423f08-1915-447d-a38b-066112aeda2e) ] <br/>[Fundamental Content]-100 | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec/pen-100.png?raw=true) |
-| &nbsp;&nbsp;&nbsp;``klr-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-103``](https://portal.offsec.com/courses/pen-103) ] [ [``Credential``](https://www.credential.net/3e423f08-1915-447d-a38b-066112aeda2e) ] <br/>[Fundamental Content]-100 | &#x274C; |
-| &nbsp;&nbsp;&nbsp;``soc-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``SOC-100``](https://portal.offsec.com/courses/soc-100) ]<br/>[Fundamental Content]-100 | &#x274C; |
-| &nbsp;&nbsp;&nbsp;``web-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``WEB-100``](https://portal.offsec.com/courses/web-100) ]<br/>[Fundamental Content]-100 | &#x274C; |
+| &nbsp;&nbsp;&nbsp;``pen-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-100``](https://portal.offsec.com/courses/pen-100) ] | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec/pen-100.png?raw=true)](https://www.credential.net/3e423f08-1915-447d-a38b-066112aeda2e) |
+| &nbsp;&nbsp;&nbsp;``klr-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-103``](https://portal.offsec.com/courses/pen-103) ] | |
+| &nbsp;&nbsp;&nbsp;``soc-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``SOC-100``](https://portal.offsec.com/courses/soc-100) ] | &#x274C; |
+| &nbsp;&nbsp;&nbsp;``web-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``WEB-100``](https://portal.offsec.com/courses/web-100) ] | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``azs-``&nbsp;&nbsp; | [ [Altered Security](https://www.alteredsecurity.com/) ]<br/>[ [``Azure Penetration Testing``](https://github.com/SeanOhAileasa/azs-introduction-to-azure-penetration-testing/blob/main/README.md) ]<br/>Credit: Nikhil Mittal | &#x274C; |
 <!--
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
@@ -4834,7 +4834,26 @@ xx/04/2023
 - Summary <br/>
 - Exercises <br/>
 <hr width=25%;> 
-</details>
+</details> <!-- END: Linux Fundamental-->
+<details open>
+    <summary><b>Installing Kali Linux &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+18/06/2023
+"update repository pen-103 ./klr - Installing Kali Linux"
+-->
+
+- Configuring the Network <br>
+- Managing Unix Users and Unix Groups <br>
+- Configuring Services <br>
+- Managing Services <br>
+- Summary <br>
+- Exercises <br>
+<hr width=25%;> 
+</details> <!-- END: Installing Kali Linux-->
 </details> <!-- PEN-103 -->
 
 <hr width=33%;> <!-- -->
