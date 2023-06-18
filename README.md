@@ -24,6 +24,7 @@
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Darktrace RESPOND/Network``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace-RESPOND_Network.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/verify-certificate?id=ba1fd57e1ab75c5e0ee149a04f290ccad108cb2f&k=191528b51e3f4ca49b88c3dc1ba64c91) ]<br/>Cyber Threat Intelligence 101<br/>Foundation Level Certification<br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/badge.jpg?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/101-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``pen-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-100``](https://portal.offsec.com/courses/pen-100) ] [ [``Credential``](https://www.credential.net/3e423f08-1915-447d-a38b-066112aeda2e) ] <br/>[Fundamental Content]-100 | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec/pen-100.png?raw=true) |
+| &nbsp;&nbsp;&nbsp;``klr-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-103``](https://portal.offsec.com/courses/pen-103) ] [ [``Credential``](https://www.credential.net/3e423f08-1915-447d-a38b-066112aeda2e) ] <br/>[Fundamental Content]-100 | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``soc-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``SOC-100``](https://portal.offsec.com/courses/soc-100) ]<br/>[Fundamental Content]-100 | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``web-``&nbsp;&nbsp; | OffSec [ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``WEB-100``](https://portal.offsec.com/courses/web-100) ]<br/>[Fundamental Content]-100 | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``azs-``&nbsp;&nbsp; | [ [Altered Security](https://www.alteredsecurity.com/) ]<br/>[ [``Azure Penetration Testing``](https://github.com/SeanOhAileasa/azs-introduction-to-azure-penetration-testing/blob/main/README.md) ]<br/>Credit: Nikhil Mittal | &#x274C; |
@@ -4813,6 +4814,31 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
+<details open>
+    <summary><b>PEN-103 &#x21A9;</b></summary><br/>
+<details open>
+    <summary><b>Linux Fundamentals &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+18/06/2023
+"update repository pen-103 ./klr - Linux Fundamentals"
+-->
+
+- What Is Linux and What Is It Doing? <br/>
+- The Command Line <br/>
+- The File System <br/>
+- Useful Commands <br/>
+- Summary <br/>
+- Exercises <br/>
+<hr width=25%;> 
+</details>
+</details> <!-- PEN-103 -->
+
+<hr width=33%;> <!-- -->
+
 <details close>
     <summary><b>WEB-100 &#x21A9;</b></summary><br/>
 
@@ -4821,7 +4847,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b>SOC-100 &#x21A9;</b></summary><br/>
 
 <details open>
@@ -4842,6 +4868,25 @@ xx/04/2023
 - Identity and Access Management &#x1F52C; <u> (6/6) </u> &#x2705; <br/>
 - Enterprise Network Defenses &#x1F52C; <u> (5/5) </u> &#x2705; <br/>
 - How Enterprise Data is Stored &#x1F52C; <u> (/6) </u> &#x2B55; <br/>
+<hr width=25%;> 
+</details>
+<details open>
+    <summary><b>SOC Management Processes &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+11/06/2023
+"update repository soc-100 ./soc-100 - SOC Management Processes"
+-->
+
+- The SOC and the ISMS &#x1F52C; <u> (2/2) </u> &#x1F6A7; ``/21`` <br/>
+- Monitoring and Incident Response &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
+- Operational Security Assurance &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
+- Security Administration &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
+- The Security Perimeter &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
+- Security and the Infrastructure &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
 <hr width=25%;> 
 </details>
 <details open>
