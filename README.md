@@ -28,6 +28,7 @@
 | &nbsp;&nbsp;&nbsp;``soc-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``SOC-100``](https://portal.offsec.com/courses/soc-100) ] | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``web-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``WEB-100``](https://portal.offsec.com/courses/web-100) ] | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``azs-``&nbsp;&nbsp; | [ [Altered Security](https://www.alteredsecurity.com/) ]<br/>[ [``Azure Penetration Testing``](https://github.com/SeanOhAileasa/azs-introduction-to-azure-penetration-testing/blob/main/README.md) ]<br/>Credit: Nikhil Mittal | &#x274C; |
+| &nbsp;&nbsp;&nbsp;``osw-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-210``](https://portal.offsec.com/courses/pen-210) ] | &#x274C; |
 <!--
 | &nbsp;&nbsp;&nbsp;``spk-``&nbsp;&nbsp; | <br/>Splunk Core Certified Power User<br/><br/>                   | &#x2935; |
 -->
@@ -4814,7 +4815,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b>PEN-103 &#x21A9;</b></summary><br/>
 <details open>
     <summary><b>Linux Fundamentals &#x21A9;</b></summary>
@@ -4834,7 +4835,7 @@ xx/04/2023
 - Summary <br/>
 - Exercises <br/>
 <hr width=25%;> 
-</details> <!-- END: Linux Fundamental-->
+</details> <!-- END: Linux Fundamental -->
 <details open>
     <summary><b>Installing Kali Linux &#x21A9;</b></summary>
 <!--
@@ -4853,8 +4854,22 @@ xx/04/2023
 - Summary <br>
 - Exercises <br>
 <hr width=25%;> 
-</details> <!-- END: Installing Kali Linux-->
-</details> <!-- PEN-103 -->
+</details> <!-- END: Installing Kali Linux -->
+<details open>
+    <summary><b>Configuring Kali Linux &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+18/06/2023
+"update repository pen-103 ./klr - Configuring Kali Linux"
+-->
+
+- t
+<hr width=25%;> 
+</details> <!-- END: Configuring Kali Linux-->
+</details> <!-- END - PEN-103 -->
 
 <hr width=33%;> <!-- -->
 
@@ -4929,6 +4944,29 @@ xx/04/2023
 <hr width=25%;> 
 </details>
 </details> <!-- SOC-100 -->
+
+<hr width=33%;> <!-- -->
+
+<details open>
+    <summary><b>PEN-210 &#x21A9;</b></summary><br/>
+
+<details open>
+    <summary><b>IEEE 802.11 &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+01/06/2023
+"add repository ./osw - PEN-210 - IEEE 802.11"
+-->
+ 
+- IEEE &#x1F4DC; <br/>
+- 802.11 Standards and Amendments &#x1F4DC; <br/>
+- Antenna Diversity vs MIMO &#x1F4DC; <br/>
+<hr width=25%;> 
+</details>
+</details> <!-- PEN-210 -->
 
 <hr width=33%;> <!-- -->
 
