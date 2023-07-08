@@ -4883,14 +4883,14 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 08/07/2023
-"update repository web-100 ./web-100 - JavaScript Basics - Browser Developer Tools"
+"update repository web-100 ./web-100 - JavaScript Basics - JavaScript Variables - JavaScript Naming Conventions - Assignment and Arithmetic Operators"
 -->
 
 - Browser Developer Tools &#x1F52C; <u> (2/2) </u> &#x2705; <br/>
+- JavaScript Variables &#x2705; <br/>
+- JavaScript Naming Conventions &#x2705; <br/>
+- Assignment and Arithmetic Operators &#x1F52C; <u> (6/6) </u> &#x2705; <br/>
 <!--
-- JavaScript Variables
-- JavaScript Naming Conventions
-- Assignment and Arithmetic Operators
 - JavaScript Functions and Methods
 - Conditional Statements with JavaScript
 - JavaScript Loops
