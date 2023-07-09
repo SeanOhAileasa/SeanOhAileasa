@@ -4883,19 +4883,17 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 09/07/2023
-"update repository web-100 ./web-100 - JavaScript Basics - Conditional Statements with JavaScript - JavaScript Loops"
+"update repository web-100 ./web-100 - JavaScript Basics - JavaScript APIs, Documentation, and "How to Research" 
 -->
 
-- Browser Developer Tools &#x1F52C; <u> (2/2) </u> &#x2705; ``__`` <br/>
+- Browser Developer Tools &#x1F52C; <u> (2/2) </u> &#x2705; ``/16`` <br/>
 - JavaScript Variables &#x1F52C; <u>(0)</u> &#x1F4DC; <br/>
 - JavaScript Naming Conventions &#x1F52C; <u>(0)</u> &#x1F4DC; <br/>
 - Assignment and Arithmetic Operators &#x1F52C; <u> (6/6) </u> &#x2705; <br/>
 - JavaScript Functions and Methods &#x1F52C; <u> (3/4) </u> &#x1F6A7; <br/>
 - Conditional Statements with JavaScript &#x1F52C; <u>(0)</u> &#x1F4DC; <br/>
 - JavaScript Loops &#x1F52C; <u> (0/2) </u> &#x1F6A7; <br/>
-<!--
-- JavaScript APIs, Documentation, and "How to Research"
--->
+- JavaScript APIs, Documentation, and "How to Research" &#x1F52C; <u> (2/2) </u> &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: JavaScript Basics -->
 </details> <!-- WEB-100 -->
