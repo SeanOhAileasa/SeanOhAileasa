@@ -5033,6 +5033,20 @@ xx/04/2023
 &#x1F23A;
 <hr width=25%;> 
 </details>
+<details close>
+    <summary><b>Wireshark Essentials &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+09/07/2023
+"update repository ./osw - PEN-210 - Wireshark Essentials"
+-->
+ 
+&#x1F23A;
+<hr width=25%;> 
+</details>
 </details> <!-- PEN-210 -->
 
 <hr width=33%;> <!-- -->
