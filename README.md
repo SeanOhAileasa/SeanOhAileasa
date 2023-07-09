@@ -4872,7 +4872,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b>WEB-100 &#x21A9;</b></summary><br/>
 
 <details open>
@@ -5003,6 +5003,20 @@ xx/04/2023
 - Mesh Networks &#x1F4DC; <br/>
 - Wi-Fi Direct &#x1F4DC; <br/>
 - Monitor Mode &#x1F4DC; <br/>
+<hr width=25%;> 
+</details>
+<details open>
+    <summary><b>Wi-Fi Encryption &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+09/07/2023
+"update repository ./osw - PEN-210 - Wi-Fi Encryption"
+-->
+ 
+&#x1F23A;
 <hr width=25%;> 
 </details>
 </details> <!-- PEN-210 -->
