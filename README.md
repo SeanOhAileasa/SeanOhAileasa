@@ -4832,8 +4832,6 @@ xx/04/2023
 - The Command Line <br/>
 - The File System <br/>
 - Useful Commands <br/>
-- Summary <br/>
-- Exercises <br/>
 <hr width=25%;> 
 </details> <!-- END: Linux Fundamental -->
 <details open>
@@ -4847,12 +4845,11 @@ xx/04/2023
 "update repository pen-103 ./klr - Installing Kali Linux"
 -->
 
-- Configuring the Network <br>
-- Managing Unix Users and Unix Groups <br>
-- Configuring Services <br>
-- Managing Services <br>
-- Summary <br>
-- Exercises <br>
+- Minimal Installation Requirements <br>
+- Step-by-Step Installation on a Hard Drive <br>
+- Unattended Installations <br>
+- ARM Installations <br>
+- Troubleshooting Installations <br>
 <hr width=25%;> 
 </details> <!-- END: Installing Kali Linux -->
 <details open>
@@ -4862,10 +4859,14 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-18/06/2023
+10/07/2023
 "update repository pen-103 ./klr - Configuring Kali Linux"
 -->
 
+- Configuring the Network  <br>
+- Managing Unix Users and Unix Groups  <br>
+- Configuring Services  <br>
+- Managing Services <br>
 <hr width=25%;> 
 </details> <!-- END: Configuring Kali Linux-->
 </details> <!-- END - PEN-103 -->
