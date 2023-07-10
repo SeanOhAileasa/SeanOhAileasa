@@ -4868,7 +4868,23 @@ xx/04/2023
 - Configuring Services  <br>
 - Managing Services <br>
 <hr width=25%;> 
-</details> <!-- END: Configuring Kali Linux-->
+</details> <!-- END: Configuring Kali Linux -->
+<details open>
+    <summary><b>Helping Yourself and Getting Help &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+10/07/2023
+"update repository pen-103 ./klr - Helping Yourself and Getting Help"
+-->
+
+- Documentation Sources <br>
+- Kali Linux Communities <br>
+- Filing a Good Bug Report  <br>
+<hr width=25%;> 
+</details> <!-- END: Helping Yourself and Getting Help -->
 </details> <!-- END - PEN-103 -->
 
 <hr width=33%;> <!-- -->
