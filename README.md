@@ -4842,13 +4842,28 @@ xx/04/2023
 "update repository pen-103 ./klr - About Kali Linux"
 -->
 
-- A Bit of History <br>
-- Relationship with Debian <br>
-- Purpose and Use Cases <br>
-- Main Kali Linux Features <br>
-- Kali Linux Policies <br>
+- A Bit of History <br/>
+- Relationship with Debian <br/>
+- Purpose and Use Cases <br/>
+- Main Kali Linux Features <br/>
+- Kali Linux Policies <br/>
 <hr width=25%;> 
 </details> <!-- END: About Kali Linux -->
+<details close>
+    <summary><b>Getting Started with Kali Linux &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+11/07/2023
+"update repository pen-103 ./klr - Getting Started with Kali Linux"
+-->
+
+- Downloading a Kali ISO Image <br/>
+- Booting a Kali ISO Image in Live Mode <br/>
+<hr width=25%;> 
+</details> <!-- END: Getting Started with Kali Linux -->
 <details close>
     <summary><b>Linux Fundamentals &#x21A9;</b></summary>
 <!--
