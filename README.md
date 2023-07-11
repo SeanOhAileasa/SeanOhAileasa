@@ -4892,11 +4892,11 @@ xx/04/2023
 "update repository pen-103 ./klr - Installing Kali Linux"
 -->
 
-- Minimal Installation Requirements <br>
-- Step-by-Step Installation on a Hard Drive <br>
-- Unattended Installations <br>
-- ARM Installations <br>
-- Troubleshooting Installations <br>
+- Minimal Installation Requirements <br/>
+- Step-by-Step Installation on a Hard Drive <br/>
+- Unattended Installations <br/>
+- ARM Installations <br/>
+- Troubleshooting Installations <br/>
 <hr width=25%;> 
 </details> <!-- END: Installing Kali Linux -->
 <details close>
@@ -4910,10 +4910,10 @@ xx/04/2023
 "update repository pen-103 ./klr - Configuring Kali Linux"
 -->
 
-- Configuring the Network  <br>
-- Managing Unix Users and Unix Groups  <br>
-- Configuring Services  <br>
-- Managing Services <br>
+- Configuring the Network  <br/>
+- Managing Unix Users and Unix Groups  <br/>
+- Configuring Services  <br/>
+- Managing Services <br/>
 <hr width=25%;> 
 </details> <!-- END: Configuring Kali Linux -->
 <details close>
@@ -4927,11 +4927,29 @@ xx/04/2023
 "update repository pen-103 ./klr - Helping Yourself and Getting Help"
 -->
 
-- Documentation Sources <br>
-- Kali Linux Communities <br>
-- Filing a Good Bug Report  <br>
+- Documentation Sources <br/>
+- Kali Linux Communities <br/>
+- Filing a Good Bug Report  <br/>
 <hr width=25%;> 
 </details> <!-- END: Helping Yourself and Getting Help -->
+<details close>
+    <summary><b>Securing and Monitoring Kali Linux &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+11/07/2023
+"update repository pen-103 ./klr - Securing and Monitoring Kali Linux"
+-->
+
+- Defining a Security Policy <br/>
+- Possible Security Measures <br/>
+- Securing Network Services <br/>
+- Firewall or Packet Filtering <br/>
+- Monitoring and Logging  <br/>
+<hr width=25%;> 
+</details> <!-- END: Securing and Monitoring Kali Linux -->
 </details> <!-- END - PEN-103 -->
 
 <hr width=33%;> <!-- -->
