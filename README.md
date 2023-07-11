@@ -4817,7 +4817,21 @@ xx/04/2023
 
 <details close>
     <summary><b>PEN-103 &#x21A9;</b></summary><br/>
-<details open>
+<details close>
+    <summary><b>Kali Linux Revealed &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+11/07/2023
+"update repository pen-103 ./klr - Kali Linux Revealed"
+-->
+
+- Kali Linux Revealed <br/>
+<hr width=25%;> 
+</details> <!-- END: Linux Fundamental -->
+<details close>
     <summary><b>Linux Fundamentals &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4834,7 +4848,7 @@ xx/04/2023
 - Useful Commands <br/>
 <hr width=25%;> 
 </details> <!-- END: Linux Fundamental -->
-<details open>
+<details close>
     <summary><b>Installing Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4852,7 +4866,7 @@ xx/04/2023
 - Troubleshooting Installations <br>
 <hr width=25%;> 
 </details> <!-- END: Installing Kali Linux -->
-<details open>
+<details close>
     <summary><b>Configuring Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4869,7 +4883,7 @@ xx/04/2023
 - Managing Services <br>
 <hr width=25%;> 
 </details> <!-- END: Configuring Kali Linux -->
-<details open>
+<details close>
     <summary><b>Helping Yourself and Getting Help &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
