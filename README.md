@@ -4815,9 +4815,9 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b>PEN-103 &#x21A9;</b></summary><br/>
-<details close>
+<details open>
     <summary><b>Kali Linux Revealed &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4831,25 +4831,25 @@ xx/04/2023
 - Kali Linux Revealed &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Kali Linux Revealed -->
-<details close>
+<details open>
     <summary><b>About Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-11/07/2023
+16/07/2023
 "update repository pen-103 ./klr - About Kali Linux"
 -->
 
-- A Bit of History <br/>
-- Relationship with Debian <br/>
-- Purpose and Use Cases <br/>
-- Main Kali Linux Features <br/>
-- Kali Linux Policies <br/>
+- A Bit of History &#x2705; <br/>
+- Relationship with Debian &#x2705; <br/>
+- Purpose and Use Cases &#x2705; <br/>
+- Main Kali Linux Features &#x2705; <br/>
+- Kali Linux Policies &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: About Kali Linux -->
-<details close>
+<details open>
     <summary><b>Getting Started with Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4864,7 +4864,7 @@ xx/04/2023
 - Booting a Kali ISO Image in Live Mode <br/>
 <hr width=25%;> 
 </details> <!-- END: Getting Started with Kali Linux -->
-<details close>
+<details open>
     <summary><b>Linux Fundamentals &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4881,7 +4881,7 @@ xx/04/2023
 - Useful Commands <br/>
 <hr width=25%;> 
 </details> <!-- END: Linux Fundamental -->
-<details close>
+<details open>
     <summary><b>Installing Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4899,7 +4899,7 @@ xx/04/2023
 - Troubleshooting Installations <br/>
 <hr width=25%;> 
 </details> <!-- END: Installing Kali Linux -->
-<details close>
+<details open>
     <summary><b>Configuring Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4916,7 +4916,7 @@ xx/04/2023
 - Managing Services <br/>
 <hr width=25%;> 
 </details> <!-- END: Configuring Kali Linux -->
-<details close>
+<details open>
     <summary><b>Helping Yourself and Getting Help &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4932,7 +4932,7 @@ xx/04/2023
 - Filing a Good Bug Report  <br/>
 <hr width=25%;> 
 </details> <!-- END: Helping Yourself and Getting Help -->
-<details close>
+<details open>
     <summary><b>Securing and Monitoring Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4950,7 +4950,7 @@ xx/04/2023
 - Monitoring and Logging  <br/>
 <hr width=25%;> 
 </details> <!-- END: Securing and Monitoring Kali Linux -->
-<details close>
+<details open>
     <summary><b>Debian Package Management &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
