@@ -4824,11 +4824,11 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-11/07/2023
+16/07/2023
 "update repository pen-103 ./klr - Kali Linux Revealed"
 -->
 
-- Kali Linux Revealed <br/>
+- Kali Linux Revealed &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Kali Linux Revealed -->
 <details close>
