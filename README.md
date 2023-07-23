@@ -4815,7 +4815,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b>PEN-103 &#x21A9;</b></summary><br/>
 <details open>
     <summary><b>Kali Linux Revealed &#x21A9;</b></summary>
@@ -5065,10 +5065,10 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b>PEN-210 &#x21A9;</b></summary><br/>
 
-<details open>
+<details close>
     <summary><b>IEEE 802.11 &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5084,7 +5084,7 @@ xx/04/2023
 - Antenna Diversity vs MIMO &#x1F4DC; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Wireless Networks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5147,6 +5147,26 @@ xx/04/2023
 <hr width=25%;> 
 </details>
 </details> <!-- PEN-210 -->
+<details open>
+    <summary><b> Aircrack-ng Essentials &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+23/07/2023
+"update repository ./osw - PEN-210 - Aircrack-ng Essentials"
+-->
+ 
+- Airmon-ng &#x1F3A5; <br/>
+- Airodump-ng &#x1F3A5; <br/>
+- Aireplay-ng &#x1F3A5; <br/>
+- Aircrack-ng &#x1F3A5; <br/>
+- Airdecap-ng &#x1F3A5; <br/>
+- Airgraph-ng &#x1F3A5; <br/>
+<hr width=25%;> 
+</details>
+</details> <!-- PEN-210 -->
 
 <hr width=33%;> <!-- -->
 
@@ -5165,6 +5185,7 @@ xx/04/2023
 - &#x1F23A; Open for Business / &#x1F6A7;
 - &#x1F232; Prohibited / Low Priority
 - &#x1F52C; Walkthrough / Practice
+- &#x1F3A5; Video / Walkthrough
 - &#x1F513; Read / Review / Skim &#x2B55;
 - &#x1F4DC; Non-interactive / Theory
 - &#x1F512; Live Lab Completed (1st)  
