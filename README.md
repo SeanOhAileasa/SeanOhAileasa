@@ -25,6 +25,7 @@
 | &nbsp;&nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/verify-certificate?id=ba1fd57e1ab75c5e0ee149a04f290ccad108cb2f&k=191528b51e3f4ca49b88c3dc1ba64c91) ]<br/>Cyber Threat Intelligence 101<br/>Foundation Level Certification<br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/badge.jpg?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/101-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``pen-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-100``](https://portal.offsec.com/courses/pen-100) ] | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec/pen-100.png?raw=true)](https://www.credential.net/3e423f08-1915-447d-a38b-066112aeda2e) |
 | &nbsp;&nbsp;&nbsp;``klr-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-103``](https://portal.offsec.com/courses/pen-103) ] | &#x274C; |
+| &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-200``](https://portal.offsec.com/courses/pen-200) ] | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``soc-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``SOC-100``](https://portal.offsec.com/courses/soc-100) ] | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``web-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``WEB-100``](https://portal.offsec.com/courses/web-100) ] | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``azs-``&nbsp;&nbsp; | [ [Altered Security](https://www.alteredsecurity.com/) ]<br/>[ [``Azure Penetration Testing``](https://github.com/SeanOhAileasa/azs-introduction-to-azure-penetration-testing/blob/main/README.md) ]<br/>Credit: Nikhil Mittal | &#x274C; |
@@ -4971,6 +4972,25 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
+<details open>
+    <summary><b>PEN-200 &#x21A9;</b></summary><br/>
+<details open>
+    <summary><b>Information Gathering &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+29/07/2023
+"add repository pen-200 ./osc" 
+-->
+
+<hr width=25%;> 
+</details> <!-- END: ___ -->
+</details> <!-- END - PEN-200 -->
+
+<hr width=33%;> <!-- -->
+
 <details close>
     <summary><b>WEB-100 &#x21A9;</b></summary><br/>
 
@@ -5065,7 +5085,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b>PEN-210 &#x21A9;</b></summary><br/>
 
 <details close>
@@ -5146,9 +5166,13 @@ xx/04/2023
 &#x1F23A;
 <hr width=25%;> 
 </details>
-</details> <!-- PEN-210 -->
+<<<<<<< HEAD
 <details open>
-    <summary><b> Aircrack-ng Essentials &#x21A9;</b></summary>
+=======
+</details> <!-- PEN-210 -->
+<details close>
+>>>>>>> 8fa9c4cf74a31a3a56a748c56197d7beb9ca5cc5
+    <summary><b>Aircrack-ng Essentials &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
@@ -5164,6 +5188,32 @@ xx/04/2023
 - Aircrack-ng &#x1F3A5; <br/>
 - Airdecap-ng &#x1F3A5; <br/>
 - Airgraph-ng &#x1F3A5; <br/>
+<hr width=25%;> 
+</details>
+<details open>
+    <summary><b>Cracking Authentication Hashes &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+<<<<<<< HEAD
+23/07/2023
+"update repository ./osw - PEN-210 - Cracking Authentication Hashes"
+-->
+
+- Aircrack-ng Suite &#x1F3A5; <br/>
+- Custom Wordlists with Aircrack-ng &#x1F3A5; <br/>
+- Hashcat &#x1F3A5; <br/>
+- Airolib-ng &#x1F3A5; <br/>
+- coWPAtty &#x1F3A5; <br/>
+=======
+28/07/2023
+"update repository ./osw - PEN-210 - Cracking Authentication Hashes - Aircrack-ng Suite"
+-->
+ 
+- Aircrack-ng Suite &#x1F3A5; <br/>
+>>>>>>> 8fa9c4cf74a31a3a56a748c56197d7beb9ca5cc5
 <hr width=25%;> 
 </details>
 </details> <!-- PEN-210 -->
