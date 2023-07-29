@@ -4985,11 +4985,12 @@ xx/04/2023
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 29/07/2023
-"update repository pen-200 ./osc - Information Gathering - Passive Information Gathering (Whois Enumeration)"
+"update repository pen-200 ./osc - Information Gathering - Passive Information Gathering (Google Hacking)"
 -->
 
 - Passive Information Gathering &#x1F3A5; <br/>
 	- Whois Enumeration &#x1F52C; (4) &#x2705; <br/>
+	- Google Hacking &#x1F52C; (3) &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Information Gathering -->
 </details> <!-- END - PEN-200 -->
