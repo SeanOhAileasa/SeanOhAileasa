@@ -4938,6 +4938,7 @@ xx/04/2023
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
+&#x2705; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 11/07/2023
@@ -4979,14 +4980,18 @@ xx/04/2023
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x2705; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
 29/07/2023
-"add repository pen-200 ./osc" 
+"update repository pen-200 ./osc - Information Gathering - Passive Information Gathering (Whois Enumeration)"
 -->
 
+- Passive Information Gathering &#x1F3A5; <br/>
+	- Whois Enumeration &#x1F52C; (4) &#x2705; <br/>
 <hr width=25%;> 
-</details> <!-- END: ___ -->
+</details> <!-- END: Information Gathering -->
 </details> <!-- END - PEN-200 -->
 
 <hr width=33%;> <!-- -->
