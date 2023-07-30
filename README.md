@@ -4985,7 +4985,7 @@ xx/04/2023
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 30/07/2023
-"update repository pen-200 ./osc - Information Gathering - Active Information Gathering (DNS Enumeration)"
+"update repository pen-200 ./osc - Information Gathering - Active Information Gathering (TCP/UDP Port Scanning Theory)"
 -->
 
 - Passive Information Gathering &#x1F3A5; <br/>
@@ -4997,6 +4997,7 @@ xx/04/2023
 	- Security Headers and SSL/TLS &#x1F52C; (-) &#x2705; <br/>
 - Active Information Gathering &#x1F3A5; <br/>
 	- DNS Enumeration &#x1F52C; (4/4) &#x2705; <br/>
+	- TCP/UDP Port Scanning Theory &#x1F52C; (2/3) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Information Gathering -->
 </details> <!-- END - PEN-200 -->
