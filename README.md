@@ -5039,12 +5039,12 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 05/08/2023
-"update repository web-100 ./web-100 - Introduction to Burp Suite Browser and Integration" 
+"update repository web-100 ./web-100 - Introduction to Burp Suite Browser and Integration - Proxy and Scope" 
 -->
 
 - Browser and Integration &#x1F52C; <u> (1/1) </u> &#x2705; ``/5`` <br/>
+- Proxy and Scope &#x1F52C; <u>(1/1)</u> &#x2705; <br/>
 <!--
-- Proxy and Scope &#x1F52C; <u>(/)</u> &#x1F4DC; <br/>
 - Core Burp Suite Tools and Tabs &#x1F52C; <u>(/)</u> &#x1F4DC; <br/>
 - Professional Features &#x1F52C; <u>(/)</u> &#x1F4DC; <br/>
 -->
