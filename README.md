@@ -4973,7 +4973,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b>PEN-200 &#x21A9;</b></summary><br/>
 <details open>
     <summary><b>Information Gathering &#x21A9;</b></summary>
@@ -5007,7 +5007,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b>WEB-100 &#x21A9;</b></summary><br/>
 
 <details open>
@@ -5031,6 +5031,25 @@ xx/04/2023
 - JavaScript APIs, Documentation, and "How to Research" &#x1F52C; <u> (2/2) </u> &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: JavaScript Basics -->
+<details open>
+    <summary><b>Introduction to Burp Suite &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+05/08/2023
+"update repository web-100 ./web-100 - Introduction to Burp Suite Browser and Integration" 
+-->
+
+- Browser and Integration &#x1F52C; <u> (1/1) </u> &#x2705; ``/5`` <br/>
+<!--
+- Proxy and Scope &#x1F52C; <u>(/)</u> &#x1F4DC; <br/>
+- Core Burp Suite Tools and Tabs &#x1F52C; <u>(/)</u> &#x1F4DC; <br/>
+- Professional Features &#x1F52C; <u>(/)</u> &#x1F4DC; <br/>
+-->
+<hr width=25%;> 
+</details> <!-- END: Introduction to Burp Suite -->
 </details> <!-- WEB-100 -->
 
 <hr width=33%;> <!-- -->
