@@ -5085,7 +5085,7 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 06/08/2023
-"update repository soc-100 ./soc-100 - SOC Management Processes - The SOC and the ISMS"
+"update repository soc-100 ./soc-100 - SOC Management Processes"
 -->
 
 - The SOC and the ISMS &#x1F52C; <u> (2/2) </u> &#x2705; ``/21`` <br/>
