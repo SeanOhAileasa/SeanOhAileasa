@@ -5064,8 +5064,8 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-11/06/2023
-"update repository soc-100 ./soc-100 - Enterprise Network Architecture - How Enterprise Data is Stored"
+06/08/2023
+"update repository soc-100 ./soc-100 - Enterprise Network Architecture"
 -->
 
 - Understanding Enterprise Network Architecture &#x1F52C; <u> (9/9) </u> &#x2705; ``/36`` <br/>
@@ -5074,7 +5074,7 @@ xx/04/2023
 - Networking and Big Iron &#x1F52C; <u> (0/0) </u> &#x2705; <br/>
 - Identity and Access Management &#x1F52C; <u> (6/6) </u> &#x2705; <br/>
 - Enterprise Network Defenses &#x1F52C; <u> (5/5) </u> &#x2705; <br/>
-- How Enterprise Data is Stored &#x1F52C; <u> (/6) </u> &#x2B55; <br/>
+- How Enterprise Data is Stored &#x1F52C; <u> (6/6) </u> &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <details open>
