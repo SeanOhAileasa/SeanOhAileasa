@@ -4816,7 +4816,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b>PEN-103 &#x21A9;</b></summary><br/>
 <details open>
     <summary><b>Kali Linux Revealed &#x21A9;</b></summary>
@@ -4872,11 +4872,11 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-18/06/2023
-"update repository pen-103 ./klr - Linux Fundamentals"
+06/08/2023
+"update repository pen-103 ./klr - Linux Fundamentals - What Is Linux and What Is It Doing?"
 -->
 
-- What Is Linux and What Is It Doing? <br/>
+- What Is Linux and What Is It Doing? &#x2705; <br/>
 - The Command Line <br/>
 - The File System <br/>
 - Useful Commands <br/>
@@ -5007,7 +5007,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b>WEB-100 &#x21A9;</b></summary><br/>
 
 <details open>
@@ -5201,12 +5201,9 @@ xx/04/2023
 &#x1F23A;
 <hr width=25%;> 
 </details>
-<<<<<<< HEAD
 <details open>
-=======
 </details> <!-- PEN-210 -->
 <details close>
->>>>>>> 8fa9c4cf74a31a3a56a748c56197d7beb9ca5cc5
     <summary><b>Aircrack-ng Essentials &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5232,23 +5229,17 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-<<<<<<< HEAD
 23/07/2023
 "update repository ./osw - PEN-210 - Cracking Authentication Hashes"
+"update repository ./osw - PEN-210 - Cracking Authentication Hashes - Aircrack-ng Suite"
 -->
 
 - Aircrack-ng Suite &#x1F3A5; <br/>
 - Custom Wordlists with Aircrack-ng &#x1F3A5; <br/>
 - Hashcat &#x1F3A5; <br/>
 - Airolib-ng &#x1F3A5; <br/>
-- coWPAtty &#x1F3A5; <br/>
-=======
-28/07/2023
-"update repository ./osw - PEN-210 - Cracking Authentication Hashes - Aircrack-ng Suite"
--->
- 
+- coWPAtty &#x1F3A5; <br/> 
 - Aircrack-ng Suite &#x1F3A5; <br/>
->>>>>>> 8fa9c4cf74a31a3a56a748c56197d7beb9ca5cc5
 <hr width=25%;> 
 </details>
 </details> <!-- PEN-210 -->
