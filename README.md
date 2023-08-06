@@ -5054,7 +5054,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b>SOC-100 &#x21A9;</b></summary><br/>
 
 <details open>
@@ -5084,11 +5084,11 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-11/06/2023
-"update repository soc-100 ./soc-100 - SOC Management Processes"
+06/08/2023
+"update repository soc-100 ./soc-100 - SOC Management Processes - The SOC and the ISMS"
 -->
 
-- The SOC and the ISMS &#x1F52C; <u> (2/2) </u> &#x1F6A7; ``/21`` <br/>
+- The SOC and the ISMS &#x1F52C; <u> (2/2) </u> &#x2705; ``/21`` <br/>
 - Monitoring and Incident Response &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
 - Operational Security Assurance &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
 - Security Administration &#x1F52C; <u> (/) </u> &#x1F6A7; <br/>
