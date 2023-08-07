@@ -5414,6 +5414,24 @@ xx/04/2023
 - Gaining Access to the Domain Controller &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Assembling the Pieces -->
+<details open>
+    <summary><b>Challenge Labs &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-200 ./osc - Challenge Labs"
+-->
+
+- PWK Challenge Lab Overview &#x1F52C; (/) &#x1F6A7; <br/>
+- Challenge Lab Details &#x1F52C; (/) &#x1F6A7; <br/>
+- The OSCP Exam Information &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Challenge Labs -->
 
 <hr width=33%;> <!-- -->
 
