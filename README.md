@@ -5134,6 +5134,24 @@ xx/04/2023
 - Fixing Web Exploits &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Fixing Exploits -->
+<details open>
+    <summary><b>Antivirus Evasion &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-200 ./osc - Antivirus Evasion"
+-->
+
+- Antivirus Software Key Components and Operations &#x1F52C; (/) &#x1F6A7; <br/>
+- Bypassing Antivirus Detections &#x1F52C; (/) &#x1F6A7; <br/>
+- AV Evasion in Practice &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Antivirus Evasion -->
 
 <hr width=33%;> <!-- -->
 
