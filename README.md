@@ -5005,6 +5005,24 @@ xx/04/2023
 	- SNMP Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Information Gathering -->
+<details open>
+    <summary><b>Vulnerability Scanning &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-200 ./osc - Vulnerability Scanning"
+-->
+
+- Vulnerability Scanning Theory &#x1F52C; (/) &#x1F6A7; <br/>
+- Vulnerability Scanning with Nessus &#x1F52C; (/) &#x1F6A7; <br/>
+- Vulnerability Scanning with Nmap &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Information Gathering -->
 </details> <!-- END - PEN-200 -->
 
 <hr width=33%;> <!-- -->
