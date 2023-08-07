@@ -4872,12 +4872,12 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-06/08/2023
-"update repository pen-103 ./klr - Linux Fundamentals - What Is Linux and What Is It Doing?"
+07/08/2023
+"update repository pen-103 ./klr - Linux Fundamentals - The Command Line"
 -->
 
 - What Is Linux and What Is It Doing? &#x2705; <br/>
-- The Command Line <br/>
+- The Command Line &#x2705; <br/>
 - The File System <br/>
 - Useful Commands <br/>
 <hr width=25%;> 
