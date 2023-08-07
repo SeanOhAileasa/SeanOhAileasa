@@ -5170,6 +5170,24 @@ xx/04/2023
 - Working with Password Hashes &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Password Attacks -->
+<details open>
+    <summary><b>Windows Privilege Escalation &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-200 ./osc - Windows Privilege Escalation"
+-->
+
+- Enumerating Windows &#x1F52C; (/) &#x1F6A7; <br/>
+- Leveraging Windows Services &#x1F52C; (/) &#x1F6A7; <br/>
+- Abusing Other Windows Components &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Windows Privilege Escalation -->
 
 <hr width=33%;> <!-- -->
 
