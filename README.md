@@ -4985,7 +4985,7 @@ xx/04/2023
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 07/08/2023
-"update repository pen-200 ./osc - Information Gathering"
+"update repository pen-200 ./osc - Information Gathering - Fix (img)"
 -->
 
 - Passive Information Gathering &#x1F3A5; <br/>
