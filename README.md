@@ -5117,6 +5117,23 @@ xx/04/2023
 - 12.4. Exploiting a Target &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Locating Public Exploits -->
+<details open>
+    <summary><b>Fixing Exploits &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-200 ./osc - Fixing Exploits"
+-->
+
+- Fixing Memory Corruption Exploits &#x1F52C; (/) &#x1F6A7; <br/>
+- Fixing Web Exploits &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Fixing Exploits -->
 
 <hr width=33%;> <!-- -->
 
