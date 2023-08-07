@@ -4976,6 +4976,27 @@ xx/04/2023
 <details open>
     <summary><b>PEN-200 &#x21A9;</b></summary><br/>
 <details open>
+    <summary><b>Introduction To Cybersecurity  &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-200 ./osc - Introduction To Cybersecurity"
+-->
+
+- The Practice of Cybersecurity &#x1F52C; (/) &#x1F6A7; <br/>
+- Threats and Threat Actors &#x1F52C; (/) &#x1F6A7; <br/>
+- The CIA Triad &#x1F52C; (/) &#x1F6A7; <br/>
+- Security Principles, Controls, and Strategies &#x1F52C; (/) &#x1F6A7; <br/>
+- Cybersecurity Laws, Regulations, Standards, and Frameworks &#x1F52C; (/) &#x1F6A7; <br/>
+- Career Opportunities in Cybersecurity &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Introduction To Cybersecurity  -->    
+<details open>
     <summary><b>Effective Learning Strategies &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
