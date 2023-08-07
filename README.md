@@ -4969,6 +4969,26 @@ xx/04/2023
 - APT Package Reference: Digging Deeper into the Debian Package System <br/>
 <hr width=25%;> 
 </details> <!-- END: Debian Package Management -->
+<details open>
+    <summary><b>Advanced Usage &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-103 ./klr - Advanced Usage"
+-->
+
+- 10.1. Modifying Kali Packages &#x1F52C; (/) &#x1F6A7; <br/>
+- 10.2. Recompiling the Linux Kernel &#x1F52C; (/) &#x1F6A7; <br/>
+- 10.3. Building Custom Kali Live ISO Images &#x1F52C; (/) &#x1F6A7; <br/>
+- 10.4. Adding Persistence to the Live ISO with a USB Key &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Advanced Usage -->
+
 </details> <!-- END - PEN-103 -->
 
 <hr width=33%;> <!-- -->
@@ -5139,7 +5159,6 @@ xx/04/2023
 - Command Injection &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Common Web Application Attacks -->
-</details> <!-- END - PEN-200 -->
 <details open>
     <summary><b>SQL Injection Attacks &#x21A9;</b></summary>
 <!--
@@ -5432,6 +5451,8 @@ xx/04/2023
 - The OSCP Exam Information &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Challenge Labs -->
+
+</details> <!-- END - PEN-200 -->
 
 <hr width=33%;> <!-- -->
 
