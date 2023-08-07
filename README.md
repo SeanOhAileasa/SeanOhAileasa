@@ -5262,6 +5262,25 @@ xx/04/2023
 - Automating Metasploit &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: The Metasploit Framework -->
+<details open>
+    <summary><b>Active Directory Introduction and Enumeration &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-200 ./osc - Active Directory Introduction and Enumeration"
+-->
+
+- Active Directory - Introduction &#x1F52C; (/) &#x1F6A7; <br/>
+- Active Directory - Manual Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
+- Manual Enumeration - Expanding our Repertoire &#x1F52C; (/) &#x1F6A7; <br/>
+- Active Directory - Automated Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Active Directory Introduction and Enumeration -->
 
 <hr width=33%;> <!-- -->
 
