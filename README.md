@@ -5022,7 +5022,26 @@ xx/04/2023
 - Vulnerability Scanning with Nessus &#x1F52C; (/) &#x1F6A7; <br/>
 - Vulnerability Scanning with Nmap &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
-</details> <!-- END: Information Gathering -->
+</details> <!-- END: Vulnerability Scanning -->
+<details open>
+    <summary><b>Introduction to Web Application Attacks &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-200 ./osc - Introduction to Web Application Attacks"
+-->
+
+- Web Application Assessment Methodology &#x1F52C; (/) &#x1F6A7; <br/>
+- Web Application Assessment Tools &#x1F52C; (/) &#x1F6A7; <br/>
+- Web Application Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
+- Cross-Site Scripting &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Introduction to Web Application Attacks -->
 </details> <!-- END - PEN-200 -->
 
 <hr width=33%;> <!-- -->
