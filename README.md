@@ -5226,6 +5226,23 @@ xx/04/2023
 - Port Forwarding with Windows Tools &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Port Redirection and SSH Tunneling -->
+<details open>
+    <summary><b>Tunneling Through Deep Packet Inspection &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-200 ./osc - Tunneling Through Deep Packet Inspection"
+-->
+
+- HTTP Tunneling Theory and Practice &#x1F52C; (/) &#x1F6A7; <br/>
+- DNS Tunneling Theory and Practice &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Tunneling Through Deep Packet Inspection -->
 
 <hr width=33%;> <!-- -->
 
