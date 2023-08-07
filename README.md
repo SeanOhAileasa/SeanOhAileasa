@@ -5080,6 +5080,24 @@ xx/04/2023
 - 10.3. Manual and Automated Code Execution &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: SQL Injection Attacks -->
+<details open>
+    <summary><b>Client-side Attacks &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-200 ./osc - Client-side Attacks"
+-->
+
+- Target Reconnaissance &#x1F52C; (/) &#x1F6A7; <br/>
+- Exploiting Microsoft Office &#x1F52C; (/) &#x1F6A7; <br/>
+- Abusing Windows Library Files &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Client-side Attacks -->
 
 <hr width=33%;> <!-- -->
 
