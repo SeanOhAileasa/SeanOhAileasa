@@ -4976,6 +4976,23 @@ xx/04/2023
 <details open>
     <summary><b>PEN-200 &#x21A9;</b></summary><br/>
 <details open>
+    <summary><b>Report Writing for Penetration Testers &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-200 ./osc - Report Writing for Penetration Testers"
+-->
+
+- Understanding Note-Taking &#x1F52C; (/) &#x1F6A7; <br/>
+- Writing Effective Technical Penetration Testing Reports &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Report Writing for Penetration Testers -->    
+<details open>
     <summary><b>Information Gathering &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
