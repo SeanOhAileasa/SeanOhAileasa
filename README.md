@@ -4988,6 +4988,24 @@ xx/04/2023
 - 10.4. Adding Persistence to the Live ISO with a USB Key &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Advanced Usage -->
+<details open>
+    <summary><b>Kali Linux in the Enterprise &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-103 ./klr - Kali Linux in the Enterprise"
+-->
+
+- Installing Kali Linux Over the Network (PXE Boot) &#x1F52C; (/) &#x1F6A7; <br/>
+- Leveraging Configuration Management &#x1F52C; (/) &#x1F6A7; <br/>
+- Extending and Customizing Kali Linux &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Kali Linux in the Enterprise -->
 
 </details> <!-- END - PEN-103 -->
 
