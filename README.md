@@ -5042,6 +5042,25 @@ xx/04/2023
 - Cross-Site Scripting &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Web Application Attacks -->
+<details open>
+    <summary><b>Common Web Application Attacks &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority 
+&#x1F4DC; Theory
+&#x2705; Video
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+&#x1F52C; Lab
+07/08/2023
+"update repository pen-200 ./osc - Common Web Application Attacks"
+-->
+
+- Directory Traversal &#x1F52C; (/) &#x1F6A7; <br/>
+- File Inclusion Vulnerabilities &#x1F52C; (/) &#x1F6A7; <br/>
+- File Upload Vulnerabilities &#x1F52C; (/) &#x1F6A7; <br/>
+- Command Injection &#x1F52C; (/) &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Common Web Application Attacks -->
 </details> <!-- END - PEN-200 -->
 
 <hr width=33%;> <!-- -->
