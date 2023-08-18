@@ -1,4 +1,4 @@
-<details close> 
+<details open> 
 	<summary><h3>'22/'23 Cybersecurity&nbsp;&nbsp;&#x21A9;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
@@ -26,7 +26,7 @@
 | &nbsp;&nbsp;&nbsp;``pen-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-100``](https://portal.offsec.com/courses/pen-100) ] | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec/pen-100.png?raw=true)](https://www.credential.net/3e423f08-1915-447d-a38b-066112aeda2e) |
 | &nbsp;&nbsp;&nbsp;``klr-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-103``](https://portal.offsec.com/courses/pen-103) ] | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``osc-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-200``](https://portal.offsec.com/courses/pen-200) ] | &#x274C; |
-| &nbsp;&nbsp;&nbsp;``soc-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``SOC-100``](https://portal.offsec.com/courses/soc-100) ] | &#x274C; |
+| &nbsp;&nbsp;&nbsp;``soc-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``SOC-100``](https://portal.offsec.com/courses/soc-100) ] | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec/soc-100.png?raw=true)](https://www.credential.net/e283c036-c014-4edc-851e-b77ef6d1f0f3#gs.40vr8r) |
 | &nbsp;&nbsp;&nbsp;``web-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``WEB-100``](https://portal.offsec.com/courses/web-100) ] | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``azs-``&nbsp;&nbsp; | [ [Altered Security](https://www.alteredsecurity.com/) ]<br/>[ [``Azure Penetration Testing``](https://github.com/SeanOhAileasa/azs-introduction-to-azure-penetration-testing/blob/main/README.md) ]<br/>Credit: Nikhil Mittal | &#x274C; |
 | &nbsp;&nbsp;&nbsp;``osw-``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-210``](https://portal.offsec.com/courses/pen-210) ] | &#x274C; |
@@ -5560,7 +5560,7 @@ xx/04/2023
 
 <details close>
     <summary><b>SOC-100 &#x21A9;</b></summary><br/>
-
+<!-- "OffSec SOC-100 - Status: Pass." -->
 <details open>
     <summary><b>Enterprise Network Architecture &#x21A9;</b></summary>
 <!--
