@@ -1,4 +1,4 @@
-<details open> 
+<details close> 
 	<summary><h3>'22/'23 Cybersecurity&nbsp;&nbsp;&#x21A9;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
@@ -4816,7 +4816,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b>PEN-103 &#x21A9;</b></summary><br/>
 <details open>
     <summary><b>Kali Linux Revealed &#x21A9;</b></summary>
@@ -5048,7 +5048,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b>PEN-200 &#x21A9;</b></summary><br/>
 <details open>
     <summary><b>Penetration Testing with Kali Linux &#x21A9;</b></summary>
