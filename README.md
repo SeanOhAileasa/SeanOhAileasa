@@ -4818,29 +4818,29 @@ xx/04/2023
 
 <details close>
     <summary><b>PEN-103 &#x21A9;</b></summary><br/>
-<details open>
+<details close>
     <summary><b>Kali Linux Revealed &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-16/07/2023
-"update repository pen-103 ./klr - Kali Linux Revealed"
+13/08/2023 - PT
+"update repository pen-103 ./klr - Kali Linux Revealed - About Kali Linux - Getting Started with Kali Linux - Linux Fundamentals - Installing Kali Linux"
 -->
 
 - Kali Linux Revealed &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Kali Linux Revealed -->
-<details open>
+<details close>
     <summary><b>About Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-16/07/2023
-"update repository pen-103 ./klr - About Kali Linux"
+13/08/2023 - PT
+"update repository pen-103 ./klr - Kali Linux Revealed - About Kali Linux - Getting Started with Kali Linux - Linux Fundamentals - Installing Kali Linux"
 -->
 
 - A Bit of History &#x2705; <br/>
@@ -4850,54 +4850,54 @@ xx/04/2023
 - Kali Linux Policies &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: About Kali Linux -->
-<details open>
+<details close>
     <summary><b>Getting Started with Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-11/07/2023
-"update repository pen-103 ./klr - Getting Started with Kali Linux"
+13/08/2023 - PT
+"update repository pen-103 ./klr - Kali Linux Revealed - About Kali Linux - Getting Started with Kali Linux - Linux Fundamentals - Installing Kali Linux"
 -->
 
-- Downloading a Kali ISO Image <br/>
-- Booting a Kali ISO Image in Live Mode <br/>
+- Downloading a Kali ISO Image &#x2705; <br/>
+- Booting a Kali ISO Image in Live Mode &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Getting Started with Kali Linux -->
-<details open>
+<details close>
     <summary><b>Linux Fundamentals &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-07/08/2023
-"update repository pen-103 ./klr - Linux Fundamentals - The Command Line"
+13/08/2023 - PT
+"update repository pen-103 ./klr - Kali Linux Revealed - About Kali Linux - Getting Started with Kali Linux - Linux Fundamentals - Installing Kali Linux"
 -->
 
 - What Is Linux and What Is It Doing? &#x2705; <br/>
 - The Command Line &#x2705; <br/>
-- The File System <br/>
-- Useful Commands <br/>
+- The File System &#x2705; <br/>
+- Useful Commands &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Linux Fundamental -->
-<details open>
+<details close>
     <summary><b>Installing Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-18/06/2023
-"update repository pen-103 ./klr - Installing Kali Linux"
+13/08/2023 - PT
+"update repository pen-103 ./klr - Kali Linux Revealed - About Kali Linux - Getting Started with Kali Linux - Linux Fundamentals - Installing Kali Linux"
 -->
 
-- Minimal Installation Requirements <br/>
-- Step-by-Step Installation on a Hard Drive <br/>
-- Unattended Installations <br/>
-- ARM Installations <br/>
-- Troubleshooting Installations <br/>
+- Minimal Installation Requirements &#x2705; <br/>
+- Step-by-Step Installation on a Hard Drive &#x2705; <br/>
+- Unattended Installations &#x2705; <br/>
+- ARM Installations &#x2705; <br/>
+- Troubleshooting Installations &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Installing Kali Linux -->
 <details open>
