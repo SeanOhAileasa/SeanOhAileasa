@@ -4818,7 +4818,7 @@ xx/04/2023
 
 <details close>
     <summary><b>PEN-103 &#x21A9;</b></summary><br/>
-<details open>
+<details close>
     <summary><b>Kali Linux Revealed &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4857,8 +4857,8 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-13/08/2023 - PT
-"update repository pen-103 ./klr - Kali Linux Revealed - About Kali Linux - Getting Started with Kali Linux - Linux Fundamentals - Installing Kali Linux"
+20/08/2023
+"update repository pen-103 ./klr - Getting Started with Kali Linux - Summary"
 -->
 
 - Downloading a Kali ISO Image &#x2705; <br/>
@@ -5020,7 +5020,7 @@ xx/04/2023
 -->
 
 - Kali Linux in an Assessment &#x2705; <br/>
-- Types of Assessments &#&#x2705; <br/>
+- Types of Assessments &#x2705; <br/>
 - Formalization of the Assessment &#x2705; <br/>
 - Types of Attacks &#x2705; <br/>
 <hr width=25%;> 
