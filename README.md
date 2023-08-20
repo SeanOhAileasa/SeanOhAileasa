@@ -4959,12 +4959,12 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-11/07/2023
-"update repository pen-103 ./klr - Debian Package Management"
+20/08/2023
+"update repository pen-103 ./klr - Debian Package Management - Introduction to APT - Basic Package Interaction"
 -->
 
-- Introduction to APT <br/>
-- Basic Package Interaction <br/>
+- Introduction to APT &#x2705; <br/>
+- Basic Package Interaction &#x2705; <br/>
 - Advanced APT Configuration and Usage <br/>
 - APT Package Reference: Digging Deeper into the Debian Package System <br/>
 <hr width=25%;> 
@@ -5006,7 +5006,7 @@ xx/04/2023
 - Extending and Customizing Kali Linux &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Kali Linux in the Enterprise -->
-<details open>
+<details close>
     <summary><b>Introduction to Security Assessments &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
