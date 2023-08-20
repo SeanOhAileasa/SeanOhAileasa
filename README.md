@@ -4997,13 +4997,13 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-07/08/2023
-"update repository pen-103 ./klr - Kali Linux in the Enterprise"
+20/08/2023
+"update repository pen-103 ./klr - Kali Linux in the Enterprise - Installing Kali Linux Over the Network [PXE Boot]"
 -->
 
-- Installing Kali Linux Over the Network (PXE Boot) &#x1F52C; (/) &#x1F6A7; <br/>
-- Leveraging Configuration Management &#x1F52C; (/) &#x1F6A7; <br/>
-- Extending and Customizing Kali Linux &#x1F52C; (/) &#x1F6A7; <br/>
+- Installing Kali Linux Over the Network (PXE Boot) &#x2705; <br/>
+- Leveraging Configuration Management <br/>
+- Extending and Customizing Kali Linux <br/>
 <hr width=25%;> 
 </details> <!-- END: Kali Linux in the Enterprise -->
 <details close>
