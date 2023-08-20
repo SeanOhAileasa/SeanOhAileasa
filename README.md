@@ -4960,7 +4960,7 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 20/08/2023
-"update repository pen-103 ./klr - Debian Package Management - APT Package Reference: Digging Deeper into the Debian Package System"
+"update repository pen-103 ./klr - Debian Package Management - Summary"
 -->
 
 - Introduction to APT &#x2705; <br/>
@@ -4979,7 +4979,7 @@ xx/04/2023
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 20/08/2023
-"update repository pen-103 ./klr - Advanced Usage - Modifying Kali Packages"
+"update repository pen-103 ./klr - Summary"
 -->
 
 - Modifying Kali Packages &#x2705; <br/>
@@ -4998,7 +4998,7 @@ xx/04/2023
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 20/08/2023
-"update repository pen-103 ./klr - Kali Linux in the Enterprise - Installing Kali Linux Over the Network [PXE Boot]"
+"update repository pen-103 ./klr - Summary"
 -->
 
 - Installing Kali Linux Over the Network (PXE Boot) &#x2705; <br/>
@@ -5016,7 +5016,7 @@ xx/04/2023
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 20/08/2023
-"update repository pen-103 ./klr - Introduction to Security Assessments"
+"update repository pen-103 ./klr - Summary"
 -->
 
 - Kali Linux in an Assessment &#x2705; <br/>
