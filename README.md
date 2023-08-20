@@ -5015,34 +5015,16 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-07/08/2023
+20/08/2023
 "update repository pen-103 ./klr - Introduction to Security Assessments"
 -->
 
-- Kali Linux in an Assessment &#x1F52C; (/) &#x1F6A7; <br/>
-- Types of Assessments &#x1F52C; (/) &#x1F6A7; <br/>
-- Formalization of the Assessment &#x1F52C; (/) &#x1F6A7; <br/>
-- Types of Attacks &#x1F52C; (/) &#x1F6A7; <br/>
+- Kali Linux in an Assessment &#x2705; <br/>
+- Types of Assessments &#&#x2705; <br/>
+- Formalization of the Assessment &#x2705; <br/>
+- Types of Attacks &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Security Assessments -->
-<details open>
-    <summary><b>Conclusion: The Road Ahead &#x21A9;</b></summary>
-<!--
-&#x2B55; Skim / Future Priority 
-&#x1F4DC; Theory
-&#x2705; Video
-&#x1F6A7; Work-in-Progress / WIP
-&#x2705; Semester / Topic Finished 
-&#x1F52C; Lab
-07/08/2023
-"update repository pen-103 ./klr - Conclusion: The Road Ahead"
--->
-
-- Keeping Up with Changes &#x1F52C; (/) &#x1F6A7; <br/>
-- Showing Off Your Newly Gained Knowledge &#x1F52C; (/) &#x1F6A7; <br/>
-- Going Further &#x1F52C; (/) &#x1F6A7; <br/>
-<hr width=25%;> 
-</details> <!-- END: Conclusion: The Road Ahead -->
 
 </details> <!-- END - PEN-103 -->
 
