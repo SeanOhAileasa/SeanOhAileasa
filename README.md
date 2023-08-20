@@ -4978,14 +4978,14 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-07/08/2023
-"update repository pen-103 ./klr - Advanced Usage"
+20/08/2023
+"update repository pen-103 ./klr - Advanced Usage - Modifying Kali Packages"
 -->
 
-- 10.1. Modifying Kali Packages &#x1F52C; (/) &#x1F6A7; <br/>
-- 10.2. Recompiling the Linux Kernel &#x1F52C; (/) &#x1F6A7; <br/>
-- 10.3. Building Custom Kali Live ISO Images &#x1F52C; (/) &#x1F6A7; <br/>
-- 10.4. Adding Persistence to the Live ISO with a USB Key &#x1F52C; (/) &#x1F6A7; <br/>
+- Modifying Kali Packages &#x2705; <br/>
+- Recompiling the Linux Kernel <br/>
+- Building Custom Kali Live ISO Images <br/>
+- Adding Persistence to the Live ISO with a USB Key <br/>
 <hr width=25%;> 
 </details> <!-- END: Advanced Usage -->
 <details open>
