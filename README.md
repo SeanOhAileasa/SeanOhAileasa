@@ -4933,7 +4933,7 @@ xx/04/2023
 - Filing a Good Bug Report  &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Helping Yourself and Getting Help -->
-<details open>
+<details close>
     <summary><b>Securing and Monitoring Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4941,15 +4941,15 @@ xx/04/2023
 &#x2705; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-11/07/2023
-"update repository pen-103 ./klr - Securing and Monitoring Kali Linux"
+20/08/2023
+"update repository pen-103 ./klr - Securing and Monitoring Kali Linux - Summary"
 -->
 
-- Defining a Security Policy <br/>
-- Possible Security Measures <br/>
-- Securing Network Services <br/>
-- Firewall or Packet Filtering <br/>
-- Monitoring and Logging  <br/>
+- Defining a Security Policy &#x2705; <br/>
+- Possible Security Measures &#x2705; <br/>
+- Securing Network Services &#x2705; <br/>
+- Firewall or Packet Filtering &#x2705; <br/>
+- Monitoring and Logging <br/>
 <hr width=25%;> 
 </details> <!-- END: Securing and Monitoring Kali Linux -->
 <details close>
