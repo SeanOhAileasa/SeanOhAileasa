@@ -4952,7 +4952,7 @@ xx/04/2023
 - Monitoring and Logging  <br/>
 <hr width=25%;> 
 </details> <!-- END: Securing and Monitoring Kali Linux -->
-<details open>
+<details close>
     <summary><b>Debian Package Management &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4960,13 +4960,13 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 20/08/2023
-"update repository pen-103 ./klr - Debian Package Management - Advanced APT Configuration and Usage"
+"update repository pen-103 ./klr - Debian Package Management - APT Package Reference: Digging Deeper into the Debian Package System"
 -->
 
 - Introduction to APT &#x2705; <br/>
 - Basic Package Interaction &#x2705; <br/>
 - Advanced APT Configuration and Usage &#x2705; <br/>
-- APT Package Reference: Digging Deeper into the Debian Package System <br/>
+- APT Package Reference: Digging Deeper into the Debian Package System &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Debian Package Management -->
 <details open>
