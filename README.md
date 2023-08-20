@@ -4925,7 +4925,7 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 20/08/2023
-"update repository pen-103 ./klr - Helping Yourself and Getting Help"
+"update repository pen-103 ./klr - Helping Yourself and Getting Help - Summary"
 -->
 
 - Documentation Sources &#x2705; <br/>
