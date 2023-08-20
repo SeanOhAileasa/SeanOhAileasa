@@ -4900,21 +4900,21 @@ xx/04/2023
 - Troubleshooting Installations &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Installing Kali Linux -->
-<details open>
+<details close>
     <summary><b>Configuring Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-10/07/2023
-"update repository pen-103 ./klr - Configuring Kali Linux"
+20/08/2023
+"update repository pen-103 ./klr - Configuring Kali Linux - Summary"
 -->
 
-- Configuring the Network  <br/>
-- Managing Unix Users and Unix Groups  <br/>
-- Configuring Services  <br/>
-- Managing Services <br/>
+- Configuring the Network &#x2705; <br/>
+- Managing Unix Users and Unix Groups &#x2705; <br/>
+- Configuring Services &#x2705; <br/>
+- Managing Services &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Configuring Kali Linux -->
 <details close>
