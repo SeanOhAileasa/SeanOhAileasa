@@ -4960,12 +4960,12 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 20/08/2023
-"update repository pen-103 ./klr - Debian Package Management - Introduction to APT - Basic Package Interaction"
+"update repository pen-103 ./klr - Debian Package Management - Advanced APT Configuration and Usage"
 -->
 
 - Introduction to APT &#x2705; <br/>
 - Basic Package Interaction &#x2705; <br/>
-- Advanced APT Configuration and Usage <br/>
+- Advanced APT Configuration and Usage &#x2705; <br/>
 - APT Package Reference: Digging Deeper into the Debian Package System <br/>
 <hr width=25%;> 
 </details> <!-- END: Debian Package Management -->
