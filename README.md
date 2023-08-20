@@ -1,7 +1,7 @@
 <details open> 
 	<summary><h3>'22/'23 Cybersecurity&nbsp;&nbsp;&#x21A9;</h3></summary>
 			  
-|**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[ [``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master) ]&nbsp;&nbsp;&nbsp;|
+|**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master)&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
 | &nbsp;&nbsp;&nbsp;``itf-``&nbsp;&nbsp; | CompTIA ITF+ |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
 | &nbsp;&nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+ <br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
@@ -4917,20 +4917,20 @@ xx/04/2023
 - Managing Services <br/>
 <hr width=25%;> 
 </details> <!-- END: Configuring Kali Linux -->
-<details open>
+<details close>
     <summary><b>Helping Yourself and Getting Help &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-10/07/2023
+20/08/2023
 "update repository pen-103 ./klr - Helping Yourself and Getting Help"
 -->
 
-- Documentation Sources <br/>
-- Kali Linux Communities <br/>
-- Filing a Good Bug Report  <br/>
+- Documentation Sources &#x2705; <br/>
+- Kali Linux Communities &#x2705; <br/>
+- Filing a Good Bug Report  &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Helping Yourself and Getting Help -->
 <details open>
