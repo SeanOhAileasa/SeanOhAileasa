@@ -4825,8 +4825,8 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-13/08/2023 - PT
-"update repository pen-103 ./klr - Kali Linux Revealed - About Kali Linux - Getting Started with Kali Linux - Linux Fundamentals - Installing Kali Linux"
+20/08/2023 - PT
+"update repository pen-103 ./klr - Kali Linux Revealed - Summary"
 -->
 
 - Kali Linux Revealed &#x2705; <br/>
