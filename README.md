@@ -4818,14 +4818,14 @@ xx/04/2023
 
 <details close>
     <summary><b>PEN-103 &#x21A9;</b></summary><br/>
-<details close>
+<details open>
     <summary><b>Kali Linux Revealed &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-20/08/2023 - PT
+20/08/2023
 "update repository pen-103 ./klr - Kali Linux Revealed - Summary"
 -->
 
@@ -4839,8 +4839,8 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-13/08/2023 - PT
-"update repository pen-103 ./klr - Kali Linux Revealed - About Kali Linux - Getting Started with Kali Linux - Linux Fundamentals - Installing Kali Linux"
+20/08/2023
+"update repository pen-103 ./klr - About Kali Linux - Summary"
 -->
 
 - A Bit of History &#x2705; <br/>
