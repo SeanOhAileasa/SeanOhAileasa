@@ -5041,6 +5041,10 @@ xx/04/2023
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
+git reset HEAD~
+git push -f origin HEAD^:master
+git reset HEAD~
+git push -f origin HEAD^:main 
 https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 07/08/2023
 "update repository pen-200 ./osc - Penetration Testing with Kali Linux"
@@ -5120,8 +5124,8 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-20/08/2023
-"update repository pen-200 ./osc - Information Gathering - Port Scanning with Nmap"
+21/08/2023
+"update repository pen-200 ./osc - Information Gathering - SMB Enumeration"
 -->
 
 - Passive Information Gathering &#x1F3A5; <br/>
@@ -5135,7 +5139,8 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- DNS Enumeration &#x1F52C; (4/4) &#x2705; <br/>
 	- TCP/UDP Port Scanning Theory &#x1F52C; (2/3) &#x1F6A7; <br/>
 	- Port Scanning with Nmap &#x1F52C; (5/5) &#x2705; <br/>
-	- SMB Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
+	- SMB Enumeration (3/3) &#x2705; <br/>
+	- SMTP Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
 	- SNMP Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Information Gathering -->
