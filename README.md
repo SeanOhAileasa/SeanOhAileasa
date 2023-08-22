@@ -5125,7 +5125,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 21/08/2023
-"update repository pen-200 ./osc - Information Gathering - SMB Enumeration"
+"update repository pen-200 ./osc - Information Gathering - SMTP Enumeration"
 -->
 
 - Passive Information Gathering &#x1F3A5; <br/>
@@ -5140,7 +5140,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- TCP/UDP Port Scanning Theory &#x1F52C; (2/3) &#x1F6A7; <br/>
 	- Port Scanning with Nmap &#x1F52C; (5/5) &#x2705; <br/>
 	- SMB Enumeration (3/3) &#x2705; <br/>
-	- SMTP Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
+	- SMTP Enumeration (1/1) &#x2705; <br/>
 	- SNMP Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Information Gathering -->
