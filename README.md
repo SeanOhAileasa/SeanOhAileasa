@@ -5154,13 +5154,14 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 21/08/2023
-"update repository pen-200 ./osc - Vulnerability Scanning - Performing a Vulnerability Scan"
+"update repository pen-200 ./osc - Vulnerability Scanning - Analyzing the Results"
 -->
 
 - Vulnerability Scanning Theory &#x1F52C; (/) &#x1F6A7; <br/>
 - Vulnerability Scanning with Nessus &#x1F52C; (/) &#x1F6A7; <br/>
 	- Nessus Components &#x1F52C; (/) &#x1F3A5;
 	- Performing a Vulnerability Scan &#x1F52C; (/) &#x1F3A5;
+	- Analyzing the Results &#x1F52C; (/) &#x1F3A5;
 - Vulnerability Scanning with Nmap &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Vulnerability Scanning -->
