@@ -5119,11 +5119,11 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
     <summary><b>Information Gathering &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
-&#x1F4DC; Theory
-&#x1F3A5; Video
-&#x1F6A7; Work-in-Progress / WIP
-&#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
+&#x1F6A7; Work-in-Progress / WIP
+&#x1F3A5; Video
+&#x1F4DC; Theory
+&#x2705; Semester / Topic Finished 
 21/08/2023
 "update repository pen-200 ./osc - Information Gathering - SNMP Enumeration"
 -->
@@ -5137,11 +5137,11 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Security Headers and SSL/TLS &#x1F52C; (-) &#x2705; <br/>
 - Active Information Gathering <br/>
 	- DNS Enumeration &#x1F52C; (4/4) &#x2705; <br/>
-	- TCP/UDP Port Scanning Theory &#x1F52C; (2/3) &#x1F6A7; <br/>
+	- TCP/UDP Port Scanning Theory &#x1F52C; (2/3) &#x2B55; <br/>
 	- Port Scanning with Nmap &#x1F52C; (5/5) &#x2705; <br/>
 	- SMB Enumeration &#x1F52C; (3/3) &#x2705; <br/>
 	- SMTP Enumeration &#x1F52C; (1/1) &#x2705; <br/>
-	- SNMP Enumeration &#x1F52C; (1/2) &#x1F6A7; <br/>
+	- SNMP Enumeration &#x1F52C; (1/2) &#x2B55; <br/>
 <hr width=25%;> 
 </details> <!-- END: Information Gathering -->
 <details open>
@@ -5149,16 +5149,17 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-07/08/2023
-"update repository pen-200 ./osc - Vulnerability Scanning"
+21/08/2023
+"update repository pen-200 ./osc - Vulnerability Scanning - Nessus Components"
 -->
 
 - Vulnerability Scanning Theory &#x1F52C; (/) &#x1F6A7; <br/>
 - Vulnerability Scanning with Nessus &#x1F52C; (/) &#x1F6A7; <br/>
+	- Nessus Components &#x1F52C; (/) &#x1F3A5;
 - Vulnerability Scanning with Nmap &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Vulnerability Scanning -->
@@ -5167,7 +5168,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5186,7 +5187,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5205,7 +5206,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5223,7 +5224,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5241,7 +5242,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5260,7 +5261,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5277,7 +5278,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5295,7 +5296,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5313,7 +5314,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5331,7 +5332,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5350,7 +5351,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5369,7 +5370,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5386,7 +5387,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5405,7 +5406,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5424,7 +5425,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5441,7 +5442,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5458,7 +5459,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
@@ -5479,7 +5480,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
