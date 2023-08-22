@@ -5120,28 +5120,28 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
-&#x2705; Video
+&#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 21/08/2023
-"update repository pen-200 ./osc - Information Gathering - SMTP Enumeration"
+"update repository pen-200 ./osc - Information Gathering - SNMP Enumeration"
 -->
 
-- Passive Information Gathering &#x1F3A5; <br/>
+- Passive Information Gathering <br/>
 	- Whois Enumeration &#x1F52C; (4) &#x2705; <br/>
 	- Google Hacking &#x1F52C; (3) &#x2705; <br/>
 	- Netcraft &#x1F52C; (3) &#x2705; <br/>
 	- Open-Source Code &#x1F52C; (2) &#x2705; <br/>
 	- Shodan &#x1F52C; (-) &#x2705; <br/>
 	- Security Headers and SSL/TLS &#x1F52C; (-) &#x2705; <br/>
-- Active Information Gathering &#x1F3A5; <br/>
+- Active Information Gathering <br/>
 	- DNS Enumeration &#x1F52C; (4/4) &#x2705; <br/>
 	- TCP/UDP Port Scanning Theory &#x1F52C; (2/3) &#x1F6A7; <br/>
 	- Port Scanning with Nmap &#x1F52C; (5/5) &#x2705; <br/>
-	- SMB Enumeration (3/3) &#x2705; <br/>
-	- SMTP Enumeration (1/1) &#x2705; <br/>
-	- SNMP Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
+	- SMB Enumeration &#x1F52C; (3/3) &#x2705; <br/>
+	- SMTP Enumeration &#x1F52C; (1/1) &#x2705; <br/>
+	- SNMP Enumeration &#x1F52C; (1/2) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Information Gathering -->
 <details open>
