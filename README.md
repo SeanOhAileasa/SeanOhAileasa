@@ -5153,8 +5153,8 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-21/08/2023
-"update repository pen-200 ./osc - Vulnerability Scanning - Analyzing the Results"
+22/08/2023
+"update repository pen-200 ./osc - Vulnerability Scanning - Performing an Authenticated Vulnerability Scan"
 -->
 
 - Vulnerability Scanning Theory &#x1F52C; (/) &#x1F6A7; <br/>
@@ -5162,6 +5162,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Nessus Components &#x1F52C; (/) &#x1F3A5;
 	- Performing a Vulnerability Scan &#x1F52C; (/) &#x1F3A5;
 	- Analyzing the Results &#x1F52C; (/) &#x1F3A5;
+	- Performing an Authenticated Vulnerability Scan &#x1F52C; (/) &#x1F3A5;
 - Vulnerability Scanning with Nmap &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Vulnerability Scanning -->
@@ -5694,8 +5695,6 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F23A;
 <hr width=25%;> 
 </details>
-<details open>
-</details> <!-- PEN-210 -->
 <details close>
     <summary><b>Aircrack-ng Essentials &#x21A9;</b></summary>
 <!--
