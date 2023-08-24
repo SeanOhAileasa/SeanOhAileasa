@@ -5214,7 +5214,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 24/08/2023
-"update repository pen-200 ./osc - Common Web Application Attacks - Using Executable Files"
+"update repository pen-200 ./osc - Common Web Application Attacks - Using Non-Executable Files"
 -->
 
 - Directory Traversal &#x1F52C; (/) &#x1F6A7; <br/>
@@ -5227,6 +5227,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Remote File Inclusion &#x1F52C; (/) &#x1F4F9; <br/>
 - File Upload Vulnerabilities &#x1F52C; (/) &#x1F6A7; <br/>
 	- Using Executable Files &#x1F52C; (/) &#x1F4F9; <br/>
+	- Using Non-Executable Files &#x1F52C; (/) &#x1F4F9; <br/>
 - Command Injection &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Common Web Application Attacks -->
