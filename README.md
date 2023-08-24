@@ -5179,7 +5179,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 24/08/2023
-"update repository pen-200 ./osc - Introduction to Web Application Attacks - Enumerating and Abusing APIs"
+"update repository pen-200 ./osc - Introduction to Web Application Attacks - Basic XSS"
 -->
 
 - Web Application Assessment Methodology &#x1F52C; (/) &#x1F6A7; <br/>
@@ -5187,11 +5187,12 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Fingerprinting Web Servers with Nmap &#x1F52C; (/) &#x1F3A5; <br/>
 	- Directory Brute Force with Gobuster &#x1F52C; (/) &#x1F3A5; <br/>
 	- Security Testing with Burp Suite &#x1F52C; (/) &#x1F3A5; <br/>
-- Web Application Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
+- Web Application Enumeration &#x1F52C; (/) &#x1F6A7; <br/> <!-- 24/08/23: 70m -->
 	- Debugging Page Content &#x1F52C; (/) &#x1F3A5; <br/>
 	- Inspecting HTTP Response Headers and Sitemaps &#x1F52C; (/) &#x1F3A5; <br/>
 	- Enumerating and Abusing APIs &#x1F52C; (/) &#x1F3A5; <br/>
 - Cross-Site Scripting &#x1F52C; (/) &#x1F6A7; <br/>
+	- Basic XSS &#x1F52C; (/) &#x1F3A5; <br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Web Application Attacks -->
 <details open>
