@@ -5178,8 +5178,8 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-23/08/2023
-"update repository pen-200 ./osc - Introduction to Web Application Attacks - Security Testing with Burp Suite"
+24/08/2023
+"update repository pen-200 ./osc - Introduction to Web Application Attacks - Debugging Page Content"
 -->
 
 - Web Application Assessment Methodology &#x1F52C; (/) &#x1F6A7; <br/>
@@ -5188,6 +5188,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Directory Brute Force with Gobuster &#x1F52C; (/) &#x1F3A5; <br/>
 	- Security Testing with Burp Suite &#x1F52C; (/) &#x1F3A5; <br/>
 - Web Application Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
+	- Debugging Page Content &#x1F52C; (/) &#x1F3A5; <br/>
 - Cross-Site Scripting &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Web Application Attacks -->
