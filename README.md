@@ -5037,6 +5037,7 @@ xx/04/2023
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x2705; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5060,6 +5061,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x2705; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5081,6 +5083,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x2705; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5103,6 +5106,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x2705; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5123,6 +5127,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x1F3A5; Video
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x2705; Semester / Topic Finished 
 21/08/2023
 "update repository pen-200 ./osc - Information Gathering - SNMP Enumeration"
@@ -5149,6 +5154,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5174,6 +5180,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5201,15 +5208,17 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-07/08/2023
-"update repository pen-200 ./osc - Common Web Application Attacks"
+24/08/2023
+"update repository pen-200 ./osc - Common Web Application Attacks - Absolute vs Relative Paths"
 -->
 
 - Directory Traversal &#x1F52C; (/) &#x1F6A7; <br/>
+	- Absolute vs Relative Paths &#x1F52C; (/) &#x1F4F9; <br/>
 - File Inclusion Vulnerabilities &#x1F52C; (/) &#x1F6A7; <br/>
 - File Upload Vulnerabilities &#x1F52C; (/) &#x1F6A7; <br/>
 - Command Injection &#x1F52C; (/) &#x1F6A7; <br/>
@@ -5220,6 +5229,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5238,6 +5248,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5256,6 +5267,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5275,6 +5287,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5292,6 +5305,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5310,6 +5324,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5328,6 +5343,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5346,6 +5362,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5365,6 +5382,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5384,6 +5402,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5401,6 +5420,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5420,6 +5440,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5439,6 +5460,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5456,6 +5478,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5473,6 +5496,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
@@ -5494,6 +5518,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <!--
 &#x2B55; Skim / Future Priority 
 &#x1F4DC; Theory
+&#x1F4F9; Video/No Screenshot
 &#x1F3A5; Video
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
