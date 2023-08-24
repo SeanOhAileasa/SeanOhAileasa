@@ -5214,7 +5214,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 24/08/2023
-"update repository pen-200 ./osc - Common Web Application Attacks - PHP Wrappers"
+"update repository pen-200 ./osc - Common Web Application Attacks - Remote File Inclusion"
 -->
 
 - Directory Traversal &#x1F52C; (/) &#x1F6A7; <br/>
@@ -5224,6 +5224,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 - File Inclusion Vulnerabilities &#x1F52C; (/) &#x1F6A7; <br/>
 	- Local File Inclusion &#x1F52C; (/) &#x1F4F9; <br/>
 	- PHP Wrappers &#x1F52C; (/) &#x1F4F9; <br/>
+	- Remote File Inclusion &#x1F52C; (/) &#x1F4F9; <br/>
 - File Upload Vulnerabilities &#x1F52C; (/) &#x1F6A7; <br/>
 - Command Injection &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
