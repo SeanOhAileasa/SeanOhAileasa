@@ -5214,11 +5214,12 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 24/08/2023
-"update repository pen-200 ./osc - Common Web Application Attacks - Absolute vs Relative Paths"
+"update repository pen-200 ./osc - Common Web Application Attacks - Identifying and Exploiting Directory Traversals"
 -->
 
 - Directory Traversal &#x1F52C; (/) &#x1F6A7; <br/>
-	- Absolute vs Relative Paths &#x1F52C; (/) &#x1F4F9; <br/>
+	- Absolute vs Relative Paths &#x1F52C; (/) &#x1F4F9; <br/> 
+	- Identifying and Exploiting Directory Traversals &#x1F52C; (/) &#x1F4F9; <br/>
 - File Inclusion Vulnerabilities &#x1F52C; (/) &#x1F6A7; <br/>
 - File Upload Vulnerabilities &#x1F52C; (/) &#x1F6A7; <br/>
 - Command Injection &#x1F52C; (/) &#x1F6A7; <br/>
