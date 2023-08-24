@@ -5214,7 +5214,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 24/08/2023
-"update repository pen-200 ./osc - Common Web Application Attacks - Encoding Special Characters"
+"update repository pen-200 ./osc - Common Web Application Attacks - Local File Inclusion"
 -->
 
 - Directory Traversal &#x1F52C; (/) &#x1F6A7; <br/>
@@ -5222,6 +5222,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Identifying and Exploiting Directory Traversals &#x1F52C; (/) &#x1F4F9; <br/>
 	- Encoding Special Characters  &#x1F52C; (/) &#x1F4F9; <br/>
 - File Inclusion Vulnerabilities &#x1F52C; (/) &#x1F6A7; <br/>
+	- Local File Inclusion &#x1F52C; (/) &#x1F4F9; <br/>
 - File Upload Vulnerabilities &#x1F52C; (/) &#x1F6A7; <br/>
 - Command Injection &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
