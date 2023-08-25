@@ -4762,13 +4762,13 @@ xx/04/2023
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-17/04/2023
-"update repository pen-100 ./pen-100 - Web Applications - Introduction to Databases and SQL"
+25/08/2023
+"update repository pen-100 ./pen-100 - Web Applications - HTTP Proxying and Burp Suite"
 -->
 
 - The OWASP Top Ten &#x1F52C; <u>(4)</u> &#x2705; ``/65`` <br/>
 - Hypertext Transfer Protocol HTTP &#x1F52C; <u>(4)</u> &#x2705; <br/>
-- HTTP Proxying and Burp Suite &#x1F52C; <u>(4/6)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
+- HTTP Proxying and Burp Suite &#x1F52C; <u>(5/6)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 - HTTP Methods and Responses &#x1F52C; <u>(16/17)</u> &#x1F6A7; <!-- &#x2705; --> <br/>
 - HTTP Headers &#x1F52C; <u>(8)</u> &#x2705; <br/>
 - Browser Development Tools HTML and CSS &#x1F52C; <u>(8)</u> &#x2705; <br/>
@@ -5030,7 +5030,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b>PEN-200 &#x21A9;</b></summary><br/>
 <details open>
     <summary><b>Penetration Testing with Kali Linux &#x21A9;</b></summary>
