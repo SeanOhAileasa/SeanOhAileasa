@@ -5242,11 +5242,12 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-07/08/2023
-"update repository pen-200 ./osc - SQL Injection Attacks"
+26/08/2023
+"update repository pen-200 ./osc - SQL Injection Attacks - DB Types and Characteristics"
 -->
 
 - 10.1. SQL Theory and Databases &#x1F52C; (/) &#x1F6A7; <br/>
+	- DB Types and Characteristics &#x1F52C; (/) &#x1F4F9; <br/>
 - 10.2. Manual SQL Exploitation &#x1F52C; (/) &#x1F6A7; <br/>
 - 10.3. Manual and Automated Code Execution &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
@@ -5555,8 +5556,8 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-09/07/2023
-"update repository web-100 ./web-100 - JavaScript Basics - JavaScript APIs, Documentation, and "How to Research" 
+25/08/2023
+"update repository web-100 ./web-100 - JavaScript Basics - Material" 
 -->
 
 - Browser Developer Tools &#x1F52C; <u> (2/2) </u> &#x2705; ``/16`` <br/>
@@ -5576,8 +5577,8 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-05/08/2023
-"update repository web-100 ./web-100 - Introduction to Burp Suite Browser and Integration - Proxy and Scope" 
+25/08/2023
+"update repository web-100 ./web-100 - Introduction to Burp Suite - Material" 
 -->
 
 - Browser and Integration &#x1F52C; <u> (1/1) </u> &#x2705; ``/5`` <br/>
@@ -5588,6 +5589,109 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 -->
 <hr width=25%;> 
 </details> <!-- END: Introduction to Burp Suite -->
+<details open>
+    <summary><b>Web Attacker Methodology &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+25/08/2023
+"update repository web-100 ./web-100 - Web Attacker Methodology - Material" 
+-->
+
+- Introduction to Web Application Assessments &#x1F52C; <u>(/) </u> &#x1F6A7; ``/`` <br/>
+- Enumeration &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Vulnerability Discovery &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Exploitation &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Post-Exploitation &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Reporting  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Web Attacker Methodology -->
+<details open>
+    <summary><b>Introduction to Web Secure Coding &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+25/08/2023
+"update repository web-100 ./web-100 - Introduction to Web Secure Coding - Material" 
+-->
+
+- Trust Boundaries &#x1F52C; <u>(/) </u> &#x1F6A7; ``/`` <br/>
+- Untrusted Input Handling &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Output Encoding and Character Escaping &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- File Handling &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Parameterized Queries  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Introduction to Web Secure Coding -->
+<details open>
+    <summary><b>Web Session Management &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+25/08/2023
+"update repository web-100 ./web-100 - Web Session Management - Material" 
+-->
+
+- Authentication and Authorization &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+- Password Comparison and Storage &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Session Basics &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Introduction to Cookie Security &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Single Sign-On (SSO)  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Web Session Management -->
+<details open>
+    <summary><b>Input Validation Fundamentals &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+26/08/2023
+"update repository web-100 ./web-100 - Input Validation Fundamentals - Material" 
+-->
+
+- User-Controlled Input &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+- Validating Input &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Input Validation Fundamentals -->
+<details open>
+    <summary><b>Encoding, Serialization, XML, JSON, and YAML &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+26/08/2023
+"update repository web-100 ./web-100 - Encoding Serialization XML JSON and YAML - Material" 
+-->
+
+- Introduction to Encoding and Data Serialization &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+- XML Basics &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- JSON Basics &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- YAML Basics  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Encoding, Serialization, XML, JSON, and YAML -->
+<details open>
+    <summary><b>Introduction to Templating Engines &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+26/08/2023
+"update repository web-100 ./web-100 - Introduction to Templating Engines - Material" 
+-->
+
+- Templating Engines &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+- Template Components &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Logical vs Logicless  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Introduction to Templating Engines -->
 </details> <!-- WEB-100 -->
 
 <hr width=33%;> <!-- -->
