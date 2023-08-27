@@ -5243,13 +5243,14 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 26/08/2023
-"update repository pen-200 ./osc - SQL Injection Attacks - DB Types and Characteristics"
+"update repository pen-200 ./osc - SQL Injection Attacks - Identifying SQLi via Error-based Paylaods"
 -->
 
-- 10.1. SQL Theory and Databases &#x1F52C; (/) &#x1F6A7; <br/>
+- SQL Theory and Databases &#x1F52C; (/) &#x1F6A7; <br/>
 	- DB Types and Characteristics &#x1F52C; (/) &#x1F4F9; <br/>
-- 10.2. Manual SQL Exploitation &#x1F52C; (/) &#x1F6A7; <br/>
-- 10.3. Manual and Automated Code Execution &#x1F52C; (/) &#x1F6A7; <br/>
+- Manual SQL Exploitation &#x1F52C; (/) &#x1F6A7; <br/>
+	- Identifying SQLi via Error-based Paylaods &#x1F52C; (/) &#x1F4F9; <br/>
+- Manual and Automated Code Execution &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: SQL Injection Attacks -->
 <details open>
@@ -5577,14 +5578,14 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-25/08/2023
-"update repository web-100 ./web-100 - Introduction to Burp Suite - Material" 
+27/08/2023
+"update repository web-100 ./web-100 - Introduction to Burp Suite - Core Burp Suite Tools and Tabs" 
 -->
 
-- Browser and Integration &#x1F52C; <u> (1/1) </u> &#x2705; ``/5`` <br/>
+- Browser and Integration &#x1F52C; <u> (1/1) </u> &#x2705; ``5/5`` <br/>
 - Proxy and Scope &#x1F52C; <u>(1/1)</u> &#x2705; <br/>
+- Core Burp Suite Tools and Tabs &#x1F52C; <u>(3/3)</u> &#x2705; <br/>
 <!--
-- Core Burp Suite Tools and Tabs &#x1F52C; <u>(/)</u> &#x1F4DC; <br/>
 - Professional Features &#x1F52C; <u>(/)</u> &#x1F4DC; <br/>
 -->
 <hr width=25%;> 
@@ -5692,6 +5693,132 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 - Logical vs Logicless  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Templating Engines -->
+<details open>
+    <summary><b>Introduction to Web Services &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+26/08/2023
+"update repository web-100 ./web-100 - Introduction to Web Services - Material" 
+-->
+
+- Consuming Remote Data and Functionality &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+- Introduction to Security for Web Services &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Introduction to Web Services -->
+<details open>
+    <summary><b>Same-Origin Policy and CORS &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+26/08/2023
+"update repository web-100 ./web-100 - Same-Origin Policy and CORS - Material" 
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/1.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/2.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/3.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/4.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/5.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/6.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/7.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/8.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/9.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/10.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/11.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/12.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/18-same-origin-policy-and-cors/img/13.png?raw=true">
+-->
+
+- Origins and the Same-Origin Policy (SOP) &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+- Cross-origin Resource Sharing (CORS) &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Sending Requests Between Origins &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Same-Origin Policy and CORS -->
+<details open>
+    <summary><b>Getting Started with Git &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+26/08/2023
+"update repository web-100 ./web-100 - Getting Started with Git - Material" 
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/1.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/2.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/3.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/4.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/5.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/6.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/7.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/8.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/9.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/10.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/11.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/12.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/13.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/14.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/15.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/16.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/17.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/18.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/19.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/19-getting-started-with-git/img/20.png?raw=true">
+-->
+
+- Why Git? Exploring Git History and Features &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+- Git Good: Working with Local and Remote Repositories &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+<hr width=25%;> 
+</details> <!-- END: Getting Started with Git -->
+<details open>
+    <summary><b>Git Branching and Merging &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+26/08/2023
+"update repository web-100 ./web-100 - Git Branching and Merging - Material" 
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/20-git-branching-and-merging/img/1.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/20-git-branching-and-merging/img/2.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/20-git-branching-and-merging/img/3.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/20-git-branching-and-merging/img/4.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/20-git-branching-and-merging/img/5.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/20-git-branching-and-merging/img/6.png?raw=true">
+-->
+
+- Git Better: Branching, Stashing, Merging, Rebasing, Squashing, and Forking &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+<hr width=25%;> 
+</details> <!-- END: Git Branching and Merging -->
+<details open>
+    <summary><b>Introduction to Git Security &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+26/08/2023
+"update repository web-100 ./web-100 - Introduction to Git Security - Material" 
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/1.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/2.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/3.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/4.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/5.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/6.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/7.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/8.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/9.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/10.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/11.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/12.png?raw=true">
+<img src="https://github.com/SeanOhAileasa/web-100/raw/main/rc/21-introduction-to-git-security/img/13.png?raw=true">
+-->
+
+- Git Secure: Examine Git from a Security Perspective &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+<hr width=25%;> 
+</details> <!-- END: Introduction to Git Security -->
 </details> <!-- WEB-100 -->
 
 <hr width=33%;> <!-- -->
