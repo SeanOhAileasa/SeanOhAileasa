@@ -5562,11 +5562,11 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 -->
 
 - Browser Developer Tools &#x1F52C; <u> (2/2) </u> &#x2705; ``/16`` <br/>
-- JavaScript Variables &#x1F52C; <u></u> &#x2705; <br/>
-- JavaScript Naming Conventions &#x1F52C; <u></u> &#x2705; <br/>
+- JavaScript Variables <u></u> &#x2705; <br/>
+- JavaScript Naming Conventions <u></u> &#x2705; <br/>
 - Assignment and Arithmetic Operators &#x1F52C; <u> (6/6) </u> &#x2705; <br/>
 - JavaScript Functions and Methods &#x1F52C; <u> (3/4) </u> &#x2B55; <br/>
-- Conditional Statements with JavaScript &#x1F52C; <u></u> &#x2705; <br/>
+- Conditional Statements with JavaScript <u></u> &#x2705; <br/>
 - JavaScript Loops &#x1F52C; <u> (0/2) </u> &#x2B55; <br/>
 - JavaScript APIs, Documentation, and "How to Research" &#x1F52C; <u> (2/2) </u> &#x2705; <br/>
 <hr width=25%;> 
@@ -5597,12 +5597,12 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-25/08/2023
-"update repository web-100 ./web-100 - Web Attacker Methodology - Material" 
+02/09/2023
+"update repository web-100 ./web-100 - Web Attacker Methodology - Introduction to Web Application Assessments - Enumeration" 
 -->
 
-- Introduction to Web Application Assessments &#x1F52C; <u>(/) </u> &#x1F6A7; ``/`` <br/>
-- Enumeration &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Introduction to Web Application Assessments <u></u> &#x2705; ``/11`` <br/>
+- Enumeration &#x1F52C; <u>(4/4)</u> &#x2705; <br/>
 - Vulnerability Discovery &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 - Exploitation &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 - Post-Exploitation &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
