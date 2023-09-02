@@ -5598,7 +5598,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 02/09/2023
-"update repository web-100 ./web-100 - Web Attacker Methodology - Vulnerability Discovery - Exploitation" 
+"update repository web-100 ./web-100 - Web Attacker Methodology - Post-Exploitation - Reporting" 
 -->
 
 - Introduction to Web Application Assessments <u></u> &#x2705; ``/11`` <br/>
@@ -5618,8 +5618,14 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Business Logic Flaws <br/>
 	- Data Exfiltration <br/>
 	- Remote Code Execution <br/>
-- Post-Exploitation &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
-- Reporting  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Post-Exploitation &#x2705; <br/>
+	- Persistence <br/>
+	- Privilege Escalation <br/>
+	- Pivoting <br/>
+- Reporting &#x1F52C; <u>(4/4)</u> &#x2705; <br/>
+	- Knowing Your Audience <br/>
+	- Classifying Vulnerabilities <br/>
+	- Assessing Impact and Severity <br/>
 <hr width=25%;> 
 </details> <!-- END: Web Attacker Methodology -->
 <details open>
