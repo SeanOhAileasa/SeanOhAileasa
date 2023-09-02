@@ -5547,7 +5547,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b>WEB-100 &#x21A9;</b></summary><br/>
 
 <details open>
@@ -5598,13 +5598,26 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 02/09/2023
-"update repository web-100 ./web-100 - Web Attacker Methodology - Introduction to Web Application Assessments - Enumeration" 
+"update repository web-100 ./web-100 - Web Attacker Methodology - Vulnerability Discovery - Exploitation" 
 -->
 
 - Introduction to Web Application Assessments <u></u> &#x2705; ``/11`` <br/>
 - Enumeration &#x1F52C; <u>(4/4)</u> &#x2705; <br/>
-- Vulnerability Discovery &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
-- Exploitation &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+	- Web Stacks and Technologies <br/>
+	- User Enumeration <br/>
+	- Automated Enumeration Scans <br/>
+	- Attack Surface <br/>
+- Vulnerability Discovery <u></u> &#x2705; <br/>
+	- Automated scans <br/>
+	- Manual Testing <br/>
+	- Source Code Analysis <br/> 
+	- Components with Known Vulnerabilities <br/>
+- Exploitation &#x1F52C; <u>(3/3)</u> &#x2705; <br/>
+	- Authentication Bypass <br/>
+	- Session Hijacking <br/>
+	- Business Logic Flaws <br/>
+	- Data Exfiltration <br/>
+	- Remote Code Execution <br/>
 - Post-Exploitation &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 - Reporting  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 <hr width=25%;> 
