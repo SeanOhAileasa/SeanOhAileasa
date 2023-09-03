@@ -5636,7 +5636,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 03/09/2023
-"update repository web-100 ./web-100 - Introduction to Web Secure Coding - Output Encoding and Character Escaping" 
+"update repository web-100 ./web-100 - Introduction to Web Secure Coding - File Handling" 
 -->
 
 - Trust Boundaries &#x1F52C; <u>(2/2) </u> &#x2705; ``/13`` <br/>
@@ -5652,7 +5652,10 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 - Output Encoding and Character Escaping &#x1F52C; <u>(1/1)</u> &#x2705; <br/>
 	- Intro to Output Encoding <br/>
 	- Intro to Character Escaping <br/>
-- File Handling &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- File Handling &#x1F52C; <u>(2/2)</u> &#x2705; <br/>
+	- Validate File Format and Extensions <br/>
+	- Path Normalization <br/>
+	- File Storage <br/>
 - Parameterized Queries  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Web Secure Coding -->
