@@ -5670,7 +5670,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 03/09/2023
-"update repository web-100 ./web-100 - Web Session Management - Session Basics" 
+"update repository web-100 ./web-100 - Web Session Management - Introduction to Cookie Security" 
 -->
 
 - Authentication and Authorization &#x1F52C; <u>(5/5)</u> &#x2705; ``/28`` <br/>
@@ -5683,7 +5683,9 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- HTTP Session IDs and Token Properties <br/>
 	- Session Expiration <br/>
 	- Web Browser Storage <br/>
-- Introduction to Cookie Security &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Introduction to Cookie Security &#x1F52C; <u>(4/5)</u> &#x2B55; <br/>
+	- HTTP Cookies <br/>
+	- HTTP Cookies - Attributes <br/>
 - Single Sign-On (SSO)  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Web Session Management -->
