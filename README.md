@@ -5669,11 +5669,13 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-25/08/2023
-"update repository web-100 ./web-100 - Web Session Management - Material" 
+03/09/2023
+"update repository web-100 ./web-100 - Web Session Management - Authentication and Authorization" 
 -->
 
-- Authentication and Authorization &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+- Authentication and Authorization &#x1F52C; <u>(5/5)</u> &#x2705; ``/28`` <br/>
+	- Authentication vs Authorization <br/>
+	- Session Management <br/>
 - Password Comparison and Storage &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 - Session Basics &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 - Introduction to Cookie Security &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
