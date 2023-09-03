@@ -5635,11 +5635,14 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-25/08/2023
-"update repository web-100 ./web-100 - Introduction to Web Secure Coding - Material" 
+03/09/2023
+"update repository web-100 ./web-100 - Introduction to Web Secure Coding - Trust Boundaries" 
 -->
 
-- Trust Boundaries &#x1F52C; <u>(/) </u> &#x1F6A7; ``/`` <br/>
+- Trust Boundaries &#x1F52C; <u>(2/2) </u> &#x2705; ``/13`` <br/>
+	- Intro to Trust Boundaries <br/>
+	- Subresource Integrity <br/>
+	- Defense in Depth <br/>
 - Untrusted Input Handling &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 - Output Encoding and Character Escaping &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 - File Handling &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
