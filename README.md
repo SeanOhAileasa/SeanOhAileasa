@@ -5699,13 +5699,20 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 03/09/2023
-"update repository web-100 ./web-100 - Input Validation Fundamentals - User-Controlled Input" 
+"update repository web-100 ./web-100 - Input Validation Fundamentals - Validating Input" 
 -->
 
 - User-Controlled Input &#x1F52C; <u>(5/5)</u> &#x2705; ``/12`` <br/>
 	- Receiving Input from Users <br/>
 	- Static vs Dynamic Typing and Type Coercion <br/>
-- Validating Input &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Validating Input &#x1F52C; <u>(4/7)</u> &#x2B55; <br/>
+	- Blocklists a
+	nd Allowlists <bYr/>
+	- Crafting Regular Expressions <br/>
+	- File Uploads <br/>
+	- Semantic Validation <br/>
+	- Client-Side and Server-Side Validations <br/>
+	- When Validation is not Enough <br/>
 <hr width=25%;> 
 </details> <!-- END: Input Validation Fundamentals -->
 <details open>
