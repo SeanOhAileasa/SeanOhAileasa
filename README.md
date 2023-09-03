@@ -5636,7 +5636,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 03/09/2023
-"update repository web-100 ./web-100 - Introduction to Web Secure Coding - File Handling" 
+"update repository web-100 ./web-100 - Introduction to Web Secure Coding - Parameterized Queries" 
 -->
 
 - Trust Boundaries &#x1F52C; <u>(2/2) </u> &#x2705; ``/13`` <br/>
@@ -5656,7 +5656,10 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Validate File Format and Extensions <br/>
 	- Path Normalization <br/>
 	- File Storage <br/>
-- Parameterized Queries  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Parameterized Queries &#x1F52C; <u>(3/3)</u> &#x2705; <br/>
+	- Intro to SQL Injection <br/>
+	- Intro to Parameterized Queries <br/>
+	- Parameterized Query Syntax <br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Web Secure Coding -->
 <details open>
