@@ -5242,8 +5242,8 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-26/08/2023
-"update repository pen-200 ./osc - SQL Injection Attacks - Identifying SQLi via Error-based Paylaods"
+04/09/2023
+"update repository pen-200 ./osc - SQL Injection Attacks - Manual SQL Exploitation - Identifying SQLi via Error-based Paylaods"
 -->
 
 - SQL Theory and Databases &#x1F52C; (/) &#x1F6A7; <br/>
