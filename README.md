@@ -5722,7 +5722,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 09/09/2023
-"update repository web-100 ./web-100 - Encoding Serialization XML JSON and YAML - JSON Basics"
+"update repository web-100 ./web-100 - Encoding Serialization XML JSON and YAML - YAML Basics"
 -->
 
 - Introduction to Encoding and Data Serialization &#x1F52C; <u>(2/2)</u> &#x2705; ``/11`` <br/>
@@ -5734,7 +5734,10 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 - JSON Basics &#x1F52C; <u>(4/4)</u> &#x2705; <br/>
 	- JSON Introduction <br/>
 	- JSON Syntax <br/>
-- YAML Basics  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- YAML Basics &#x1F52C; <u>(3/3)</u> &#x2705; <br/>
+	- YAML Introduction <br/>
+	- YAML Syntax <br/>
+	- YAML Files <br/>
 <hr width=25%;> 
 </details> <!-- END: Encoding, Serialization, XML, JSON, and YAML -->
 <details open>
