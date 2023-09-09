@@ -5706,8 +5706,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Receiving Input from Users <br/>
 	- Static vs Dynamic Typing and Type Coercion <br/>
 - Validating Input &#x1F52C; <u>(4/7)</u> &#x2B55; <br/>
-	- Blocklists a
-	nd Allowlists <bYr/>
+	- Blocklists and Allowlists <bYr/>
 	- Crafting Regular Expressions <br/>
 	- File Uploads <br/>
 	- Semantic Validation <br/>
@@ -5722,11 +5721,13 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-26/08/2023
-"update repository web-100 ./web-100 - Encoding Serialization XML JSON and YAML - Material" 
+09/09/2023
+"update repository web-100 ./web-100 - Encoding Serialization XML JSON and YAML - Introduction to Encoding and Data Serialization" 
 -->
 
-- Introduction to Encoding and Data Serialization &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+- Introduction to Encoding and Data Serialization &#x1F52C; <u>(2/2)</u> &#x2705; ``/11`` <br/>
+	- Encoding and Serialization <br/>
+	- XML, JSON, and YAML <br/>
 - XML Basics &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 - JSON Basics &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 - YAML Basics  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
