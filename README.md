@@ -5747,11 +5747,14 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-26/08/2023
-"update repository web-100 ./web-100 - Introduction to Templating Engines - Material" 
+10/09/2023
+"update repository web-100 ./web-100 - Introduction to Templating Engines - Templating Engines" 
 -->
 
-- Templating Engines &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+- Templating Engines &#x1F52C; <u>(3/3)</u> &#x2705; ``/6`` <br/>
+	- Model View Controller Architecture <br/>
+	- Comparing a Single-tier Application with one that Follows MVC <br/>
+	- Introducing Templating Engines <br/>
 - Template Components &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 - Logical vs Logicless  &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
 <hr width=25%;> 
