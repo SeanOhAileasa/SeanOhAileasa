@@ -5762,7 +5762,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 - Logical vs Logicless &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Templating Engines -->
-<details open>
+<details close>
     <summary><b>Introduction to Web Services &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5770,7 +5770,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 12/09/2023
-"update repository web-100 ./web-100 - Introduction to Web Services - Material" 
+"update repository web-100 ./web-100 - Introduction to Web Services - Consuming Remote Data and Functionality - GraphQL" 
 -->
 
 - Consuming Remote Data and Functionality &#x1F52C; <u>(/)</u> &#x2B55; <br/>
@@ -5779,7 +5779,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- RESTful <br/>
 	- GraphQL <br/>
 - Introduction to Security for Web Services &#x1F52C; <u>(/)</u> &#x2B55; <br/>
-> ``7/9`` ``77%``<br/>
+> ``8/9`` ``88%``<br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Web Services -->
 <details open>
