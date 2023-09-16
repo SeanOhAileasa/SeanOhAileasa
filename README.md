@@ -5550,7 +5550,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <details open>
     <summary><b>WEB-100 &#x21A9;</b></summary><br/>
 
-<details open>
+<details close>
     <summary><b>JavaScript Basics &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5571,7 +5571,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 - JavaScript APIs, Documentation, and "How to Research" &#x1F52C; <u> (2/2) </u> &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: JavaScript Basics -->
-<details open>
+<details close>
     <summary><b>Introduction to Burp Suite &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5590,7 +5590,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 -->
 <hr width=25%;> 
 </details> <!-- END: Introduction to Burp Suite -->
-<details open>
+<details close>
     <summary><b>Web Attacker Methodology &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5628,7 +5628,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Assessing Impact and Severity <br/>
 <hr width=25%;> 
 </details> <!-- END: Web Attacker Methodology -->
-<details open>
+<details close>
     <summary><b>Introduction to Web Secure Coding &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5662,7 +5662,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Parameterized Query Syntax <br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Web Secure Coding -->
-<details open>
+<details close>
     <summary><b>Web Session Management &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5712,9 +5712,10 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Semantic Validation <br/>
 	- Client-Side and Server-Side Validations <br/>
 	- When Validation is not Enough <br/>
+> ``9/12`` ``75%``<br/>	
 <hr width=25%;> 
 </details> <!-- END: Input Validation Fundamentals -->
-<details open>
+<details close>
     <summary><b>Encoding, Serialization, XML, JSON, and YAML &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5740,7 +5741,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- YAML Files <br/>
 <hr width=25%;> 
 </details> <!-- END: Encoding, Serialization, XML, JSON, and YAML -->
-<details open>
+<details close>
     <summary><b>Introduction to Templating Engines &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5769,12 +5770,17 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-26/08/2023
+12/09/2023
 "update repository web-100 ./web-100 - Introduction to Web Services - Material" 
 -->
 
-- Consuming Remote Data and Functionality &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
-- Introduction to Security for Web Services &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Consuming Remote Data and Functionality &#x1F52C; <u>(/)</u> &#x2B55; <br/>
+	- Remote Method Invocation <br/>
+	- SOAP <br/>
+	- RESTful <br/>
+	- GraphQL <br/>
+- Introduction to Security for Web Services &#x1F52C; <u>(/)</u> &#x2B55; <br/>
+> ``7/9`` ``77%``<br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Web Services -->
 <details open>
@@ -5784,13 +5790,14 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-27/08/2023
+16/09/2023
 "update repository web-100 ./web-100 - Same-Origin Policy and CORS - Material" 
 -->
 
-- Origins and the Same-Origin Policy (SOP) &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
-- Cross-origin Resource Sharing (CORS) &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
-- Sending Requests Between Origins &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Origins and the Same-Origin Policy (SOP) &#x1F52C; <u>(/)</u> &#x2B55; <br/>
+- Cross-origin Resource Sharing (CORS) &#x1F52C; <u>(/)</u> &#x2B55; <br/>
+- Sending Requests Between Origins &#x1F52C; <u>(/)</u> &#x2B55; <br/>
+> ``9/11`` ``81%``<br/>
 <hr width=25%;> 
 </details> <!-- END: Same-Origin Policy and CORS -->
 <details open>
@@ -5800,12 +5807,13 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-27/08/2023
+16/09/2023
 "update repository web-100 ./web-100 - Getting Started with Git - Material" 
 -->
 
-- Why Git? Exploring Git History and Features &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
-- Git Good: Working with Local and Remote Repositories &#x1F52C; <u>(/)</u> &#x1F6A7; <br/>
+- Why Git? Exploring Git History and Features &#x1F52C; <u>(/)</u> &#x2B55; <br/>
+- Git Good: Working with Local and Remote Repositories &#x1F52C; <u>(/)</u> &#x2B55; <br/>
+> ``15/18`` ``83%``<br/>
 <hr width=25%;> 
 </details> <!-- END: Getting Started with Git -->
 <details open>
@@ -5815,11 +5823,12 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-27/08/2023
+16/09/2023
 "update repository web-100 ./web-100 - Git Branching and Merging - Material" 
 -->
 
-- Git Better: Branching, Stashing, Merging, Rebasing, Squashing, and Forking &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+- Git Better: Branching, Stashing, Merging, Rebasing, Squashing, and Forking &#x1F52C; <u>(/)</u> &#x2B55; <br/>
+> ``11/13`` ``84%``<br/>
 <hr width=25%;> 
 </details> <!-- END: Git Branching and Merging -->
 <details open>
@@ -5829,11 +5838,12 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-27/08/2023
+16/09/2023
 "update repository web-100 ./web-100 - Introduction to Git Security - Material" 
 -->
 
-- Git Secure: Examine Git from a Security Perspective &#x1F52C; <u>(/)</u> &#x1F6A7; ``/`` <br/>
+- Git Secure: Examine Git from a Security Perspective &#x1F52C; <u>(/)</u> &#x2B55; <br/>
+> ``8/11`` ``72%``<br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Git Security -->
 </details> <!-- WEB-100 -->
