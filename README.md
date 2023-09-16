@@ -4816,7 +4816,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b>PEN-103 &#x21A9;</b></summary><br/>
 <details close>
     <summary><b>Kali Linux Revealed &#x21A9;</b></summary>
@@ -4832,7 +4832,7 @@ xx/04/2023
 - Kali Linux Revealed &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Kali Linux Revealed -->
-<details close>
+<details open>
     <summary><b>About Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -4969,7 +4969,7 @@ xx/04/2023
 - APT Package Reference: Digging Deeper into the Debian Package System &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Debian Package Management -->
-<details open>
+<details close>
     <summary><b>Advanced Usage &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -4988,7 +4988,7 @@ xx/04/2023
 - Adding Persistence to the Live ISO with a USB Key <br/>
 <hr width=25%;> 
 </details> <!-- END: Advanced Usage -->
-<details open>
+<details close>
     <summary><b>Kali Linux in the Enterprise &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5691,28 +5691,27 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 	- Single Sign-On Protocols <br/>
 <hr width=25%;> 
 </details> <!-- END: Web Session Management -->
-<details open>
+<details close>
     <summary><b>Input Validation Fundamentals &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-03/09/2023
-"update repository web-100 ./web-100 - Input Validation Fundamentals - Validating Input" 
+16/09/2023
+"update repository web-100 ./web-100 - Input Validation Fundamentals - Blocklists and Allowlists" 
 -->
 
 - User-Controlled Input &#x1F52C; <u>(5/5)</u> &#x2705; ``/12`` <br/>
 	- Receiving Input from Users <br/>
 	- Static vs Dynamic Typing and Type Coercion <br/>
-- Validating Input &#x1F52C; <u>(4/7)</u> &#x2B55; <br/>
-	- Blocklists and Allowlists <bYr/>
+- Validating Input &#x1F52C; <u>(5/7)</u> &#x2B55; <br/>
+	- Blocklists and Allowlists <br/>
 	- Crafting Regular Expressions <br/>
 	- File Uploads <br/>
 	- Semantic Validation <br/>
 	- Client-Side and Server-Side Validations <br/>
 	- When Validation is not Enough <br/>
-> ``9/12`` ``75%``<br/>	
 <hr width=25%;> 
 </details> <!-- END: Input Validation Fundamentals -->
 <details close>
@@ -5916,7 +5915,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b>PEN-210 &#x21A9;</b></summary><br/>
 
 <details close>
@@ -6011,14 +6010,14 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F23A;
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>Aircrack-ng Essentials &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-23/07/2023
+16/09/2023
 "update repository ./osw - PEN-210 - Aircrack-ng Essentials"
 -->
  
@@ -6030,7 +6029,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 - Airgraph-ng &#x1F3A5; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Cracking Authentication Hashes &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
