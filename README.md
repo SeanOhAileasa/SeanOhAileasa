@@ -5842,7 +5842,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 -->
 
 - Git Secure: Examine Git from a Security Perspective &#x1F52C; <u>(/)</u> &#x2B55; <br/>
-> ``8/11`` ``72%``<br/>
+> ``9/11`` ``81%``<br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Git Security -->
 </details> <!-- WEB-100 -->
