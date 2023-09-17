@@ -5919,7 +5919,7 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 <details open>
     <summary><b>PEN-210 &#x21A9;</b></summary><br/>
 
-<details close>
+<details open>
     <summary><b>Concepts &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5927,12 +5927,12 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 17/09/2023
-"update repository ./osw - PEN-210 - Concepts - WiFi Technology Primer"
+"update repository ./osw - PEN-210 - Concepts - WiFi Channels and Frequencies"
 -->
  
 - WiFi Technology Primer &#x1F4DC; &#x2705; <br/>
+- WiFi Channels and Frequencies &#x1F4DC; &#x2705; <br/>
 <!--
-- xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
