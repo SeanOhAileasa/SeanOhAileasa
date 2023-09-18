@@ -5048,6 +5048,7 @@ git push -f origin HEAD^:master
 git reset HEAD~
 git push -f origin HEAD^:main 
 https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
+https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD-Preparation
 07/08/2023
 "update repository pen-200 ./osc - Penetration Testing with Kali Linux"
 -->
@@ -5926,12 +5927,13 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-17/09/2023
-"update repository ./osw - PEN-210 - Concepts - WiFi Channels and Frequencies"
+18/09/2023
+"update repository ./osw - PEN-210 - Concepts - Antennas"
 -->
  
 - WiFi Technology Primer &#x1F4DC; &#x2705; <br/>
 - WiFi Channels and Frequencies &#x1F4DC; &#x2705; <br/>
+- Antennas &#x1F4DC; &#x2705; <br/>
 <!--
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
@@ -6043,13 +6045,16 @@ https://www.isee2it.nl/en-us/ --- https://github.com/xmakamx/enum-oscp
 16/09/2023
 "update repository ./osw - PEN-210 - Aircrack-ng Essentials"
 -->
- 
+
+&#x1F23A;
+<!--
 - Airmon-ng &#x1F3A5; <br/>
 - Airodump-ng &#x1F3A5; <br/>
 - Aireplay-ng &#x1F3A5; <br/>
 - Aircrack-ng &#x1F3A5; <br/>
 - Airdecap-ng &#x1F3A5; <br/>
 - Airgraph-ng &#x1F3A5; <br/>
+-->
 <hr width=25%;> 
 </details>
 <details close>
