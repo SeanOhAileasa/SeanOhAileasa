@@ -5928,7 +5928,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 20/09/2023
-"update repository ./osw - PEN-210 - Concepts - WiFi Network Cards Selecting"
+"update repository ./osw - PEN-210 - Concepts - Wireless Network Operating Modes"
 -->
  
 - WiFi Technology Primer &#x1F4DC; &#x2705; <br/>
@@ -5937,8 +5937,8 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - WiFi Network Cards and Adaptors &#x1F4DC; &#x2705; <br/>
 - Network Card Injection Test &#x1F4DC; &#x2705; <br/>
 - WiFi Network Cards Selecting &#x1F4DC; &#x2705; <br/>
+- Wireless Network Operating Modes &#x1F4DC; &#x2705; <br/>
 <!--
-- xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
 -->
