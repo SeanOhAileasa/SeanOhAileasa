@@ -5928,7 +5928,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 22/09/2023
-"update repository ./osw - PEN-210 - Concepts - WiFi Security Mechanisms"
+"update repository ./osw - PEN-210 - Concepts - Authentication"
 -->
  
 - WiFi Technology Primer &#x1F4DC; &#x2705; <br/>
@@ -5939,6 +5939,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - WiFi Network Cards Selecting &#x1F4DC; &#x2705; <br/>
 - Wireless Network Operating Modes &#x1F4DC; &#x2705; <br/>
 - WiFi Security Mechanisms &#x1F4DC; &#x2705; <br/>
+- Authentication &#x1F4DC; &#x2705; <br/>
 <!--
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
