@@ -6043,6 +6043,34 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F23A;
 <hr width=25%;> 
 </details>
+<details open>
+    <summary><b>Aircrack-ng 101 &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+23/09/2023
+"update repository ./osw - PEN-210 - Aircrack-ng 101 - Aircrack-ng Suite - Monitor Mode"
+-->
+ 
+- Aircrack-ng Suite &#x1F4DC; &#x2705; <br/>
+	- Monitor Mode &#x1F4DC; &#x1F52C; &#x2705; <br/>
+<!--
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+-->
+<hr width=25%;> 
+</details>
 <details close>
     <summary><b>Aircrack-ng Essentials &#x21A9;</b></summary>
 <!--
