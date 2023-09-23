@@ -5920,7 +5920,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 <details open>
     <summary><b>PEN-210 &#x21A9;</b></summary><br/>
 
-<details open>
+<details close>
     <summary><b>Concepts &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5951,18 +5951,18 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 -->
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>IEEE 802.11 &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-01/06/2023
-"update repository ./osw - PEN-210 - IEEE 802.11"
+23/09/2023
+"update repository ./osw - PEN-210 - IEEE"
 -->
  
-- IEEE &#x1F4DC; <br/>
+- IEEE &#x1F4DC; &#x2705; <br/>
 - 802.11 Standards and Amendments &#x1F4DC; <br/>
 - Antenna Diversity vs MIMO &#x1F4DC; <br/>
 <hr width=25%;> 
