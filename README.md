@@ -6011,12 +6011,14 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 24/09/2023
-"update repository ./osw - PEN-210 - Wi-Fi Encryption - Open Wireless Networks"
+"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wired Equivalent Privacy"
 -->
 
 - Open Wireless Networks &#x1F4DC; &#x2705; <br/>
+- Wired Equivalent Privacy &#x1F4DC; &#x2705; <br/>
+	- RC4 &#x1F4DC; &#x2705; <br/>
+	- WEP Authentication &#x1F4DC; &#x2705; <br/>
 <!--
-- xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
