@@ -6138,10 +6138,12 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 24/09/2023
-"update repository ./osw - PEN-210 - WEP Protected Network with Clients - Steps and Setup"
+"update repository ./osw - PEN-210 - WEP Protected Network with Clients - Fake Authentication Attack"
 -->
 
 - Steps and Setup &#x1F4DC; &#x2705; <br/>
+- Fake Authentication Attack &#x1F4DC; &#x2705; <br/>
+	- ``-1`` &#x1F4DC; &#x2705; <br/>
 <!--
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
