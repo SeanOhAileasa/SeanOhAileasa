@@ -5959,22 +5959,24 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 23/09/2023
-"update repository ./osw - PEN-210 - 802.11 Standards and Amendments"
+"update repository ./osw - PEN-210 - IEEE 802.11 - Antenna Diversity vs MIMO"
 -->
  
 - IEEE &#x1F4DC; &#x2705; <br/>
 - 802.11 Standards and Amendments &#x1F4DC; &#x2705; <br/>
-	- IEEE 802.11  &#x1F4DC; &#x2705; <br/>
-	- IEEE 802.11b  &#x1F4DC; &#x2705; <br/>
-	- IEEE 802.11a  &#x1F4DC; &#x2705; <br/>
-	- IEEE 802.11g  &#x1F4DC; &#x2705; <br/>
-	- IEEE 802.11n  &#x1F4DC; &#x2705; <br/>
-	- IEEE 802.11ac  &#x1F4DC; &#x2705; <br/>
-	- IEEE 802.11ad  &#x1F4DC; &#x2705; <br/>
-	- IEEE 802.11ax  &#x1F4DC; &#x2705; <br/>
-	- IEEE 802.11h  &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11 &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11b &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11a &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11g &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11n &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11ac &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11ad &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11ax &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11h &#x1F4DC; &#x2705; <br/>
 	- 802.11 Standard and Amendments Overview  &#x1F4DC; &#x2705; <br/>
 - Antenna Diversity vs MIMO &#x1F4DC; <br/>
+	- Antenna Diversity &#x1F4DC; &#x2705; <br/>
+	- MIMO &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <details close>
