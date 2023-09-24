@@ -5987,7 +5987,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 24/09/2023
-"update repository ./osw - PEN-210 - Wireless Networks - Wi-Fi Direct"
+"update repository ./osw - PEN-210 - Wireless Networks - Monitor Mode"
 -->
  
 - Infrastructure &#x1F4DC; &#x2705; <br/>
@@ -6008,7 +6008,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 		- ``MPP`` &#x1F4DC; &#x2705; <br/>
 - Wi-Fi Direct &#x1F4DC; &#x2705; <br/>
 	- ``Wi-Fi P2P`` | ~~802.11~~ &#x1F4DC; &#x2705; <br/>
-- Monitor Mode &#x1F4DC; <br/>
+- Monitor Mode &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <details close>
