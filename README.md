@@ -5941,14 +5941,6 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - WiFi Security Mechanisms &#x1F4DC; &#x2705; <br/>
 - Authentication &#x1F4DC; &#x2705; <br/>
 - Encryption &#x1F4DC; &#x2705; <br/>
-<!--
-- xxx &#x1F4DC; &#x2705; <br/>
-- xxx &#x1F4DC; &#x2705; <br/>
-- xxx &#x1F4DC; &#x2705; <br/>
-- xxx &#x1F4DC; &#x2705; <br/>
-- xxx &#x1F4DC; &#x2705; <br/>
-- xxx &#x1F4DC; &#x2705; <br/>
--->
 <hr width=25%;> 
 </details>
 <details close>
@@ -5979,7 +5971,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 	- MIMO &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Wireless Networks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6011,18 +6003,26 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Monitor Mode &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>Wi-Fi Encryption &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-09/07/2023
-"update repository ./osw - PEN-210 - Wi-Fi Encryption"
+24/09/2023
+"update repository ./osw - PEN-210 - Wi-Fi Encryption - Open Wireless Networks"
 -->
- 
-&#x1F23A;
+
+- Open Wireless Networks &#x1F4DC; &#x2705; <br/>
+<!--
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+-->
 <hr width=25%;> 
 </details>
 <details close>
