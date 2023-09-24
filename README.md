@@ -5951,7 +5951,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 -->
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>IEEE 802.11 &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5979,19 +5979,22 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 	- MIMO &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>Wireless Networks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-01/06/2023
-"update repository ./osw - PEN-210 - Wireless Networks"
+24/09/2023
+"update repository ./osw - PEN-210 - Wireless Networks - Infrastructure"
 -->
  
-- Overview &#x1F4DC; <br/>
-- Infrastructure &#x1F4DC; <br/>
+- Infrastructure &#x1F4DC; &#x2705; <br/>
+	- Basic Infrastructure &#x1F4DC; &#x2705; <br/>
+		- ``BSS`` &#x1F4DC; &#x2705; <br/>
+			- ``AP`` | Wired | ``DS`` &#x1F4DC; &#x2705; <br/>
+		- ``ESS`` &#x1F4DC; &#x2705; <br/>
 - Wireless Distribution Systems &#x1F4DC; <br/>
 - Ad-Hoc Networks &#x1F4DC; <br/>
 - Mesh Networks &#x1F4DC; <br/>
