@@ -6011,7 +6011,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 24/09/2023
-"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wi-Fi Protected Access"
+"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wi-Fi Protected Access 3"
 -->
 
 - Open Wireless Networks &#x1F4DC; &#x2705; <br/>
@@ -6027,9 +6027,10 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 			- ``CCMP`` | ``RSN`` &#x1F4DC; &#x2705; <br/> 
 				- ``AES`` &#x1F4DC; &#x2705; <br/>
 	- WPA Network Connection &#x1F4DC; &#x2705; <br/>
-	- WPA Authentication &#x1F4DC; &#x1F6A7; <br/>
-		- ``WPA Enterprise`` &#x1F4DC; &#x1F6A7; <br/>
-			- ``EAP`` &#x1F4DC; &#x1F6A7; <br/>
+	- WPA Authentication &#x1F4DC; &#x2B55; <br/>
+		- ``WPA Enterprise`` &#x1F4DC; &#x2B55; <br/>
+			- ``EAP`` &#x1F4DC; &#x2B55; <br/>
+	- Wi-Fi Protected Access 3 &#x1F4DC; &#x2B55; <br/>
 <!--
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
