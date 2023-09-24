@@ -6081,6 +6081,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F23A;
 <hr width=25%;> 
 </details>
+<hr width=35%;> 
 <details open> <!-- START - WiFi Hacking - Credit: Rene Thorup-->
     <summary><b>WiFi Hacking &#x21A9;</b></summary>
 <details open>
@@ -6100,8 +6101,22 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 		- Airodump-ng &#x1F52C; &#x2705; <br/>
 	- Aireplay-ng &#x1F4DC; &#x2705; <br/>
 		- Aireplay-ng &#x1F52C; &#x274C; <br/>
+<hr width=25%;> 
+</details>
+<details open>
+    <summary><b>Deauthentication Attacks &#x21A9;</b></summary>
 <!--
-- xxx &#x1F4DC; &#x2705; <br/>
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+24/09/2023
+"update repository ./osw - PEN-210 - Deauthentication-Attacks"
+-->
+ 
+- Deauthentication Attacks &#x1F4DC; &#x2705; <br/>
+	- Deauthentication Attacks &#x1F52C; &#x274C; <br/>
+<!--
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
@@ -6116,6 +6131,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 <hr width=25%;> 
 </details>
 </details> <!-- END - WiFi Hacking - Credit: Rene Thorup-->
+<hr width=35%;>
 <details close>
     <summary><b>Aircrack-ng Essentials &#x21A9;</b></summary>
 <!--
