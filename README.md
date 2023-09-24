@@ -6084,7 +6084,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 <hr width=35%;> 
 <details open> <!-- START - WiFi Hacking - Credit: Rene Thorup-->
     <summary><b>WiFi Hacking &#x21A9;</b></summary>
-<details open>
+<details close>
     <summary><b>Aircrack-ng 101 &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6103,7 +6103,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 		- Aireplay-ng &#x1F52C; &#x274C; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Deauthentication Attacks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6118,6 +6118,31 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 	- Deauthentication Attacks &#x1F52C; &#x274C; <br/>
 <!--
 - xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+-->
+<hr width=25%;> 
+</details>
+<details open>
+    <summary><b>WEP Protected Network with Clients &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+24/09/2023
+"update repository ./osw - PEN-210 - WEP Protected Network with Clients - Steps and Setup"
+-->
+
+- Steps and Setup &#x1F4DC; &#x2705; <br/>
+<!--
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
