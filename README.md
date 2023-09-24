@@ -6011,15 +6011,26 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 24/09/2023
-"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wired Equivalent Privacy"
+"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wi-Fi Protected Access"
 -->
 
 - Open Wireless Networks &#x1F4DC; &#x2705; <br/>
 - Wired Equivalent Privacy &#x1F4DC; &#x2705; <br/>
 	- RC4 &#x1F4DC; &#x2705; <br/>
 	- WEP Authentication &#x1F4DC; &#x2705; <br/>
+- Wi-Fi Protected Access &#x1F4DC; &#x2705; <br/>
+	- WPA Ciphers &#x1F4DC; &#x2705; <br/>
+		- ``WPA1`` &#x1F4DC; &#x2705; <br/>
+			- ``TKIP`` &#x1F4DC; &#x2705; <br/>
+				- ``WEP`` &#x1F4DC; &#x2705; <br/>
+		- ``WPA2`` &#x1F4DC; &#x2705; <br/>
+			- ``CCMP`` | ``RSN`` &#x1F4DC; &#x2705; <br/> 
+				- ``AES`` &#x1F4DC; &#x2705; <br/>
+	- WPA Network Connection &#x1F4DC; &#x2705; <br/>
+	- WPA Authentication &#x1F4DC; &#x1F6A7; <br/>
+		- ``WPA Enterprise`` &#x1F4DC; &#x1F6A7; <br/>
+			- ``EAP`` &#x1F4DC; &#x1F6A7; <br/>
 <!--
-- xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
@@ -6069,6 +6080,8 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F23A;
 <hr width=25%;> 
 </details>
+<details open> <!-- START - WiFi Hacking - Credit: Rene Thorup-->
+    <summary><b>WiFi Hacking &#x21A9;</b></summary>
 <details open>
     <summary><b>Aircrack-ng 101 &#x21A9;</b></summary>
 <!--
@@ -6098,6 +6111,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 -->
 <hr width=25%;> 
 </details>
+</details> <!-- END - WiFi Hacking - Credit: Rene Thorup-->
 <details close>
     <summary><b>Aircrack-ng Essentials &#x21A9;</b></summary>
 <!--
