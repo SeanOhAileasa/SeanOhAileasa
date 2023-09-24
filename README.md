@@ -5987,7 +5987,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 24/09/2023
-"update repository ./osw - PEN-210 - Wireless Networks - Ad-Hoc Networks"
+"update repository ./osw - PEN-210 - Wireless Networks - Mesh Networks"
 -->
  
 - Infrastructure &#x1F4DC; &#x2705; <br/>
@@ -6000,7 +6000,12 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 	- ``IBSS`` &#x1F4DC; &#x2705; <br/>
 	- Ad-Hoc Demo &#x1F4DC; &#x2705; <br/>
 		- ``Pseudo-IBSS`` &#x1F4DC; &#x2705; <br/>
-- Mesh Networks &#x1F4DC; <br/>
+- Mesh Networks &#x1F4DC; &#x2705; <br/>
+	- ``P2P`` &#x1F4DC; &#x2705; <br/>
+	- ``802.11s`` &#x1F4DC; &#x2705; <br/>
+		- ``MP`` &#x1F4DC; &#x2705; <br/>
+		- ``MAP`` &#x1F4DC; &#x2705; <br/>
+		- ``MPP`` &#x1F4DC; &#x2705; <br/>
 - Wi-Fi Direct &#x1F4DC; <br/>
 - Monitor Mode &#x1F4DC; <br/>
 <hr width=25%;> 
