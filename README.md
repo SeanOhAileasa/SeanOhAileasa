@@ -6175,7 +6175,7 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 27/09/2023
-"update repository ./osw - PEN-210 - Aircrack-ng Essentials - Airmon-ng"
+"update repository ./osw - PEN-210 - Aircrack-ng Essentials - Airodump-ng"
 -->
 
 - Airmon-ng &#x1F3A5; &#x2705; <br/>
@@ -6187,6 +6187,36 @@ Credit: Rene Thorup
 		- ``-c`` | ``--channel`` &#x1F3A5; &#x2705; <br/>
 			- ``iw dev`` &#x1F3A5; &#x2705; <br/>
 			- ``iwconfig`` &#x1F3A5; &#x2705; <br/>
+	- Airodump-ng &#x1F3A5; &#x2705; <br/>
+		- Usage &#x1F3A5; &#x2705; <br/>
+			- ``-w`` | ``--write`` &#x1F3A5; &#x2705; <br/>
+			- ``bssid`` &#x1F3A5; &#x2705; <br/>
+			- ``--channel`` &#x1F3A5; &#x2705; <br/>
+		- Sniffing with Airodump-ng &#x1F3A5; &#x2705; <br/>
+			- Fields &#x1F3A5; &#x2705; <br/>
+				- ``Space`` | ``paused output`` &#x1F3A5; &#x2705; <br/>
+		- Precision Sniffing &#x1F3A5; &#x2705; <br/>
+			- ``c`` &#x1F3A5; &#x2705; <br/>
+			- ``--bssid`` &#x1F3A5; &#x2705; <br/>
+		- Airodump-ng Output Files &#x1F3A5; &#x2705; <br/>
+			- ``--output-format`` | Comma-separated &#x1F3A5; &#x2705; <br/>
+				- ``pcap`` &#x1F3A5; &#x2705; <br/>
+				- ``csv`` &#x1F3A5; &#x2705; <br/>
+				- ``kismet`` | Legacy CSV &#x1F3A5; &#x2705; <br/>
+				- ``netxml`` | Kismet Legacy NetXML &#x1F3A5; &#x2705; <br/>
+				- ``logcsv`` &#x1F3A5; &#x2705; <br/>
+		- Airodump-ng Interactive Mode &#x1F3A5; &#x2705; <br/>
+			- ``Space`` | ``paused output`` &#x1F3A5; &#x2705; <br/>
+			- ``Tab`` | Scrolling AP List &#x1F3A5; &#x2705; <br/>
+			- ``M`` | Color Options &#x1F3A5; &#x2705; <br/>
+			- ``A`` | Display Options &#x1F3A5; &#x2705; <br/>
+				- ``AP`` | ``STA`` | ``MAC`` &#x1F3A5; &#x2705; <br/>
+				- ``display ap only`` &#x1F3A5; &#x2705; <br/>
+				- ``display sta only`` &#x1F3A5; &#x2705; <br/>
+			- ``S`` | Sorting Options &#x1F3A5; &#x2705; <br/>
+			- ``I`` | Invert Sorting &#x1F3A5; &#x2705; <br/>
+				- ``D`` | Reset Default &#x1F3A5; &#x2705; <br/>
+					- ``PWD`` &#x1F3A5; &#x2705; <br/>
 <!--
 - Airodump-ng &#x1F3A5; <br/>
 - Aireplay-ng &#x1F3A5; <br/>
