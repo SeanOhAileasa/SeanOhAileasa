@@ -4462,7 +4462,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 ### &#x1F4CC; OffSec
 
 <details close>
-    <summary><b>PEN-100 &#x21A9;</b></summary><br/>
+    <summary><b><font size="5">PEN-100</font> &#x21A9;</b></summary><br/>
 <!--
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -4818,7 +4818,7 @@ xx/04/2023
 <hr width=33%;> <!-- -->
 
 <details close>
-    <summary><b>PEN-103 &#x21A9;</b></summary><br/>
+    <summary><b><font size="5">PEN-103</font> &#x21A9;</b></summary><br/>
 <details close>
     <summary><b>Kali Linux Revealed &#x21A9;</b></summary>
 <!--
@@ -5032,7 +5032,7 @@ xx/04/2023
 <hr width=33%;> <!-- -->
 
 <details close>
-    <summary><b>PEN-200 &#x21A9;</b></summary><br/>
+    <summary><b><font size="5">PEN-200</font> &#x21A9;</b></summary><br/>
 <details open>
     <summary><b>Penetration Testing with Kali Linux &#x21A9;</b></summary>
 <!--
@@ -5550,7 +5550,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 <hr width=33%;> <!-- -->
 
 <details close>
-    <summary><b>WEB-100 &#x21A9;</b></summary><br/>
+    <summary><b><font size="5">WEB-100</font> &#x21A9;</b></summary><br/>
 
 <details close>
     <summary><b>JavaScript Basics &#x21A9;</b></summary>
@@ -5852,7 +5852,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 <hr width=33%;> <!-- -->
 
 <details close>
-    <summary><b>SOC-100 &#x21A9;</b></summary><br/>
+    <summary><b><font size="5">SOC-100</font> &#x21A9;</b></summary><br/>
 <!-- "OffSec SOC-100 - Status: Pass." -->
 <details open>
     <summary><b>Enterprise Network Architecture &#x21A9;</b></summary>
@@ -5918,7 +5918,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 <hr width=33%;> <!-- -->
 
 <details open>
-    <summary><b>PEN-210 &#x21A9;</b></summary><br/>
+    <summary><b><font size="5">PEN-210</font> &#x21A9;</b></summary><br/>
 
 <details close>
     <summary><b>Concepts &#x21A9;</b></summary>
@@ -6003,7 +6003,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Monitor Mode &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Wi-Fi Encryption &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6082,7 +6082,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 <hr width=25%;> 
 </details>
 <hr width=35%;> 
-<details open> <!-- START - WiFi Hacking - Credit: Rene Thorup-->
+<details close> <!-- START - WiFi Hacking - Credit: Rene Thorup-->
     <summary><b>WiFi Hacking &#x21A9;</b></summary>
 <details close>
     <summary><b>Aircrack-ng 101 &#x21A9;</b></summary>
@@ -6167,20 +6167,27 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 Credit: Rene Thorup
 </details> <!-- END - WiFi Hacking - Credit: Rene Thorup-->
 <hr width=35%;>
-<details close>
+<details open>
     <summary><b>Aircrack-ng Essentials &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-16/09/2023
-"update repository ./osw - PEN-210 - Aircrack-ng Essentials"
+27/09/2023
+"update repository ./osw - PEN-210 - Aircrack-ng Essentials - Airmon-ng"
 -->
 
-&#x1F23A;
+- Airmon-ng &#x1F3A5; &#x2705; <br/>
+	- Airmon-ng check &#x1F3A5; &#x2705; <br/>
+		- ``kill`` &#x1F3A5; &#x2705; <br/>
+	- Airmon-ng start &#x1F3A5; &#x2705; <br/>
+		- ``_____mon`` &#x1F3A5; &#x2705; <br/>
+	- Airmon-ng stop &#x1F3A5; &#x2705; <br/>
+		- ``-c`` | ``--channel`` &#x1F3A5; &#x2705; <br/>
+			- ``iw dev`` &#x1F3A5; &#x2705; <br/>
+			- ``iwconfig`` &#x1F3A5; &#x2705; <br/>
 <!--
-- Airmon-ng &#x1F3A5; <br/>
 - Airodump-ng &#x1F3A5; <br/>
 - Aireplay-ng &#x1F3A5; <br/>
 - Aircrack-ng &#x1F3A5; <br/>
