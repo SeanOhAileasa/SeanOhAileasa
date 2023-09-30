@@ -1,5 +1,5 @@
 <details open> 
-	<summary><h3>'22/'23 Cybersecurity&nbsp;&nbsp;&#x21A9;</h3></summary>
+	<summary><h3>'22/'23 Cybersecurity&nbsp;&nbsp;&#x21A9;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x1F513;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master)&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
@@ -6174,8 +6174,8 @@ Credit: Rene Thorup
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-27/09/2023
-"update repository ./osw - PEN-210 - Aircrack-ng Essentials - Airodump-ng"
+30/09/2023
+"update repository ./osw - PEN-210 - Aircrack-ng Essentials - Aireplay-ng"
 -->
 
 - Airmon-ng &#x1F3A5; &#x2705; <br/>
@@ -6217,12 +6217,42 @@ Credit: Rene Thorup
 			- ``I`` | Invert Sorting &#x1F3A5; &#x2705; <br/>
 				- ``D`` | Reset Default &#x1F3A5; &#x2705; <br/>
 					- ``PWD`` &#x1F3A5; &#x2705; <br/>
+	- Aireplay-ng &#x1F3A5; &#x2705; <br/>
+		- ``Attack modes`` | ``WEP Specific`` &#x1F3A5; &#x2705; <br/>
+			- ``--deauth`` &#x1F3A5; &#x2705; <br/>
+				- deauthenticate ``1`` or all stations (``-0``) &#x1F3A5; &#x2705; <br/>
+			- ``--fakeauth`` &#x1F3A5; &#x2705; <br/>
+				- fake authentication with AP (``-1``) &#x1F3A5; &#x2705; <br/>
+			- ``--interactive`` &#x1F3A5; &#x2705; <br/>
+				- interactive frame selection (``-2``) &#x1F3A5; &#x2705; <br/>
+			- ``--arpreplay`` &#x1F3A5; &#x2705; <br/>
+				- standard ARP-request replay (``-3``) &#x1F3A5; &#x2705; <br/>
+			- ``--chopchop`` &#x1F3A5; &#x2705; <br/>
+				- decrypt/chopchop WEP packet (``-4``) &#x1F3A5; &#x2705; <br/>
+			- ``--fragment`` &#x1F3A5; &#x2705; <br/>
+				- generates valid keystream (``-5``) &#x1F3A5; &#x2705; <br/>
+			- ``--caffe-latte`` &#x1F3A5; &#x2705; <br/>
+				- query a client for new IVs (``-6``) &#x1F3A5; &#x2705; <br/>
+			- ``--cfrag`` &#x1F3A5; &#x2705; <br/>
+				- fragments against a client (``-7``) &#x1F3A5; &#x2705; <br/>
+			- ``--migmode`` &#x1F3A5; &#x2705; <br/>
+				- attacks WPA migration mode (``-8``) &#x1F3A5; &#x2705; <br/>
+			- ``--test`` &#x1F3A5; &#x2705; <br/>
+				- tests injection and quality (``-9``) &#x1F3A5; &#x2705; <br/>
+		- ``WPA Attacks`` &#x1F3A5; &#x2705; <br/>
+			- ``Attack modes`` &#x1F3A5; &#x2705; <br/>
+				- ``-0`` | ``--deauth`` &#x1F3A5; &#x2705; <br/>
+				- ``-9`` | ``--test`` &#x1F3A5; &#x2705; <br/>
+		- Inject Wireless Frames < ``--deauth`` &#x1F3A5; &#x2705; <br/>
+			- Injection Test &#x1F3A5; &#x2705; <br/>
+				- ``SSID`` &#x1F3A5; &#x2705; <br/>
+				- ``Card-to-Card`` | Robust Check &#x1F3A5; &#x2705; <br/>
+					- ``-i`` &#x1F3A5; &#x2705; <br/>
+						- ``wlan1mon`` | ``wlan0mon`` &#x1F3A5; &#x2705; <br/>
 <!--
-- Airodump-ng &#x1F3A5; <br/>
-- Aireplay-ng &#x1F3A5; <br/>
-- Aircrack-ng &#x1F3A5; <br/>
-- Airdecap-ng &#x1F3A5; <br/>
-- Airgraph-ng &#x1F3A5; <br/>
+- Aircrack-ng &#x1F3A5; &#x2705; <br/>
+- Airdecap-ng &#x1F3A5; &#x2705; <br/>
+- Airgraph-ng &#x1F3A5; &#x2705; <br/>
 -->
 <hr width=25%;> 
 </details>
@@ -6238,12 +6268,15 @@ Credit: Rene Thorup
 "update repository ./osw - PEN-210 - Cracking Authentication Hashes - Aircrack-ng Suite"
 -->
 
+&#x1F23A;
+<!--
 - Aircrack-ng Suite &#x1F3A5; <br/>
 - Custom Wordlists with Aircrack-ng &#x1F3A5; <br/>
 - Hashcat &#x1F3A5; <br/>
 - Airolib-ng &#x1F3A5; <br/>
 - coWPAtty &#x1F3A5; <br/> 
 - Aircrack-ng Suite &#x1F3A5; <br/>
+-->
 <hr width=25%;> 
 </details>
 </details> <!-- PEN-210 -->
@@ -6287,7 +6320,7 @@ Credit: Rene Thorup
 -->
 
 <details close> 
-	<summary><h3>'20/'22 Data Analytics &#x21A9;</h3></summary>
+	<summary><h3>'20/'22 Data Analytics &#x21A9;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x1F512;</h3></summary>
 
 | **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade |
 | :--------------------------------------------------------------|:-------:|:-------:|
