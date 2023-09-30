@@ -5923,6 +5923,8 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 <details close>
     <summary><b>Concepts &#x21A9;</b></summary>
 <!--
+from IPython.display import display,HTML
+display(HTML("<style>.container { width:100% !important; }</style>"))
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
@@ -6167,7 +6169,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 Credit: Rene Thorup
 </details> <!-- END - WiFi Hacking - Credit: Rene Thorup-->
 <hr width=35%;>
-<details open>
+<details close>
     <summary><b>Aircrack-ng Essentials &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6276,26 +6278,20 @@ Credit: Rene Thorup
 				- ``g`` | Graph | ``CPG`` &#x1F3A5; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>Cracking Authentication Hashes &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-23/07/2023
-"update repository ./osw - PEN-210 - Cracking Authentication Hashes"
+30/09/2023
 "update repository ./osw - PEN-210 - Cracking Authentication Hashes - Aircrack-ng Suite"
 -->
 
-&#x1F23A;
+- Aircrack-ng Suite &#x1F3A5; &#x2705; <br/>
 <!--
-- Aircrack-ng Suite &#x1F3A5; <br/>
-- Custom Wordlists with Aircrack-ng &#x1F3A5; <br/>
-- Hashcat &#x1F3A5; <br/>
-- Airolib-ng &#x1F3A5; <br/>
-- coWPAtty &#x1F3A5; <br/> 
-- Aircrack-ng Suite &#x1F3A5; <br/>
+- &#x1F3A5; &#x2705; <br/>
 -->
 <hr width=25%;> 
 </details>
