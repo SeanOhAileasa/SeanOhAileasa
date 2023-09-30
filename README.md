@@ -1,5 +1,5 @@
 <details open> 
-	<summary><h3>'22/'23 Cybersecurity&nbsp;&nbsp;&#x21A9;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x1F513;</h3></summary>
+	<summary><h3>'22/'23 Cybersecurity&nbsp;&nbsp;&#x21A9;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x1F513;&#x27A1;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master)&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
@@ -6175,7 +6175,7 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 30/09/2023
-"update repository ./osw - PEN-210 - Aircrack-ng Essentials - Aireplay-ng"
+"update repository ./osw - PEN-210 - Aircrack-ng Essentials - Aircrack-ng"
 -->
 
 - Airmon-ng &#x1F3A5; &#x2705; <br/>
@@ -6249,8 +6249,11 @@ Credit: Rene Thorup
 				- ``Card-to-Card`` | Robust Check &#x1F3A5; &#x2705; <br/>
 					- ``-i`` &#x1F3A5; &#x2705; <br/>
 						- ``wlan1mon`` | ``wlan0mon`` &#x1F3A5; &#x2705; <br/>
+	- Aircrack-ng &#x1F3A5; &#x2705; <br/>
+		- Benchmark &#x1F3A5; &#x2705; <br/>
+			- ``-S`` | Speed Test &#x1F3A5; &#x2705; <br/>
+
 <!--
-- Aircrack-ng &#x1F3A5; &#x2705; <br/>
 - Airdecap-ng &#x1F3A5; &#x2705; <br/>
 - Airgraph-ng &#x1F3A5; &#x2705; <br/>
 -->
@@ -6320,7 +6323,7 @@ Credit: Rene Thorup
 -->
 
 <details close> 
-	<summary><h3>'20/'22 Data Analytics &#x21A9;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x1F512;</h3></summary>
+	<summary><h3>'20/'22 Data Analytics &#x21A9;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#x1F512;&#x27A1;</h3></summary>
 
 | **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade |
 | :--------------------------------------------------------------|:-------:|:-------:|
