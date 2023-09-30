@@ -6175,7 +6175,7 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 30/09/2023
-"update repository ./osw - PEN-210 - Aircrack-ng Essentials - Airdecap-ng"
+"update repository ./osw - PEN-210 - Aircrack-ng Essentials - Airgraph-ng"
 -->
 
 - Airmon-ng &#x1F3A5; &#x2705; <br/>
@@ -6250,16 +6250,30 @@ Credit: Rene Thorup
 					- ``-i`` &#x1F3A5; &#x2705; <br/>
 						- ``wlan1mon`` | ``wlan0mon`` &#x1F3A5; &#x2705; <br/>
 	- Aircrack-ng &#x1F3A5; &#x2705; <br/>
+		- Crack &#x1F3A5; &#x2705; <br/>
+			- ``WEP`` | ``WPA1`` | ``WPA2`` &#x1F3A5; &#x2705; <br/>
+				- ``PSK`` &#x1F3A5; &#x2705; <br/>
 		- Benchmark &#x1F3A5; &#x2705; <br/>
 			- ``-S`` | Speed Test &#x1F3A5; &#x2705; <br/>
 	- Airdecap-ng &#x1F3A5; &#x2705; <br/>
-		- Remove Wireless Headers | ``.cap`` &#x1F3A5; &#x2705; <br/>
+		- Filter | ``.cap`` &#x1F3A5; &#x2705; <br/>
 			- ``-b`` | ``AP`` | ``BSSID`` &#x1F3A5; &#x2705; <br/>
-				- Packets | ``_dec.cap`` | Decrypted &#x1F3A5; &#x2705; <br/>
-<!--
-- Airdecap-ng &#x1F3A5; &#x2705; <br/>
-- Airgraph-ng &#x1F3A5; &#x2705; <br/>
--->
+				- Packets | ``_dec.cap`` | Decrypt &#x1F3A5; &#x2705; <br/>
+	- Airgraph-ng &#x1F3A5; &#x2705; <br/>
+		- ``ristretto`` | ``.png`` | Image App &#x1F3A5; &#x2705; <br/>	
+			- ``CAPR`` | Client-AP-Relationship &#x1F3A5; &#x2705; <br/>
+				- ``AP`` | Encryption &#x1F3A5; &#x2705; <br/>
+					- ``WEP`` | Yellow &#x1F3A5; &#x2705; <br/>
+					- ``WPA`` | Green &#x1F3A5; &#x2705; <br/>
+					- ``Open`` | Red &#x1F3A5; &#x2705; <br/>
+					- ``Unk`` | Black &#x1F3A5; &#x2705; <br/>
+				- ``-i`` | Airodump-ng | ``.csv`` &#x1F3A5; &#x2705; <br/>
+				- ``-o`` | ``.png`` &#x1F3A5; &#x2705; <br/>
+				- ``g`` | Graph | ``CAPR`` &#x1F3A5; &#x2705; <br/>
+			- ``CPG`` | Client-Probe-Graph &#x1F3A5; &#x2705; <br/>
+				- ``-i`` | Airodump-ng | ``.csv`` &#x1F3A5; &#x2705; <br/>
+				- ``-o`` | ``.png`` &#x1F3A5; &#x2705; <br/>
+				- ``g`` | Graph | ``CPG`` &#x1F3A5; &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <details close>
