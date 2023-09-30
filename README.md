@@ -6286,7 +6286,7 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 30/09/2023
-"update repository ./osw - PEN-210 - Cracking Authentication Hashes - Custom Wordlists with Aircrack-ng"
+"update repository ./osw - PEN-210 - Cracking Authentication Hashes - Hashcat"
 -->
 
 - Aircrack-ng Suite &#x1F3A5; &#x2705; <br/>
@@ -6296,6 +6296,11 @@ Credit: Rene Thorup
 	- Using Aircrack-ng with JTR &#x1F3A5; <br/>
 	- Using Aircrack-ng with Crunch &#x1F3A5; <br/>
 	- Using Aircrack-ng with RSMangler &#x1F3A5; <br/>
+- Hashcat &#x1F3A5; <br/>
+	- Device Properties &#x1F3A5; <br/>
+	- Hashcat Benchmark &#x1F3A5; <br/>
+	- Hashcat Utilities &#x1F3A5; <br/>
+	- Passphrase Cracking with Hashcat &#x1F3A5; <br/>
 <!--
 - &#x1F3A5; &#x2705; <br/>
 -->
