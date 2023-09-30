@@ -6286,10 +6286,16 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 30/09/2023
-"update repository ./osw - PEN-210 - Cracking Authentication Hashes - Aircrack-ng Suite"
+"update repository ./osw - PEN-210 - Cracking Authentication Hashes - Custom Wordlists with Aircrack-ng"
 -->
 
 - Aircrack-ng Suite &#x1F3A5; &#x2705; <br/>
+- Custom Wordlists with Aircrack-ng &#x1F3A5; <br/>
+	- Using Aircrack-ng with John the Ripper &#x1F3A5; <br/>
+	- Editing John the Ripper Rules &#x1F3A5; <br/>
+	- Using Aircrack-ng with JTR &#x1F3A5; <br/>
+	- Using Aircrack-ng with Crunch &#x1F3A5; <br/>
+	- Using Aircrack-ng with RSMangler &#x1F3A5; <br/>
 <!--
 - &#x1F3A5; &#x2705; <br/>
 -->
