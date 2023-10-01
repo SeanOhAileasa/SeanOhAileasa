@@ -6363,10 +6363,11 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 01/10/2023
-"update repository ./osw - PEN-210 - Rogue Access Points - Basics of Rogue APs"
+"update repository ./osw - PEN-210 - Rogue Access Points - Discovery"
 -->
 
 - Basics of Rogue APs &#x1F3A5; <br/>
+- Discovery &#x1F3A5; <br/>
 <!--
 - &#x1F3A5; &#x2705; <br/>
 -->
