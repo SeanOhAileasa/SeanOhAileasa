@@ -6013,7 +6013,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 01/10/2023
-"update repository ./osw - PEN-210 - Wi-Fi Encryption - Open Wireless Networks"
+"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wired Equivalent Privacy"
 -->
 
 - Open Wireless Networks | ~~Encryption~~ &#x2705; <br/>
@@ -6023,9 +6023,51 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- ``STA`` | Association Request | ``AP`` &#x2705; <br/>
 		- ``AP`` | Association Response &#x2705; <br/>
 			- ``STA`` | Capability | ``AP`` &#x2705; <br/>
-- ``WEP`` | Wired Equivalent Privacy &#x1F4DC; &#x2705; <br/>
-	- RC4 &#x1F4DC; &#x2705; <br/>
-	- WEP Authentication &#x1F4DC; &#x2705; <br/>
+	- Eavesdropping &#x2705; <br/>
+- ``WEP`` | Wired Equivalent Privacy &#x2705; <br/>
+	- ``RC4`` | Rivest Cipher 4 | Encrypt Traffic &#x2705; <br/>
+		- Symmetric Cipher &#x2705; <br/>
+			- Key | Encrypt/Decrypt &#x2705; <br/>
+				- ``XOR`` &#x2705; <br/>
+			- ``KSA`` | Key Scheduling Algorithm &#x2705; <br/>
+				- Initialise State Table | IV | WEP Key &#x2705; <br/>
+			- ``PRGA`` | Pseudo-Random Generation Algorithm &#x2705; <br/>
+				- Create Keystream &#x2705; <br/>
+		- **Encryption** &#x2705; <br/>
+			- Concat IV / WEP Key &#x2705; <br/>
+				- Run KSA / PRGA | Keystream &#x2705; <br/>
+			- ``ICV`` | Integrity Check Value &#x2705; <br/>
+				- Concat Msg &#x2705; <br/>
+			- ``XOR`` | ``p`` + ``CRC32`` | Keystream | ``c`` &#x2705; <br/>
+				- CRC32 Checksums | Message Integrity &#x2705; <br/>
+			- Packet &#x2705; <br/>
+				- ``IV`` &#x2705; <br/>
+				- Key ID &#x2705; <br/>
+				- Encrypted Msg &#x2705; <br/>
+				- ICV is CRC32 | ``p`` &#x2705; <br/>
+		- **Decryption** &#x2705; <br/>
+			- Concat IV / Key ID &#x2705; <br/>
+				- Run KSA / PRGA | Keystream &#x2705; <br/>
+			- ``XOR`` | ``c`` | Keystream &#x2705; <br/>
+				- ``Msg`` + ``ICV`` &#x2705; <br/>
+			- Compare | Decrypted ICV &#x2705; <br/>
+				- Packet &#x2705; <br/>
+					- ``=`` | Frame Intact &#x2705; <br/>
+					- ``!=`` | Discard Frame &#x2705; <br/>
+						- Packet | Fake / Corrupted &#x2705; <br/>
+	- WEP Authentication &#x2705; <br/>
+		- ``Open`` | Trival / Common &#x2705; <br/>
+			- ~~Credentials~~ &#x2705; <br/>
+				- Authentication | ``AP`` &#x2705; <br/>
+			- ``=`` | Correct Key &#x2705; <br/>
+				- Encrypt / Decrypt &#x2705; <br/>
+		- ``Shared`` | Uncommon &#x2705; <br/>
+			- Challenge Txt Sent | ``STA`` &#x2705; <br/>
+				- Encrypt | WEP Key | ``STA`` &#x2705; <br/>
+					- Sent | ``AP`` | Verify &#x2705; <br/>
+				- Decrypt | ``AP`` &#x2705; <br/>
+					- Match | Clear Challenge Txt &#x2705; <br/>
+						- ``STA`` | Associate | ``AP`` &#x2705; <br/>
 - ``WPA`` | Wi-Fi Protected Access &#x1F4DC; &#x2705; <br/>
 	- ``WEP`` | Flaws &#x1F4DC; &#x2705; <br/>
 		- ``802.11`` &#x1F4DC; &#x2705; <br/>
