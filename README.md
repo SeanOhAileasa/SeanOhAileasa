@@ -6305,9 +6305,25 @@ Credit: Rene Thorup
 	- Using Airolib-ng &#x1F3A5; <br/>
 - coWPAtty &#x1F3A5; <br/>
 	- Rainbow Table Mode &#x1F3A5; <br/>
-
 <!--
 - &#x1F3A5; &#x2705; <br/>
+-->
+<hr width=25%;> 
+</details>
+<details open>
+    <summary><b>Attacking WPS Networks &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+01/10/2023
+"update repository ./osw - PEN-210 - Attacking WPS Networks - WPS Technology Details"
+-->
+
+- WPS Technology Details &#x1F4DC; &#x2705; <br/>
+<!--
+- &#x1F4DC; &#x2705; <br/>
 -->
 <hr width=25%;> 
 </details>
