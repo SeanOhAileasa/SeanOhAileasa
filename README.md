@@ -6278,7 +6278,7 @@ Credit: Rene Thorup
 				- ``g`` | Graph | ``CPG`` &#x1F3A5; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Cracking Authentication Hashes &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6318,10 +6318,11 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 01/10/2023
-"update repository ./osw - PEN-210 - Attacking WPS Networks - WPS Technology Details"
+"update repository ./osw - PEN-210 - Attacking WPS Networks - WPS Vulnerabilities"
 -->
 
 - WPS Technology Details &#x1F4DC; &#x2705; <br/>
+- WPS Vulnerabilities &#x1F4DC; &#x2705; <br/>
 <!--
 - &#x1F4DC; &#x2705; <br/>
 -->
