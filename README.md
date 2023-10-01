@@ -6318,11 +6318,38 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 01/10/2023
-"update repository ./osw - PEN-210 - Attacking WPS Networks - WPS Vulnerabilities"
+"update repository ./osw - PEN-210 - Attacking WPS Networks - WPS Attack"
 -->
 
 - WPS Technology Details &#x1F4DC; &#x2705; <br/>
 - WPS Vulnerabilities &#x1F4DC; &#x2705; <br/>
+- WPS Attack &#x1F4DC; &#x2705; <br/>
+	- AP Info &#x1F4DC; &#x2705; <br/>
+		- ``wash`` &#x1F4DC; &#x2705; <br/>
+			- ``-i`` | Default Scans 2.4GHz &#x1F4DC; &#x2705; <br/>
+				- ``-5`` | Scans 5GHz &#x1F4DC; &#x2705; <br/>
+		- ``airodump-ng --wps`` &#x1F4DC; &#x2705; <br/>
+	- AP Attack &#x1F4DC; &#x2705; <br/>
+		- ``reaver`` &#x1F4DC; &#x2705; <br/>
+			- ``-b`` | AP BSSID &#x1F4DC; &#x2705; <br/>
+			- ``-i`` | Monitor Interface &#x1F4DC; &#x2705; <br/>
+			- ``-vv`` | Verbose &#x1F4DC; &#x2705; <br/>
+			- ``-c`` | ``wash`` &#x1F4DC; &#x2705; <br/>
+			- ``-K`` | ``pixiewps`` &#x1F4DC; &#x2705; <br/>
+		- ``bully`` &#x1F4DC; &#x2705; <br/>
+	- Implementation Variations &#x1F4DC; &#x2705; <br/>
+		- ``reaver`` | ``bully`` &#x1F4DC; &#x2705; <br/>
+			- ``-p`` | Empty PIN &#x1F4DC; &#x2705; <br/>
+		- ``airgeddon`` &#x1F4DC; &#x2705; <br/>
+			- Default PIN | BSSID [1st x3 Bytes] &#x1F4DC; &#x2705; <br/>
+				- ``known_pins.db`` | ``source`` ec &#x1F4DC; &#x2705; <br/>
+	- Overcoming Unexpected Errors &#x1F4DC; &#x2705; <br/>
+		- Attack Choice &#x1F4DC; &#x2705; <br/>
+		- WPS Transaction Failure &#x1F4DC; &#x2705; <br/>
+		- ACK Issues &#x1F4DC; &#x2705; <br/>
+		- WPS Lock &#x1F4DC; &#x2705; <br/>
+			- DOS | ``mdk4`` &#x1F4DC; &#x2705; <br/>
+				- Reboot &#x1F4DC; &#x2705; <br/>
 <!--
 - &#x1F4DC; &#x2705; <br/>
 -->
