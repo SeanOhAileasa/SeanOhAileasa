@@ -6456,16 +6456,16 @@ Credit: Rene Thorup
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-01/10/2023
-"update repository ./osw - PEN-210 - Rogue Access Points - Discovery"
+07/10/2023
+"update repository ./osw - PEN-210 - Rogue Access Points - Basics of Rogue APs"
 -->
 
-- Basics of Rogue APs &#x1F3A5; <br/>
+- Basics of Rogue APs &#x1F3A5; &#x2705; <br/>
 - Discovery &#x1F3A5; <br/>
+<!--
 - Creating a Rogue AP &#x1F3A5; <br/>
 	- Building the hostapd-mana Configuration &#x1F3A5; <br/>
 	- Capturing Handshakes &#x1F3A5; <br/>
-<!--
 - &#x1F3A5; &#x2705; <br/>
 -->
 <hr width=25%;> 
