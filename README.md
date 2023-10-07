@@ -6012,8 +6012,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-01/10/2023
-"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wired Equivalent Privacy"
+07/10/2023
+"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wi-Fi Protected Access"
 -->
 
 - Open Wireless Networks | ~~Encryption~~ &#x2705; <br/>
@@ -6068,21 +6068,65 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 				- Decrypt | ``AP`` &#x2705; <br/>
 					- Match | Clear Challenge Txt &#x2705; <br/>
 						- ``STA`` | Associate | ``AP`` &#x2705; <br/>
-- ``WPA`` | Wi-Fi Protected Access &#x1F4DC; &#x2705; <br/>
-	- ``WEP`` | Flaws &#x1F4DC; &#x2705; <br/>
-		- ``802.11`` &#x1F4DC; &#x2705; <br/>
-	- WPA Ciphers &#x1F4DC; &#x2705; <br/>
-		- ``WPA1`` &#x1F4DC; &#x2705; <br/>
-			- ``TKIP`` &#x1F4DC; &#x2705; <br/>
-				- ``WEP`` &#x1F4DC; &#x2705; <br/>
-		- ``WPA2`` &#x1F4DC; &#x2705; <br/>
-			- ``CCMP`` | ``RSN`` &#x1F4DC; &#x2705; <br/> 
-				- ``AES`` &#x1F4DC; &#x2705; <br/>
-	- WPA Network Connection &#x1F4DC; &#x2705; <br/>
-	- WPA Authentication &#x1F4DC; &#x2B55; <br/>
-		- ``WPA Enterprise`` &#x1F4DC; &#x2B55; <br/>
-			- ``EAP`` &#x1F4DC; &#x2B55; <br/>
-	- Wi-Fi Protected Access 3 &#x1F4DC; &#x2B55; <br/>
+- ``WPA`` | Wi-Fi Protected Access &#x2705; <br/>
+	- Encryption &#x2705; <br/>
+		- **Personal** &#x2705; <br/>
+			- Authentication &#x2705; <br/>
+				- ``PSK`` | ``WPA-PSK`` &#x2705; <br/>
+					- Passphrase | ``*`` | Network Peers &#x2705; <br/>
+		- **Enterprise** &#x2705; <br/>
+			- Authentication &#x2705; <br/>
+				- ``802.1X`` &#x2705; <br/>
+				- Radius Server | ``AAA`` &#x2705; <br/>
+	- WPA Ciphers | Encryption Protocols | Link Layer &#x2705; <br/>
+		- ``WPA1`` | ``TKIP`` &#x2705; <br/>
+			- ``WEP`` | Legacy &#x2705; <br/>
+		- ``WPA2`` | ``CCMP`` &#x2705; <br/>
+			- Robust Security Network | ``RSN`` &#x2705; <br/>
+				- ``AES`` | ~~Legacy~~ &#x2705; <br/>
+	- WPA Network Connection &#x2705; <br/>
+		- **Enterprise** &#x2705; <br/>
+			- Agreement | Security Protocols &#x2705; <br/>
+			- Authentication &#x2705; <br/>
+			- Key Distribution / Verification &#x2705; <br/>
+			- Data Encryption / Integrity &#x2705; <br/>
+		- **Personal** | ``WPA-PSK`` &#x2705; <br/>
+			- ~~Authentication~~ | 3-Steps &#x2705; <br/>
+		- ``STA`` | Probe &#x2705; <br/>
+			- Information | Network &#x2705; <br/>
+				- Join | Open Authentication &#x2705; <br/>
+					- Association | Ciphers &#x2705; <br/>
+	- WPA Authentication | ``WPA Enterprise`` &#x2705; <br/>
+		- ``EAP`` &#x2705; <br/>
+			- Implementation &#x2705; <br/>
+				- ``EAP-TLS`` &#x2705; <br/>
+					- Client / Server Certificates &#x2705; <br/>
+				- ``EAP-TTLS`` &#x2705; <br/>
+				- ``PEAP`` | Hybrid Authentication &#x2705; <br/>
+					- Required Server Certificate &#x2705; <br/>
+			- ``STA`` | Authentication Mode | Supplicant &#x2705; <br/>
+				- Messages | Authenticator / Supplicant &#x2705; <br/>
+					- Master Key | ``MK`` | Generation &#x2705; <br/>
+			- ``AP`` | Authenticator | Success &#x2705; <br/>
+				- ``Radius Accept`` / ``MK`` &#x2705; <br/>
+					- EAP Msg | ``STA`` | Success &#x2705; <br/>
+	- ``WPA`` | Key Distribution / Verification &#x2705; <br/>
+		- Keys &#x2705; <br/>
+			- Authentication &#x2705; <br/>
+			- Message Integrity &#x2705; <br/>
+			- Message Encryption &#x2705; <br/>
+		- Handshake | 4-way &#x2705; <br/>
+			- Exchange &#x2705; <br/>
+				- ``PTK`` | Pairwise Transient Key &#x2705; <br/>
+					- Unicast &#x2705; <br/>
+				- ``GTK`` | Group Temporal Key &#x2705; <br/>
+					- Multicast/Broadcast &#x2705; <br/>
+		- Group Key Handshake | After 4-way &#x2705; <br/>
+			- Renew | ``GTK`` &#x2705; <br/>
+	- ``WPA`` | Data Encryption / Integrity &#x2705; <br/>
+		- ``TKIP`` | Temporal Key Integrity Protocol &#x2705; <br/>
+		- ``CCMP`` | Counter Mode with CBC-MAC &#x2705; <br/>
+		- ``WRAP`` | Wireless Robust Authenticated Protocol &#x2705; <br/>
 <!--
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
@@ -6418,6 +6462,9 @@ Credit: Rene Thorup
 
 - Basics of Rogue APs &#x1F3A5; <br/>
 - Discovery &#x1F3A5; <br/>
+- Creating a Rogue AP &#x1F3A5; <br/>
+	- Building the hostapd-mana Configuration &#x1F3A5; <br/>
+	- Capturing Handshakes &#x1F3A5; <br/>
 <!--
 - &#x1F3A5; &#x2705; <br/>
 -->
