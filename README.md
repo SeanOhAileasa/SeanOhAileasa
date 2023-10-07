@@ -6457,17 +6457,32 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 07/10/2023
-"update repository ./osw - PEN-210 - Rogue Access Points - Discovery"
+"update repository ./osw - PEN-210 - Rogue Access Points - Creating a Rogue AP"
 -->
 
 - Basics of Rogue APs &#x1F3A5; &#x2705; <br/>
 - Discovery &#x1F3A5; &#x2705; <br/>
-<!--
-- Creating a Rogue AP &#x1F3A5; <br/>
-	- Building the hostapd-mana Configuration &#x1F3A5; <br/>
-	- Capturing Handshakes &#x1F3A5; <br/>
-- &#x1F3A5; &#x2705; <br/>
--->
+- Creating a Rogue AP &#x1F3A5; &#x2705; <br/>
+	- ``hostapd`` | Daemon &#x1F3A5; &#x2705; <br/>
+		- ``hostapd-mana`` | AP Creation &#x1F3A5; &#x2705; <br/> 
+			- WiFi Adapter &#x1F3A5; &#x2705; <br/>
+	- Run | ``hostapd-mana`` | ``802.11b`` | Default &#x1F3A5; &#x2705; <br/>
+		- Configuration File &#x1F3A5; &#x2705; <br/>
+			- AP Configuration | Definition &#x1F3A5; &#x2705; <br/>
+			- Capturing Handshakes | Location &#x1F3A5; &#x2705; <br/>
+	- Configuration File &#x1F3A5; &#x2705; <br/>
+		- ``interface`` &#x1F3A5; &#x2705; <br/>
+		- ``ssid`` &#x1F3A5; &#x2705; <br/>
+		- ``channel`` &#x1F3A5; &#x2705; <br/>
+		- ``ieee802.11n`` &#x1F3A5; &#x2705; <br/>
+		- ``hw_mode`` &#x1F3A5; &#x2705; <br/>
+		- ``wpa`` &#x1F3A5; &#x2705; <br/>
+		- ``wpa_key_mgmt`` &#x1F3A5; &#x2705; <br/>
+		- ``wpa_passphrase`` &#x1F3A5; &#x2705; <br/>
+		- ``wpa_pairwise`` &#x1F3A5; &#x2705; <br/>
+		- ``rsn_pairwise`` &#x1F3A5; &#x2705; <br/>
+		- ``mana_wpaout`` &#x1F3A5; &#x2705; <br/>
+	- Capturing Handshakes &#x1F3A5; &#x2705; <br/>
 <hr width=25%;> 
 </details>
 </details> <!-- PEN-210 -->
