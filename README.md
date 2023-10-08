@@ -6013,7 +6013,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 08/10/2023
-"update repository ./osw - PEN-210 - Wi-Fi Encryption - Opportunistic Wireless Encryption"
+"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wireless Protected Setup"
 -->
 
 - Open Wireless Networks | ~~Encryption~~ &#x2705; <br/>
@@ -6170,12 +6170,45 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 			- Setting | ``required`` | ~~optional~~ &#x2705; <br/>
 				- STA Public Key | Association Request &#x2705; <br/>
 				- AP Public Key | Association Response &#x2705; <br/>
-<!--
-- xxx &#x1F4DC; &#x2705; <br/>
-- xxx &#x1F4DC; &#x2705; <br/>
-- xxx &#x1F4DC; &#x2705; <br/>
-- xxx &#x1F4DC; &#x2705; <br/>
--->
+- ``WPS`` | Wireless Protected Setup &#x2705; <br/>
+	- Protocol &#x2705; <br/>
+		- ~~``ESSID``~~ | ~~Passphrase~~ &#x2705; <br/>
+	- Wi-Fi Simple Configuration | ``WPS`` | Standardise &#x2705; <br/>
+		- Support &#x2705; <br/>
+			- ``Open`` | ``WPA2`` &#x2705; <br/>
+				- ``CCMP`` | ``GCMP`` &#x2705; <br/>
+					- ~~``TKIP``~~ | Deprecated &#x2705; <br/>
+			- WPA2 Enterprise &#x2705; <br/>
+	- WPS Architecture &#x2705; <br/>
+		- Enrollee | ``AP`` | Registrar &#x2705; <br/>
+			- Interfaces &#x2705; <br/>
+				- ``E`` | Enrollee / Registrar &#x2705; <br/>
+				- ``M`` | Registrar / AP &#x2705; <br/>
+				- ``A`` | Discovery | ``IE`` | Beacons &#x2705; <br/>
+	- WPS Configuration Methods &#x2705; <br/>
+		- ``PIN`` &#x2705; <br/>
+			- Device Password &#x2705; <br/>
+		- Configuration &#x2705; <br/>
+			- In-band &#x2705; <br/>
+				- WLAN Communication &#x2705; <br/> 
+			- Out-band &#x2705; <br/>
+				- Other Channel / Method &#x2705; <br/>
+	- WPS Protocol &#x2705; <br/>
+		- Discovery &#x2705; <br/>
+			- Enrollee | AP &#x2705; <br/>
+				- Information Element | ``IE`` &#x2705; <br/>
+		- Initiate | ``802.1X`` &#x2705; <br/>
+			- Identity &#x2705; <br/>
+				- ``WFA-SimpleConfig-Enrollee-1-0`` &#x2705; <br/>
+		- Provision | Enrollee &#x2705; <br/>
+			- Message | ``M1`` | ``M8`` &#x2705; <br/>
+				- ``M1`` / ``M2`` | Input Device Password &#x2705; <br/>
+				- ``M5`` | 1st Half PIN &#x2705; <br/>
+				- ``M6`` | ``NACK`` | ~~2nd Half PIN~~ &#x2705; <br/>
+		- Disassociation &#x2705; <br/>
+			- Deauthentication &#x2705; <br/>
+				- Reconnect | Earlier Credentials &#x2705; <br/>
+	- WPS Registration Protocol Messages &#x1F6A7; <br/>
 <hr width=25%;> 
 </details>
 <details close>
