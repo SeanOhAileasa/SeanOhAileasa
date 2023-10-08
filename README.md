@@ -6005,7 +6005,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - Monitor Mode &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Wi-Fi Encryption &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6581,14 +6581,34 @@ Credit: Rene Thorup
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-07/10/2023
-"update repository ./osw - PEN-210 - Attacking WPA Enterprise - "
+08/10/2023
+"update repository ./osw - PEN-210 - Attacking WPA Enterprise - Basics"
 -->
 
-
-<!--
-&#x1F3A5; &#x2705; <br/>
--->
+- Attacking WPA Enterprise &#x1F3A5; &#x2705; <br/>
+	- Basics &#x1F3A5; &#x2705; <br/>
+		- ``EAP`` | Extensible Authentication Protocol &#x1F3A5; &#x2705; <br/>
+			- Authentication | Framework | ``RADIUS`` &#x1F3A5; &#x2705; <br/>
+				- Remote Authentication Dial-In User Service &#x1F3A5; &#x2705; <br/>
+			- ``STA`` &#x1F3A5; &#x2705; <br/>
+				- EAP Frames | Agree Authentication Scheme &#x1F3A5; &#x2705; <br/>
+					- ``AP`` | RADIUS Server | Certificates &#x1F3A5; &#x2705; <br/>
+				- Success | Result | ``PMK`` &#x1F3A5; &#x2705; <br/>
+					- Pairwise Master Key | 4-way Handshake | ~``PSK``~ &#x1F3A5; &#x2705; <br/>
+			- ``EAP-TLS`` | EAP Transport Layer Security &#x1F3A5; &#x2705; <br/>
+				- Certificates | Server / Client &#x1F3A5; &#x2705; <br/>
+					- ~~``Username / Password``~~ &#x2705; <br/>
+			- ``EAP-TTLS`` | EAP Tunneled Transport Layer Security &#x1F3A5; &#x2705; <br/>
+				- Certificates &#x1F3A5; &#x2705; <br/>
+					- ~~``Client``~~ &#x1F3A5; &#x2705; <br/>
+				- TLS Tunnel < Credentials | Inner Methods | Phase 2 &#x1F3A5; &#x2705; <br/>
+					- Challenge-Handshake Authentication Protocol | ``CHAP`` &#x1F3A5; &#x2705; <br/>
+					- Authentication Protocol | ``PAP`` &#x1F3A5; &#x2705; <br/>
+					- Microsoft CHAP | ``MS-CHAP`` &#x1F3A5; &#x2705; <br/>
+					- Microsoft CHAP v2 | ``MS-CHAPv2`` &#x1F3A5; &#x2705; <br/>
+			- ``PEAP`` | Protected Extensible Authentication Protocol &#x1F3A5; &#x2705; <br/>
+				- TLS Tunnel < Credentials &#x1F3A5; &#x2705; <br/>
+					- ``MS-CHAPv2`` &#x1F3A5; &#x2705; <br/>
 <hr width=25%;> 
 </details>
 </details> <!-- PEN-210 -->
