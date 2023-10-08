@@ -6012,8 +6012,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-07/10/2023
-"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wi-Fi Protected Access"
+08/10/2023
+"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wi-Fi Protected Access 3"
 -->
 
 - Open Wireless Networks | ~~Encryption~~ &#x2705; <br/>
@@ -6127,6 +6127,35 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 		- ``TKIP`` | Temporal Key Integrity Protocol &#x2705; <br/>
 		- ``CCMP`` | Counter Mode with CBC-MAC &#x2705; <br/>
 		- ``WRAP`` | Wireless Robust Authenticated Protocol &#x2705; <br/>
+- ``WPA3`` | Wi-Fi Protected Access 3 &#x2705; <br/>
+	- ``SAE`` | Dragonfly Variant &#x2705; <br/>
+		- Simultaneous Authentication of Equals &#x2705; <br/>
+			- ~~PSK~~ | **WPA Personal** &#x2705; <br/>
+	- ``PMF`` | Protected Management Frames &#x2705; <br/>
+		- Mandatory &#x2705; <br/>
+	- **Enterprise** &#x2705; <br/>
+		- 192-bit Mode &#x2705; <br/>
+	- Authentication / Encryption &#x2705; <br/>
+		- ``GCMP-256`` &#x2705; <br/>
+	- Key Derivation / Confirmation &#x2705; <br/>
+		- ``HMAC-SHA384`` &#x2705; <br/>
+	- Key Establishment / Authentication &#x2705; <br/>
+		- ``SAE`` | Diffie-Hellman | ``DH`` &#x2705; <br/>
+			- ``ECDHE`` / ``ECDSA`` | 384-bit Elliptic Curve &#x2705; <br/>
+				- ``DH`` | Groups &#x2705; <br/>
+					- ``19`` | Minimum &#x2705; <br/>
+					- ``15-21`` | Production &#x2705; <br/>
+	- Encryption Algorithm | ~~New~~ &#x2705; <br/>
+		- ``AES`` | Only Cipher &#x2705; <br/>
+	- ``WPA`` / ``WPA2`` / ``Open`` / ``WEP`` &#x2705; <br/>
+		- Auth / Assoc | ``<`` | 4-way Handshake &#x2705; <br/> 
+			- Dragonfly Handshake | Rework &#x2705; <br/> 
+	- Dragonfly Exchanges | Phases &#x2705; <br/> 
+		- Commit &#x2705; <br/>
+			- Shared Secret &#x2705; <br/>
+		- Confirm &#x2705; <br/>
+			- Shared Password / Derive PMK &#x2705; <br/>
+				- 4-way Handshake &#x2705; <br/>
 <!--
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
@@ -6449,7 +6478,7 @@ Credit: Rene Thorup
 -->
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Rogue Access Points &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6483,6 +6512,23 @@ Credit: Rene Thorup
 		- ``rsn_pairwise`` &#x1F3A5; &#x2705; <br/>
 		- ``mana_wpaout`` &#x1F3A5; &#x2705; <br/>
 	- Capturing Handshakes &#x1F3A5; &#x2705; <br/>
+<hr width=25%;> 
+</details>
+<details open>
+    <summary><b>Attacking WPA Enterprise &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+07/10/2023
+"update repository ./osw - PEN-210 - Attacking WPA Enterprise - "
+-->
+
+
+<!--
+&#x1F3A5; &#x2705; <br/>
+-->
 <hr width=25%;> 
 </details>
 </details> <!-- PEN-210 -->
