@@ -6013,7 +6013,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 08/10/2023
-"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wireless Protected Setup"
+"update repository ./osw - PEN-210 - Wi-Fi Encryption - 802.11w"
 -->
 
 - Open Wireless Networks | ~~Encryption~~ &#x2705; <br/>
@@ -6208,7 +6208,20 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 		- Disassociation &#x2705; <br/>
 			- Deauthentication &#x2705; <br/>
 				- Reconnect | Earlier Credentials &#x2705; <br/>
-	- WPS Registration Protocol Messages &#x1F6A7; <br/>
+- WPS Registration Protocol Messages &#x1F6A7; <br/>
+- ``802.11w`` &#x2705; <br/>
+	- ``PMF`` | Protected Management Frames &#x2705; <br/>
+	- DoS &#x2705; <br/>
+		- Frames | Deauthentication | Disassociation &#x2705; <br/>
+	- Connection &#x2705; <br/>
+		- Status | ``PMF`` | Beacon &#x2705; <br/>
+			- ``RSN IE`` | x2 Bits &#x2705; <br/>
+				- ``6`` | PMF Requirement &#x2705; <br/>
+				- ``7`` | PMF Capable &#x2705; <br/>
+					- Automatic Set | ``6`` | Set &#x2705; <br/>
+	- Security Association Teardown Protection &#x2705; <br/>
+		- SA Query Frame &#x2705; <br/>
+			- Association Response | ``"come back in XXX"`` &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <details close>
