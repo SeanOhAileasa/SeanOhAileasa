@@ -6013,7 +6013,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 08/10/2023
-"update repository ./osw - PEN-210 - Wi-Fi Encryption - Wi-Fi Protected Access 3"
+"update repository ./osw - PEN-210 - Wi-Fi Encryption - Opportunistic Wireless Encryption"
 -->
 
 - Open Wireless Networks | ~~Encryption~~ &#x2705; <br/>
@@ -6156,6 +6156,20 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 		- Confirm &#x2705; <br/>
 			- Shared Password / Derive PMK &#x2705; <br/>
 				- 4-way Handshake &#x2705; <br/>
+- ``OWE`` | Opportunistic Wireless Encryption &#x2705; <br/>
+	- Open Networks &#x2705; <br/>
+		- ~~Authentication~~ | ~~Encryption~~ &#x2705; <br/>
+	- Enhanced Open | ``PMF`` &#x2705; <br/>
+		- Mitigation | Attacks | Eavesdropping &#x2705; <br/>
+			- Encrypting Connections | Open Networks &#x2705; <br/>
+	- Diffie-Hellman Exchange &#x2705; <br/>
+		- Association Phase | Secret &#x2705; <br/>
+			- 4-way Handshake &#x2705; <br/>
+	- ``STA`` &#x2705; <br/>
+		- ``AP`` | Supports | ``OWE`` &#x2705; <br/>
+			- Setting | ``required`` | ~~optional~~ &#x2705; <br/>
+				- STA Public Key | Association Request &#x2705; <br/>
+				- AP Public Key | Association Response &#x2705; <br/>
 <!--
 - xxx &#x1F4DC; &#x2705; <br/>
 - xxx &#x1F4DC; &#x2705; <br/>
