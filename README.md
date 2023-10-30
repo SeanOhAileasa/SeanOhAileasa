@@ -6224,18 +6224,44 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 			- Association Response | ``"come back in XXX"`` &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>Linux Wireless and Tools Drivers and Stacks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-09/07/2023
-"update repository ./osw - PEN-210 - Linux Wireless and Tools Drivers and Stacks"
+30/10/2023
+"update repository ./osw - PEN-210 - Linux Wireless and Tools Drivers and Stacks - Loading and Unloading Wireless Drivers"
 -->
  
-&#x1F23A;
+- Loading and Unloading Wireless Drivers &#x2705; <br/>
+	- **Alfa AWUS036NHA** &#x2705; <br/>
+		- ``airmon-ng`` &#x2705; <br/>
+			- ``Driver`` | ``ath9k_htc`` &#x2705; <br/>
+			- ``Chipset`` | ``AR9271`` &#x2705; <br/>
+				- **Qualcomm Atheros Communications** &#x2705; <br/>
+		- ``lsusb`` | ``-vv`` &#x2705; <br/>
+			- ``idVendor`` | ``idProduct`` &#x2705; <br/>
+				- ``0cf3:9271`` | "Manufacturer ID":"Device ID" &#x2705; <br/>
+					- "Qualcomm Atheros Comms":"AR9271 802.11n" &#x2705; <br/>
+			- Chipset | ``AR9271`` &#x2705; <br/>
+				- **Qualcomm Atheros Communications** &#x2705; <br/>
+		- Driver | ``LKM`` | Loadable Kernel Modules &#x2705; <br/>
+			- ``modinfo ath9k_htc`` | Kernel Module Parm &#x2705; <br/>
+				- ``ath9k_htc.ko`` | Driver File &#x2705; <br/>
+					- ``/lib/modules/<kernel version>`` &#x2705; <br/>
+				- ``vermagic`` | Driver Compilation &#x2705; <br/>
+				- ``alias`` | ``usb:v0CF3p9271`` | Device Install &#x2705; <br/>
+					- ``0cf3:9271`` | "Manufacturer ID":"Device ID" &#x2705; <br/>
+						- "Qualcomm Atheros Comms":"AR9271 802.11n" &#x2705; <br/>
+			- ``modprobe`` | Set/Change Module Parm &#x2705; <br/>
+				- ``/etc/modprobe.d`` | Blacklist Modules &#x2705; <br/>
+			- ``lsmod`` &#x2705; <br/>
+				- Loaded Modules/Dependencies &#x2705; <br/>
+			- ``rmmod`` | Unload Driver &#x2705; <br/>
+				- ``lsmod`` | Determine Module &#x2705; <br/>
+			- ``insmod`` | Manual Module Load &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <details close>
@@ -6574,7 +6600,7 @@ Credit: Rene Thorup
 	- Capturing Handshakes &#x1F3A5; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Attacking WPA Enterprise &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6582,7 +6608,7 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 08/10/2023
-"update repository ./osw - PEN-210 - Attacking WPA Enterprise - Basics"
+"update repository ./osw - PEN-210 - Attacking WPA Enterprise - PEAP Exchange"
 -->
 
 - Attacking WPA Enterprise &#x1F3A5; &#x2705; <br/>
@@ -6609,6 +6635,28 @@ Credit: Rene Thorup
 			- ``PEAP`` | Protected Extensible Authentication Protocol &#x1F3A5; &#x2705; <br/>
 				- TLS Tunnel < Credentials &#x1F3A5; &#x2705; <br/>
 					- ``MS-CHAPv2`` &#x1F3A5; &#x2705; <br/>
+	- PEAP Exchange &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
 <hr width=25%;> 
 </details>
 </details> <!-- PEN-210 -->
