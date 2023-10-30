@@ -6232,7 +6232,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 30/10/2023
-"update repository ./osw - PEN-210 - Linux Wireless and Tools Drivers and Stacks - Loading and Unloading Wireless Drivers"
+"update repository ./osw - PEN-210 - Linux Wireless and Tools Drivers and Stacks - Wireless Tools - iwconfig and Other Utilities - The iw Utility"
 -->
  
 - Loading and Unloading Wireless Drivers &#x2705; <br/>
@@ -6262,6 +6262,58 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 			- ``rmmod`` | Unload Driver &#x2705; <br/>
 				- ``lsmod`` | Determine Module &#x2705; <br/>
 			- ``insmod`` | Manual Module Load &#x2705; <br/>
+- Wireless Tools &#x2705; <br/>
+	- Legacy | Deprecated &#x2705; <br/>
+		- ``iwconfig`` &#x2705; <br/>
+		- ``iwlist`` | <if> ``wlan0`` &#x2705; <br/>
+			- ``<parm>`` ``frequency`` &#x2705; <br/>
+				- Channel/Frequency &#x2705; <br/>
+		- ``iwspy`` &#x2705; <br/>
+		- ``iwpriv`` &#x2705; <br/>
+	- ``iw`` &#x2705; <br/>
+		- <u>Managed Mode</u> &#x2705; <br/>
+			- ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
+				- ``<parm>`` ``list`` &#x2705; <br/>
+			- ``<o>`` ``dev`` | ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
+				- ``<parm>`` ``scan`` &#x2705; <br/>
+					- ``<filter>`` ``| grep SSID`` &#x2705; <br/>
+			- ``<o>`` ``dev`` | ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
+				- ``<parm>`` ``scan`` &#x2705; <br/>
+					- ``<filter>`` ``| egrep "DS Parameter set|SSID:"`` &#x2705; <br/>
+		- <u>Monitor Mode</u> &#x2705; <br/>
+			- ``<o>`` ``dev`` | ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
+				- ``<o>`` ``interface`` &#x2705; <br/>
+					- ``<parm>`` ``add`` &#x2705; | ``<vif>`` ``wlan0mon`` <br/>
+						- ``<o>`` ``type`` | ``monitor`` &#x2705; <br/>
+			- ``<vif>`` ``wlan0mon`` | Down | Default &#x2705; <br/>
+				- ``ip`` | Bring Up &#x2705; <br/>
+					- ``<o>`` ``link`` &#x2705; <br/>
+						- ``<parm>`` ``set`` &#x2705; <br/>
+							- ``<o>`` ``up`` &#x2705; <br/>
+			- Test | Monitor Mode &#x2705; <br/>
+				- ``<o>`` ``dev`` | ``<vif>`` ``wlan0mon`` &#x2705; <br/>
+					- ``<o>`` ``info`` &#x2705; <br/>
+				- ``tcpdump -i`` | ``<vif>`` ``wlan0mon`` &#x2705; <br/>
+			- Bring Down &#x2705; <br/>
+				- ``<o>`` ``dev`` | ``<vif>`` ``wlan0mon`` &#x2705; <br/>
+					- ``<o>`` ``interface`` &#x2705; <br/>
+						- ``<o>`` ``del`` &#x2705; <br/>
+		- ``CRDA`` | Central Regulatory Domain Agent &#x2705; <br/>
+			- ``reg get`` &#x2705; <br/>
+				- ``00`` | Kali Default &#x2705; <br/>
+			- ``reg set`` | In Memory &#x2705; <br/>
+				- ``<COUNTRY>`` | **ISO/IEC 3166-1** &#x2705; <br/> 
+			- ``reg set`` | At Boot &#x2705; <br/>
+				- ``/etc/default/crda`` &#x2705; <br/>
+					- ``REGDOMAIN`` | Variable &#x2705; <br/>
+<!--
+- xxx &#x2705; <br/>
+- xxx &#x2705; <br/>
+- xxx &#x2705; <br/>
+- xxx &#x2705; <br/>
+- xxx &#x2705; <br/>
+- xxx &#x2705; <br/>
+-->
 <hr width=25%;> 
 </details>
 <details close>
