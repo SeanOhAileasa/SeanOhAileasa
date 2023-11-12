@@ -5268,7 +5268,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 option - ``<o>``
 - parameter - ``<parm>``
 12/11/2023
-"update repository pen-200 ./osc - Client-side Attacks - Exploiting Microsoft Office - Exploiting Microsoft Office"
+"update repository pen-200 ./osc - Client-side Attacks - Exploiting Microsoft Office - Abusing Windows Library Files"
 -->
 
 - Target Reconnaissance <br/>
@@ -5291,6 +5291,8 @@ option - ``<o>``
 		- ``nc -nvlp 4444`` &#x1F3A5; <br/>
 			- ``powershell.exe`` &#x1F3A5; <br/>
 - Abusing Windows Library Files &#x1F52C; (/) &#x1F6A7; <br/>
+	- Windows Library File &#x1F3A5; <br/>
+	- Executable | Reverse Shell &#x1F3A5; <br/>
 <hr width=25%;> 
 </details> <!-- END: Client-side Attacks -->
 <details close>
