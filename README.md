@@ -5031,9 +5031,9 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details close>
-    <summary><b><font size="5">PEN-200</font> &#x21A9;</b></summary><br/>
 <details open>
+    <summary><b><font size="5">PEN-200</font> &#x21A9;</b></summary><br/>
+<details close>
     <summary><b>Penetration Testing with Kali Linux &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5058,7 +5058,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Summary of PWK Learning Modules &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Penetration Testing with Kali Linux -->    
-<details open>
+<details close>
     <summary><b>Introduction To Cybersecurity  &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5080,7 +5080,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Career Opportunities in Cybersecurity &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction To Cybersecurity  -->    
-<details open>
+<details close>
     <summary><b>Effective Learning Strategies &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5103,7 +5103,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Practical Steps &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Effective Learning Strategies -->    
-<details open>
+<details close>
     <summary><b>Report Writing for Penetration Testers &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5121,7 +5121,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Writing Effective Technical Penetration Testing Reports &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Report Writing for Penetration Testers -->    
-<details open>
+<details close>
     <summary><b>Information Gathering &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5151,7 +5151,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 	- SNMP Enumeration &#x1F52C; (1/2) &#x2B55; <br/>
 <hr width=25%;> 
 </details> <!-- END: Information Gathering -->
-<details open>
+<details close>
     <summary><b>Vulnerability Scanning &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5177,7 +5177,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 	- Working with NSE Scripts &#x1F52C; (/) &#x1F3A5; <br/>
 <hr width=25%;> 
 </details> <!-- END: Vulnerability Scanning -->
-<details open>
+<details close>
     <summary><b>Introduction to Web Application Attacks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5205,7 +5205,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 	- Privilege Escalation via XSS &#x1F52C; (/) &#x1F3A5; <br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to Web Application Attacks -->
-<details open>
+<details close>
     <summary><b>Common Web Application Attacks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5234,7 +5234,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 	- OS Command Injection &#x1F52C; (/) &#x1F4F9; <br/>
 <hr width=25%;> 
 </details> <!-- END: Common Web Application Attacks -->
-<details open>
+<details close>
     <summary><b>SQL Injection Attacks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5265,16 +5265,22 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-07/08/2023
-"update repository pen-200 ./osc - Client-side Attacks"
+option - ``<o>``
+- parameter - ``<parm>``
+12/11/2023
+"update repository pen-200 ./osc - Client-side Attacks - Target Reconnaissance - Information Gathering"
 -->
 
-- Target Reconnaissance &#x1F52C; (/) &#x1F6A7; <br/>
+- Target Reconnaissance &#x1F52C; (/) &#x1F3A5; <br/>
+	- Information Gathering &#x1F52C; (/) &#x1F6A7; <br/>
+		- ``exiftool`` &#x1F3A5; <br/>
+			- Duplicate Tags | ``-a`` &#x1F3A5; <br/>
+			- Unknown Tags | ``-u`` &#x1F3A5; <br/>
 - Exploiting Microsoft Office &#x1F52C; (/) &#x1F6A7; <br/>
 - Abusing Windows Library Files &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Client-side Attacks -->
-<details open>
+<details close>
     <summary><b>Locating Public Exploits &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5294,7 +5300,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - 12.4. Exploiting a Target &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Locating Public Exploits -->
-<details open>
+<details close>
     <summary><b>Fixing Exploits &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5312,7 +5318,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Fixing Web Exploits &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Fixing Exploits -->
-<details open>
+<details close>
     <summary><b>Antivirus Evasion &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5331,7 +5337,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - AV Evasion in Practice &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Antivirus Evasion -->
-<details open>
+<details close>
     <summary><b>Password Attacks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5350,7 +5356,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Working with Password Hashes &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Password Attacks -->
-<details open>
+<details close>
     <summary><b>Windows Privilege Escalation &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5369,7 +5375,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Abusing Other Windows Components &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Windows Privilege Escalation -->
-<details open>
+<details close>
     <summary><b>Linux Privilege Escalation &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5389,7 +5395,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Insecure System Components &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Linux Privilege Escalation -->
-<details open>
+<details close>
     <summary><b>Port Redirection and SSH Tunneling &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5409,7 +5415,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Port Forwarding with Windows Tools &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Port Redirection and SSH Tunneling -->
-<details open>
+<details close>
     <summary><b>Tunneling Through Deep Packet Inspection &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5427,7 +5433,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - DNS Tunneling Theory and Practice &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Tunneling Through Deep Packet Inspection -->
-<details open>
+<details close>
     <summary><b>The Metasploit Framework &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5447,7 +5453,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Automating Metasploit &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: The Metasploit Framework -->
-<details open>
+<details close>
     <summary><b>Active Directory Introduction and Enumeration &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5467,7 +5473,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Active Directory - Automated Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Active Directory Introduction and Enumeration -->
-<details open>
+<details close>
     <summary><b>Attacking Active Directory Authentication &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5485,7 +5491,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Performing Attacks on Active Directory Authentication &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Attacking Active Directory Authentication -->
-<details open>
+<details close>
     <summary><b>Lateral Movement in Active Directory &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5503,7 +5509,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Active Directory Persistence &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Lateral Movement in Active Directory -->
-<details open>
+<details close>
     <summary><b>Assembling the Pieces &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5525,7 +5531,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Gaining Access to the Domain Controller &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Assembling the Pieces -->
-<details open>
+<details close>
     <summary><b>Challenge Labs &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5917,7 +5923,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b><font size="5">PEN-210</font> &#x21A9;</b></summary><br/>
 
 <details close>
@@ -6224,7 +6230,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 			- Association Response | ``"come back in XXX"`` &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Linux Wireless and Tools Drivers and Stacks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6232,7 +6238,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 30/10/2023
-"update repository ./osw - PEN-210 - Linux Wireless and Tools Drivers and Stacks - Wireless Tools - iwconfig and Other Utilities - The iw Utility"
+"update repository ./osw - PEN-210 - Linux Wireless and Tools Drivers and Stacks - Wireless Tools - The rfkill Utility"
 -->
  
 - Loading and Unloading Wireless Drivers &#x2705; <br/>
@@ -6306,6 +6312,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 			- ``reg set`` | At Boot &#x2705; <br/>
 				- ``/etc/default/crda`` &#x2705; <br/>
 					- ``REGDOMAIN`` | Variable &#x2705; <br/>
+	- ``rfkill`` | Enable/Disable &#x2705; <br/>
+		- ``list`` | Enabled &#x2705; <br/>
 <!--
 - xxx &#x2705; <br/>
 - xxx &#x2705; <br/>
