@@ -5268,18 +5268,28 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 option - ``<o>``
 - parameter - ``<parm>``
 12/11/2023
-"update repository pen-200 ./osc - Client-side Attacks - Target Reconnaissance - Client Fingerprinting"
+"update repository pen-200 ./osc - Client-side Attacks - Exploiting Microsoft Office - Exploiting Microsoft Office"
 -->
 
-- Target Reconnaissance &#x1F52C; (/) &#x1F3A5; <br/>
+- Target Reconnaissance <br/>
 	- Information Gathering &#x1F52C; (/) &#x1F6A7; <br/>
 		- ``exiftool`` &#x1F3A5; <br/>
 			- Duplicate Tags | ``-a`` &#x1F3A5; <br/>
 			- Unknown Tags | ``-u`` &#x1F3A5; <br/>
 	- Client Fingerprinting &#x1F52C; (/) &#x1F6A7; <br/>
 		- Vector | ``IE`` | ``Edge`` &#x1F3A5; <br/>
-			- ``canarytokens.org/generate``
-- Exploiting Microsoft Office &#x1F52C; (/) &#x1F6A7; <br/>
+			- ``canarytokens.org/generate`` &#x1F3A5; <br/>
+- Exploiting Microsoft Office <br/>
+	- Leveraging Microsoft Word Macros &#x1F52C; (/) &#x1F6A7; <br/>
+		- ``ActiveX Objects`` &#x1F3A5; <br/>
+			- Windows Script Host Shell &#x1F3A5; <br/>
+				- ``powershell.exe`` &#x1F3A5; <br/>
+		- ``powercat.ps1`` &#x1F3A5; <br/>
+			- ``base64encode.org`` &#x1F3A5; <br/>
+		- ``python3 -m http.server 80`` &#x1F3A5; <br/>
+			- ``GET`` &#x1F3A5; <br/>
+		- ``nc -nvlp 4444`` &#x1F3A5; <br/>
+			- ``powershell.exe`` &#x1F3A5; <br/>
 - Abusing Windows Library Files &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Client-side Attacks -->
