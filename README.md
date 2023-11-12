@@ -5268,7 +5268,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 option - ``<o>``
 - parameter - ``<parm>``
 12/11/2023
-"update repository pen-200 ./osc - Client-side Attacks - Target Reconnaissance - Information Gathering"
+"update repository pen-200 ./osc - Client-side Attacks - Target Reconnaissance - Client Fingerprinting"
 -->
 
 - Target Reconnaissance &#x1F52C; (/) &#x1F3A5; <br/>
@@ -5276,6 +5276,9 @@ option - ``<o>``
 		- ``exiftool`` &#x1F3A5; <br/>
 			- Duplicate Tags | ``-a`` &#x1F3A5; <br/>
 			- Unknown Tags | ``-u`` &#x1F3A5; <br/>
+	- Client Fingerprinting &#x1F52C; (/) &#x1F6A7; <br/>
+		- Vector | ``IE`` | ``Edge`` &#x1F3A5; <br/>
+			- ``canarytokens.org/generate``
 - Exploiting Microsoft Office &#x1F52C; (/) &#x1F6A7; <br/>
 - Abusing Windows Library Files &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
