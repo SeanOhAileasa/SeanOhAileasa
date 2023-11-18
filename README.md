@@ -5479,12 +5479,13 @@ option - ``<o>``
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
 18/11/2023
-"update repository pen-200 ./osc - Active Directory - Manual Enumeration - Enumeration Using Legacy Windows Tools"
+"update repository pen-200 ./osc - Active Directory - Manual Enumeration - PowerShell and .NET Classes"
 -->
 
 - Active Directory <br/>
 	- Manual Enumeration <br/>
-		- Enumeration Using Legacy Windows Tools &#x1F52C; (/3) &#x1F3A5; <br/>
+		- Legacy Windows Tools &#x1F52C; (/3) &#x1F3A5; <br/>
+		- PowerShell and .NET Classes &#x1F52C; (/2) &#x1F3A5; <br/>
 - Manual Enumeration - Expanding our Repertoire &#x1F52C; (/) &#x1F6A7; <br/>
 - Active Directory - Automated Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
