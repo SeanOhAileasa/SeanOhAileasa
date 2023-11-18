@@ -5255,7 +5255,7 @@ https://help.offsec.com/hc/en-us/articles/4547917816468-OffSec-OSCP-Exam-with-AD
 - Manual and Automated Code Execution &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: SQL Injection Attacks -->
-<details open>
+<details close>
     <summary><b>Client-side Attacks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5468,7 +5468,7 @@ option - ``<o>``
 - Automating Metasploit &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: The Metasploit Framework -->
-<details close>
+<details open>
     <summary><b>Active Directory Introduction and Enumeration &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority 
@@ -5478,12 +5478,13 @@ option - ``<o>``
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-07/08/2023
-"update repository pen-200 ./osc - Active Directory Introduction and Enumeration"
+18/11/2023
+"update repository pen-200 ./osc - Active Directory - Manual Enumeration - Enumeration Using Legacy Windows Tools"
 -->
 
-- Active Directory - Introduction &#x1F52C; (/) &#x1F6A7; <br/>
-- Active Directory - Manual Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
+- Active Directory <br/>
+	- Manual Enumeration <br/>
+		- Enumeration Using Legacy Windows Tools &#x1F52C; (/3) &#x1F3A5; <br/>
 - Manual Enumeration - Expanding our Repertoire &#x1F52C; (/) &#x1F6A7; <br/>
 - Active Directory - Automated Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
