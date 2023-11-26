@@ -5478,8 +5478,8 @@ option - ``<o>``
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 &#x1F52C; Lab
-25/11/2023
-"update repository pen-200 ./osc - Active Directory - Expanding Repertoire - Operating Systems"
+26/11/2023
+"update repository pen-200 ./osc - Active Directory - Expanding Repertoire - Permissions and Logged on Users"
 -->
 
 - Active Directory <br/>
@@ -5489,8 +5489,8 @@ option - ``<o>``
 			- Search Functionality &#x1F52C; (/2) &#x1F3A5; <br/>
 		- PowerView &#x1F52C; (/3) &#x1F3A5; <br/>
 	- Expanding Repertoire <br/>
-		- Operating Systems &#x1F52C; (/) &#x1F6A7; <br/>
-			- ``Get-NetComputer`` &#x1F52C; (/) &#x1F6A7; <br/>
+		- Operating Systems &#x1F52C; (/3) &#x1F3A5; <br/>
+		- Permissions and Logged on Users &#x1F52C; (/) &#x1F3A5; <br/>
 - Active Directory - Automated Enumeration &#x1F52C; (/) &#x1F6A7; <br/>
 <hr width=25%;> 
 </details> <!-- END: Active Directory Introduction and Enumeration -->
