@@ -5982,7 +5982,7 @@ Credit: Rene Thorup
 
 <details open>
     <summary><b><font size="5">SOC-200</font> &#x21A9;</b></summary><br/>
-<details open>
+<details close>
     <summary><b>Attacker Methodology &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5990,7 +5990,6 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 30/12/2023
-"update repository soc-200 ./soc-200 - Attacker Methodology - Network as a Whole - DiD"
 "OSDA ./soc-200 - Attacker Methodology - MITRE ATT&CK Framework"
 -->
 
@@ -6036,7 +6035,32 @@ Credit: Rene Thorup
 			- Collection &#x1F4DC; &#x2705; <br/>
 			- Command and Control &#x1F4DC; &#x2705; <br/>
 			- Exfiltration &#x1F4DC; &#x2705; <br/>
-			- Impact &#x1F4DC; &#x2705; <br/>
+			- Impact &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 25m -->
+<hr width=25%;>
+</details> <!-- -->
+<details open>
+    <summary><b>Windows Endpoint &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+30/12/2023
+"update repository soc-200 ./soc-200 - Windows Endpoint - Windows Processes"
+"OSDA ./soc-200 - Windows Endpoint - Windows Processes"
+-->
+
+- Windows Processes &#x1F4DC; &#x2705; <br/>
+	- Process &#x1F4DC; &#x2705; <br/>
+		- Program | System Memory &#x1F4DC; &#x2705; <br/>
+			- OS | Applications &#x1F4DC; &#x2705; <br/>
+	- OS &#x1F4DC; &#x2705; <br/>
+		- Processes | **Services** &#x1F4DC; &#x2705; <br/>
+			- Monitored | ``Status`` | ``Startup Type`` &#x1F4DC; &#x2705; <br/>
+		- ***CMD*** | ``services.msc`` &#x1F4DC; &#x2705; <br/>
+			- List Services &#x1F4DC; &#x2705; <br/>
+				- ``Status`` | ``Startup Type`` &#x1F4DC; &#x2705; <br/>
+			- Change Service Configuration &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 10m -->
 <hr width=25%;>
 </details>
 </details> <!-- SOC-200 -->
