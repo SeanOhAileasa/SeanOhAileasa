@@ -6026,8 +6026,8 @@ Credit: Rene Thorup
 &#x2705; Semester / Topic Finished 
 30/12/2023
 - ___ &#x1F4DC; &#x2705; <br/>
-"add repository OSDA ./soc-200 - Windows Endpoint - Command Prompt"
-"OSDA ./soc-200 - Windows Endpoint - Command Prompt"
+"OSDA ./soc-200 - Windows Endpoint - VBScript"
+"update repository OSDA ./soc-200 - Windows Endpoint - VBScript"
 -->
 
 - Windows Processes &#x1F4DC; &#x2705; <br/>
@@ -6061,7 +6061,19 @@ Credit: Rene Thorup
 			- ``@ECHO OFF`` | ~~CMD Display~~ &#x1F4DC; &#x2705; <br/>
 			- ``TITLE`` | CMD Title &#x1F4DC; &#x2705; <br/>
 			- ``ECHO`` | Write Std Output &#x1F4DC; &#x2705; <br/>
-			- ``PAUSE`` | Prompt | Press any Key &#x1F4DC; &#x2705; <br/>
+			- ``PAUSE`` | Prompt | Press any Key &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 50m -->
+- VBScript | ~~Compatible ``.NET`` Framework~~ &#x1F52C; <u> 2/2 </u> &#x2705; <br/>
+	- ``.vbs`` &#x1F4DC; &#x2705; <br/>
+		- Interpreter | ``cscript.exe`` &#x1F4DC; &#x2705; <br/>
+	- Windows Management Instrumentation &#x1F4DC; &#x2705; <br/>
+		- ``WMIService`` &#x1F4DC; &#x2705; <br/>
+			- Query Components | Collect Config Settings &#x1F4DC; &#x2705; <br/>
+		- <f> ``GetObject`` &#x1F4DC; &#x2705; <br/>
+			- Common Information Model | ``CIM`` &#x1F4DC; &#x2705; <br/>
+				- ``cimv2`` &#x1F4DC; &#x2705; <br/>
+		- <c> ``Win32_OperatingSystem`` | ``CIM`` &#x1F4DC; &#x2705; <br/>
+			- Query &#x1F4DC; &#x2705; <br/> 
+				- <f> ``ExecQuery`` &#x1F4DC; &#x2705; <br/>
 <hr width=25%;>
 </details>
 </details> <!-- SOC-200 -->
