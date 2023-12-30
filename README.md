@@ -5991,7 +5991,7 @@ Credit: Rene Thorup
 &#x2705; Semester / Topic Finished 
 30/12/2023
 "update repository soc-200 ./soc-200 - Attacker Methodology - Network as a Whole - DiD"
-"OSDA ./soc-200 - Attacker Methodology - Lockheed-Martin Cyber Kill-Chain"
+"OSDA ./soc-200 - Attacker Methodology - MITRE ATT&CK Framework"
 -->
 
 - Network as a Whole &#x1F4DC; &#x2705; <br/>
@@ -6012,14 +6012,31 @@ Credit: Rene Thorup
 					- Switches | Network Segments &#x1F4DC; &#x2705; <br/>
 		- VPN &#x1F4DC; &#x2705; <br/>
 			- Remote Sites &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 40m -->
-	- Lockheed-Martin Cyber Kill-Chain | ``APT`` &#x1F4DC; &#x2705; <br/>
-		- Reconnaissance &#x1F4DC; &#x2705; <br/>
-		- Weaponisation &#x1F4DC; &#x2705; <br/>
-		- Delivery &#x1F4DC; &#x2705; <br/>
-		- Exploitation &#x1F4DC; &#x2705; <br/>
-		- Installation &#x1F4DC; &#x2705; <br/>
-		- ``C2`` | Command & Control &#x1F4DC; &#x2705; <br/>
-		- Actions on Objectives &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 25m -->
+- Lockheed-Martin Cyber Kill-Chain | ``APT`` &#x1F4DC; &#x2705; <br/>
+	- Reconnaissance &#x1F4DC; &#x2705; <br/>
+	- Weaponisation &#x1F4DC; &#x2705; <br/>
+	- Delivery &#x1F4DC; &#x2705; <br/>
+	- Exploitation &#x1F4DC; &#x2705; <br/>
+	- Installation &#x1F4DC; &#x2705; <br/>
+	- ``C2`` | Command & Control &#x1F4DC; &#x2705; <br/>
+	- Actions on Objectives &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 25m -->
+- MITRE ATT&CK Framework &#x1F4DC; &#x2705; <br/>
+	- Adversarial Tactics Techniques Common Knowledge &#x1F4DC; &#x2705; <br/>
+		- Techniques | Sub-techniques &#x1F4DC; &#x2705; <br/>
+			- Reconnaissance &#x1F4DC; &#x2705; <br/>
+			- Resource Development &#x1F4DC; &#x2705; <br/>
+			- Initial Access &#x1F4DC; &#x2705; <br/>
+			- Execution &#x1F4DC; &#x2705; <br/>
+			- Persistence &#x1F4DC; &#x2705; <br/>
+			- Privilege Escalation &#x1F4DC; &#x2705; <br/>
+			- Defense Evasion &#x1F4DC; &#x2705; <br/>
+			- Credential Access &#x1F4DC; &#x2705; <br/>
+			- Discovery &#x1F4DC; &#x2705; <br/>
+			- Lateral Movement &#x1F4DC; &#x2705; <br/>
+			- Collection &#x1F4DC; &#x2705; <br/>
+			- Command and Control &#x1F4DC; &#x2705; <br/>
+			- Exfiltration &#x1F4DC; &#x2705; <br/>
+			- Impact &#x1F4DC; &#x2705; <br/>
 <hr width=25%;>
 </details>
 </details> <!-- SOC-200 -->
