@@ -5991,6 +5991,7 @@ Credit: Rene Thorup
 &#x2705; Semester / Topic Finished 
 30/12/2023
 "update repository soc-200 ./soc-200 - Attacker Methodology - Network as a Whole - DiD"
+"OSDA ./soc-200 - Attacker Methodology - Lockheed-Martin Cyber Kill-Chain"
 -->
 
 - Network as a Whole &#x1F4DC; &#x2705; <br/>
@@ -6010,7 +6011,15 @@ Credit: Rene Thorup
 				- Backend Firewall | Router &#x1F4DC; &#x2705; <br/>
 					- Switches | Network Segments &#x1F4DC; &#x2705; <br/>
 		- VPN &#x1F4DC; &#x2705; <br/>
-			- Remote Sites &#x1F4DC; &#x2705; <br/>
+			- Remote Sites &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 40m -->
+	- Lockheed-Martin Cyber Kill-Chain | ``APT`` &#x1F4DC; &#x2705; <br/>
+		- Reconnaissance &#x1F4DC; &#x2705; <br/>
+		- Weaponisation &#x1F4DC; &#x2705; <br/>
+		- Delivery &#x1F4DC; &#x2705; <br/>
+		- Exploitation &#x1F4DC; &#x2705; <br/>
+		- Installation &#x1F4DC; &#x2705; <br/>
+		- ``C2`` | Command & Control &#x1F4DC; &#x2705; <br/>
+		- Actions on Objectives &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 25m -->
 <hr width=25%;>
 </details>
 </details> <!-- SOC-200 -->
