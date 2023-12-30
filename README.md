@@ -5953,27 +5953,6 @@ Credit: Rene Thorup
 				- TLS Tunnel < Credentials &#x1F3A5; &#x2705; <br/>
 					- ``MS-CHAPv2`` &#x1F3A5; &#x2705; <br/>
 	- PEAP Exchange &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
-		- xxx &#x1F3A5; &#x2705; <br/>
 <hr width=25%;> 
 </details>
 </details> <!-- PEN-210 -->
@@ -6047,8 +6026,8 @@ Credit: Rene Thorup
 &#x2705; Semester / Topic Finished 
 30/12/2023
 - ___ &#x1F4DC; &#x2705; <br/>
-"update repository soc-200 ./soc-200 - Windows Endpoint - Windows Processes"
-"OSDA ./soc-200 - Windows Endpoint - Windows Registry"
+"add repository OSDA ./soc-200 - Windows Endpoint - Command Prompt"
+"OSDA ./soc-200 - Windows Endpoint - Command Prompt"
 -->
 
 - Windows Processes &#x1F4DC; &#x2705; <br/>
@@ -6058,8 +6037,8 @@ Credit: Rene Thorup
 	- OS &#x1F4DC; &#x2705; <br/>
 		- Processes | **Services** &#x1F4DC; &#x2705; <br/>
 			- Monitored | ``Status`` | ``Startup Type`` &#x1F4DC; &#x2705; <br/>
-		- ***CMD*** | ``services.msc`` &#x1F4DC; &#x2705; <br/>
-			- List Services &#x1F4DC; &#x2705; <br/>
+		- ***CMD*** | Command Prompt &#x1F4DC; &#x2705; <br/>
+			- ``services.msc`` | List Services &#x1F4DC; &#x2705; <br/>
 				- ``Status`` | ``Startup Type`` &#x1F4DC; &#x2705; <br/>
 			- Change Service Configuration &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 10m -->
 - Windows Registry &#x1F4DC; &#x2705; <br/>
@@ -6073,9 +6052,16 @@ Credit: Rene Thorup
 			- Fields &#x1F4DC; &#x2705; <br/>
 				- ``name`` | Value Description &#x1F4DC; &#x2705; <br/>
 				- ``type`` | Format &#x1F4DC; &#x2705; <br/>
-				- ``data`` | Actual Value &#x1F4DC; &#x2705; <br/>
-	- ___ &#x1F4DC; &#x2705; <br/>
-	- ___ &#x1F4DC; &#x2705; <br/>
+				- ``data`` | Actual Value &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 10m -->
+- Command Prompt &#x1F52C; <u> 3/3 </u> &#x2705; <br/>
+	- ***CMD*** | ``cmd.exe`` &#x1F4DC; &#x2705; <br/>
+		- Predecessor | ``COMMAND.COM`` &#x1F4DC; &#x2705; <br/>
+	- ``.bat`` &#x1F4DC; &#x2705; <br/>
+		- Sequence of Commands | OS &#x1F4DC; &#x2705; <br/>
+			- ``@ECHO OFF`` | ~~CMD Display~~ &#x1F4DC; &#x2705; <br/>
+			- ``TITLE`` | CMD Title &#x1F4DC; &#x2705; <br/>
+			- ``ECHO`` | Write Std Output &#x1F4DC; &#x2705; <br/>
+			- ``PAUSE`` | Prompt | Press any Key &#x1F4DC; &#x2705; <br/>
 <hr width=25%;>
 </details>
 </details> <!-- SOC-200 -->
