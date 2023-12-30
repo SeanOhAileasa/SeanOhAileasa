@@ -6046,8 +6046,9 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 30/12/2023
+- ___ &#x1F4DC; &#x2705; <br/>
 "update repository soc-200 ./soc-200 - Windows Endpoint - Windows Processes"
-"OSDA ./soc-200 - Windows Endpoint - Windows Processes"
+"OSDA ./soc-200 - Windows Endpoint - Windows Registry"
 -->
 
 - Windows Processes &#x1F4DC; &#x2705; <br/>
@@ -6061,6 +6062,20 @@ Credit: Rene Thorup
 			- List Services &#x1F4DC; &#x2705; <br/>
 				- ``Status`` | ``Startup Type`` &#x1F4DC; &#x2705; <br/>
 			- Change Service Configuration &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 10m -->
+- Windows Registry &#x1F4DC; &#x2705; <br/>
+	- Configurations &#x1F4DC; &#x2705; <br/>
+		- Service | Applications &#x1F4DC; &#x2705; <br/>
+	- Hierarchial Tree &#x1F4DC; &#x2705; <br/>
+		- **hives** &#x1F4DC; &#x2705; <br/>
+		- **keys** &#x1F4DC; &#x2705; <br/>
+			 - Defining Data Structure &#x1F4DC; &#x2705; <br/>
+		- **values** &#x1F4DC; &#x2705; <br/>
+			- Fields &#x1F4DC; &#x2705; <br/>
+				- ``name`` | Value Description &#x1F4DC; &#x2705; <br/>
+				- ``type`` | Format &#x1F4DC; &#x2705; <br/>
+				- ``data`` | Actual Value &#x1F4DC; &#x2705; <br/>
+	- ___ &#x1F4DC; &#x2705; <br/>
+	- ___ &#x1F4DC; &#x2705; <br/>
 <hr width=25%;>
 </details>
 </details> <!-- SOC-200 -->
