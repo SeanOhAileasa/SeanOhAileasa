@@ -5180,6 +5180,843 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
+<details close>
+    <summary><b><font size="5">PEN-210</font> &#x21A9;</b></summary><br/>
+
+<details close>
+    <summary><b>Concepts &#x21A9;</b></summary>
+<!--
+from IPython.display import display,HTML
+display(HTML("<style>.container { width:100% !important; }</style>"))
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+22/09/2023
+"update repository ./osw - PEN-210 - Concepts - Encryption"
+-->
+ 
+- WiFi Technology Primer &#x1F4DC; &#x2705; <br/>
+- WiFi Channels and Frequencies &#x1F4DC; &#x2705; <br/>
+- Antennas &#x1F4DC; &#x2705; <br/>
+- WiFi Network Cards and Adaptors &#x1F4DC; &#x2705; <br/>
+- Network Card Injection Test &#x1F4DC; &#x2705; <br/>
+- WiFi Network Cards Selecting &#x1F4DC; &#x2705; <br/>
+- Wireless Network Operating Modes &#x1F4DC; &#x2705; <br/>
+- WiFi Security Mechanisms &#x1F4DC; &#x2705; <br/>
+- Authentication &#x1F4DC; &#x2705; <br/>
+- Encryption &#x1F4DC; &#x2705; <br/>
+<hr width=25%;> 
+</details>
+<details close>
+    <summary><b>IEEE 802.11 &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+23/09/2023
+"update repository ./osw - PEN-210 - IEEE 802.11 - Antenna Diversity vs MIMO"
+-->
+ 
+- IEEE &#x1F4DC; &#x2705; <br/>
+- 802.11 Standards and Amendments &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11 &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11b &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11a &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11g &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11n &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11ac &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11ad &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11ax &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11h &#x1F4DC; &#x2705; <br/>
+	- 802.11 Standard and Amendments Overview  &#x1F4DC; &#x2705; <br/>
+- Antenna Diversity vs MIMO &#x1F4DC; <br/>
+	- Antenna Diversity &#x1F4DC; &#x2705; <br/>
+	- MIMO &#x1F4DC; &#x2705; <br/>
+<hr width=25%;> 
+</details>
+<details close>
+    <summary><b>Wireless Networks &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+24/09/2023
+"update repository ./osw - PEN-210 - Wireless Networks - Monitor Mode"
+-->
+ 
+- Infrastructure &#x1F4DC; &#x2705; <br/>
+	- Basic Infrastructure &#x1F4DC; &#x2705; <br/>
+		- ``BSS`` &#x1F4DC; &#x2705; <br/>
+			- ``AP`` | Wired | ``DS`` &#x1F4DC; &#x2705; <br/>
+		- ``ESS`` &#x1F4DC; &#x2705; <br/>
+- Wireless Distribution Systems &#x1F4DC; &#x2705; <br/>
+- Ad-Hoc Networks &#x1F4DC; &#x2705; <br/>
+	- ``IBSS`` &#x1F4DC; &#x2705; <br/>
+	- Ad-Hoc Demo &#x1F4DC; &#x2705; <br/>
+		- ``Pseudo-IBSS`` &#x1F4DC; &#x2705; <br/>
+- Mesh Networks &#x1F4DC; &#x2705; <br/>
+	- ``P2P`` &#x1F4DC; &#x2705; <br/>
+	- ``802.11s`` &#x1F4DC; &#x2705; <br/>
+		- ``MP`` &#x1F4DC; &#x2705; <br/>
+		- ``MAP`` &#x1F4DC; &#x2705; <br/>
+		- ``MPP`` &#x1F4DC; &#x2705; <br/>
+- Wi-Fi Direct &#x1F4DC; &#x2705; <br/>
+	- ``Wi-Fi P2P`` | ~~802.11~~ &#x1F4DC; &#x2705; <br/>
+- Monitor Mode &#x1F4DC; &#x2705; <br/>
+<hr width=25%;> 
+</details>
+<details close>
+    <summary><b>Wi-Fi Encryption &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+08/10/2023
+"update repository ./osw - PEN-210 - Wi-Fi Encryption - 802.11w"
+-->
+
+- Open Wireless Networks | ~~Encryption~~ &#x2705; <br/>
+	- ``STA`` | Authentication Request | ``AP`` &#x2705; <br/>
+		- ``AP`` | Authentication Response &#x2705; <br/>
+			- Successful &#x2705; <br/>
+	- ``STA`` | Association Request | ``AP`` &#x2705; <br/>
+		- ``AP`` | Association Response &#x2705; <br/>
+			- ``STA`` | Capability | ``AP`` &#x2705; <br/>
+	- Eavesdropping &#x2705; <br/>
+- ``WEP`` | Wired Equivalent Privacy &#x2705; <br/>
+	- ``RC4`` | Rivest Cipher 4 | Encrypt Traffic &#x2705; <br/>
+		- Symmetric Cipher &#x2705; <br/>
+			- Key | Encrypt/Decrypt &#x2705; <br/>
+				- ``XOR`` &#x2705; <br/>
+			- ``KSA`` | Key Scheduling Algorithm &#x2705; <br/>
+				- Initialise State Table | IV | WEP Key &#x2705; <br/>
+			- ``PRGA`` | Pseudo-Random Generation Algorithm &#x2705; <br/>
+				- Create Keystream &#x2705; <br/>
+		- **Encryption** &#x2705; <br/>
+			- Concat IV / WEP Key &#x2705; <br/>
+				- Run KSA / PRGA | Keystream &#x2705; <br/>
+			- ``ICV`` | Integrity Check Value &#x2705; <br/>
+				- Concat Msg &#x2705; <br/>
+			- ``XOR`` | ``p`` + ``CRC32`` | Keystream | ``c`` &#x2705; <br/>
+				- CRC32 Checksums | Message Integrity &#x2705; <br/>
+			- Packet &#x2705; <br/>
+				- ``IV`` &#x2705; <br/>
+				- Key ID &#x2705; <br/>
+				- Encrypted Msg &#x2705; <br/>
+				- ICV is CRC32 | ``p`` &#x2705; <br/>
+		- **Decryption** &#x2705; <br/>
+			- Concat IV / Key ID &#x2705; <br/>
+				- Run KSA / PRGA | Keystream &#x2705; <br/>
+			- ``XOR`` | ``c`` | Keystream &#x2705; <br/>
+				- ``Msg`` + ``ICV`` &#x2705; <br/>
+			- Compare | Decrypted ICV &#x2705; <br/>
+				- Packet &#x2705; <br/>
+					- ``=`` | Frame Intact &#x2705; <br/>
+					- ``!=`` | Discard Frame &#x2705; <br/>
+						- Packet | Fake / Corrupted &#x2705; <br/>
+	- WEP Authentication &#x2705; <br/>
+		- ``Open`` | Trival / Common &#x2705; <br/>
+			- ~~Credentials~~ &#x2705; <br/>
+				- Authentication | ``AP`` &#x2705; <br/>
+			- ``=`` | Correct Key &#x2705; <br/>
+				- Encrypt / Decrypt &#x2705; <br/>
+		- ``Shared`` | Uncommon &#x2705; <br/>
+			- Challenge Txt Sent | ``STA`` &#x2705; <br/>
+				- Encrypt | WEP Key | ``STA`` &#x2705; <br/>
+					- Sent | ``AP`` | Verify &#x2705; <br/>
+				- Decrypt | ``AP`` &#x2705; <br/>
+					- Match | Clear Challenge Txt &#x2705; <br/>
+						- ``STA`` | Associate | ``AP`` &#x2705; <br/>
+- ``WPA`` | Wi-Fi Protected Access &#x2705; <br/>
+	- Encryption &#x2705; <br/>
+		- **Personal** &#x2705; <br/>
+			- Authentication &#x2705; <br/>
+				- ``PSK`` | ``WPA-PSK`` &#x2705; <br/>
+					- Passphrase | ``*`` | Network Peers &#x2705; <br/>
+		- **Enterprise** &#x2705; <br/>
+			- Authentication &#x2705; <br/>
+				- ``802.1X`` &#x2705; <br/>
+				- Radius Server | ``AAA`` &#x2705; <br/>
+	- WPA Ciphers | Encryption Protocols | Link Layer &#x2705; <br/>
+		- ``WPA1`` | ``TKIP`` &#x2705; <br/>
+			- ``WEP`` | Legacy &#x2705; <br/>
+		- ``WPA2`` | ``CCMP`` &#x2705; <br/>
+			- Robust Security Network | ``RSN`` &#x2705; <br/>
+				- ``AES`` | ~~Legacy~~ &#x2705; <br/>
+	- WPA Network Connection &#x2705; <br/>
+		- **Enterprise** &#x2705; <br/>
+			- Agreement | Security Protocols &#x2705; <br/>
+			- Authentication &#x2705; <br/>
+			- Key Distribution / Verification &#x2705; <br/>
+			- Data Encryption / Integrity &#x2705; <br/>
+		- **Personal** | ``WPA-PSK`` &#x2705; <br/>
+			- ~~Authentication~~ | 3-Steps &#x2705; <br/>
+		- ``STA`` | Probe &#x2705; <br/>
+			- Information | Network &#x2705; <br/>
+				- Join | Open Authentication &#x2705; <br/>
+					- Association | Ciphers &#x2705; <br/>
+	- WPA Authentication | ``WPA Enterprise`` &#x2705; <br/>
+		- ``EAP`` &#x2705; <br/>
+			- Implementation &#x2705; <br/>
+				- ``EAP-TLS`` &#x2705; <br/>
+					- Client / Server Certificates &#x2705; <br/>
+				- ``EAP-TTLS`` &#x2705; <br/>
+				- ``PEAP`` | Hybrid Authentication &#x2705; <br/>
+					- Required Server Certificate &#x2705; <br/>
+			- ``STA`` | Authentication Mode | Supplicant &#x2705; <br/>
+				- Messages | Authenticator / Supplicant &#x2705; <br/>
+					- Master Key | ``MK`` | Generation &#x2705; <br/>
+			- ``AP`` | Authenticator | Success &#x2705; <br/>
+				- ``Radius Accept`` / ``MK`` &#x2705; <br/>
+					- EAP Msg | ``STA`` | Success &#x2705; <br/>
+	- ``WPA`` | Key Distribution / Verification &#x2705; <br/>
+		- Keys &#x2705; <br/>
+			- Authentication &#x2705; <br/>
+			- Message Integrity &#x2705; <br/>
+			- Message Encryption &#x2705; <br/>
+		- Handshake | 4-way &#x2705; <br/>
+			- Exchange &#x2705; <br/>
+				- ``PTK`` | Pairwise Transient Key &#x2705; <br/>
+					- Unicast &#x2705; <br/>
+				- ``GTK`` | Group Temporal Key &#x2705; <br/>
+					- Multicast/Broadcast &#x2705; <br/>
+		- Group Key Handshake | After 4-way &#x2705; <br/>
+			- Renew | ``GTK`` &#x2705; <br/>
+	- ``WPA`` | Data Encryption / Integrity &#x2705; <br/>
+		- ``TKIP`` | Temporal Key Integrity Protocol &#x2705; <br/>
+		- ``CCMP`` | Counter Mode with CBC-MAC &#x2705; <br/>
+		- ``WRAP`` | Wireless Robust Authenticated Protocol &#x2705; <br/>
+- ``WPA3`` | Wi-Fi Protected Access 3 &#x2705; <br/>
+	- ``SAE`` | Dragonfly Variant &#x2705; <br/>
+		- Simultaneous Authentication of Equals &#x2705; <br/>
+			- ~~PSK~~ | **WPA Personal** &#x2705; <br/>
+	- ``PMF`` | Protected Management Frames &#x2705; <br/>
+		- Mandatory &#x2705; <br/>
+	- **Enterprise** &#x2705; <br/>
+		- 192-bit Mode &#x2705; <br/>
+	- Authentication / Encryption &#x2705; <br/>
+		- ``GCMP-256`` &#x2705; <br/>
+	- Key Derivation / Confirmation &#x2705; <br/>
+		- ``HMAC-SHA384`` &#x2705; <br/>
+	- Key Establishment / Authentication &#x2705; <br/>
+		- ``SAE`` | Diffie-Hellman | ``DH`` &#x2705; <br/>
+			- ``ECDHE`` / ``ECDSA`` | 384-bit Elliptic Curve &#x2705; <br/>
+				- ``DH`` | Groups &#x2705; <br/>
+					- ``19`` | Minimum &#x2705; <br/>
+					- ``15-21`` | Production &#x2705; <br/>
+	- Encryption Algorithm | ~~New~~ &#x2705; <br/>
+		- ``AES`` | Only Cipher &#x2705; <br/>
+	- ``WPA`` / ``WPA2`` / ``Open`` / ``WEP`` &#x2705; <br/>
+		- Auth / Assoc | ``<`` | 4-way Handshake &#x2705; <br/> 
+			- Dragonfly Handshake | Rework &#x2705; <br/> 
+	- Dragonfly Exchanges | Phases &#x2705; <br/> 
+		- Commit &#x2705; <br/>
+			- Shared Secret &#x2705; <br/>
+		- Confirm &#x2705; <br/>
+			- Shared Password / Derive PMK &#x2705; <br/>
+				- 4-way Handshake &#x2705; <br/>
+- ``OWE`` | Opportunistic Wireless Encryption &#x2705; <br/>
+	- Open Networks &#x2705; <br/>
+		- ~~Authentication~~ | ~~Encryption~~ &#x2705; <br/>
+	- Enhanced Open | ``PMF`` &#x2705; <br/>
+		- Mitigation | Attacks | Eavesdropping &#x2705; <br/>
+			- Encrypting Connections | Open Networks &#x2705; <br/>
+	- Diffie-Hellman Exchange &#x2705; <br/>
+		- Association Phase | Secret &#x2705; <br/>
+			- 4-way Handshake &#x2705; <br/>
+	- ``STA`` &#x2705; <br/>
+		- ``AP`` | Supports | ``OWE`` &#x2705; <br/>
+			- Setting | ``required`` | ~~optional~~ &#x2705; <br/>
+				- STA Public Key | Association Request &#x2705; <br/>
+				- AP Public Key | Association Response &#x2705; <br/>
+- ``WPS`` | Wireless Protected Setup &#x2705; <br/>
+	- Protocol &#x2705; <br/>
+		- ~~``ESSID``~~ | ~~Passphrase~~ &#x2705; <br/>
+	- Wi-Fi Simple Configuration | ``WPS`` | Standardise &#x2705; <br/>
+		- Support &#x2705; <br/>
+			- ``Open`` | ``WPA2`` &#x2705; <br/>
+				- ``CCMP`` | ``GCMP`` &#x2705; <br/>
+					- ~~``TKIP``~~ | Deprecated &#x2705; <br/>
+			- WPA2 Enterprise &#x2705; <br/>
+	- WPS Architecture &#x2705; <br/>
+		- Enrollee | ``AP`` | Registrar &#x2705; <br/>
+			- Interfaces &#x2705; <br/>
+				- ``E`` | Enrollee / Registrar &#x2705; <br/>
+				- ``M`` | Registrar / AP &#x2705; <br/>
+				- ``A`` | Discovery | ``IE`` | Beacons &#x2705; <br/>
+	- WPS Configuration Methods &#x2705; <br/>
+		- ``PIN`` &#x2705; <br/>
+			- Device Password &#x2705; <br/>
+		- Configuration &#x2705; <br/>
+			- In-band &#x2705; <br/>
+				- WLAN Communication &#x2705; <br/> 
+			- Out-band &#x2705; <br/>
+				- Other Channel / Method &#x2705; <br/>
+	- WPS Protocol &#x2705; <br/>
+		- Discovery &#x2705; <br/>
+			- Enrollee | AP &#x2705; <br/>
+				- Information Element | ``IE`` &#x2705; <br/>
+		- Initiate | ``802.1X`` &#x2705; <br/>
+			- Identity &#x2705; <br/>
+				- ``WFA-SimpleConfig-Enrollee-1-0`` &#x2705; <br/>
+		- Provision | Enrollee &#x2705; <br/>
+			- Message | ``M1`` | ``M8`` &#x2705; <br/>
+				- ``M1`` / ``M2`` | Input Device Password &#x2705; <br/>
+				- ``M5`` | 1st Half PIN &#x2705; <br/>
+				- ``M6`` | ``NACK`` | ~~2nd Half PIN~~ &#x2705; <br/>
+		- Disassociation &#x2705; <br/>
+			- Deauthentication &#x2705; <br/>
+				- Reconnect | Earlier Credentials &#x2705; <br/>
+- WPS Registration Protocol Messages &#x1F6A7; <br/>
+- ``802.11w`` &#x2705; <br/>
+	- ``PMF`` | Protected Management Frames &#x2705; <br/>
+	- DoS &#x2705; <br/>
+		- Frames | Deauthentication | Disassociation &#x2705; <br/>
+	- Connection &#x2705; <br/>
+		- Status | ``PMF`` | Beacon &#x2705; <br/>
+			- ``RSN IE`` | x2 Bits &#x2705; <br/>
+				- ``6`` | PMF Requirement &#x2705; <br/>
+				- ``7`` | PMF Capable &#x2705; <br/>
+					- Automatic Set | ``6`` | Set &#x2705; <br/>
+	- Security Association Teardown Protection &#x2705; <br/>
+		- SA Query Frame &#x2705; <br/>
+			- Association Response | ``"come back in XXX"`` &#x2705; <br/>
+<hr width=25%;> 
+</details>
+<details close>
+    <summary><b>Linux Wireless and Tools Drivers and Stacks &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+30/10/2023
+"update repository ./osw - PEN-210 - Linux Wireless and Tools Drivers and Stacks - Wireless Tools - The rfkill Utility"
+-->
+ 
+- Loading and Unloading Wireless Drivers &#x2705; <br/>
+	- **Alfa AWUS036NHA** &#x2705; <br/>
+		- ``airmon-ng`` &#x2705; <br/>
+			- ``Driver`` | ``ath9k_htc`` &#x2705; <br/>
+			- ``Chipset`` | ``AR9271`` &#x2705; <br/>
+				- **Qualcomm Atheros Communications** &#x2705; <br/>
+		- ``lsusb`` | ``-vv`` &#x2705; <br/>
+			- ``idVendor`` | ``idProduct`` &#x2705; <br/>
+				- ``0cf3:9271`` | "Manufacturer ID":"Device ID" &#x2705; <br/>
+					- "Qualcomm Atheros Comms":"AR9271 802.11n" &#x2705; <br/>
+			- Chipset | ``AR9271`` &#x2705; <br/>
+				- **Qualcomm Atheros Communications** &#x2705; <br/>
+		- Driver | ``LKM`` | Loadable Kernel Modules &#x2705; <br/>
+			- ``modinfo ath9k_htc`` | Kernel Module Parm &#x2705; <br/>
+				- ``ath9k_htc.ko`` | Driver File &#x2705; <br/>
+					- ``/lib/modules/<kernel version>`` &#x2705; <br/>
+				- ``vermagic`` | Driver Compilation &#x2705; <br/>
+				- ``alias`` | ``usb:v0CF3p9271`` | Device Install &#x2705; <br/>
+					- ``0cf3:9271`` | "Manufacturer ID":"Device ID" &#x2705; <br/>
+						- "Qualcomm Atheros Comms":"AR9271 802.11n" &#x2705; <br/>
+			- ``modprobe`` | Set/Change Module Parm &#x2705; <br/>
+				- ``/etc/modprobe.d`` | Blacklist Modules &#x2705; <br/>
+			- ``lsmod`` &#x2705; <br/>
+				- Loaded Modules/Dependencies &#x2705; <br/>
+			- ``rmmod`` | Unload Driver &#x2705; <br/>
+				- ``lsmod`` | Determine Module &#x2705; <br/>
+			- ``insmod`` | Manual Module Load &#x2705; <br/>
+- Wireless Tools &#x2705; <br/>
+	- Legacy | Deprecated &#x2705; <br/>
+		- ``iwconfig`` &#x2705; <br/>
+		- ``iwlist`` | <if> ``wlan0`` &#x2705; <br/>
+			- ``<parm>`` ``frequency`` &#x2705; <br/>
+				- Channel/Frequency &#x2705; <br/>
+		- ``iwspy`` &#x2705; <br/>
+		- ``iwpriv`` &#x2705; <br/>
+	- ``iw`` &#x2705; <br/>
+		- <u>Managed Mode</u> &#x2705; <br/>
+			- ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
+				- ``<parm>`` ``list`` &#x2705; <br/>
+			- ``<o>`` ``dev`` | ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
+				- ``<parm>`` ``scan`` &#x2705; <br/>
+					- ``<filter>`` ``| grep SSID`` &#x2705; <br/>
+			- ``<o>`` ``dev`` | ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
+				- ``<parm>`` ``scan`` &#x2705; <br/>
+					- ``<filter>`` ``| egrep "DS Parameter set|SSID:"`` &#x2705; <br/>
+		- <u>Monitor Mode</u> &#x2705; <br/>
+			- ``<o>`` ``dev`` | ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
+				- ``<o>`` ``interface`` &#x2705; <br/>
+					- ``<parm>`` ``add`` &#x2705; | ``<vif>`` ``wlan0mon`` <br/>
+						- ``<o>`` ``type`` | ``monitor`` &#x2705; <br/>
+			- ``<vif>`` ``wlan0mon`` | Down | Default &#x2705; <br/>
+				- ``ip`` | Bring Up &#x2705; <br/>
+					- ``<o>`` ``link`` &#x2705; <br/>
+						- ``<parm>`` ``set`` &#x2705; <br/>
+							- ``<o>`` ``up`` &#x2705; <br/>
+			- Test | Monitor Mode &#x2705; <br/>
+				- ``<o>`` ``dev`` | ``<vif>`` ``wlan0mon`` &#x2705; <br/>
+					- ``<o>`` ``info`` &#x2705; <br/>
+				- ``tcpdump -i`` | ``<vif>`` ``wlan0mon`` &#x2705; <br/>
+			- Bring Down &#x2705; <br/>
+				- ``<o>`` ``dev`` | ``<vif>`` ``wlan0mon`` &#x2705; <br/>
+					- ``<o>`` ``interface`` &#x2705; <br/>
+						- ``<o>`` ``del`` &#x2705; <br/>
+		- ``CRDA`` | Central Regulatory Domain Agent &#x2705; <br/>
+			- ``reg get`` &#x2705; <br/>
+				- ``00`` | Kali Default &#x2705; <br/>
+			- ``reg set`` | In Memory &#x2705; <br/>
+				- ``<COUNTRY>`` | **ISO/IEC 3166-1** &#x2705; <br/> 
+			- ``reg set`` | At Boot &#x2705; <br/>
+				- ``/etc/default/crda`` &#x2705; <br/>
+					- ``REGDOMAIN`` | Variable &#x2705; <br/>
+	- ``rfkill`` | Enable/Disable &#x2705; <br/>
+		- ``list`` | Enabled &#x2705; <br/>
+<!--
+- xxx &#x2705; <br/>
+- xxx &#x2705; <br/>
+- xxx &#x2705; <br/>
+- xxx &#x2705; <br/>
+- xxx &#x2705; <br/>
+- xxx &#x2705; <br/>
+-->
+<hr width=25%;> 
+</details>
+<details close>
+    <summary><b>Wireshark Essentials &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+09/07/2023
+"update repository ./osw - PEN-210 - Wireshark Essentials"
+-->
+ 
+&#x1F23A;
+<hr width=25%;> 
+</details>
+<details close>
+    <summary><b>Frames and Network Interaction &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+27/08/2023
+"update repository ./osw - PEN-210 - Frames and Network Interaction"
+-->
+ 
+&#x1F23A;
+<hr width=25%;> 
+</details>
+<hr width=35%;> 
+<details close> <!-- START - WiFi Hacking - Credit: Rene Thorup-->
+    <summary><b>WiFi Hacking &#x21A9;</b></summary>
+<details close>
+    <summary><b>Aircrack-ng 101 &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+24/09/2023
+"update repository ./osw - PEN-210 - Aircrack-ng 101 - Aircrack-ng Suite - Aireplay-ng"
+-->
+ 
+- Aircrack-ng Suite &#x1F4DC; &#x2705; <br/>
+	- Monitor Mode &#x1F52C; &#x2705; <br/>
+	- Airodump-ng Sniffing the Air &#x1F4DC; &#x2705; <br/>
+		- Airodump-ng &#x1F52C; &#x2705; <br/>
+	- Aireplay-ng &#x1F4DC; &#x2705; <br/>
+		- Aireplay-ng &#x1F52C; &#x274C; <br/>
+<hr width=25%;> 
+</details>
+<details close>
+    <summary><b>Deauthentication Attacks &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+24/09/2023
+"update repository ./osw - PEN-210 - Deauthentication-Attacks"
+-->
+ 
+- Deauthentication Attacks &#x1F4DC; &#x2705; <br/>
+	- Deauthentication Attacks &#x1F52C; &#x274C; <br/>
+<!--
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+-->
+<hr width=25%;> 
+</details>
+<details open>
+    <summary><b>WEP Protected Network with Clients &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+24/09/2023
+"update repository ./osw - PEN-210 - WEP Protected Network with Clients - Aircrack-ng"
+-->
+
+- Steps and Setup &#x1F4DC; &#x2705; <br/>
+- Fake Authentication Attack &#x1F4DC; &#x2705; <br/>
+	- ``-1`` &#x1F4DC; &#x2705; <br/>
+- Deauthentication Attack &#x1F4DC; &#x2705; <br/>
+	- ``0`` &#x1F4DC; &#x2705; <br/>
+- ARP Replay Attack &#x1F4DC; &#x2705; <br/>
+	- ``3`` &#x1F4DC; &#x2705; <br/>
+- Airodump-ng Capture &#x1F4DC; &#x2705; <br/>
+- Aircrack-ng &#x1F4DC; &#x2705; <br/>
+	- ``0`` | Add Color &#x1F4DC; &#x2705; <br/>
+<!--
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+- xxx &#x1F4DC; &#x2705; <br/>
+-->
+<hr width=25%;> 
+</details>
+Credit: Rene Thorup
+</details> <!-- END - WiFi Hacking - Credit: Rene Thorup-->
+<hr width=35%;>
+<details close>
+    <summary><b>Aircrack-ng Essentials &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+30/09/2023
+"update repository ./osw - PEN-210 - Aircrack-ng Essentials - Airgraph-ng"
+-->
+
+- Airmon-ng &#x1F3A5; &#x2705; <br/>
+	- Airmon-ng check &#x1F3A5; &#x2705; <br/>
+		- ``kill`` &#x1F3A5; &#x2705; <br/>
+	- Airmon-ng start &#x1F3A5; &#x2705; <br/>
+		- ``_____mon`` &#x1F3A5; &#x2705; <br/>
+	- Airmon-ng stop &#x1F3A5; &#x2705; <br/>
+		- ``-c`` | ``--channel`` &#x1F3A5; &#x2705; <br/>
+			- ``iw dev`` &#x1F3A5; &#x2705; <br/>
+			- ``iwconfig`` &#x1F3A5; &#x2705; <br/>
+	- Airodump-ng &#x1F3A5; &#x2705; <br/>
+		- Usage &#x1F3A5; &#x2705; <br/>
+			- ``-w`` | ``--write`` &#x1F3A5; &#x2705; <br/>
+			- ``bssid`` &#x1F3A5; &#x2705; <br/>
+			- ``--channel`` &#x1F3A5; &#x2705; <br/>
+		- Sniffing with Airodump-ng &#x1F3A5; &#x2705; <br/>
+			- Fields &#x1F3A5; &#x2705; <br/>
+				- ``Space`` | ``paused output`` &#x1F3A5; &#x2705; <br/>
+		- Precision Sniffing &#x1F3A5; &#x2705; <br/>
+			- ``c`` &#x1F3A5; &#x2705; <br/>
+			- ``--bssid`` &#x1F3A5; &#x2705; <br/>
+		- Airodump-ng Output Files &#x1F3A5; &#x2705; <br/>
+			- ``--output-format`` | Comma-separated &#x1F3A5; &#x2705; <br/>
+				- ``pcap`` &#x1F3A5; &#x2705; <br/>
+				- ``csv`` &#x1F3A5; &#x2705; <br/>
+				- ``kismet`` | Legacy CSV &#x1F3A5; &#x2705; <br/>
+				- ``netxml`` | Kismet Legacy NetXML &#x1F3A5; &#x2705; <br/>
+				- ``logcsv`` &#x1F3A5; &#x2705; <br/>
+		- Airodump-ng Interactive Mode &#x1F3A5; &#x2705; <br/>
+			- ``Space`` | ``paused output`` &#x1F3A5; &#x2705; <br/>
+			- ``Tab`` | Scrolling AP List &#x1F3A5; &#x2705; <br/>
+			- ``M`` | Color Options &#x1F3A5; &#x2705; <br/>
+			- ``A`` | Display Options &#x1F3A5; &#x2705; <br/>
+				- ``AP`` | ``STA`` | ``MAC`` &#x1F3A5; &#x2705; <br/>
+				- ``display ap only`` &#x1F3A5; &#x2705; <br/>
+				- ``display sta only`` &#x1F3A5; &#x2705; <br/>
+			- ``S`` | Sorting Options &#x1F3A5; &#x2705; <br/>
+			- ``I`` | Invert Sorting &#x1F3A5; &#x2705; <br/>
+				- ``D`` | Reset Default &#x1F3A5; &#x2705; <br/>
+					- ``PWD`` &#x1F3A5; &#x2705; <br/>
+	- Aireplay-ng &#x1F3A5; &#x2705; <br/>
+		- ``Attack modes`` | ``WEP Specific`` &#x1F3A5; &#x2705; <br/>
+			- ``--deauth`` &#x1F3A5; &#x2705; <br/>
+				- deauthenticate ``1`` or all stations (``-0``) &#x1F3A5; &#x2705; <br/>
+			- ``--fakeauth`` &#x1F3A5; &#x2705; <br/>
+				- fake authentication with AP (``-1``) &#x1F3A5; &#x2705; <br/>
+			- ``--interactive`` &#x1F3A5; &#x2705; <br/>
+				- interactive frame selection (``-2``) &#x1F3A5; &#x2705; <br/>
+			- ``--arpreplay`` &#x1F3A5; &#x2705; <br/>
+				- standard ARP-request replay (``-3``) &#x1F3A5; &#x2705; <br/>
+			- ``--chopchop`` &#x1F3A5; &#x2705; <br/>
+				- decrypt/chopchop WEP packet (``-4``) &#x1F3A5; &#x2705; <br/>
+			- ``--fragment`` &#x1F3A5; &#x2705; <br/>
+				- generates valid keystream (``-5``) &#x1F3A5; &#x2705; <br/>
+			- ``--caffe-latte`` &#x1F3A5; &#x2705; <br/>
+				- query a client for new IVs (``-6``) &#x1F3A5; &#x2705; <br/>
+			- ``--cfrag`` &#x1F3A5; &#x2705; <br/>
+				- fragments against a client (``-7``) &#x1F3A5; &#x2705; <br/>
+			- ``--migmode`` &#x1F3A5; &#x2705; <br/>
+				- attacks WPA migration mode (``-8``) &#x1F3A5; &#x2705; <br/>
+			- ``--test`` &#x1F3A5; &#x2705; <br/>
+				- tests injection and quality (``-9``) &#x1F3A5; &#x2705; <br/>
+		- ``WPA Attacks`` &#x1F3A5; &#x2705; <br/>
+			- ``Attack modes`` &#x1F3A5; &#x2705; <br/>
+				- ``-0`` | ``--deauth`` &#x1F3A5; &#x2705; <br/>
+				- ``-9`` | ``--test`` &#x1F3A5; &#x2705; <br/>
+		- Inject Wireless Frames < ``--deauth`` &#x1F3A5; &#x2705; <br/>
+			- Injection Test &#x1F3A5; &#x2705; <br/>
+				- ``SSID`` &#x1F3A5; &#x2705; <br/>
+				- ``Card-to-Card`` | Robust Check &#x1F3A5; &#x2705; <br/>
+					- ``-i`` &#x1F3A5; &#x2705; <br/>
+						- ``wlan1mon`` | ``wlan0mon`` &#x1F3A5; &#x2705; <br/>
+	- Aircrack-ng &#x1F3A5; &#x2705; <br/>
+		- Crack &#x1F3A5; &#x2705; <br/>
+			- ``WEP`` | ``WPA1`` | ``WPA2`` &#x1F3A5; &#x2705; <br/>
+				- ``PSK`` &#x1F3A5; &#x2705; <br/>
+		- Benchmark &#x1F3A5; &#x2705; <br/>
+			- ``-S`` | Speed Test &#x1F3A5; &#x2705; <br/>
+	- Airdecap-ng &#x1F3A5; &#x2705; <br/>
+		- Filter | ``.cap`` &#x1F3A5; &#x2705; <br/>
+			- ``-b`` | ``AP`` | ``BSSID`` &#x1F3A5; &#x2705; <br/>
+				- Packets | ``_dec.cap`` | Decrypt &#x1F3A5; &#x2705; <br/>
+	- Airgraph-ng &#x1F3A5; &#x2705; <br/>
+		- ``ristretto`` | ``.png`` | Image App &#x1F3A5; &#x2705; <br/>	
+			- ``CAPR`` | Client-AP-Relationship &#x1F3A5; &#x2705; <br/>
+				- ``AP`` | Encryption &#x1F3A5; &#x2705; <br/>
+					- ``WEP`` | Yellow &#x1F3A5; &#x2705; <br/>
+					- ``WPA`` | Green &#x1F3A5; &#x2705; <br/>
+					- ``Open`` | Red &#x1F3A5; &#x2705; <br/>
+					- ``Unk`` | Black &#x1F3A5; &#x2705; <br/>
+				- ``-i`` | Airodump-ng | ``.csv`` &#x1F3A5; &#x2705; <br/>
+				- ``-o`` | ``.png`` &#x1F3A5; &#x2705; <br/>
+				- ``g`` | Graph | ``CAPR`` &#x1F3A5; &#x2705; <br/>
+			- ``CPG`` | Client-Probe-Graph &#x1F3A5; &#x2705; <br/>
+				- ``-i`` | Airodump-ng | ``.csv`` &#x1F3A5; &#x2705; <br/>
+				- ``-o`` | ``.png`` &#x1F3A5; &#x2705; <br/>
+				- ``g`` | Graph | ``CPG`` &#x1F3A5; &#x2705; <br/>
+<hr width=25%;> 
+</details>
+<details close>
+    <summary><b>Cracking Authentication Hashes &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+01/10/2023
+"update repository ./osw - PEN-210 - Cracking Authentication Hashes - coWPAtty"
+-->
+
+- Aircrack-ng Suite &#x1F3A5; &#x2705; <br/>
+- Custom Wordlists with Aircrack-ng &#x1F3A5; <br/>
+	- Using Aircrack-ng with John the Ripper &#x1F3A5; <br/>
+	- Editing John the Ripper Rules &#x1F3A5; <br/>
+	- Using Aircrack-ng with JTR &#x1F3A5; <br/>
+	- Using Aircrack-ng with Crunch &#x1F3A5; <br/>
+	- Using Aircrack-ng with RSMangler &#x1F3A5; <br/>
+- Hashcat &#x1F3A5; <br/>
+	- Device Properties &#x1F3A5; <br/>
+	- Hashcat Benchmark &#x1F3A5; <br/>
+	- Hashcat Utilities &#x1F3A5; <br/>
+	- Passphrase Cracking with Hashcat &#x1F3A5; <br/>
+- Airolib-ng &#x1F3A5; <br/>
+	- Using Airolib-ng &#x1F3A5; <br/>
+- coWPAtty &#x1F3A5; <br/>
+	- Rainbow Table Mode &#x1F3A5; <br/>
+<!--
+- &#x1F3A5; &#x2705; <br/>
+-->
+<hr width=25%;> 
+</details>
+<details close>
+    <summary><b>Attacking WPS Networks &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+01/10/2023
+"update repository ./osw - PEN-210 - Attacking WPS Networks - WPS Attack"
+-->
+
+- WPS Technology Details &#x1F4DC; &#x2705; <br/>
+- WPS Vulnerabilities &#x1F4DC; &#x2705; <br/>
+- WPS Attack &#x1F4DC; &#x2705; <br/>
+	- AP Info &#x1F4DC; &#x2705; <br/>
+		- ``wash`` &#x1F4DC; &#x2705; <br/>
+			- ``-i`` | Default Scans 2.4GHz &#x1F4DC; &#x2705; <br/>
+				- ``-5`` | Scans 5GHz &#x1F4DC; &#x2705; <br/>
+		- ``airodump-ng --wps`` &#x1F4DC; &#x2705; <br/>
+	- AP Attack &#x1F4DC; &#x2705; <br/>
+		- ``reaver`` &#x1F4DC; &#x2705; <br/>
+			- ``-b`` | AP BSSID &#x1F4DC; &#x2705; <br/>
+			- ``-i`` | Monitor Interface &#x1F4DC; &#x2705; <br/>
+			- ``-vv`` | Verbose &#x1F4DC; &#x2705; <br/>
+			- ``-c`` | ``wash`` &#x1F4DC; &#x2705; <br/>
+			- ``-K`` | ``pixiewps`` &#x1F4DC; &#x2705; <br/>
+		- ``bully`` &#x1F4DC; &#x2705; <br/>
+	- Implementation Variations &#x1F4DC; &#x2705; <br/>
+		- ``reaver`` | ``bully`` &#x1F4DC; &#x2705; <br/>
+			- ``-p`` | Empty PIN &#x1F4DC; &#x2705; <br/>
+		- ``airgeddon`` &#x1F4DC; &#x2705; <br/>
+			- Default PIN | BSSID [1st x3 Bytes] &#x1F4DC; &#x2705; <br/>
+				- ``known_pins.db`` | ``source`` ec &#x1F4DC; &#x2705; <br/>
+	- Overcoming Unexpected Errors &#x1F4DC; &#x2705; <br/>
+		- Attack Choice &#x1F4DC; &#x2705; <br/>
+		- WPS Transaction Failure &#x1F4DC; &#x2705; <br/>
+		- ACK Issues &#x1F4DC; &#x2705; <br/>
+		- WPS Lock &#x1F4DC; &#x2705; <br/>
+			- DOS | ``mdk4`` &#x1F4DC; &#x2705; <br/>
+				- Reboot &#x1F4DC; &#x2705; <br/>
+<!--
+- &#x1F4DC; &#x2705; <br/>
+-->
+<hr width=25%;> 
+</details>
+<details close>
+    <summary><b>Rogue Access Points &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+07/10/2023
+"update repository ./osw - PEN-210 - Rogue Access Points - Creating a Rogue AP"
+-->
+
+- Basics of Rogue APs &#x1F3A5; &#x2705; <br/>
+- Discovery &#x1F3A5; &#x2705; <br/>
+- Creating a Rogue AP &#x1F3A5; &#x2705; <br/>
+	- ``hostapd`` | Daemon &#x1F3A5; &#x2705; <br/>
+		- ``hostapd-mana`` | AP Creation &#x1F3A5; &#x2705; <br/> 
+			- WiFi Adapter &#x1F3A5; &#x2705; <br/>
+	- Run | ``hostapd-mana`` | ``802.11b`` | Default &#x1F3A5; &#x2705; <br/>
+		- Configuration File &#x1F3A5; &#x2705; <br/>
+			- AP Configuration | Definition &#x1F3A5; &#x2705; <br/>
+			- Capturing Handshakes | Location &#x1F3A5; &#x2705; <br/>
+	- Configuration File &#x1F3A5; &#x2705; <br/>
+		- ``interface`` &#x1F3A5; &#x2705; <br/>
+		- ``ssid`` &#x1F3A5; &#x2705; <br/>
+		- ``channel`` &#x1F3A5; &#x2705; <br/>
+		- ``ieee802.11n`` &#x1F3A5; &#x2705; <br/>
+		- ``hw_mode`` &#x1F3A5; &#x2705; <br/>
+		- ``wpa`` &#x1F3A5; &#x2705; <br/>
+		- ``wpa_key_mgmt`` &#x1F3A5; &#x2705; <br/>
+		- ``wpa_passphrase`` &#x1F3A5; &#x2705; <br/>
+		- ``wpa_pairwise`` &#x1F3A5; &#x2705; <br/>
+		- ``rsn_pairwise`` &#x1F3A5; &#x2705; <br/>
+		- ``mana_wpaout`` &#x1F3A5; &#x2705; <br/>
+	- Capturing Handshakes &#x1F3A5; &#x2705; <br/>
+<hr width=25%;> 
+</details>
+<details close>
+    <summary><b>Attacking WPA Enterprise &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+08/10/2023
+"update repository ./osw - PEN-210 - Attacking WPA Enterprise - PEAP Exchange"
+-->
+
+- Attacking WPA Enterprise &#x1F3A5; &#x2705; <br/>
+	- Basics &#x1F3A5; &#x2705; <br/>
+		- ``EAP`` | Extensible Authentication Protocol &#x1F3A5; &#x2705; <br/>
+			- Authentication | Framework | ``RADIUS`` &#x1F3A5; &#x2705; <br/>
+				- Remote Authentication Dial-In User Service &#x1F3A5; &#x2705; <br/>
+			- ``STA`` &#x1F3A5; &#x2705; <br/>
+				- EAP Frames | Agree Authentication Scheme &#x1F3A5; &#x2705; <br/>
+					- ``AP`` | RADIUS Server | Certificates &#x1F3A5; &#x2705; <br/>
+				- Success | Result | ``PMK`` &#x1F3A5; &#x2705; <br/>
+					- Pairwise Master Key | 4-way Handshake | ~``PSK``~ &#x1F3A5; &#x2705; <br/>
+			- ``EAP-TLS`` | EAP Transport Layer Security &#x1F3A5; &#x2705; <br/>
+				- Certificates | Server / Client &#x1F3A5; &#x2705; <br/>
+					- ~~``Username / Password``~~ &#x2705; <br/>
+			- ``EAP-TTLS`` | EAP Tunneled Transport Layer Security &#x1F3A5; &#x2705; <br/>
+				- Certificates &#x1F3A5; &#x2705; <br/>
+					- ~~``Client``~~ &#x1F3A5; &#x2705; <br/>
+				- TLS Tunnel < Credentials | Inner Methods | Phase 2 &#x1F3A5; &#x2705; <br/>
+					- Challenge-Handshake Authentication Protocol | ``CHAP`` &#x1F3A5; &#x2705; <br/>
+					- Authentication Protocol | ``PAP`` &#x1F3A5; &#x2705; <br/>
+					- Microsoft CHAP | ``MS-CHAP`` &#x1F3A5; &#x2705; <br/>
+					- Microsoft CHAP v2 | ``MS-CHAPv2`` &#x1F3A5; &#x2705; <br/>
+			- ``PEAP`` | Protected Extensible Authentication Protocol &#x1F3A5; &#x2705; <br/>
+				- TLS Tunnel < Credentials &#x1F3A5; &#x2705; <br/>
+					- ``MS-CHAPv2`` &#x1F3A5; &#x2705; <br/>
+	- PEAP Exchange &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+		- xxx &#x1F3A5; &#x2705; <br/>
+<hr width=25%;> 
+</details>
+</details> <!-- PEN-210 -->
+
+<hr width=33%;> <!-- -->
+
+<details open>
+    <summary><b><font size="5">SOC-200</font> &#x21A9;</b></summary><br/>
+<details open>
+    <summary><b>Attacker Methodology &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+30/12/2023
+"update repository soc-200 ./soc-200 - Attacker Methodology - Network as a Whole - DiD"
+-->
+
+- Network as a Whole &#x1F4DC; &#x2705; <br/>
+	- ``DiD`` | Defence-in-Depth &#x1F4DC; &#x2705; <br/>
+		- ``DMZ`` | Demilitarised Zone &#x1F4DC; &#x2705; <br/>
+		- Deployment Environments &#x1F4DC; &#x2705; <br/>
+		- Network Devices &#x1F4DC; &#x2705; <br/>
+			- Edge &#x1F4DC; &#x2705; <br/>
+				- Connectivity | Networks &#x1F4DC; &#x2705; <br/>
+					- Internet | Internal &#x1F4DC; &#x2705; <br/>
+				- Frontend Firewall | Router &#x1F4DC; &#x2705; <br/>
+					- Translation | Protocols &#x1F4DC; &#x2705; <br/>
+					- Encryption | Devices &#x1F4DC; &#x2705; <br/>
+			- Core &#x1F4DC; &#x2705; <br/>
+				- Limited Downtime &#x1F4DC; &#x2705; <br/>
+					- Forward Packets Fast &#x1F4DC; &#x2705; <br/>
+				- Backend Firewall | Router &#x1F4DC; &#x2705; <br/>
+					- Switches | Network Segments &#x1F4DC; &#x2705; <br/>
+		- VPN &#x1F4DC; &#x2705; <br/>
+			- Remote Sites &#x1F4DC; &#x2705; <br/>
+<hr width=25%;>
+</details>
+</details> <!-- SOC-200 -->
+
+<hr width=33%;> <!-- -->
+
 ###### Project Management Tracking
 
 <details close>
