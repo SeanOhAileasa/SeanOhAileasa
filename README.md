@@ -6027,7 +6027,7 @@ Credit: Rene Thorup
 31/12/2023
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - Windows Endpoint - Programming on Windows - Component Object Model - .Net Framework - .Net Core"
+"update repository OSDA ./soc-200 - [Video] Windows Endpoint - Windows Event Log"
 -->
 
 - Windows Processes &#x1F4DC; &#x2705; <br/>
@@ -6156,6 +6156,7 @@ Credit: Rene Thorup
 		- ``.NET`` | Other OS &#x1F4DC; &#x2705; <br/>
 	- ``.NET 5`` &#x1F4DC; &#x2705; <br/>
 		- .NET Framework ``<==>`` .NET Core &#x1F4DC; &#x2705; <br/>
+- Windows Event Log &#x1F3A5; <br/>
 <hr width=25%;>
 </details>
 </details> <!-- SOC-200 -->
