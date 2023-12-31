@@ -5989,7 +5989,7 @@ Credit: Rene Thorup
 				- Backend Firewall | Router &#x1F4DC; &#x2705; <br/>
 					- Switches | Network Segments &#x1F4DC; &#x2705; <br/>
 		- VPN &#x1F4DC; &#x2705; <br/>
-			- Remote Sites &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 40m -->
+			- Remote Sites &#x1F4DC; &#x2705; <br/>
 - Lockheed-Martin Cyber Kill-Chain | ``APT`` &#x1F4DC; &#x2705; <br/>
 	- Reconnaissance &#x1F4DC; &#x2705; <br/>
 	- Weaponisation &#x1F4DC; &#x2705; <br/>
@@ -5997,7 +5997,7 @@ Credit: Rene Thorup
 	- Exploitation &#x1F4DC; &#x2705; <br/>
 	- Installation &#x1F4DC; &#x2705; <br/>
 	- ``C2`` | Command & Control &#x1F4DC; &#x2705; <br/>
-	- Actions on Objectives &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 25m -->
+	- Actions on Objectives &#x1F4DC; &#x2705; <br/>
 - MITRE ATT&CK Framework &#x1F4DC; &#x2705; <br/>
 	- Adversarial Tactics Techniques Common Knowledge &#x1F4DC; &#x2705; <br/>
 		- Techniques | Sub-techniques &#x1F4DC; &#x2705; <br/>
@@ -6014,7 +6014,7 @@ Credit: Rene Thorup
 			- Collection &#x1F4DC; &#x2705; <br/>
 			- Command and Control &#x1F4DC; &#x2705; <br/>
 			- Exfiltration &#x1F4DC; &#x2705; <br/>
-			- Impact &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 25m -->
+			- Impact &#x1F4DC; &#x2705; <br/>
 <hr width=25%;>
 </details> <!-- -->
 <details open>
@@ -6024,10 +6024,10 @@ Credit: Rene Thorup
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-30/12/2023
+31/12/2023
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - Windows Endpoint - VBScript"
+"update repository OSDA ./soc-200 - Windows Endpoint - PowerShell"
 -->
 
 - Windows Processes &#x1F4DC; &#x2705; <br/>
@@ -6040,7 +6040,7 @@ Credit: Rene Thorup
 		- ***CMD*** | Command Prompt &#x1F4DC; &#x2705; <br/>
 			- ``services.msc`` | List Services &#x1F4DC; &#x2705; <br/>
 				- ``Status`` | ``Startup Type`` &#x1F4DC; &#x2705; <br/>
-			- Change Service Configuration &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 10m -->
+			- Change Service Configuration &#x1F4DC; &#x2705; <br/>
 - Windows Registry &#x1F4DC; &#x2705; <br/>
 	- Configurations &#x1F4DC; &#x2705; <br/>
 		- Service | Applications &#x1F4DC; &#x2705; <br/>
@@ -6052,7 +6052,7 @@ Credit: Rene Thorup
 			- Fields &#x1F4DC; &#x2705; <br/>
 				- ``name`` | Value Description &#x1F4DC; &#x2705; <br/>
 				- ``type`` | Format &#x1F4DC; &#x2705; <br/>
-				- ``data`` | Actual Value &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 10m -->
+				- ``data`` | Actual Value &#x1F4DC; &#x2705; <br/>
 - Command Prompt &#x1F52C; <u> 3/3 </u> &#x2705; <br/>
 	- ***CMD*** | ``cmd.exe`` &#x1F4DC; &#x2705; <br/>
 		- Predecessor | ``COMMAND.COM`` &#x1F4DC; &#x2705; <br/>
@@ -6061,19 +6061,69 @@ Credit: Rene Thorup
 			- ``@ECHO OFF`` | ~~CMD Display~~ &#x1F4DC; &#x2705; <br/>
 			- ``TITLE`` | CMD Title &#x1F4DC; &#x2705; <br/>
 			- ``ECHO`` | Write Std Output &#x1F4DC; &#x2705; <br/>
-			- ``PAUSE`` | Prompt | Press any Key &#x1F4DC; &#x2705; <br/> <!-- 30/12/2023 50m -->
+			- ``PAUSE`` | Prompt | Press any Key &#x1F4DC; &#x2705; <br/>
 - VBScript | ~~Compatible ``.NET`` Framework~~ &#x1F52C; <u> 2/2 </u> &#x2705; <br/>
 	- ``.vbs`` &#x1F4DC; &#x2705; <br/>
 		- Interpreter | ``cscript.exe`` &#x1F4DC; &#x2705; <br/>
 	- Windows Management Instrumentation &#x1F4DC; &#x2705; <br/>
 		- ``WMIService`` &#x1F4DC; &#x2705; <br/>
 			- Query Components | Collect Config Settings &#x1F4DC; &#x2705; <br/>
-		- <f> ``GetObject`` &#x1F4DC; &#x2705; <br/>
+		- ``<func>`` ``GetObject`` &#x1F4DC; &#x2705; <br/>
 			- Common Information Model | ``CIM`` &#x1F4DC; &#x2705; <br/>
 				- ``cimv2`` &#x1F4DC; &#x2705; <br/>
-		- <c> ``Win32_OperatingSystem`` | ``CIM`` &#x1F4DC; &#x2705; <br/>
+		- ``<cls>`` ``Win32_OperatingSystem`` | ``CIM`` &#x1F4DC; &#x2705; <br/>
 			- Query &#x1F4DC; &#x2705; <br/> 
-				- <f> ``ExecQuery`` &#x1F4DC; &#x2705; <br/>
+				- ``<meth>`` ``ExecQuery`` &#x1F4DC; &#x2705; <br/>
+- ``<cmdlet>`` | API Call &#x1F4DC; &#x2705; <br/>
+	- .Net Object &#x1F4DC; &#x2705; <br/>
+- PowerShell | Compatible ``.NET`` Framework &#x1F4DC; &#x2705; <br/>
+	- Syntax &#x1F4DC; &#x2705; <br/>
+		- Backwards-compatible | ``cmd.exe`` &#x1F4DC; &#x2705; <br/>
+	- Integrated Scripting Environment | ``ISE`` &#x1F4DC; &#x2705; <br/>
+		- ``powershell_ise.exe`` &#x1F4DC; &#x2705; <br/>
+	- **Execution Policy** &#x1F4DC; &#x2705; <br/>
+		- ``<cmdlet>`` ``Get-ExecutionPolicy`` &#x1F4DC; &#x2705; <br/>
+			- ***Unrestricted*** | ***Restricted*** | ***Undefined*** &#x1F4DC; &#x2705; <br/>
+		- ``<arg>`` ``-ExecutionPolicy bypass`` | Burden &#x1F4DC; &#x2705; <br/>
+	- System &#x1F4DC; &#x2705; <br/>
+		- ``<cmdlet>`` ``Get-CimInstance`` &#x1F4DC; &#x2705; <br/>
+			- ``CIM`` | Instance Object &#x1F4DC; &#x2705; <br/>
+				- ``<arg>`` ``-ClassName`` &#x1F4DC; &#x2705; <br/>
+					- ``<cls>`` ``Win32_OperatingSystem`` &#x1F4DC; &#x2705; <br/>
+		- ``<cmdlet>`` ``Select-Object`` &#x1F4DC; &#x2705; <br/>
+			- ``<arg>`` ``-Property`` &#x1F4DC; &#x2705; <br/>
+				- ``<obj(s)>`` | ``Win32_OperatingSystem`` &#x1F4DC; &#x2705; <br/>
+					- ``CSName`` &#x1F4DC; &#x2705; <br/>
+					- ``Caption`` &#x1F4DC; &#x2705; <br/>
+					- ``Version`` &#x1F4DC; &#x2705; <br/>
+					- ``BuildNumber`` &#x1F4DC; &#x2705; <br/>
+					- ``BuildType`` &#x1F4DC; &#x2705; <br/>
+					- ``OSType`` &#x1F4DC; &#x2705; <br/>
+					- ``RegisteredUser`` &#x1F4DC; &#x2705; <br/>
+					- ``OSArchitecture`` &#x1F4DC; &#x2705; <br/>
+					- ``ServicePackMajorVersion`` &#x1F4DC; &#x2705; <br/>
+					- ``ServicePackMinorVersion`` &#x1F4DC; &#x2705; <br/>
+	- Services &#x1F4DC; &#x2705; <br/>
+		- ``<cmdlet>`` ``Get-Service`` &#x1F4DC; &#x2705; <br/>
+			- <u>Status</u> | <u>Name</u> | <u>DisplayName</u> &#x1F4DC; &#x2705; <br/>
+		- Running | <u>Status</u> &#x1F4DC; &#x2705; <br/>
+			- ``<cmdlet>`` ``Where-Object`` &#x1F4DC; &#x2705; <br/>
+				- Via ``Get-Process``&#x1F4DC; &#x2705; <br/>
+			- ``<$_>`` | Ref | ``Get-Service`` &#x1F4DC; &#x2705; <br/>
+				- ``.Status`` &#x1F4DC; &#x2705; <br/>
+		- Script | Dot Sourcing | ``.\`` &#x1F4DC; &#x2705; <br/>
+			- ``<>.ps1`` &#x1F4DC; &#x2705; <br/>
+		- Help &#x1F4DC; &#x2705; <br/>
+			- ``<cmdlet>`` ``Get-Help`` &#x1F4DC; &#x2705; <br/>
+	- Built-in PS Functions &#x1F4DC; &#x2705; <br/>
+		- ~~Pre-compiled .NET~~ | Local Library &#x1F4DC; &#x2705; <br/>
+			- Module | Dir | ``var`` ``$env:PSModulePath`` &#x1F4DC; &#x2705; <br/>
+	- Alias &#x1F4DC; &#x2705; <br/>
+		- ``<cmdlet>`` ``Get-Alias`` &#x1F4DC; &#x2705; <br/>
+			- ``gcim`` | ``<cmdlet>`` ``Get-CimInstance`` &#x1F4DC; &#x2705; <br/>
+	- Custom PS Functions &#x1F4DC; &#x2705; <br/>
+		- ``function`` &#x1F4DC; &#x2705; <br/>
+			- ``<cmdlet>`` ``Import-Module`` | Relative Path &#x1F4DC; &#x2705; <br/>
 <hr width=25%;>
 </details>
 </details> <!-- SOC-200 -->
