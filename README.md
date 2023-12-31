@@ -6027,7 +6027,7 @@ Credit: Rene Thorup
 31/12/2023
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - Windows Endpoint - PowerShell"
+"update repository OSDA ./soc-200 - Windows Endpoint - Programming on Windows - Component Object Model - .Net Framework - .Net Core"
 -->
 
 - Windows Processes &#x1F4DC; &#x2705; <br/>
@@ -6076,7 +6076,7 @@ Credit: Rene Thorup
 				- ``<meth>`` ``ExecQuery`` &#x1F4DC; &#x2705; <br/>
 - ``<cmdlet>`` | API Call &#x1F4DC; &#x2705; <br/>
 	- .Net Object &#x1F4DC; &#x2705; <br/>
-- PowerShell | Compatible ``.NET`` Framework &#x1F4DC; &#x2705; <br/>
+- PowerShell | Compatible ``.NET`` Framework <u> 0/3 </u> &#x1F6A7; <br/>
 	- Syntax &#x1F4DC; &#x2705; <br/>
 		- Backwards-compatible | ``cmd.exe`` &#x1F4DC; &#x2705; <br/>
 	- Integrated Scripting Environment | ``ISE`` &#x1F4DC; &#x2705; <br/>
@@ -6124,6 +6124,38 @@ Credit: Rene Thorup
 	- Custom PS Functions &#x1F4DC; &#x2705; <br/>
 		- ``function`` &#x1F4DC; &#x2705; <br/>
 			- ``<cmdlet>`` ``Import-Module`` | Relative Path &#x1F4DC; &#x2705; <br/>
+- Programming on Windows &#x1F4DC; &#x2705; <br/>
+	- Format &#x1F4DC; &#x2705; <br/>
+		- Portable Executable | ``PE`` &#x1F4DC; &#x2705; <br/>
+			- ``.exe`` | ``.dll`` &#x1F4DC; &#x2705; <br/>
+	- Component Object Model | ``COM`` &#x1F4DC; &#x2705; <br/>
+		- Code Wrapper &#x1F4DC; &#x2705; <br/>
+			- Lower-level Languages | ``C`` &#x1F4DC; &#x2705; <br/>
+		- Interprocess Communication | Streamlined &#x1F4DC; &#x2705; <br/>
+			- Excel Embedded Word &#x1F4DC; &#x2705; <br/>
+				- Excel Update | Reflected Word &#x1F4DC; &#x2705; <br/>
+		- Distributed Component Object Model | ``DCOM`` &#x1F4DC; &#x2705; <br/>
+			- Network Share &#x1F4DC; &#x2705; <br/>
+		- ``ActiveX`` | Framework &#x1F4DC; &#x2705; <br/>
+			- Code Wrapper | ``COM`` &#x1F4DC; &#x2705; <br/>
+				- Execute Code | Browser &#x1F4DC; &#x2705; <br/> 
+			- ~~Support~~ &#x1F4DC; &#x2705; <br/>
+				- Evolved | ``.NET`` | ``.NET Core`` &#x1F4DC; &#x2705; <br/>
+	- .NET Framework &#x1F4DC; &#x2705; <br/>
+		- ``C#`` | ``Visual Basic.NET`` &#x1F4DC; &#x2705; <br/>
+			- Wrappers &#x1F4DC; &#x2705; <br/>
+				- Windows API &#x1F4DC; &#x2705; <br/>
+				- COM Objects &#x1F4DC; &#x2705; <br/>
+		- Common Language Runtime | ``CLR`` &#x1F4DC; &#x2705; <br/>
+			- ``VM`` &#x1F4DC; &#x2705; <br/>
+				- Code &#x1F4DC; &#x2705; <br/>
+					- Local Vs Download | Differentiate &#x1F4DC; &#x2705; <br/>
+				- Execution &#x1F4DC; &#x2705; <br/>
+					- Elevated Privileges | Determine &#x1F4DC; &#x2705; <br/>
+	- .NET Core &#x1F4DC; &#x2705; <br/>
+		- ``.NET`` | Other OS &#x1F4DC; &#x2705; <br/>
+	- ``.NET 5`` &#x1F4DC; &#x2705; <br/>
+		- .NET Framework ``<==>`` .NET Core &#x1F4DC; &#x2705; <br/>
 <hr width=25%;>
 </details>
 </details> <!-- SOC-200 -->
