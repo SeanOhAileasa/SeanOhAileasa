@@ -5774,8 +5774,8 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-24/09/2023
-"update repository ./osw - PEN-210 - Aircrack-ng 101 - Aircrack-ng Suite - Aireplay-ng"
+01/01/2024
+"update repository ./osw - PEN-210 - Aircrack-ng"
 -->
  
 - Aircrack-ng Suite &#x1F4DC; &#x2705; <br/>
