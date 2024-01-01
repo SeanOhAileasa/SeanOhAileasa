@@ -5180,7 +5180,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b><font size="5">PEN-210</font> &#x21A9;</b></summary><br/>
 
 <details close>
@@ -5208,32 +5208,102 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - Encryption &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>IEEE 802.11 &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-23/09/2023
-"update repository ./osw - PEN-210 - IEEE 802.11 - Antenna Diversity vs MIMO"
+01/01/2024
+"update repository ./osw - PEN-210 - IEEE 802.11"
 -->
  
 - IEEE &#x1F4DC; &#x2705; <br/>
 - 802.11 Standards and Amendments &#x1F4DC; &#x2705; <br/>
 	- IEEE 802.11 &#x1F4DC; &#x2705; <br/>
 	- IEEE 802.11b &#x1F4DC; &#x2705; <br/>
+		- Complementary Code Keying &#x1F4DC; &#x2705; <br/>
+			- ``CCK`` &#x1F4DC; &#x2705; <br/>
+				- Mbit/s | ``5.5`` | ``11`` &#x1F4DC; &#x2705; <br/>
+		- 2.4GHz Band | ``2.4-2.485 GHz`` &#x1F4DC; &#x2705; <br/>
+			- Channels | ``14`` &#x1F4DC; &#x2705; <br/>
+				- Wide | ``22MHz`` &#x1F4DC; &#x2705; <br/>
+					- Overlapping | ``3`` &#x1F4DC; &#x2705; <br/>
+		- Antenna Diversity | Multiple Antennas &#x1F4DC; &#x2705; <br/>
+			- Single Input Single Output | ``SISO`` | ~~MIMI~~ &#x1F4DC; &#x2705; <br/>
 	- IEEE 802.11a &#x1F4DC; &#x2705; <br/>
+		- Modulation &#x1F4DC; &#x2705; <br/>
+			- Orthogonal Frequency-Division Multiplexing &#x1F4DC; &#x2705; <br/>
+				- ``OFDM`` &#x1F4DC; &#x2705; <br/>
+		- MBit/s | ``54`` &#x1F4DC; &#x2705; <br/>
+			- Channels | ``20MHz`` &#x1F4DC; &#x2705; <br/>
+		- 5GHz Band &#x1F4DC; &#x2705; <br/>
+			- Channels | ~~Overlapping~~ &#x1F4DC; &#x2705; <br/>
+		- Antenna Diversity | Multiple Antennas &#x1F4DC; &#x2705; <br/>
+			- Single Input Single Output | ``SISO`` | ~~MIMI~~ &#x1F4DC; &#x2705; <br/>
 	- IEEE 802.11g &#x1F4DC; &#x2705; <br/>
-	- IEEE 802.11n &#x1F4DC; &#x2705; <br/>
-	- IEEE 802.11ac &#x1F4DC; &#x2705; <br/>
+		- Modulation &#x1F4DC; &#x2705; <br/>
+			- Orthogonal Frequency-Division Multiplexing &#x1F4DC; &#x2705; <br/>
+				- ``OFDM`` &#x1F4DC; &#x2705; <br/>
+		- 2.4GHz Band &#x1F4DC; &#x2705; <br/>
+		- Antenna Diversity | Multiple Antennas &#x1F4DC; &#x2705; <br/>
+			- Single Input Single Output | ``SISO`` | ~~MIMI~~ &#x1F4DC; &#x2705; <br/>		
+	- IEEE 802.11n | ``2.4GHz`` | ``5GHz`` &#x1F4DC; &#x2705; <br/>
+		- Multiple-Input Multiple-Output &#x1F4DC; &#x2705; <br/>
+			- ``MIMO`` &#x1F4DC; &#x2705; <br/>
+				- ``SU-MIMO`` &#x1F4DC; &#x2705; <br/>
+		- Channels | ``40MHz`` &#x1F4DC; &#x2705; <br/>
+			- Doubling Date Rate &#x1F4DC; &#x2705; <br/>
+				- High Throughput | ``HT`` &#x1F4DC; &#x2705; <br/>
+					- x2 | ``20MHz`` | ``HT40`` &#x1F4DC; &#x2705; <br/>
+		- Channels | ``20MHz`` &#x1F4DC; &#x2705; <br/>
+			- ``HT20`` &#x1F4DC; &#x2705; <br/>
+		- Greenfield Mode &#x1F4DC; &#x2705; <br/>
+			- Pause &#x1F4DC; &#x2705; <br/>
+		- Antennas &#x1F4DC; &#x2705; <br/>
+			- ``txr:s`` | ``tTrR`` &#x1F4DC; &#x2705; <br/>
+		- Modulation and Coding Scheme | ``MCS`` &#x1F4DC; &#x2705; <br/>
+			- ``# Spatial Streams in Use `` &#x1F4DC; &#x2705; <br/>
+				- ``MCSIndex.com`` &#x1F4DC; &#x2705; <br/>
+		- Subcarriers | ``802.11ac`` &#x1F4DC; &#x2705; <br/>
+			- Data | ``52`` &#x1F4DC; &#x2705; <br/>
+			- Pilots | ``4`` &#x1F4DC; &#x2705; <br/>
+			- Null | ``8`` &#x1F4DC; &#x2705; <br/>				
+	- IEEE 802.11ac | ``5GHz`` &#x1F4DC; &#x2705; <br/>
+		- Channels | ``80MHz`` &#x1F4DC; &#x2705; <br/>
+		- Beamforming | Beam Steering 
+		- Multiple-Input Multiple-Output &#x1F4DC; &#x2705; <br/>
+			- ``MIMO`` &#x1F4DC; &#x2705; <br/>
+				- Wave 1 &#x1F4DC; &#x2705; <br/>
+					- ``SU-MIMO`` &#x1F4DC; &#x2705; <br/>
+				- Wave 2 &#x1F4DC; &#x2705; <br/>
+					- ``MU-MIMO`` &#x1F4DC; &#x2705; <br/>
+						``160MHz`` Channels &#x1F4DC; &#x2705; <br/>
+		- Subcarriers | ``802.11n`` &#x1F4DC; &#x2705; <br/>
+			- Data | ``52`` &#x1F4DC; &#x2705; <br/>
+			- Pilots | ``4`` &#x1F4DC; &#x2705; <br/>
+			- Null | ``8`` &#x1F4DC; &#x2705; <br/>
 	- IEEE 802.11ad &#x1F4DC; &#x2705; <br/>
+		- ``WiGig`` &#x1F4DC; &#x2705; <br/>
 	- IEEE 802.11ax &#x1F4DC; &#x2705; <br/>
-	- IEEE 802.11h &#x1F4DC; &#x2705; <br/>
+		- High Efficiency | ``HE`` &#x1F4DC; &#x2705; <br/>
+			- Build Upon 802.11ac | ``2.4Ghz`` &#x1F4DC; &#x2705; <br/>
+	- IEEE 802.11h | ``5GHz`` &#x1F4DC; &#x2705; <br/>
+		- Dynamic Frequency Selection &#x1F4DC; &#x2705; <br/>
+			- ``DFS`` &#x1F4DC; &#x2705; <br/>
+		- Transmit Power Control &#x1F4DC; &#x2705; <br/>
+			- ``TPC`` &#x1F4DC; &#x2705; <br/>
 	- 802.11 Standard and Amendments Overview  &#x1F4DC; &#x2705; <br/>
 - Antenna Diversity vs MIMO &#x1F4DC; <br/>
 	- Antenna Diversity &#x1F4DC; &#x2705; <br/>
+		- Best Single Antenna | RX or TX &#x1F4DC; &#x2705; <br/>
 	- MIMO &#x1F4DC; &#x2705; <br/>
+		- Splits Data | Multiple Streams &#x1F4DC; &#x2705; <br/>
+			- Multiple Antennas &#x1F4DC; &#x2705; <br/>
+				- Receiver Combines Streams &#x1F4DC; &#x2705; <br/>
+		- ~~Space-Time Block Code~~ | ``STBC`` &#x1F4DC; &#x2705; <br/>
+			- Duplicates Across Antennas &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <details close>
@@ -5959,7 +6029,7 @@ Credit: Rene Thorup
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b><font size="5">SOC-200</font> &#x21A9;</b></summary><br/>
 <details close>
     <summary><b>Attacker Methodology &#x21A9;</b></summary>
@@ -6157,6 +6227,7 @@ Credit: Rene Thorup
 	- ``.NET 5`` &#x1F4DC; &#x2705; <br/>
 		- .NET Framework ``<==>`` .NET Core &#x1F4DC; &#x2705; <br/>
 - Windows Event Log &#x1F3A5; <br/>
+	- Windows Events &#x1F3A5; <br/>
 <hr width=25%;>
 </details>
 </details> <!-- SOC-200 -->
