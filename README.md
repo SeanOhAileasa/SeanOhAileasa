@@ -5306,36 +5306,102 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 			- Duplicates Across Antennas &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>Wireless Networks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-24/09/2023
-"update repository ./osw - PEN-210 - Wireless Networks - Monitor Mode"
+01/01/2024
+"update repository ./osw - PEN-210 - Wireless Networks"
 -->
  
 - Infrastructure &#x1F4DC; &#x2705; <br/>
-	- Basic Infrastructure &#x1F4DC; &#x2705; <br/>
-		- ``BSS`` &#x1F4DC; &#x2705; <br/>
-			- ``AP`` | Wired | ``DS`` &#x1F4DC; &#x2705; <br/>
-		- ``ESS`` &#x1F4DC; &#x2705; <br/>
-- Wireless Distribution Systems &#x1F4DC; &#x2705; <br/>
+	- Basic Infrastructure | ``AP`` | ``STA`` &#x1F4DC; &#x2705; <br/>
+		- Basic Service Set | ``BSS`` &#x1F4DC; &#x2705; <br/>
+			- ``AP`` | Wired &#x1F4DC; &#x2705; <br/>
+				- Distribution System | ``DS`` &#x1F4DC; &#x2705; <br/>
+		- ``ESS`` | APs | Wired &#x1F4DC; &#x2705; <br/>
+	- Linux &#x1F4DC; &#x2705; <br/>
+		- ``STA`` &#x1F4DC; &#x2705; <br/>
+			- Managed Mode &#x1F4DC; &#x2705; <br/>
+		- ``AP`` &#x1F4DC; &#x2705; <br/>
+			- Master Mode &#x1F4DC; &#x2705; <br/>
+- Wireless Distribution Systems | ``WDS`` &#x1F4DC; &#x2705; <br/>
+	- ``DS`` | Wi-Fi &#x1F4DC; &#x2705; <br/>
+		- Connect Multiple APS | ~~Ethernet~~ &#x1F4DC; &#x2705; <br/>
+	- Connectivity Mode &#x1F4DC; &#x2705; <br/>
+		- Wireless Bridging &#x1F4DC; &#x2705; <br/>
+			- WDS APs | Communicate &#x1F4DC; &#x2705; <br/>
+		- Wireless Repeating &#x1F4DC; &#x2705; <br/>
+			- STA/IPs | Communicate &#x1F4DC; &#x2705; <br/>
+	- Limited 
+		- ``WEP`` 
+		- Unencrypted Networks 
 - Ad-Hoc Networks &#x1F4DC; &#x2705; <br/>
-	- ``IBSS`` &#x1F4DC; &#x2705; <br/>
-	- Ad-Hoc Demo &#x1F4DC; &#x2705; <br/>
+	- Devices | Equal &#x1F4DC; &#x2705; <br/>
+		- Initiating Device &#x1F4DC; &#x2705; <br/>
+			- AP Duties | Beaconing | Authentication &#x1F4DC; &#x2705; <br/>
+	- Independent Basic Service Set | ``IBSS`` &#x1F4DC; &#x2705; <br/>
+		- STAs Communicating Without AP &#x1F4DC; &#x2705; <br/>
+			- STA Takes Responsibility &#x1F4DC; &#x2705; <br/>
+				- Beaconing &#x1F4DC; &#x2705; <br/>
+				- Authentication &#x1F4DC; &#x2705; <br/>
+			- ~~Relay Packets~~ &#x1F4DC; &#x2705; <br/>
+	- Ad-Hoc Demo | Deviation &#x1F4DC; &#x2705; <br/>
 		- ``Pseudo-IBSS`` &#x1F4DC; &#x2705; <br/>
+			- Mode | Pre-standard | Pre-IBSS &#x1F4DC; &#x2705; <br/>
+				- ~~Management Frames~~ &#x1F4DC; &#x2705; <br/>
+				- ~~Beaconing~~ | Advertise Network &#x1F4DC; &#x2705; <br/>
+				- ~~Association~~ &#x1F4DC; &#x2705; <br/>
+				- ``BSSID`` | Zeros &#x1F4DC; &#x2705; <br/>
 - Mesh Networks &#x1F4DC; &#x2705; <br/>
+	- APs | Equal &#x1F4DC; &#x2705; <br/>
 	- ``P2P`` &#x1F4DC; &#x2705; <br/>
-	- ``802.11s`` &#x1F4DC; &#x2705; <br/>
-		- ``MP`` &#x1F4DC; &#x2705; <br/>
-		- ``MAP`` &#x1F4DC; &#x2705; <br/>
-		- ``MPP`` &#x1F4DC; &#x2705; <br/>
+		- Neighbor Discovery | Connecting Peers | Security &#x1F4DC; &#x2705; <br/>
+		- Peering Modes &#x1F4DC; &#x2705; <br/>
+			- Mesh Peering Management | ``MPM`` &#x1F4DC; &#x2705; <br/>
+				- Unsecure Peering &#x1F4DC; &#x2705; <br/>
+					- Rogue STA | Hijack Connections &#x1F4DC; &#x2705; <br/>
+			- Authenticated Mesh Peering Exchange | ``AMPE`` &#x1F4DC; &#x2705; <br/>
+				- Secure Peering | Encrypted Protocol &#x1F4DC; &#x2705; <br/>
+					- Simultaneous Authenication of Equals | ``SAE`` &#x1F4DC; &#x2705; <br/>
+						- Password &#x1F4DC; &#x2705; <br/>
+					- 802.1X &#x1F4DC; &#x2705; <br/>
+						- Authentication Server &#x1F4DC; &#x2705; <br/>
+	- ``802.11s`` | Device Classes &#x1F4DC; &#x2705; <br/>
+		- Mesh Point | ``MP`` &#x1F4DC; &#x2705; <br/>
+			- Establish Link | Mesh Devices &#x1F4DC; &#x2705; <br/>
+				- Mesh Portals &#x1F4DC; &#x2705; <br/>
+				- Mesh APs &#x1F4DC; &#x2705; <br/>
+				- Mesh Points &#x1F4DC; &#x2705; <br/>
+		- Mesh AP | ``MAP`` &#x1F4DC; &#x2705; <br/>
+			- Device Functionality &#x1F4DC; &#x2705; <br/>
+				- Mesh Point &#x1F4DC; &#x2705; <br/>
+				- Access Point &#x1F4DC; &#x2705; <br/>
+		- Mesh Portal | ``MPP`` &#x1F4DC; &#x2705; <br/>
+			- Devices Providing Link &#x1F4DC; &#x2705; <br/>
+				- Wired Network &#x1F4DC; &#x2705; <br/>
+				- Wireless Network &#x1F4DC; &#x2705; <br/>
 - Wi-Fi Direct &#x1F4DC; &#x2705; <br/>
 	- ``Wi-Fi P2P`` | ~~802.11~~ &#x1F4DC; &#x2705; <br/>
-- Monitor Mode &#x1F4DC; &#x2705; <br/>
+		- Single-hop Communications | ``1-1`` &#x1F4DC; &#x2705; <br/>
+			- Printing &#x1F4DC; &#x2705; <br/>
+			- File Sharing &#x1F4DC; &#x2705; <br/>
+			- Display Pictures/Videos &#x1F4DC; &#x2705; <br/>
+	- Software Access Point | WPS-style Connections &#x1F4DC; &#x2705; <br/>
+		- Encryption | ``WPA2`` &#x1F4DC; &#x2705; <br/>
+	- Applications &#x1F4DC; &#x2705; <br/>
+		- Photo Printing Kiosks &#x1F4DC; &#x2705; <br/>
+		- Remote Displays | Miracast &#x1F4DC; &#x2705; <br/>
+		- File Sharing &#x1F4DC; &#x2705; <br/>
+		- Playing Games &#x1F4DC; &#x2705; <br/>
+		- Internet Sharing | Tethering &#x1F4DC; &#x2705; <br/>
+- Monitor Mode | ~~Architecture~~ &#x1F4DC; &#x2705; <br/>
+	- Wireless Card Mode &#x1F4DC; &#x2705; <br/>
+		- Capture WiFi Frames &#x1F4DC; &#x2705; <br/>
+		- Inject Packets &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <details close>
