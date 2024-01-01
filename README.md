@@ -5336,9 +5336,9 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 			- WDS APs | Communicate &#x1F4DC; &#x2705; <br/>
 		- Wireless Repeating &#x1F4DC; &#x2705; <br/>
 			- STA/IPs | Communicate &#x1F4DC; &#x2705; <br/>
-	- Limited 
-		- ``WEP`` 
-		- Unencrypted Networks 
+	- Limited &#x1F4DC; &#x2705; <br/>
+		- ``WEP`` &#x1F4DC; &#x2705; <br/>
+		- Unencrypted Networks &#x1F4DC; &#x2705; <br/>
 - Ad-Hoc Networks &#x1F4DC; &#x2705; <br/>
 	- Devices | Equal &#x1F4DC; &#x2705; <br/>
 		- Initiating Device &#x1F4DC; &#x2705; <br/>
@@ -5404,15 +5404,15 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 		- Inject Packets &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>Wi-Fi Encryption &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-08/10/2023
-"update repository ./osw - PEN-210 - Wi-Fi Encryption - 802.11w"
+01/01/2024
+"update repository ./osw - PEN-210 - Wi-Fi Encryption"
 -->
 
 - Open Wireless Networks | ~~Encryption~~ &#x2705; <br/>
@@ -5423,11 +5423,22 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 		- ``AP`` | Association Response &#x2705; <br/>
 			- ``STA`` | Capability | ``AP`` &#x2705; <br/>
 	- Eavesdropping &#x2705; <br/>
+		- ~~Encryption~~ &#x2705; <br/>
+			- Traffic | ``as-is`` &#x2705; <br/>
 - ``WEP`` | Wired Equivalent Privacy &#x2705; <br/>
+	- Privacy | ~~Open Network~~ &#x2705; <br/>
+		- Encryption &#x2705; <br/>
+			- Key Size | US Government Restrictions &#x2705; <br/>
+				- Initialisation Vector | 24-bit &#x2705; <br/>
+					- Permitted 64-bit &#x2705; <br/>
+						- IVs 24-bits | Key Size 40-bits &#x2705; <br/>
+				- ~~Restrictions~~ &#x2705; <br/>
+					- 128-bit WEP | Same 24-bit Implemented &#x2705; <br/>
 	- ``RC4`` | Rivest Cipher 4 | Encrypt Traffic &#x2705; <br/>
 		- Symmetric Cipher &#x2705; <br/>
-			- Key | Encrypt/Decrypt &#x2705; <br/>
-				- ``XOR`` &#x2705; <br/>
+			- Same Key | Encrypt/Decrypt &#x2705; <br/>
+				- Steam Bits | ``XOR`` | Plaintext ``p`` &#x2705; <br/>
+		- Elements &#x2705; <br/>
 			- ``KSA`` | Key Scheduling Algorithm &#x2705; <br/>
 				- Initialise State Table | IV | WEP Key &#x2705; <br/>
 			- ``PRGA`` | Pseudo-Random Generation Algorithm &#x2705; <br/>
@@ -5454,7 +5465,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 					- ``=`` | Frame Intact &#x2705; <br/>
 					- ``!=`` | Discard Frame &#x2705; <br/>
 						- Packet | Fake / Corrupted &#x2705; <br/>
-	- WEP Authentication &#x2705; <br/>
+	- WEP Authentication | Systems &#x2705; <br/>
 		- ``Open`` | Trival / Common &#x2705; <br/>
 			- ~~Credentials~~ &#x2705; <br/>
 				- Authentication | ``AP`` &#x2705; <br/>
@@ -5471,18 +5482,22 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 	- Encryption &#x2705; <br/>
 		- **Personal** &#x2705; <br/>
 			- Authentication &#x2705; <br/>
-				- ``PSK`` | ``WPA-PSK`` &#x2705; <br/>
+				- ``PSK`` | ``WPA-PSK`` | Pre-Shared Key Authentication &#x2705; <br/>
 					- Passphrase | ``*`` | Network Peers &#x2705; <br/>
 		- **Enterprise** &#x2705; <br/>
 			- Authentication &#x2705; <br/>
 				- ``802.1X`` &#x2705; <br/>
 				- Radius Server | ``AAA`` &#x2705; <br/>
+					- Authentication &#x2705; <br/>
+					- Authorisation &#x2705; <br/>
+					- Accounting &#x2705; <br/>
 	- WPA Ciphers | Encryption Protocols | Link Layer &#x2705; <br/>
 		- ``WPA1`` | ``TKIP`` &#x2705; <br/>
 			- ``WEP`` | Legacy &#x2705; <br/>
+				- Addresses Flaws &#x2705; <br/>
 		- ``WPA2`` | ``CCMP`` &#x2705; <br/>
 			- Robust Security Network | ``RSN`` &#x2705; <br/>
-				- ``AES`` | ~~Legacy~~ &#x2705; <br/>
+				- ``AES`` | ~~Legacy~~ | Advanced Encryption Standard &#x2705; <br/>
 	- WPA Network Connection &#x2705; <br/>
 		- **Enterprise** &#x2705; <br/>
 			- Agreement | Security Protocols &#x2705; <br/>
@@ -5496,7 +5511,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 				- Join | Open Authentication &#x2705; <br/>
 					- Association | Ciphers &#x2705; <br/>
 	- WPA Authentication | ``WPA Enterprise`` &#x2705; <br/>
-		- ``EAP`` &#x2705; <br/>
+		- ``EAP`` | Extensible Authentication Protocol &#x2705; <br/>
 			- Implementation &#x2705; <br/>
 				- ``EAP-TLS`` &#x2705; <br/>
 					- Client / Server Certificates &#x2705; <br/>
@@ -5509,7 +5524,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 			- ``AP`` | Authenticator | Success &#x2705; <br/>
 				- ``Radius Accept`` / ``MK`` &#x2705; <br/>
 					- EAP Msg | ``STA`` | Success &#x2705; <br/>
-	- ``WPA`` | Key Distribution / Verification &#x2705; <br/>
+	- ``WPA`` | Key Distribution / Verification | ``WPA Enterprise`` &#x2705; <br/>
 		- Keys &#x2705; <br/>
 			- Authentication &#x2705; <br/>
 			- Message Integrity &#x2705; <br/>
@@ -5524,8 +5539,12 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 			- Renew | ``GTK`` &#x2705; <br/>
 	- ``WPA`` | Data Encryption / Integrity &#x2705; <br/>
 		- ``TKIP`` | Temporal Key Integrity Protocol &#x2705; <br/>
+			- ``WPA1`` &#x2705; <br/>
 		- ``CCMP`` | Counter Mode with CBC-MAC &#x2705; <br/>
+			- ``WPA2`` &#x2705; <br/>
 		- ``WRAP`` | Wireless Robust Authenticated Protocol &#x2705; <br/>
+			- ``AES`` | Offset Codebook Mode | ``OCB`` &#x2705; <br/>
+				- Intellectual Property | Abandoned &#x2705; <br/>
 - ``WPA3`` | Wi-Fi Protected Access 3 &#x2705; <br/>
 	- ``SAE`` | Dragonfly Variant &#x2705; <br/>
 		- Simultaneous Authentication of Equals &#x2705; <br/>
