@@ -5642,15 +5642,15 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 			- Association Response | ``"come back in XXX"`` &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>Linux Wireless and Tools Drivers and Stacks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-30/10/2023
-"update repository ./osw - PEN-210 - Linux Wireless and Tools Drivers and Stacks - Wireless Tools - The rfkill Utility"
+02/01/2024
+"update repository ./osw - PEN-210 - Linux Wireless and Tools Drivers and Stacks"
 -->
  
 - Loading and Unloading Wireless Drivers &#x2705; <br/>
@@ -5670,6 +5670,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 				- ``ath9k_htc.ko`` | Driver File &#x2705; <br/>
 					- ``/lib/modules/<kernel version>`` &#x2705; <br/>
 				- ``vermagic`` | Driver Compilation &#x2705; <br/>
+					- ``4.16.0-kali2-amd64`` &#x2705; <br/>
 				- ``alias`` | ``usb:v0CF3p9271`` | Device Install &#x2705; <br/>
 					- ``0cf3:9271`` | "Manufacturer ID":"Device ID" &#x2705; <br/>
 						- "Qualcomm Atheros Comms":"AR9271 802.11n" &#x2705; <br/>
@@ -5677,63 +5678,73 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 				- ``/etc/modprobe.d`` | Blacklist Modules &#x2705; <br/>
 			- ``lsmod`` &#x2705; <br/>
 				- Loaded Modules/Dependencies &#x2705; <br/>
-			- ``rmmod`` | Unload Driver &#x2705; <br/>
+			- ``rmmod`` | Unload Driver | ``ath`` &#x2705; <br/>
 				- ``lsmod`` | Determine Module &#x2705; <br/>
 			- ``insmod`` | Manual Module Load &#x2705; <br/>
+				- Specific Path &#x2705; <br/>
 - Wireless Tools &#x2705; <br/>
 	- Legacy | Deprecated &#x2705; <br/>
 		- ``iwconfig`` &#x2705; <br/>
-		- ``iwlist`` | <if> ``wlan0`` &#x2705; <br/>
+		- ``iwlist`` | ``<if>`` Interface | ``wlan0`` &#x2705; <br/>
 			- ``<parm>`` ``frequency`` &#x2705; <br/>
 				- Channel/Frequency &#x2705; <br/>
 		- ``iwspy`` &#x2705; <br/>
 		- ``iwpriv`` &#x2705; <br/>
 	- ``iw`` &#x2705; <br/>
-		- <u>Managed Mode</u> &#x2705; <br/>
+		- <u>Managed Mode</u> | ``<if>`` &#x2705; <br/>
 			- ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
 				- ``<parm>`` ``list`` &#x2705; <br/>
 			- ``<o>`` ``dev`` | ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
 				- ``<parm>`` ``scan`` &#x2705; <br/>
 					- ``<filter>`` ``| grep SSID`` &#x2705; <br/>
-			- ``<o>`` ``dev`` | ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
-				- ``<parm>`` ``scan`` &#x2705; <br/>
-					- ``<filter>`` ``| egrep "DS Parameter set|SSID:"`` &#x2705; <br/>
-		- <u>Monitor Mode</u> &#x2705; <br/>
+			- Target Channel &#x2705; <br/>
+				- ``<o>`` ``dev`` | ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
+					- ``<parm>`` ``scan`` &#x2705; <br/>
+						- ``<filter>`` ``| egrep "DS Parameter set|SSID:"`` &#x2705; <br/>
+		- <u>Monitor Mode</u> | ``<vif>`` &#x2705; <br/>
 			- ``<o>`` ``dev`` | ``<if>`` ``wlan0`` | **phy0** &#x2705; <br/>
 				- ``<o>`` ``interface`` &#x2705; <br/>
 					- ``<parm>`` ``add`` &#x2705; | ``<vif>`` ``wlan0mon`` <br/>
 						- ``<o>`` ``type`` | ``monitor`` &#x2705; <br/>
-			- ``<vif>`` ``wlan0mon`` | Down | Default &#x2705; <br/>
+			- ``<vif>`` ``wlan0mon`` | Down by Default &#x2705; <br/>
 				- ``ip`` | Bring Up &#x2705; <br/>
 					- ``<o>`` ``link`` &#x2705; <br/>
-						- ``<parm>`` ``set`` &#x2705; <br/>
+						- ``<parm>`` ``set`` | ``vif`` ``wlan0mon`` &#x2705; <br/>
 							- ``<o>`` ``up`` &#x2705; <br/>
 			- Test | Monitor Mode &#x2705; <br/>
 				- ``<o>`` ``dev`` | ``<vif>`` ``wlan0mon`` &#x2705; <br/>
 					- ``<o>`` ``info`` &#x2705; <br/>
-				- ``tcpdump -i`` | ``<vif>`` ``wlan0mon`` &#x2705; <br/>
+				- Sniffer &#x2705; <br/>
+					- ``tcpdump -i`` | ``<vif>`` ``wlan0mon`` &#x2705; <br/>
 			- Bring Down &#x2705; <br/>
 				- ``<o>`` ``dev`` | ``<vif>`` ``wlan0mon`` &#x2705; <br/>
 					- ``<o>`` ``interface`` &#x2705; <br/>
 						- ``<o>`` ``del`` &#x2705; <br/>
 		- ``CRDA`` | Central Regulatory Domain Agent &#x2705; <br/>
-			- ``reg get`` &#x2705; <br/>
-				- ``00`` | Kali Default &#x2705; <br/>
-			- ``reg set`` | In Memory &#x2705; <br/>
-				- ``<COUNTRY>`` | **ISO/IEC 3166-1** &#x2705; <br/> 
-			- ``reg set`` | At Boot &#x2705; <br/>
-				- ``/etc/default/crda`` &#x2705; <br/>
-					- ``REGDOMAIN`` | Variable &#x2705; <br/>
+			- ``iw`` &#x2705; <br/>
+				- ``reg get`` &#x2705; <br/>
+					- ``00`` | Kali Default &#x2705; <br/>
+				- ``reg set`` | In Memory &#x2705; <br/>
+					- ``<COUNTRY>`` | **ISO/IEC 3166-1** &#x2705; <br/> 
+				- ``reg set`` | At Boot &#x2705; <br/>
+					- ``/etc/default/crda`` &#x2705; <br/>
+						- Variable | ``REGDOMAIN`` &#x2705; <br/>
 	- ``rfkill`` | Enable/Disable &#x2705; <br/>
 		- ``list`` | Enabled &#x2705; <br/>
-<!--
-- xxx &#x2705; <br/>
-- xxx &#x2705; <br/>
-- xxx &#x2705; <br/>
-- xxx &#x2705; <br/>
-- xxx &#x2705; <br/>
-- xxx &#x2705; <br/>
--->
+			- Wi-Fi | Bluetooth &#x2705; <br/>
+		- ``Soft blocked`` | Software | ``rfkill`` &#x2705; <br/>
+			- ``<parm>`` | ``block #`` | ID &#x2705; <br/>
+				- ``<parm>`` | ``block all`` &#x2705; <br/>
+			- ``<parm>`` | ``unblock # `` &#x2705; <br/>
+				- ``<parm>`` | ``unblock all`` &#x2705; <br/>
+- Wireless Stacks and Drivers &#x2705; <br/>
+	- ``ieee80211`` | Subsystem | Deprecated &#x2705; <br/>
+		- Wireless Extension | ``WE`` &#x2705; <br/>
+			- ``wext`` &#x2705; <br/>
+		- Drivers &#x2705; <br/>
+			- ``802.11g`` / ``802.11n`` &#x2705; <br/>
+	- ``mac80211`` | Framework &#x2705; <br/>
+		- Modern Linux Kernels | Standardised &#x2705; <br/>
 <hr width=25%;> 
 </details>
 <details close>
@@ -5786,7 +5797,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 		- Aireplay-ng &#x1F52C; &#x274C; <br/>
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>Deauthentication Attacks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5850,7 +5861,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 Credit: Rene Thorup
 </details> <!-- END - WiFi Hacking - Credit: Rene Thorup-->
 <hr width=35%;>
-<details close>
+<details open>
     <summary><b>Aircrack-ng Essentials &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5959,7 +5970,7 @@ Credit: Rene Thorup
 				- ``g`` | Graph | ``CPG`` &#x1F3A5; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>Cracking Authentication Hashes &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
