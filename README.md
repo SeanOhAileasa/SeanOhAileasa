@@ -5747,18 +5747,57 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 		- Modern Linux Kernels | Standardised &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>Wireshark Essentials &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-09/07/2023
-"update repository ./osw - PEN-210 - Wireshark Essentials"
+02/01/2024
+"update repository ./osw - PEN-210 - Wireshark Essentials - Getting Started"
 -->
  
-&#x1F23A;
+- Wireshark | Ethereal &#x2705; <br/>
+	- ``CLI`` &#x2705; <br/>
+		- ``tshark`` &#x2705; <br/>
+		- ``dumpcap`` &#x2705; <br/>
+			- Packet Capture | ~~Dissection~~ &#x2705; <br/>
+		- ``SSHDump`` &#x2705; <br/>
+			- Remote Packet Capture | ``ssh`` &#x2705; <br/>
+	- GUI &#x2705; <br/>
+		- Default &#x2705; <br/>
+			- Ethernet Packet &#x2705; <br/>
+		- Wireless Interface &#x2705; <br/>
+			- Monitor Mode &#x2705; <br/>
+				- ``sudo ip link set wlan0 down`` &#x2705; <br/>
+				- ``sudo iwconfig wlan0 mode monitor`` &#x2705; <br/>
+				- ``sudo ip link set wlan0 up`` &#x2705; <br/>
+	- Screen &#x2705; <br/>
+		- Interface Types Selector &#x2705; <br/>
+			- ``Wireless`` &#x2705; <br/>
+	- Packet Display &#x2705; <br/>
+		- Frames &#x2705; <br/>
+			- Packet List &#x2705; <br/>
+			- Packet Details &#x2705; <br/>
+			- Packet Bytes &#x2705; <br/>
+		- Layout &#x2705; <br/>
+			- ``Edit`` &#x2705; <br/>
+			- ``Preferences`` &#x2705; <br/>
+			- ``Appearance`` &#x2705; <br/>
+			- ``Layout`` &#x2705; <br/>
+	- Wireless Toolbar &#x2705; <br/>
+		- ``View`` | ``Wireless Toolbar`` &#x2705; <br/>
+		- Channel Hopping &#x2705; <br/>
+			- Script &#x2705; <br/>
+			- ``airodump-ng`` | ``<vif>`` ``wlan0mon`` &#x2705; <br/>
+	- Saving | Exporting Packets &#x2705; <br/>
+		- Filter &#x2705; <br/>
+			- ``File`` | ``Export Specified Packets`` &#x2705; <br/>
+				- ``Displayed`` &#x2705; <br/>
+					- Packets | Applied Filter &#x2705; <br/>
+				- ``Captured`` &#x2705; <br/>
+					- ``*`` | Packets &#x2705; <br/>													
 <hr width=25%;> 
 </details>
 <details close>
