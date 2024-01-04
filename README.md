@@ -6232,7 +6232,7 @@ Credit: Rene Thorup
 01/04/2024
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - Windows Endpoint - System Monitor / Sysmon"
+"update repository OSDA ./soc-200 - Windows Endpoint - Sysmon - Event Viewer"
 -->
 
 - Windows Processes &#x1F4DC; &#x2705; <br/>
@@ -6366,6 +6366,7 @@ Credit: Rene Thorup
 	- Powershell &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/6 </u> &#x1F6A7; <br/>
 - Empowering the Logs &#x1F4DC; <br/>
 	- System Monitor | ``Sysmon`` &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/2 </u> &#x1F6A7; <br/>
+	- Sysmon | Event Viewer &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/2 </u> &#x1F6A7; <br/>
 <!--
 Theory:
 &#x1F4DC;
