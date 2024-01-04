@@ -5180,7 +5180,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b><font size="5">PEN-210</font> &#x21A9;</b></summary><br/>
 
 <details close>
@@ -6164,7 +6164,7 @@ Credit: Rene Thorup
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b><font size="5">SOC-200</font> &#x21A9;</b></summary><br/>
 <details close>
     <summary><b>Attacker Methodology &#x21A9;</b></summary>
@@ -6229,10 +6229,10 @@ Credit: Rene Thorup
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-31/12/2023
+01/04/2024
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - [Video] Windows Endpoint - Windows Event Log"
+"update repository OSDA ./soc-200 - [Video] Windows Endpoint - Empowering the Logs"
 -->
 
 - Windows Processes &#x1F4DC; &#x2705; <br/>
@@ -6281,7 +6281,7 @@ Credit: Rene Thorup
 				- ``<meth>`` ``ExecQuery`` &#x1F4DC; &#x2705; <br/>
 - ``<cmdlet>`` | API Call &#x1F4DC; &#x2705; <br/>
 	- .Net Object &#x1F4DC; &#x2705; <br/>
-- PowerShell | Compatible ``.NET`` Framework <u> 0/3 </u> &#x1F6A7; <br/>
+- PowerShell | Compatible ``.NET`` Framework &#x1F52C; <u> 0/3 </u> &#x1F6A7; <br/>
 	- Syntax &#x1F4DC; &#x2705; <br/>
 		- Backwards-compatible | ``cmd.exe`` &#x1F4DC; &#x2705; <br/>
 	- Integrated Scripting Environment | ``ISE`` &#x1F4DC; &#x2705; <br/>
@@ -6363,6 +6363,23 @@ Credit: Rene Thorup
 		- .NET Framework ``<==>`` .NET Core &#x1F4DC; &#x2705; <br/>
 - Windows Event Log &#x1F3A5; <br/>
 	- Windows Events &#x1F3A5; <br/>
+	- Powershell &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/6 </u> &#x1F6A7; <br/>
+<!--
+Theory:
+&#x1F4DC;
+
+Video:
+&#x1F3A5;
+
+Lab:
+&#x1F52C;
+
+WIP:
+&#x1F6A7;
+
+Lab Completed:
+&#x2705;
+-->
 <hr width=25%;>
 </details>
 </details> <!-- SOC-200 -->
