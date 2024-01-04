@@ -6232,7 +6232,7 @@ Credit: Rene Thorup
 01/04/2024
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - [Video] Windows Endpoint - Empowering the Logs"
+"update repository OSDA ./soc-200 - Windows Endpoint - Windows Event Log - Powershell"
 -->
 
 - Windows Processes &#x1F4DC; &#x2705; <br/>
@@ -6364,6 +6364,7 @@ Credit: Rene Thorup
 - Windows Event Log &#x1F3A5; <br/>
 	- Windows Events &#x1F3A5; <br/>
 	- Powershell &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/6 </u> &#x1F6A7; <br/>
+- Empowering the Logs &#x1F4DC; <br/>
 <!--
 Theory:
 &#x1F4DC;
