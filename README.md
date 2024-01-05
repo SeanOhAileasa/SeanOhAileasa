@@ -6229,10 +6229,10 @@ Credit: Rene Thorup
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-01/04/2024
+01/05/2024
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - Windows Endpoint - Sysmon - PowerShell"
+"update repository OSDA ./soc-200 - Windows Endpoint - Remote Access | PowerShell Core"
 -->
 
 - Windows Processes &#x1F4DC; &#x2705; <br/>
@@ -6368,6 +6368,7 @@ Credit: Rene Thorup
 	- System Monitor | ``Sysmon`` &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/2 </u> &#x1F6A7; <br/>
 	- Sysmon | Event Viewer &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/2 </u> &#x1F6A7; <br/>
 	- Sysmon | PowerShell &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/4 </u> &#x1F6A7; <br/>
+	- Remote Access | PowerShell Core &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/2 </u> &#x1F6A7; <br/>
 <!--
 Theory:
 &#x1F4DC;
