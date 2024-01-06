@@ -6397,14 +6397,16 @@ Lab Completed:
 01/06/2024
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - Windows Server Side Attacks - Credential Abuse - Security Account Manager - Windows Authentication"
+"update repository OSDA ./soc-200 - Windows Server Side Attacks - Credential Abuse - Suspicious Logins"
 -->
 
 - Credential Abuse &#x1F4DC; <br/>
 	- Security Account Manager &#x1F4DC; <br/>
 		- Windows Authentication &#x1F4DC; <br/>
+	- Suspicious Logins &#x1F4DC; &#x1F52C; <u> 0/3 </u> &#x1F6A7; <br/>
 <!--
 &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/x </u> &#x1F6A7; <br/>
+Theory--; Video---; Labs----; ------------ WIP-----
 Theory:
 &#x1F4DC;
 
