@@ -1,5 +1,5 @@
-<details open> 
-	<summary><h3>'22/'23 Cybersecurity&nbsp;&nbsp;&#x21A9;&#x1F513;&#x27A1;</h3></summary>
+<details close> 
+	<summary><h3>'22/'24 Cybersecurity&nbsp;&nbsp;&#x21A9;&#x1F513;&#x27A1;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master)&nbsp;&nbsp;&nbsp;|
 |:-----:| :-----------------------------------------------|:-----:|
@@ -5908,7 +5908,7 @@ Credit: Rene Thorup
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
 30/09/2023
-"update repository ./osw - PEN-210 - Aircrack-ng Essentials - Airgraph-ng"
+"update repository ./osw - PEN-210 - Aircrack-ng Essentials - Airmon-ng - Airmon-ng check"
 -->
 
 - Airmon-ng &#x1F3A5; &#x2705; <br/>
@@ -6397,16 +6397,20 @@ Lab Completed:
 01/06/2024
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - Windows Server Side Attacks - Credential Abuse - Suspicious Logins"
+"update repository OSDA ./soc-200 - Windows Server Side Attacks - Credential Abuse - Brute Force Logins"
 -->
 
-- Credential Abuse &#x1F4DC; <br/>
+- Credential Abuse | Target ``192.168.51.11`` &#x1F4DC; <br/>
 	- Security Account Manager &#x1F4DC; <br/>
 		- Windows Authentication &#x1F4DC; <br/>
 	- Suspicious Logins &#x1F4DC; &#x1F52C; <u> 0/3 </u> &#x1F6A7; <br/>
+	- Brute Force Logins &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/5 </u> &#x1F6A7; <br/>
 <!--
 &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/x </u> &#x1F6A7; <br/>
 Theory--; Video---; Labs----; ------------ WIP-----
+
+![Image](./img/xx.png)
+
 Theory:
 &#x1F4DC;
 
