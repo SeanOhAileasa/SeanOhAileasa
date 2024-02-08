@@ -1,4 +1,4 @@
-<details close> 
+<details open> 
 	<summary><h3>'22/'24 Cybersecurity&nbsp;&nbsp;&#x21A9;&#x1F513;&#x27A1;</h3></summary>
 			  
 |**Prefix**|**Cybersecurity Career Pathway Certifications**|&nbsp;&nbsp;&nbsp;[``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master)&nbsp;&nbsp;&nbsp;|
@@ -5180,7 +5180,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b><font size="5">PEN-210</font> &#x21A9;</b></summary><br/>
 
 <details close>
@@ -5208,7 +5208,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 - Encryption &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>IEEE 802.11 &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5306,7 +5306,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 			- Duplicates Across Antennas &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Wireless Networks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5404,7 +5404,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 		- Inject Packets &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Wi-Fi Encryption &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5642,7 +5642,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 			- Association Response | ``"come back in XXX"`` &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Linux Wireless and Tools Drivers and Stacks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5747,7 +5747,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 		- Modern Linux Kernels | Standardised &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Wireshark Essentials &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -5900,7 +5900,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 Credit: Rene Thorup
 </details> <!-- END - WiFi Hacking - Credit: Rene Thorup-->
 <hr width=35%;>
-<details open>
+<details close>
     <summary><b>Aircrack-ng Essentials &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6016,26 +6016,26 @@ Credit: Rene Thorup
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-01/10/2023
-"update repository ./osw - PEN-210 - Cracking Authentication Hashes - coWPAtty"
+08/02/2024
+"update repository ./osw - PEN-210 - Cracking Authentication Hashes"
 -->
 
 - Aircrack-ng Suite &#x1F3A5; &#x2705; <br/>
-- Custom Wordlists with Aircrack-ng &#x1F3A5; <br/>
-	- Using Aircrack-ng with John the Ripper &#x1F3A5; <br/>
-	- Editing John the Ripper Rules &#x1F3A5; <br/>
-	- Using Aircrack-ng with JTR &#x1F3A5; <br/>
-	- Using Aircrack-ng with Crunch &#x1F3A5; <br/>
-	- Using Aircrack-ng with RSMangler &#x1F3A5; <br/>
-- Hashcat &#x1F3A5; <br/>
-	- Device Properties &#x1F3A5; <br/>
-	- Hashcat Benchmark &#x1F3A5; <br/>
-	- Hashcat Utilities &#x1F3A5; <br/>
-	- Passphrase Cracking with Hashcat &#x1F3A5; <br/>
-- Airolib-ng &#x1F3A5; <br/>
-	- Using Airolib-ng &#x1F3A5; <br/>
-- coWPAtty &#x1F3A5; <br/>
-	- Rainbow Table Mode &#x1F3A5; <br/>
+- Custom Wordlists with Aircrack-ng &#x1F3A5; &#x2705;<br/>
+	- Using Aircrack-ng with John the Ripper &#x1F3A5; &#x2705;<br/>
+	- Editing John the Ripper Rules &#x1F3A5; &#x2705;<br/>
+	- Using Aircrack-ng with JTR &#x1F3A5; &#x2705;<br/>
+	- Using Aircrack-ng with Crunch &#x1F3A5; &#x2705;<br/>
+	- Using Aircrack-ng with RSMangler &#x1F3A5; &#x2705;<br/>
+- Hashcat &#x1F3A5; &#x2705;<br/>
+	- Device Properties &#x1F3A5; &#x2705;<br/>
+	- Hashcat Benchmark &#x1F3A5; &#x2705;<br/>
+	- Hashcat Utilities &#x1F3A5; &#x2705;<br/>
+	- Passphrase Cracking with Hashcat &#x1F3A5; &#x2705;<br/>
+- Airolib-ng &#x1F3A5; &#x2705;<br/>
+	- Using Airolib-ng &#x1F3A5; &#x2705;<br/>
+- coWPAtty &#x1F3A5; &#x2705;<br/>
+	- Rainbow Table Mode &#x1F3A5; &#x2705;<br/>
 <!--
 - &#x1F3A5; &#x2705; <br/>
 -->
@@ -6164,7 +6164,7 @@ Credit: Rene Thorup
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b><font size="5">SOC-200</font> &#x21A9;</b></summary><br/>
 <details close>
     <summary><b>Attacker Methodology &#x21A9;</b></summary>
