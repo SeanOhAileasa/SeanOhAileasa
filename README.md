@@ -6009,7 +6009,7 @@ Credit: Rene Thorup
 				- ``g`` | Graph | ``CPG`` &#x1F3A5; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Cracking Authentication Hashes &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6041,39 +6041,73 @@ Credit: Rene Thorup
 -->
 <hr width=25%;> 
 </details>
-<details close>
+<details open>
     <summary><b>Attacking WPS Networks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-01/10/2023
+10/02/2024
 "update repository ./osw - PEN-210 - Attacking WPS Networks - WPS Attack"
 -->
 
 - WPS Technology Details &#x1F4DC; &#x2705; <br/>
+	- Roles &#x1F4DC; &#x2705; <br/>
+		- ``enrollee`` | ``registrar`` &#x1F4DC; &#x2705; <br/>
+	- Setup &#x1F4DC; &#x2705; <br/>
+		- Button Push &#x1F4DC; &#x2705; <br/>
+			- Physical &#x1F4DC; &#x2705; <br/>
+				- ``AP`` &#x1F4DC; &#x2705; <br/>
+			- Virtual &#x1F4DC; &#x2705; <br/>
+				- Management Web Interface &#x1F4DC; &#x2705; <br/>
+		- Input Pin &#x1F4DC; &#x2705; <br/>
+		- NFC &#x1F4DC; &#x2705; <br/>
+		- USB | ``Deprecated`` &#x1F4DC; &#x2705; <br/>
 - WPS Vulnerabilities &#x1F4DC; &#x2705; <br/>
+	- AP &#x1F4DC; &#x2705; <br/>
+		- WPS Pin &#x1F4DC; &#x2705; <br/>
+			- ``x8`` | Digits &#x1F4DC; &#x2705; <br/>
+	- Pin | Verification &#x1F4DC; &#x2705; <br/>
+		- WPS Exchange &#x1F4DC; &#x2705; <br/>
+			- Validates 1st Half | ``x10000`` &#x1F4DC; &#x2705; <br/>
+				- Messages | ``M1:M4`` &#x1F4DC; &#x2705; <br/>
+					- ``M5`` | Correct &#x1F4DC; &#x2705; <br/>
+		- Checksum &#x1F4DC; &#x2705; <br/>
+			- Last Digit &#x1F4DC; &#x2705; <br/>
+		- System &#x1F4DC; &#x2705; <br/>
+			- Validates 2nd Half &#x1F4DC; | ``x1000`` &#x1F4DC; &#x2705; <br/>
+				- Messages | ``M7`` &#x1F4DC; &#x2705; <br/>
+					- ``+`` Configuration &#x1F4DC; &#x2705; <br/>
 - WPS Attack &#x1F4DC; &#x2705; <br/>
 	- AP Info &#x1F4DC; &#x2705; <br/>
 		- ``wash`` &#x1F4DC; &#x2705; <br/>
-			- ``-i`` | Default Scans 2.4GHz &#x1F4DC; &#x2705; <br/>
-				- ``-5`` | Scans 5GHz &#x1F4DC; &#x2705; <br/>
-		- ``airodump-ng --wps`` &#x1F4DC; &#x2705; <br/>
+			- ``wlan0mon`` &#x1F4DC; &#x2705; <br/>
+				- ``-i`` | Default Scans 2.4GHz &#x1F4DC; &#x2705; <br/>
+					- ``-5`` | Scans 5GHz &#x1F4DC; &#x2705; <br/>
+		- ``airodump-ng`` &#x1F4DC; &#x2705; <br/>
+			- ``--wps`` &#x1F4DC; &#x2705; <br/>
 	- AP Attack &#x1F4DC; &#x2705; <br/>
 		- ``reaver`` &#x1F4DC; &#x2705; <br/>
 			- ``-b`` | AP BSSID &#x1F4DC; &#x2705; <br/>
-			- ``-i`` | Monitor Interface &#x1F4DC; &#x2705; <br/>
+				- via ``wash`` &#x1F4DC; &#x2705; <br/>
+			- ``-i`` | &#x1F4DC; &#x2705; <br/>
+				- ``wlan0mon`` &#x1F4DC; &#x2705; <br/>
 			- ``-vv`` | Verbose &#x1F4DC; &#x2705; <br/>
-			- ``-c`` | ``wash`` &#x1F4DC; &#x2705; <br/>
+			- ``-c`` | via ``wash`` &#x1F4DC; &#x2705; <br/>
+				- Channel &#x1F4DC; &#x2705; <br/>
 			- ``-K`` | ``pixiewps`` &#x1F4DC; &#x2705; <br/>
 		- ``bully`` &#x1F4DC; &#x2705; <br/>
+			- ``-d`` &#x1F4DC; &#x2705; <br/>
+				- ``pixiewps`` &#x1F4DC; &#x2705; <br/>
+			- ``-v 4`` | Verbosity &#x1F4DC; &#x2705; <br/>
 	- Implementation Variations &#x1F4DC; &#x2705; <br/>
 		- ``reaver`` | ``bully`` &#x1F4DC; &#x2705; <br/>
 			- ``-p`` | Empty PIN &#x1F4DC; &#x2705; <br/>
-		- ``airgeddon`` &#x1F4DC; &#x2705; <br/>
-			- Default PIN | BSSID [1st x3 Bytes] &#x1F4DC; &#x2705; <br/>
-				- ``known_pins.db`` | ``source`` ec &#x1F4DC; &#x2705; <br/>
+		- ``airgeddon`` | ``apt`` &#x1F4DC; &#x2705; <br/>
+			- Default PIN | BSSID | ``[1st x3 Bytes]`` &#x1F4DC; &#x2705; <br/>
+				- ``known_pins.db`` &#x1F4DC; &#x2705; <br/>
+					- ``source`` &#x1F4DC; &#x2705; <br/>
 	- Overcoming Unexpected Errors &#x1F4DC; &#x2705; <br/>
 		- Attack Choice &#x1F4DC; &#x2705; <br/>
 		- WPS Transaction Failure &#x1F4DC; &#x2705; <br/>
