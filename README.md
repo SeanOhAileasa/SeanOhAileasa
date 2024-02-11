@@ -6165,8 +6165,8 @@ Credit: Rene Thorup
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-10/02/2024
-"update repository ./osw - PEN-210 - Attacking WPA Enterprise - Attack - server.cnf"
+11/02/2024
+"update repository ./osw - PEN-210 - Attacking WPA Enterprise - Attack"
 -->
 
 - Attacking WPA Enterprise &#x1F3A5; &#x2705; <br/>
@@ -6194,7 +6194,7 @@ Credit: Rene Thorup
 				- TLS Tunnel < Credentials &#x1F3A5; &#x2705; <br/>
 					- ``MS-CHAPv2`` &#x1F3A5; &#x2705; <br/>
 	- PEAP Exchange &#x1F3A5; &#x2705; <br/>
-	- Attack &#x1F6A7;<br/>
+	- Attack &#x1F3A5; &#x2705; <br/>
 <hr width=25%;> 
 </details>
 </details> <!-- PEN-210 -->
