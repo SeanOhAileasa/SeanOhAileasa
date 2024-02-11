@@ -6120,7 +6120,7 @@ Credit: Rene Thorup
 -->
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Rogue Access Points &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6158,7 +6158,7 @@ Credit: Rene Thorup
 	- Capturing Handshakes &#x1F3A5; &#x2705; <br/>
 <hr width=25%;> 
 </details>
-<details open>
+<details close>
     <summary><b>Attacking WPA Enterprise &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
@@ -6195,6 +6195,26 @@ Credit: Rene Thorup
 					- ``MS-CHAPv2`` &#x1F3A5; &#x2705; <br/>
 	- PEAP Exchange &#x1F3A5; &#x2705; <br/>
 	- Attack &#x1F3A5; &#x2705; <br/>
+<hr width=25%;> 
+</details>
+<details open>
+    <summary><b>Manual Network Connections &#x21A9;</b></summary>
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+11/02/2024
+"update repository ./osw - PEN-210 - Manual Network Connections"
+-->
+
+- Connecting to an Access Point &#x1F4DC; &#x2705; <br/>
+- Setting up an Access Point &#x1F4DC; &#x2705; <br/>
+	- Internet Access &#x1F4DC; &#x2705; <br/>
+	- Static IP on Access Point Wireless Interface &#x1F4DC; &#x2705; <br/>
+	- DHCP Server &#x1F4DC; &#x2705; <br/>
+	- Routing &#x1F4DC; &#x2705; <br/>
+	- Access Point Mode &#x1F4DC; &#x2705; <br/>
 <hr width=25%;> 
 </details>
 </details> <!-- PEN-210 -->
