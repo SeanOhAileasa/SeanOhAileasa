@@ -6289,7 +6289,7 @@ Credit: Rene Thorup
 17/02/2024
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - Windows Endpoint - Windows Processes - Windows Registry"
+"update repository OSDA ./soc-200 - Windows Endpoint - Command Prompt - VBScript"
 -->
 
 - **Windows Processes** <br/>
@@ -6312,6 +6312,34 @@ Credit: Rene Thorup
 			- REG_DWORD <br/>
 		- Data <br/>
 	- Values <br/>
+- **Command Prompt** <br/>
+	- **cmd.exe** <br/>
+		- Batch Files <br/>
+			- **user_hostname.bat** <br/>
+	- **.bat** <br/>
+		- ``@ECHO OFF`` <br/>
+		- ``TITLE`` <br/>
+		- ``ECHO`` <br/>
+		- ``PAUSE`` <br/>
+- **VBScript** <br/>
+	- **.vbs** <br/>
+		- <u>Interpreter</u> | **cscript.exe** <br/>
+			- **osinfo.vbs** <br/>
+				- **C:\tools\windows_endpoint_information** <br/>
+	- WMIService | Windows Management Instrumentation <br/>
+		- ``objWMIService`` <br/>
+			- ``GetObject`` <br/>
+				- CIM | Common Information Model | ``cimv2`` <br/>
+			- ``Win32_OperatingSystem`` <br/>
+- MITRE ATT&CK <br/>			
+	- **.bat** <br/>
+		- Execution <br/>
+			- Command and Scripting Interpreter <br/>
+				- [ [Windows Command Shell](https://attack.mitre.org/techniques/T1059/003/) ]<br/>
+	- **.vbs** <br/>
+		- Execution <br/>
+			- Command and Scripting Interpreter <br/>
+				- [ [Visual Basic](https://attack.mitre.org/techniques/T1059/005/) ] <br/>
 <!--
 Theory:
 &#x1F4DC;
