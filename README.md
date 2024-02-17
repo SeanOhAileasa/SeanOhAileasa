@@ -5180,7 +5180,7 @@ xx/04/2023
 
 <hr width=33%;> <!-- -->
 
-<details open>
+<details close>
     <summary><b><font size="5">PEN-210</font> &#x21A9;</b></summary><br/>
 
 <details close>
@@ -6221,7 +6221,7 @@ Credit: Rene Thorup
 
 <hr width=33%;> <!-- -->
 
-<details close>
+<details open>
     <summary><b><font size="5">SOC-200</font> &#x21A9;</b></summary><br/>
 <details close>
     <summary><b>Attacker Methodology &#x21A9;</b></summary>
@@ -6278,154 +6278,40 @@ Credit: Rene Thorup
 			- Exfiltration &#x1F4DC; &#x2705; <br/>
 			- Impact &#x1F4DC; &#x2705; <br/>
 <hr width=25%;>
-</details> <!-- -->
-<details close>
+</details> <!-- Attacker Methodology -->
+<details open>
     <summary><b>Windows Endpoint &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-01/05/2024
+17/02/2024
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - Windows Endpoint - Remote Access | PowerShell Core"
+"update repository OSDA ./soc-200 - Windows Endpoint - Windows Processes - Windows Registry"
 -->
 
-- Windows Processes &#x1F4DC; &#x2705; <br/>
-	- Process &#x1F4DC; &#x2705; <br/>
-		- Program | System Memory &#x1F4DC; &#x2705; <br/>
-			- OS | Applications &#x1F4DC; &#x2705; <br/>
-	- OS &#x1F4DC; &#x2705; <br/>
-		- Processes | **Services** &#x1F4DC; &#x2705; <br/>
-			- Monitored | ``Status`` | ``Startup Type`` &#x1F4DC; &#x2705; <br/>
-		- ***CMD*** | Command Prompt &#x1F4DC; &#x2705; <br/>
-			- ``services.msc`` | List Services &#x1F4DC; &#x2705; <br/>
-				- ``Status`` | ``Startup Type`` &#x1F4DC; &#x2705; <br/>
-			- Change Service Configuration &#x1F4DC; &#x2705; <br/>
-- Windows Registry &#x1F4DC; &#x2705; <br/>
-	- Configurations &#x1F4DC; &#x2705; <br/>
-		- Service | Applications &#x1F4DC; &#x2705; <br/>
-	- Hierarchial Tree &#x1F4DC; &#x2705; <br/>
-		- **hives** &#x1F4DC; &#x2705; <br/>
-		- **keys** &#x1F4DC; &#x2705; <br/>
-			 - Defining Data Structure &#x1F4DC; &#x2705; <br/>
-		- **values** &#x1F4DC; &#x2705; <br/>
-			- Fields &#x1F4DC; &#x2705; <br/>
-				- ``name`` | Value Description &#x1F4DC; &#x2705; <br/>
-				- ``type`` | Format &#x1F4DC; &#x2705; <br/>
-				- ``data`` | Actual Value &#x1F4DC; &#x2705; <br/>
-- Command Prompt &#x1F52C; <u> 3/3 </u> &#x2705; <br/>
-	- ***CMD*** | ``cmd.exe`` &#x1F4DC; &#x2705; <br/>
-		- Predecessor | ``COMMAND.COM`` &#x1F4DC; &#x2705; <br/>
-	- ``.bat`` &#x1F4DC; &#x2705; <br/>
-		- Sequence of Commands | OS &#x1F4DC; &#x2705; <br/>
-			- ``@ECHO OFF`` | ~~CMD Display~~ &#x1F4DC; &#x2705; <br/>
-			- ``TITLE`` | CMD Title &#x1F4DC; &#x2705; <br/>
-			- ``ECHO`` | Write Std Output &#x1F4DC; &#x2705; <br/>
-			- ``PAUSE`` | Prompt | Press any Key &#x1F4DC; &#x2705; <br/>
-- VBScript | ~~Compatible ``.NET`` Framework~~ &#x1F52C; <u> 2/2 </u> &#x2705; <br/>
-	- ``.vbs`` &#x1F4DC; &#x2705; <br/>
-		- Interpreter | ``cscript.exe`` &#x1F4DC; &#x2705; <br/>
-	- Windows Management Instrumentation &#x1F4DC; &#x2705; <br/>
-		- ``WMIService`` &#x1F4DC; &#x2705; <br/>
-			- Query Components | Collect Config Settings &#x1F4DC; &#x2705; <br/>
-		- ``<func>`` ``GetObject`` &#x1F4DC; &#x2705; <br/>
-			- Common Information Model | ``CIM`` &#x1F4DC; &#x2705; <br/>
-				- ``cimv2`` &#x1F4DC; &#x2705; <br/>
-		- ``<cls>`` ``Win32_OperatingSystem`` | ``CIM`` &#x1F4DC; &#x2705; <br/>
-			- Query &#x1F4DC; &#x2705; <br/> 
-				- ``<meth>`` ``ExecQuery`` &#x1F4DC; &#x2705; <br/>
-- ``<cmdlet>`` | API Call &#x1F4DC; &#x2705; <br/>
-	- .Net Object &#x1F4DC; &#x2705; <br/>
-- PowerShell | Compatible ``.NET`` Framework &#x1F52C; <u> 0/3 </u> &#x1F6A7; <br/>
-	- Syntax &#x1F4DC; &#x2705; <br/>
-		- Backwards-compatible | ``cmd.exe`` &#x1F4DC; &#x2705; <br/>
-	- Integrated Scripting Environment | ``ISE`` &#x1F4DC; &#x2705; <br/>
-		- ``powershell_ise.exe`` &#x1F4DC; &#x2705; <br/>
-	- **Execution Policy** &#x1F4DC; &#x2705; <br/>
-		- ``<cmdlet>`` ``Get-ExecutionPolicy`` &#x1F4DC; &#x2705; <br/>
-			- ***Unrestricted*** | ***Restricted*** | ***Undefined*** &#x1F4DC; &#x2705; <br/>
-		- ``<arg>`` ``-ExecutionPolicy bypass`` | Burden &#x1F4DC; &#x2705; <br/>
-	- System &#x1F4DC; &#x2705; <br/>
-		- ``<cmdlet>`` ``Get-CimInstance`` &#x1F4DC; &#x2705; <br/>
-			- ``CIM`` | Instance Object &#x1F4DC; &#x2705; <br/>
-				- ``<arg>`` ``-ClassName`` &#x1F4DC; &#x2705; <br/>
-					- ``<cls>`` ``Win32_OperatingSystem`` &#x1F4DC; &#x2705; <br/>
-		- ``<cmdlet>`` ``Select-Object`` &#x1F4DC; &#x2705; <br/>
-			- ``<arg>`` ``-Property`` &#x1F4DC; &#x2705; <br/>
-				- ``<obj(s)>`` | ``Win32_OperatingSystem`` &#x1F4DC; &#x2705; <br/>
-					- ``CSName`` &#x1F4DC; &#x2705; <br/>
-					- ``Caption`` &#x1F4DC; &#x2705; <br/>
-					- ``Version`` &#x1F4DC; &#x2705; <br/>
-					- ``BuildNumber`` &#x1F4DC; &#x2705; <br/>
-					- ``BuildType`` &#x1F4DC; &#x2705; <br/>
-					- ``OSType`` &#x1F4DC; &#x2705; <br/>
-					- ``RegisteredUser`` &#x1F4DC; &#x2705; <br/>
-					- ``OSArchitecture`` &#x1F4DC; &#x2705; <br/>
-					- ``ServicePackMajorVersion`` &#x1F4DC; &#x2705; <br/>
-					- ``ServicePackMinorVersion`` &#x1F4DC; &#x2705; <br/>
-	- Services &#x1F4DC; &#x2705; <br/>
-		- ``<cmdlet>`` ``Get-Service`` &#x1F4DC; &#x2705; <br/>
-			- <u>Status</u> | <u>Name</u> | <u>DisplayName</u> &#x1F4DC; &#x2705; <br/>
-		- Running | <u>Status</u> &#x1F4DC; &#x2705; <br/>
-			- ``<cmdlet>`` ``Where-Object`` &#x1F4DC; &#x2705; <br/>
-				- Via ``Get-Process``&#x1F4DC; &#x2705; <br/>
-			- ``<$_>`` | Ref | ``Get-Service`` &#x1F4DC; &#x2705; <br/>
-				- ``.Status`` &#x1F4DC; &#x2705; <br/>
-		- Script | Dot Sourcing | ``.\`` &#x1F4DC; &#x2705; <br/>
-			- ``<>.ps1`` &#x1F4DC; &#x2705; <br/>
-		- Help &#x1F4DC; &#x2705; <br/>
-			- ``<cmdlet>`` ``Get-Help`` &#x1F4DC; &#x2705; <br/>
-	- Built-in PS Functions &#x1F4DC; &#x2705; <br/>
-		- ~~Pre-compiled .NET~~ | Local Library &#x1F4DC; &#x2705; <br/>
-			- Module | Dir | ``var`` ``$env:PSModulePath`` &#x1F4DC; &#x2705; <br/>
-	- Alias &#x1F4DC; &#x2705; <br/>
-		- ``<cmdlet>`` ``Get-Alias`` &#x1F4DC; &#x2705; <br/>
-			- ``gcim`` | ``<cmdlet>`` ``Get-CimInstance`` &#x1F4DC; &#x2705; <br/>
-	- Custom PS Functions &#x1F4DC; &#x2705; <br/>
-		- ``function`` &#x1F4DC; &#x2705; <br/>
-			- ``<cmdlet>`` ``Import-Module`` | Relative Path &#x1F4DC; &#x2705; <br/>
-- Programming on Windows &#x1F4DC; &#x2705; <br/>
-	- Format &#x1F4DC; &#x2705; <br/>
-		- Portable Executable | ``PE`` &#x1F4DC; &#x2705; <br/>
-			- ``.exe`` | ``.dll`` &#x1F4DC; &#x2705; <br/>
-	- Component Object Model | ``COM`` &#x1F4DC; &#x2705; <br/>
-		- Code Wrapper &#x1F4DC; &#x2705; <br/>
-			- Lower-level Languages | ``C`` &#x1F4DC; &#x2705; <br/>
-		- Interprocess Communication | Streamlined &#x1F4DC; &#x2705; <br/>
-			- Excel Embedded Word &#x1F4DC; &#x2705; <br/>
-				- Excel Update | Reflected Word &#x1F4DC; &#x2705; <br/>
-		- Distributed Component Object Model | ``DCOM`` &#x1F4DC; &#x2705; <br/>
-			- Network Share &#x1F4DC; &#x2705; <br/>
-		- ``ActiveX`` | Framework &#x1F4DC; &#x2705; <br/>
-			- Code Wrapper | ``COM`` &#x1F4DC; &#x2705; <br/>
-				- Execute Code | Browser &#x1F4DC; &#x2705; <br/> 
-			- ~~Support~~ &#x1F4DC; &#x2705; <br/>
-				- Evolved | ``.NET`` | ``.NET Core`` &#x1F4DC; &#x2705; <br/>
-	- .NET Framework &#x1F4DC; &#x2705; <br/>
-		- ``C#`` | ``Visual Basic.NET`` &#x1F4DC; &#x2705; <br/>
-			- Wrappers &#x1F4DC; &#x2705; <br/>
-				- Windows API &#x1F4DC; &#x2705; <br/>
-				- COM Objects &#x1F4DC; &#x2705; <br/>
-		- Common Language Runtime | ``CLR`` &#x1F4DC; &#x2705; <br/>
-			- ``VM`` &#x1F4DC; &#x2705; <br/>
-				- Code &#x1F4DC; &#x2705; <br/>
-					- Local Vs Download | Differentiate &#x1F4DC; &#x2705; <br/>
-				- Execution &#x1F4DC; &#x2705; <br/>
-					- Elevated Privileges | Determine &#x1F4DC; &#x2705; <br/>
-	- .NET Core &#x1F4DC; &#x2705; <br/>
-		- ``.NET`` | Other OS &#x1F4DC; &#x2705; <br/>
-	- ``.NET 5`` &#x1F4DC; &#x2705; <br/>
-		- .NET Framework ``<==>`` .NET Core &#x1F4DC; &#x2705; <br/>
-- Windows Event Log &#x1F3A5; <br/>
-	- Windows Events &#x1F3A5; <br/>
-	- Powershell &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/6 </u> &#x1F6A7; <br/>
-- Empowering the Logs &#x1F4DC; <br/>
-	- System Monitor | ``Sysmon`` &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/2 </u> &#x1F6A7; <br/>
-	- Sysmon | Event Viewer &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/2 </u> &#x1F6A7; <br/>
-	- Sysmon | PowerShell &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/4 </u> &#x1F6A7; <br/>
-	- Remote Access | PowerShell Core &#x1F4DC; &#x1F3A5; &#x1F52C; <u> 0/2 </u> &#x1F6A7; <br/>
+- **Windows Processes** <br/>
+	- Windows Services <br/>
+		- ``services.msc`` <br/>
+			- Status <br/>
+				- Running <br/>
+				- Stopped <br/>
+			- Startup Type <br/>
+				- Manual <br/>
+				- Automatic <br/>
+				- Disabled <br/>
+- **Windows Registry** <br/>
+	- Hives <br/>
+	- Keys <br/>
+		- Name <br/>
+			- Load_On_Startup <br/>
+		- Type <br/>
+			- REG_SZ <br/>
+			- REG_DWORD <br/>
+		- Data <br/>
+	- Values <br/>
 <!--
 Theory:
 &#x1F4DC;
@@ -6443,8 +6329,8 @@ Lab Completed:
 &#x2705;
 -->
 <hr width=25%;>
-</details>
-<details open>
+</details> <!-- Windows Endpoint -->
+<details close>
     <summary><b>Windows Server Side Attacks &#x21A9;</b></summary>
 <!--
 &#x2B55; Skim / Future Priority
