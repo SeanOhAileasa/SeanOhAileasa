@@ -6289,7 +6289,7 @@ Credit: Rene Thorup
 18/02/2024
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - Windows Endpoint - PowerShell"
+"update repository OSDA ./soc-200 - Windows Endpoint - Windows Programming"
 -->
 
 - ***Windows Processes*** <br/>
@@ -6341,6 +6341,19 @@ Credit: Rene Thorup
 			- Command and Scripting Interpreter <br/>
 				- [ [Visual Basic](https://attack.mitre.org/techniques/T1059/005/) ] <br/>
 - ***PowerShell*** &#x1F3A5; <br/>
+- ***Windows Programming*** <br/>
+	- API <br/>
+		- Portable Executable | PE <br/>
+			- ***.exe*** <br/>
+			- ***.dll*** <br/>
+- ***Component Object Model*** | ***COM*** <br/>
+		- Wrapper <br/>
+	- Distributed Component Object Model | DCOM <br/>
+	- ~~ActiveX~~ <br/>
+- ***.NET*** | ***.NET Core*** <br/>
+	- .NET Framework | ``C#`` | ``Visual Basic.NET`` <br/>
+		- Common Language Runtime | CLR <br/>
+	- .NET Core <br/>
 <!--
 Theory:
 &#x1F4DC;
