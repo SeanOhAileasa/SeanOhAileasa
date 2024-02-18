@@ -6289,7 +6289,7 @@ Credit: Rene Thorup
 18/02/2024
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - Windows Endpoint - Windows Programming"
+"update repository OSDA ./soc-200 - Windows Endpoint - Windows Event Log"
 -->
 
 - ***Windows Processes*** <br/>
@@ -6346,14 +6346,38 @@ Credit: Rene Thorup
 		- Portable Executable | PE <br/>
 			- ***.exe*** <br/>
 			- ***.dll*** <br/>
-- ***Component Object Model*** | ***COM*** <br/>
-		- Wrapper <br/>
-	- Distributed Component Object Model | DCOM <br/>
-	- ~~ActiveX~~ <br/>
-- ***.NET*** | ***.NET Core*** <br/>
-	- .NET Framework | ``C#`` | ``Visual Basic.NET`` <br/>
-		- Common Language Runtime | CLR <br/>
-	- .NET Core <br/>
+	- ***Component Object Model*** | ***COM*** <br/>
+			- Wrapper <br/>
+		- Distributed Component Object Model | DCOM <br/>
+		- ~~ActiveX~~ <br/>
+	- ***.NET*** | ***.NET Core*** <br/>
+		- .NET Framework | ``C#`` | ``Visual Basic.NET`` <br/>
+			- Common Language Runtime | CLR <br/>
+		- .NET Core <br/>
+- ***Windows Event Log*** &#x1F3A5; <br/>
+	- Windows Events &#x1F3A5; <br/>
+		- ***C:\Windows\System32\winevt\Logs*** <br/> 
+			- ***.evtx*** <br/>
+		- Event Viewer <br/>
+			- ***eventvwr.exe*** <br/>
+	- PowerShell | Event Logs &#x1F3A5; <br/>
+		- ***Get-WinEvent*** <br/>
+			- ``-ListLog`` | ``<arg>`` <br/>
+				- Application <br/>
+				- Security <br/>
+				- Setup <br/>
+				- System <br/>
+			- ``-LogName`` | ``<arg>`` <br/>
+				- Security <br/>
+			- ``-FilterHashTable`` | ``<param>`` <br/>
+				- Hash Table <br/>
+			- ``|`` <br/>
+				- ``Select-Object`` <br/>
+					- ``-Property`` <br/>
+				- ``Where-Object`` <br/>
+					- ``{ $_.properties[<index>].value }`` <br/>
+						- ``-eq`` <br/>
+				- ``Format-List`` <br/>
 <!--
 Theory:
 &#x1F4DC;
