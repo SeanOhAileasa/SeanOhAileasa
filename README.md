@@ -6286,13 +6286,13 @@ Credit: Rene Thorup
 &#x1F4DC; Theory
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished 
-17/02/2024
+18/02/2024
 - ___ &#x1F4DC; &#x2705; <br/>
 "OSDA ./soc-200 - Windows Endpoint - VBScript"
-"update repository OSDA ./soc-200 - Windows Endpoint - Command Prompt - VBScript"
+"update repository OSDA ./soc-200 - Windows Endpoint - PowerShell"
 -->
 
-- **Windows Processes** <br/>
+- ***Windows Processes*** <br/>
 	- Windows Services <br/>
 		- ``services.msc`` <br/>
 			- Status <br/>
@@ -6302,7 +6302,7 @@ Credit: Rene Thorup
 				- Manual <br/>
 				- Automatic <br/>
 				- Disabled <br/>
-- **Windows Registry** <br/>
+- ***Windows Registry*** <br/>
 	- Hives <br/>
 	- Keys <br/>
 		- Name <br/>
@@ -6312,34 +6312,35 @@ Credit: Rene Thorup
 			- REG_DWORD <br/>
 		- Data <br/>
 	- Values <br/>
-- **Command Prompt** <br/>
-	- **cmd.exe** <br/>
+- ***Command Prompt*** <br/>
+	- ***cmd.exe*** <br/>
 		- Batch Files <br/>
-			- **user_hostname.bat** <br/>
-	- **.bat** <br/>
+			- ***user_hostname.bat*** <br/>
+	- ***.bat*** <br/>
 		- ``@ECHO OFF`` <br/>
 		- ``TITLE`` <br/>
 		- ``ECHO`` <br/>
 		- ``PAUSE`` <br/>
-- **VBScript** <br/>
-	- **.vbs** <br/>
-		- <u>Interpreter</u> | **cscript.exe** <br/>
-			- **osinfo.vbs** <br/>
-				- **C:\tools\windows_endpoint_information** <br/>
+- ***VBScript*** <br/>
+	- ***.vbs*** <br/>
+		- Interpreter | ***cscript.exe*** <br/>
+			- ***osinfo.vbs*** <br/>
+				- ***C:\tools\windows_endpoint_information*** <br/>
 	- WMIService | Windows Management Instrumentation <br/>
 		- ``objWMIService`` <br/>
 			- ``GetObject`` <br/>
 				- CIM | Common Information Model | ``cimv2`` <br/>
 			- ``Win32_OperatingSystem`` <br/>
 - MITRE ATT&CK <br/>			
-	- **.bat** <br/>
+	- ***.bat*** <br/>
 		- Execution <br/>
 			- Command and Scripting Interpreter <br/>
 				- [ [Windows Command Shell](https://attack.mitre.org/techniques/T1059/003/) ]<br/>
-	- **.vbs** <br/>
+	- ***.vbs*** <br/>
 		- Execution <br/>
 			- Command and Scripting Interpreter <br/>
 				- [ [Visual Basic](https://attack.mitre.org/techniques/T1059/005/) ] <br/>
+- ***PowerShell*** &#x1F3A5; <br/>
 <!--
 Theory:
 &#x1F4DC;
