@@ -18,11 +18,12 @@
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Cyber Engineer``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Cyber-Engineer.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Threat Visualizer Administration``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Threat-Visualizer-Administration.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
 | &nbsp;&nbsp;&nbsp;``___``&nbsp;&nbsp; | [[``Darktrace RESPOND/Network``](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/Attendance-Darktrace-RESPOND_Network.pdf)] <br/>Course Attendance <br/>``Certification Prerequisite``                   | ![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/dkt/badge.jpg?raw=true) |
-| &nbsp;&nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/verify-certificate?id=ba1fd57e1ab75c5e0ee149a04f290ccad108cb2f&k=191528b51e3f4ca49b88c3dc1ba64c91) ]<br/>Cyber Threat Intelligence 101<br/>Foundation Level Certification<br/>                   | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/badge.jpg?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/101-certificate.pdf) |
+| &nbsp;&nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/verify-certificate?id=ba1fd57e1ab75c5e0ee149a04f290ccad108cb2f&k=191528b51e3f4ca49b88c3dc1ba64c91) ]<br/>Foundation Level Cyber Threat Intelligence | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/badge.jpg?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/101-certificate.pdf) |
 | &nbsp;&nbsp;&nbsp;``pen-100``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``PEN-100``](https://portal.offsec.com/courses/pen-100) ] | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec/pen-100.png?raw=true)](https://www.credential.net/3e423f08-1915-447d-a38b-066112aeda2e) |
 | &nbsp;&nbsp;&nbsp;``soc-100``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``SOC-100``](https://portal.offsec.com/courses/soc-100) ] | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec/soc-100.png?raw=true)](https://www.credential.net/e283c036-c014-4edc-851e-b77ef6d1f0f3#gs.40vr8r) |
 | &nbsp;&nbsp;&nbsp;``web-100``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``WEB-100``](https://portal.offsec.com/courses/web-100) ] | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec/web-100.png?raw=true)](https://www.credential.net/ef140410-7432-4b7e-be3a-bc63f198a60d#gs.5wq787) |
 | &nbsp;&nbsp;&nbsp;``pen-210``&nbsp;&nbsp; | [ [``OffSec``](https://www.offsec.com/) ] <br/>[ [Learn One](https://www.offensive-security.com/learn/) ]<br/>[ [``OSWP``](https://portal.offsec.com/courses/pen-210) ] | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/offsec/oswp.png?raw=true)](https://www.credential.net/2944a8f0-b53f-4823-aace-84f1efd8bea0#gs.59nm31) |
+| &nbsp;&nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/verify-certificate?id=a6dfa3731dfccfb07fbbc36cdac9b0176daab7ba&k=191528b51e3f4ca49b88c3dc1ba64c91) ]<br/>Practitioner Level Cyber Threat Intelligence | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/ptt_cti_github.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/ptt-certificate.pdf) |
 
 <hr width=33%;> <!-- -->
 
@@ -1436,21 +1437,6 @@ Lab Completed:
 -->
 <hr width=25%;>
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </details> <!-- PEN-200 -->
 
