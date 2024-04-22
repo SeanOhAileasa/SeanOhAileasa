@@ -26,3 +26,22 @@
 | &nbsp;&nbsp;``syp-``&nbsp;&nbsp; | <br/>CompTIA Security+ <br/><br/>                               |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-security-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Security-plus-certificate.pdf)|
 | &nbsp;&nbsp;``nkp-``&nbsp;&nbsp; | <br/>CompTIA Network+ <br/><br/>                                  |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-network-plus-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-Network-plus-cecertificate.pdf)|
 | &nbsp;&nbsp;``itf-``&nbsp;&nbsp; | CompTIA ITF+ |[![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/comptia-it-fundamentals-itf-certification.png?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/comptia/CompTIA-IT-Fundamentals-certificate.pdf)|
+
+<!-- 
+
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished
+
+git reset HEAD~
+git push -f origin HEAD^:master // README.md
+
+git reset HEAD~
+git push -f origin HEAD^:main 
+
+](./rc/video/___BLANK___.mp4) ] 
+
+21/04/2024
+"update repository soc-200 ./soc-200"
+
+-->
