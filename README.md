@@ -50,6 +50,6 @@ git push -f origin HEAD^:main
 [L]ab
 
 22/04/2024
-"update repository OSDA ./soc-200 - [V] 4.3.3 PowerShell (4.3 Command Prompt, VBScript, and Powershell)"
+"update repository OSDA ./soc-200 - [T] 4.4 Programming on Windows"
 
 -->
