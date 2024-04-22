@@ -50,6 +50,6 @@ git push -f origin HEAD^:main
 [L]ab
 
 22/04/2024
-"update repository OSDA ./soc-200 - [T] 4.4 Programming on Windows"
+"update repository OSDA ./soc-200 - [T] 4.4.1 Component Object Model"
 
 -->
