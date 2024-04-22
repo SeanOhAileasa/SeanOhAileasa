@@ -39,7 +39,7 @@ git push -f origin HEAD^:master // README.md
 git reset HEAD~
 git push -f origin HEAD^:main 
 
-](./rc/video/___BLANK___.mp4) ] 
+](./hide/video/___BLANK___.mp4) ] 
 
 - ``
 - ``
@@ -50,6 +50,6 @@ git push -f origin HEAD^:main
 [L]ab
 
 22/04/2024
-"update repository OSDA ./soc-200 - [V] 4.5.2 PowerShell and Event Logs (4.5 Windows Event Log)"
+"update repository OSDA ./soc-200 - [V] 4.6.1 System Monitor (Sysmon) (4.6 Empowering the Logs)"
 
 -->
