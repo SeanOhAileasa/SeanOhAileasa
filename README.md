@@ -50,6 +50,6 @@ git push -f origin HEAD^:main
 [L]ab
 
 22/04/2024
-"update repository OSDA ./soc-200 - [V] 4.6.3 Sysmon and PowerShell (4.6 Empowering the Logs)"
+"update repository OSDA ./soc-200 - [V] 4.6.4 Remote Access with PowerShell Core (4.6 Empowering the Logs)"
 
 -->
