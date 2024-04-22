@@ -50,6 +50,6 @@ git push -f origin HEAD^:main
 [L]ab
 
 22/04/2024
-"update repository OSDA ./soc-200 - [T] 4.4.2 .NET and .NET Core" 
+"update repository OSDA ./soc-200 - [V] 4.5.1 Introduction to Windows Events (4.5 Windows Event Log)" 
 
 -->
