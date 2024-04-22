@@ -41,7 +41,11 @@ git push -f origin HEAD^:main
 
 ](./rc/video/___BLANK___.mp4) ] 
 
-21/04/2024
-"update repository soc-200 ./soc-200"
+[T]heory
+[V]ideo
+[L]ab
+
+22/04/2024
+"update repository OSDA ./soc-200 - [T] 4 Windows Endpoint Introduction"
 
 -->
