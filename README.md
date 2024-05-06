@@ -49,7 +49,7 @@ git push -f origin HEAD^:main
 [V]ideo
 [L]ab
 
-22/04/2024
-"update repository OSDA ./soc-200 - [V] 4.6.4 Remote Access with PowerShell Core (4.6 Empowering the Logs)"
+06/05/2024
+"update repository OSDA ./soc-200 - [V][T] 4 Windows Endpoint Introduction"
 
 -->
