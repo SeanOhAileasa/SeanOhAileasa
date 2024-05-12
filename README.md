@@ -50,6 +50,6 @@ git push -f origin HEAD^:main
 [L]ab
 
 12/05/2024
-"update repository OSDA ./soc-200 - [T] 5.1.1 The Security Account Manager (SAM) and Windows Authentication"
+"update repository OSDA ./soc-200 - [T] 5.1.2 Suspicious Logins"
 
 -->
