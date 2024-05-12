@@ -49,7 +49,7 @@ git push -f origin HEAD^:main
 [V]ideo
 [L]ab
 
-06/05/2024
-"update repository OSDA ./soc-200 - [V][T] 4 Windows Endpoint Introduction"
+12/05/2024
+"update repository OSDA ./soc-200 - [T] 5.1.1 The Security Account Manager (SAM) and Windows Authentication"
 
 -->
