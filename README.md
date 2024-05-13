@@ -49,7 +49,7 @@ git push -f origin HEAD^:main
 [V]ideo
 [L]ab
 
-12/05/2024
-"update repository OSDA ./soc-200 - [T] 5.1.2 Suspicious Logins"
+13/05/2024
+"update repository OSDA ./soc-200 - [T] 5.1.3 Brute Force Logins"
 
 -->
