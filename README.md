@@ -49,7 +49,7 @@ git push -f origin HEAD^:main
 [V]ideo
 [L]ab
 
-13/05/2024
-"update repository OSDA ./soc-200 - [T] Web Application Attacks 5.2.1 Internet Information Services (IIS)"
+19/05/2024
+"update repository OSDA ./soc-200 - [T][L: 2/2] 5.2.2 Local File Inclusion"
 
 -->
