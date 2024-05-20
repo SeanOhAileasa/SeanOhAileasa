@@ -68,6 +68,6 @@ ___LOGON___
 ```
 
 20/05/2024
-"update repository OSDA ./soc-200 - [T][L: 3/3] 4.3.1 Command Prompt"
+"update repository OSDA ./soc-200 - [T][L: 2/2] 4.3.2 Visual Basic Script"
 
 -->
