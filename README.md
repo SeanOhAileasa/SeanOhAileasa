@@ -49,7 +49,25 @@ git push -f origin HEAD^:main
 [V]ideo
 [L]ab
 
-19/05/2024
-"update repository OSDA ./soc-200 - [T][L: 2/2] 5.2.2 Local File Inclusion"
+Yes: &#x2705;
+No: &#x274C;
+
+```
+kali@kali:~/SOC-200/___LOC___$ # ___TOPIC___
+                                                                                                                                                                                                               
+kali@kali:~/SOC-200/___LOC___$ # IP - Credentials:
+                                                                                                                                                                                                               
+kali@kali:~/SOC-200/___LOC___$ #  / 
+
+kali@kali:~/SOC-200/___LOC___$ # IP - Credentials:
+                                                                                                                                                                                                                                                                                                                                                                                                                            
+kali@kali:~/SOC-200/___LOC___$ #  / 
+```
+```
+___LOGON___
+```
+
+20/05/2024
+"update repository OSDA ./soc-200 - [T][L: 3/3] 4.3.1 Command Prompt"
 
 -->
