@@ -1,5 +1,9 @@
-|**Pre-**|**CPD** (Reverse Chronological Order)|[``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master)|
+<details open> 
+	<summary><h3>'22/'24 Cybersecurity CPD&nbsp;&nbsp;&#x21A9;&#x1F513;&#x27A1;</h3></summary>
+
+|**Prefix**|**Reverse Chronological Order**|[``Log``](https://github.com/SeanOhAileasa/SeanOhAileasa/commits/master)|
 |:-----:| :-----------------------------------------------|:-----:|
+| &nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/verify-certificate?id=7a8f23dbe2bc2025d64cc9747a64c6ebb990ced2&k=191528b51e3f4ca49b88c3dc1ba64c91) ]<br/>Advanced Level Threat Intelligence Analyst | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/badge.jpg?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/altia-certificate.pdf) |
 | &nbsp;&nbsp;``___``&nbsp;&nbsp; | Cribl Certified Admin | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/cribl/admin.png?raw=true)](https://ccoecertificates.cribl.io/8f98ac2e-b3e2-4b4b-9839-fd531d778c1f) |
 | &nbsp;&nbsp;``___``&nbsp;&nbsp; | Cribl Certified User | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/cribl/ccoe.png?raw=true)](https://ccoecertificates.cribl.io/fa46c138-15a5-4ae5-bf3e-c1aab3d93e2b) |
 | &nbsp;&nbsp;``arc-``&nbsp;&nbsp; | [ [``arcX``](https://arcx.io/verify-certificate?id=a6dfa3731dfccfb07fbbc36cdac9b0176daab7ba&k=191528b51e3f4ca49b88c3dc1ba64c91) ]<br/>Practitioner Level Threat Intelligence Analyst | [![PASS](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/badge.jpg?raw=true)](https://github.com/SeanOhAileasa/SeanOhAileasa/blob/master/rc/arcx/ptt-certificate.pdf) |
@@ -66,8 +70,38 @@ kali@kali:~/SOC-200/___LOC___$ #  /
 ```
 ___LOGON___
 ```
+arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 20/05/2024
 "update repository OSDA ./soc-200 - [T][L: 2/2] 4.3.2 Visual Basic Script"
 
 -->
+</details> <!-- SOC-200 -->
+
+<hr width=33%;> <!-- -->
+<!--
+&#x2B55; Skim / Future Priority
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished 
+21/05/2023
+"add repository ./azs-introduction-to-azure-penetration-testing"
+-->
+
+<details open> 
+	<summary><h3>'20/'22 Data Analytics &#x21A9;&#x1F512;&#x27A1;</h3></summary>
+
+| **GMIT Higher Diploma in Data Analytics Programme:**           | Credits | Grade |
+| :--------------------------------------------------------------|:-------:|:-------:|
+| Machine Learning and Statistics (Python)                       | 5       | 79%     |
+| Multi-Paradigm Programming (C/Java/Python)                     | 5       | 73%     |
+| Data Representation (JS/API with Python)                       | 5       | 71%     |
+| Programming and Scripting (Python)                             | 10      | 75%     |
+| Computer Architecture and Technology Convergence               | 5       | 80%     |
+| Web Application Development (HTML/CSS/JavaScript)              | 5       | 80%     |
+| Applied Databases (SQL/MongoDB/Python)                         | 5       | 80%     |
+| Programming for Data Analysis (Python)                         | 10      | 75%     |
+| Fundamentals of Data Analysis (Python)                         | 5       | 83%     |
+| Computational Thinking with Algorithms (Python)                | 5       | 85%     |
+| Work Placement (Graded Pass/Fail)                              | 15      | PASS    |
+</details> <!-- END: Higher Diploma in Science in Computing (in Data Analytics) -->
