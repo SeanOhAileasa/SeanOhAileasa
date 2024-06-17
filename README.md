@@ -72,8 +72,8 @@ ___LOGON___
 ```
 arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
-20/05/2024
-"update repository OSDA ./soc-200 - [T][L: 2/2] 4.3.2 Visual Basic Script"
+17/06/2024
+"update repository OSDA ./soc-200 - [V] 9 Linux Endpoint Introduction - Linux Applications and Daemons"
 
 -->
 </details> <!-- SOC-200 -->
