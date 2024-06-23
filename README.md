@@ -72,8 +72,8 @@ ___LOGON___
 ```
 arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
-17/06/2024
-"update repository OSDA ./soc-200 - [V] 9 Linux Endpoint Introduction - Linux Applications and Daemons - Daemons"
+23/06/2024
+"update repository OSDA ./soc-200 - [L] 9 Linux Endpoint Introduction - Linux Applications and Daemons - Daemons"
 
 -->
 </details> <!-- SOC-200 -->
