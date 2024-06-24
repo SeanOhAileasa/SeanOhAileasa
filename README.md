@@ -4511,7 +4511,7 @@ display(HTML("<style>.container { width:100% !important; }</style>"))
 https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/    
 -->
 
-<details open>
+<details open> <!-- END: Linux Basics I -->
     <summary><b>Linux Basics I &#x21A9;</b></summary>
 <!-- 
 &#x1F4DC; Theory
@@ -4522,8 +4522,16 @@ https://htmlpreview.github.io/?https://github.com/SeanOhAileasa/
 -->
 
 - SEC-100 &#x21A9;
+- Introduction to Linux &#x1F52C; <u>(5)</u> &#x2705; <br/>
+- Command Line Basics &#x1F52C; <u>(14)</u> &#x2705; <br/>
+- Manuals and Help &#x1F52C; <u>(3)</u> &#x2705; <br/>
+- The Linux Filesystem &#x1F52C; <u>(6)</u> &#x2705; <br/>
+- The Linux Environment &#x1F52C; <u>(11)</u> &#x2705; <br/>
+- Linux File Management &#x1F52C; <u>(12)</u> &#x2705; <br/>
+- Piping and Redirection &#x1F52C; <u>(5)</u> &#x2705; <br/>
+- Searching and Text Manipulation &#x1F52C; <u>(6)</u> &#x2705; <br/>
 <hr width=25%;> 
-</details>
+</details> <!-- END: Linux Basics I -->
 <details open>
     <summary><b>Linux Basics II &#x21A9;</b></summary>
 <!-- 
@@ -6260,7 +6268,7 @@ Credit: Rene Thorup
 
 <hr width=33%;> <!-- -->
 
-<details close> <!-- START: SEC-100 -->
+<details open> <!-- START: SEC-100 -->
     <summary><b>SEC-100 &#x21A9;</b></summary><br/>
 
 <!--
@@ -6286,6 +6294,19 @@ git push -f origin HEAD^:main
 24/06/2024
 "add repository sec-100 ./sec-100"
 -->
+<details open> <!-- END: Introduction to CyberCore -->
+    <summary><b>Introduction to CyberCore &#x21A9;</b></summary>
+<!-- 
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished
+24/06/2023
+"update repository sec-100 ./sec-100 - Introduction to CyberCore"
+-->
+
+- Introduction to CyberCore &#x1F52C; &#x2705; <br/>
+<hr width=25%;> 
+</details> <!-- END: Introduction to CyberCore -->
 <details open> <!-- END: Linux Basics I -->
     <summary><b>Linux Basics I &#x21A9;</b></summary>
 <!-- 
