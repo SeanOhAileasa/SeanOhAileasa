@@ -6293,11 +6293,12 @@ git push -f origin HEAD^:main
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished
 24/06/2023
-"update repository sec-100 ./sec-100 - Linux Basics I - Command Line Basics"
+"update repository sec-100 ./sec-100 - Linux Basics I - The Linux Filesystem"
 -->
 
 - Introduction to Linux &#x1F52C; <u>(3)</u> &#x2705; <br/>
 - Command Line Basics &#x1F52C; <u>(9)</u> &#x2705; <br/>
+- The Linux Filesystem &#x1F52C; <u>(2)</u> &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Linux Basics I -->
 </details> <!-- END: SEC-100 -->
