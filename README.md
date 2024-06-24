@@ -6304,9 +6304,22 @@ git push -f origin HEAD^:main
 "update repository sec-100 ./sec-100 - Introduction to CyberCore"
 -->
 
-- Introduction to CyberCore &#x1F52C; &#x2705; <br/>
+- Introduction to CyberCore &#x2705; <br/>
 <hr width=25%;> 
 </details> <!-- END: Introduction to CyberCore -->
+<details open> <!-- END: Anatomy of Cybersecurity -->
+    <summary><b>Anatomy of Cybersecurity &#x21A9;</b></summary>
+<!-- 
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished
+24/06/2023
+"update repository sec-100 ./sec-100 - Anatomy of Cybersecurity"
+-->
+
+- Anatomy of Cybersecurity &#x2705; <br/>
+<hr width=25%;> 
+</details> <!-- END: Anatomy of Cybersecurity -->
 <details open> <!-- END: Linux Basics I -->
     <summary><b>Linux Basics I &#x21A9;</b></summary>
 <!-- 
