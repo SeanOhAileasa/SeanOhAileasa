@@ -6285,6 +6285,19 @@ git push -f origin HEAD^:main
 24/06/2024
 "add repository sec-100 ./sec-100"
 -->
+<details open> <!-- END: Linux Basics I -->
+    <summary><b>Linux Basics I &#x21A9;</b></summary>
+<!-- 
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished
+24/06/2023
+"update repository sec-100 ./sec-100 - Linux Basics I - Introduction to Linux"
+-->
+
+- Introduction to Linux &#x1F52C; <u>(3)</u> &#x2705; <br/>
+<hr width=25%;> 
+</details> <!-- END: Linux Basics I -->
 </details> <!-- END: SEC-100 -->
 
 <hr width=33%;> 
