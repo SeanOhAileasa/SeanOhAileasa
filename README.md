@@ -6268,7 +6268,7 @@ Credit: Rene Thorup
 
 <hr width=33%;> <!-- -->
 
-<details open> <!-- START: SEC-100 -->
+<details close> <!-- START: SEC-100 -->
     <summary><b>SEC-100 &#x21A9;</b></summary><br/>
 
 <!--
@@ -6418,6 +6418,50 @@ COMMENT COMMENT COMMENT
 			- Impact &#x1F4DC; &#x2705; <br/>
 <hr width=25%;>
 </details> <!-- Attacker Methodology -->
+<!-- 
+
+&#x1F4DC; Theory
+&#x1F6A7; Work-in-Progress / WIP
+&#x2705; Semester / Topic Finished
+
+git reset HEAD~
+git push -f origin HEAD^:master // README.md
+
+git reset HEAD~
+git push -f origin HEAD^:main 
+
+](./hide/video/___BLANK___.mp4) ] 
+
+- ``
+- ``
+- ``
+
+[T]heory
+[V]ideo
+[L]ab
+
+Yes: &#x2705;
+No: &#x274C;
+
+```
+kali@kali:~/SOC-200/___LOC___$ # ___TOPIC___
+                                                                                                                                                                                                               
+kali@kali:~/SOC-200/___LOC___$ # IP - Credentials:
+                                                                                                                                                                                                               
+kali@kali:~/SOC-200/___LOC___$ #  / 
+
+kali@kali:~/SOC-200/___LOC___$ # IP - Credentials:
+                                                                                                                                                                                                                                                                                                                                                                                                                            
+kali@kali:~/SOC-200/___LOC___$ #  / 
+```
+```
+___LOGON___
+```
+
+01/07/2024
+"update repository OSDA ./soc-200 - [L] 9 Linux Endpoint Introduction - Linux Applications and Daemons - Web Daemon Logging"
+
+-->
 </details> <!-- SOC-200 -->
 
 <hr width=33%;> <!-- -->
