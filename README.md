@@ -72,8 +72,12 @@ ___LOGON___
 ```
 arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
-23/06/2024
-"update repository OSDA ./soc-200 - [L] 9 Linux Endpoint Introduction - Linux Applications and Daemons - Rsyslog Meets Journal"
+07/07/2024
+<<<<<<< HEAD
+"update repository OSDA ./soc-200 - [V] 9 Linux Endpoint Introduction - Automating the Defensive Analysis - Python for Log Analysis"
+=======
+"update repository OSDA ./soc-200 - [L] 9 Linux Endpoint Introduction - Automating the Defensive Analysis - Python for Log Analysis"
+>>>>>>> b3a913898b313465c28e3ecc57666d7f3e8f3df3
 
 -->
 <details close>
@@ -6459,7 +6463,7 @@ ___LOGON___
 ```
 
 01/07/2024
-"update repository OSDA ./soc-200 - [L] 9 Linux Endpoint Introduction - Linux Applications and Daemons - Web Daemon Logging"
+"update repository OSDA ./soc-200 - [L] 9 Linux Endpoint Introduction - Automating the Defensive Analysis - Web Daemon Logging"
 
 -->
 </details> <!-- SOC-200 -->
