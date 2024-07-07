@@ -37,8 +37,9 @@
 &#x1F6A7; Work-in-Progress / WIP
 &#x2705; Semester / Topic Finished
 
+// README.md
 git reset HEAD~
-git push -f origin HEAD^:master // README.md
+git push -f origin HEAD^:master
 
 git reset HEAD~
 git push -f origin HEAD^:main 
@@ -73,11 +74,8 @@ ___LOGON___
 arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 07/07/2024
-<<<<<<< HEAD
+
 "update repository OSDA ./soc-200 - [V] 9 Linux Endpoint Introduction - Automating the Defensive Analysis - Python for Log Analysis"
-=======
-"update repository OSDA ./soc-200 - [L] 9 Linux Endpoint Introduction - Automating the Defensive Analysis - Python for Log Analysis"
->>>>>>> b3a913898b313465c28e3ecc57666d7f3e8f3df3
 
 -->
 <details close>
@@ -6462,8 +6460,8 @@ kali@kali:~/SOC-200/___LOC___$ #  /
 ___LOGON___
 ```
 
-01/07/2024
-"update repository OSDA ./soc-200 - [L] 9 Linux Endpoint Introduction - Automating the Defensive Analysis - Web Daemon Logging"
+07/07/2024
+"update repository OSDA ./soc-200 - [V] 9 Linux Endpoint Introduction - Automating the Defensive Analysis - DevOps Tools"
 
 -->
 </details> <!-- SOC-200 -->
