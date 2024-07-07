@@ -75,7 +75,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 07/07/2024
 
-"update repository OSDA ./soc-200 - [V] 9 Linux Endpoint Introduction - Automating the Defensive Analysis - Python for Log Analysis"
+"update repository OSDA ./soc-200 - [V] 9 Linux Endpoint Introduction - Automating the Defensive Analysis - Hunting for Login Attempts"
 
 -->
 <details close>
