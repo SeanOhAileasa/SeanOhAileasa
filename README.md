@@ -73,9 +73,9 @@ ___LOGON___
 ```
 arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
-22/07/2024
+28/07/2024
 
-"update repository OSDA ./soc-200 - [V] 11 Linux Privilege Escalation - Attacking the Users - Becoming a User"
+"update repository OSDA ./soc-200 - [V] 11 Linux Privilege Escalation - Attacking the Users - Backdooring a User"
 
 -->
 <details close>
