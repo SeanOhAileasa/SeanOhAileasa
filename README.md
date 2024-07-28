@@ -75,7 +75,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 28/07/2024
 
-"update repository OSDA ./soc-200 - [V] 12 Network Detections - Detecting Attacks - Known Vulnerabilities"
+"update repository OSDA ./soc-200 - [V] 12 Network Detections - Detecting Attacks - Novel Vulnerabilities"
 
 -->
 <details close>
