@@ -73,9 +73,9 @@ ___LOGON___
 ```
 arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
-28/07/2024
+11/08/2024
 
-"update repository OSDA ./soc-200 - [V] 12 Network Detections - Detecting C2 Infrastructure - Network Communications"
+"update repository OSDA ./soc-200 - [V] 18 SIEM Part One: Intro to ELK - Log Management Introduction - Elastic Stack ELK"
 
 -->
 <details close>
