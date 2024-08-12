@@ -75,7 +75,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 11/08/2024
 
-"update repository OSDA ./soc-200 - [V] 18 SIEM Part One: Intro to ELK - Log Management Introduction - ELK Integrations with OSQuery"
+"update repository OSDA ./soc-200 - [V] 18 SIEM Part One: Intro to ELK - ELK Security - Rules and Alerts"
 
 -->
 <details close>
