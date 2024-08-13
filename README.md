@@ -75,7 +75,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 13/08/2024
 
-"update repository OSDA ./soc-200 - [V] 19 SIEM Part Two: Combining the Logs - Phase Three: Persistence and Privilege Escalation on Application Server - Phase Three Detection Rules"
+"update repository OSDA ./soc-200 - [V] 19 SIEM Part Two: Combining the Logs - Phase Four: Perform Actions on Domain Controller"
 
 -->
 <details close>
