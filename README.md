@@ -73,9 +73,9 @@ ___LOGON___
 ```
 arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
-12/08/2024
+13/08/2024
 
-"update repository OSDA ./soc-200 - [V] 19 SIEM Part Two: Combining the Logs - Phase One: Web Server Initial Access - Enumeration and Command Injection of web01"
+"update repository OSDA ./soc-200 - [V] 19 SIEM Part Two: Combining the Logs - Phase One: Web Server Initial Access - Phase One Detection Rules"
 
 -->
 <details close>
