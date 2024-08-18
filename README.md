@@ -77,6 +77,10 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 "update repository OSDA ./soc-200 - [V] 19 SIEM Part Two: Combining the Logs - Phase Four: Perform Actions on Domain Controller - Dump AD Database - Phase Four Detection Rules"
 
+18/08/2024
+
+"update repository OSDA ./soc-200 - [L] Week 1"
+
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
