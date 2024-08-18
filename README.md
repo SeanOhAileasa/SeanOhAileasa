@@ -79,7 +79,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 18/08/2024
 
-"update repository OSDA ./soc-200 - [L] Week 1"
+"update repository OSDA ./soc-200 - [L] Week 2 - Phase 1"
 
 -->
 <details close>
