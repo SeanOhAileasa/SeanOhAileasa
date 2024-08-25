@@ -85,6 +85,8 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 "update repository pen-103 ./klc/p.md - Linux Fundamentals - The User's Home Directory ['~', echo $HOME, /home/kali, 'application configuration files ...[hidden]', '~/.', ls -a, '~/.ssh/', dotfiles]"
 
+"update repository OSDA ./soc-200 - [V] 9 Linux Endpoint Introduction - Linux Applications and Daemons"
+
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
