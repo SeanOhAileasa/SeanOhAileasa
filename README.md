@@ -83,7 +83,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 25/08/2024
 
-"update repository pen-103 ./klc/p.md - Linux Fundamentals - The Filesystem Hierarchy Standard ['FHS']"
+"update repository pen-103 ./klc/p.md - Linux Fundamentals - The User's Home Directory ['~', echo $HOME, /home/kali, 'application configuration files ...[hidden]', '~/.', ls -a, '~/.ssh/', dotfiles]"
 
 -->
 <details close>
