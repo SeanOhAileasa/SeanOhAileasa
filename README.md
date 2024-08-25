@@ -83,7 +83,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 25/08/2024
 
-"update repository pen-103 ./klc/p.md - Linux Fundamentals - Managing Processes ['kernal', 'PID', 'time slices']"
+"update repository pen-103 ./klc/p.md - Linux Fundamentals - Rights Management ['opening a file requires the kernel to check the process identity against access permissions']"
 
 -->
 <details close>
