@@ -83,7 +83,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 25/08/2024
 
-"update repository pen-103 ./klc/p.md - Linux Fundamentals - Rights Management ['opening a file requires the kernel to check the process identity against access permissions']"
+"update repository pen-103 ./klc/p.md - Linux Fundamentals - How To Get a Command Line [QTerminal, 'virtual consoles (x6)', [CTRL+ALT+F1 - CTRL+ALT+F6], 'text mode omit CTRL', shell, 'command-line interpreter', 'default ZSH', 'normal user: $', 'super user: #']"
 
 -->
 <details close>
