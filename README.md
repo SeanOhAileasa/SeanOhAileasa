@@ -83,7 +83,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 25/08/2024
 
-"update repository pen-103 ./klc/p.md - Linux Fundamentals - Driving Hardware [/proc/, /sys/, /dev/, 'block and character device files', ls -l, b, c, ioctl]"
+"update repository pen-103 ./klc/p.md - Linux Fundamentals - Unifying File Systems ['/', mount, 'file system formats', ext2, ext3, ext4, 'prepare a file system', 'formatting', mkfs.ext4, 'partition', /dev/sda1]"
 
 -->
 <details close>
