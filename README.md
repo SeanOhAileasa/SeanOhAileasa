@@ -81,6 +81,10 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 "update repository OSDA ./soc-200 - [L] Week 2 - Phase 1"
 
+25/08/2024
+
+"update repository pen-103 ./klc/p.md"
+
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
