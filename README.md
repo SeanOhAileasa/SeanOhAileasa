@@ -83,7 +83,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 25/08/2024
 
-"update repository pen-103 ./klc/p.md - Linux Fundamentals - Command Line Basics ['back to former working directory', cd -, 'parent directory', '..', 'current directoy', '.', mkdir <directory>, 'existing empty directory', rmdir <directory>, mv, rm, cp <source-file> <target-file>, 'shell executes commands [...] directory listed in the PATH environment variable', echo $PATH, /bin, /sbin, /usr/bin, /usr/sbin, which, type, 'environment variables [...] global settings [...] contectual but inheritable', 'system-wide', /etc/profile, 'per-user', ~/.profile, 'not specific to command-line interpreters', /etc/environment, 'injected into all user sessions [...] Pluggable Authentication Module (PAM) [...] no shell is executed']"
+"update repository pen-103 ./klc/p.md - Linux Fundamentals - The Filesystem Hierarchy Standard ['FHS']"
 
 -->
 <details close>
