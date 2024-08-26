@@ -89,7 +89,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 26/08/2024
 
-"update repository pen-103 ./klc/p.md - Linux Fundamentals - Discovering the Hardware ['kernel exports details [...] detected hardware [virtual filesystems]', /proc/, /sys/, 'PCI devices [_pciutils* package]', lspci, 'USB devices [_usbutils* package]', lsusb, 'PCMCIA cards [pcmciautils package] [apt update, apt install pcmciautils]', lspcmcia, 'more detail', -v, 'list communication resources used by devices', lsdev, 'combination of all programs', lshw]"
+"update repository pen-103 ./klc/p.md - About Kali Linux"
 
 > SOC-200 (Linux)
 
