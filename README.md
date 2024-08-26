@@ -73,17 +73,25 @@ ___LOGON___
 ```
 arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
+> SOC-200
+
 13/08/2024
 
 "update repository OSDA ./soc-200 - [V] 19 SIEM Part Two: Combining the Logs - Phase Four: Perform Actions on Domain Controller - Dump AD Database - Phase Four Detection Rules"
+
+> SOC-200 Labs
 
 18/08/2024
 
 "update repository OSDA ./soc-200 - [L] Week 2 - Phase 1"
 
-25/08/2024
+> PEN-103 (Kali/Linux)
 
-"update repository pen-103 ./klc/p.md - Linux Fundamentals - The User's Home Directory ['~', echo $HOME, /home/kali, 'application configuration files ...[hidden]', '~/.', ls -a, '~/.ssh/', dotfiles]"
+26/08/2024
+
+"update repository pen-103 ./klc/p.md - Linux Fundamentals - Displaying and Modifying Text Files [cat file, 'pager', less, more, editor, 'simplest files [...] created directly [...] command interpreter [...] redirection', command > file, command >> file]"
+
+> SOC-200 (Linux)
 
 "update repository OSDA ./soc-200 - [V] 9 Linux Endpoint Introduction - Linux Applications and Daemons"
 
