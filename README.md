@@ -89,7 +89,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 26/08/2024
 
-"update repository pen-103 ./klc/p.md - Linux Fundamentals - Getting System Information and Logs ['information on memory', free, 'options [...] to display in mebibytes [MiB] or in gibibytes [GiB]', -m, -g, 'available disk space on each of the disks mounted in the file system [disk free]', df, 'human readable', -h, 'identity of the user [list of groups] running the session', id, 'documenting kernel name/hostname/kernel release/kernel version/machine type/OS', uname -a, 'retrive kernal logs', dmesg, 'query systemd journal [stores multiple logs ... stdout/stderr output of services / syslog messages / kernal logs]', journalctl, 'reverse [...] newer messages', journalctl -r, 'print new log entries as they are appended to its database', journalctl -f, 'limit the messages to those emitted by a specific systemd unit', journalctl -u ssh.service"
+"update repository pen-103 ./klc/p.md - Linux Fundamentals - Discovering the Hardware ['kernel exports details [...] detected hardware [virtual filesystems]', /proc/, /sys/, 'PCI devices [_pciutils* package]', lspci, 'USB devices [_usbutils* package]', lsusb, 'PCMCIA cards [pcmciautils package] [apt update, apt install pcmciautils]', lspcmcia, 'more detail', -v, 'list communication resources used by devices', lsdev, 'combination of all programs', lshw]"
 
 > SOC-200 (Linux)
 
