@@ -89,7 +89,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 26/08/2024
 
-"update repository pen-103 ./klc/p.md - Linux Fundamentals - Displaying and Modifying Text Files [cat file, 'pager', less, more, editor, 'simplest files [...] created directly [...] command interpreter [...] redirection', command > file, command >> file]"
+"update repository pen-103 ./klc/p.md - Linux Fundamentals - Searching for Files and within Files ['find <directory criteria>', file <directory> -name <filename>, 'use common wildcards', file <directory> -name "<filename*>", 'grep <expression> <files>', 'recursive search [...] on all files contained in the directory', -r]"
 
 > SOC-200 (Linux)
 
