@@ -89,7 +89,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 26/08/2024
 
-"update repository pen-103 ./klc/p.md - Linux Fundamentals - Searching for Files and within Files ['find <directory criteria>', file <directory> -name <filename>, 'use common wildcards', file <directory> -name "<filename*>", 'grep <expression> <files>', 'recursive search [...] on all files contained in the directory', -r]"
+"update repository pen-103 ./klc/p.md - Linux Fundamentals - Managing Processes ['processes currently running', ps aux, 'send [pid] a signal', kill -signal <pid>, 'terminate gracefully', TERM, 'forced kill', KILL, 'run programs in the background [...] background process', &, jobs, 'restore job to the foreground', fg %<job-number>, 'pause [...] process [...] resumes control [...] command line', CTRL+Z, 'restarted in the background', bg %<job-number>]"
 
 > SOC-200 (Linux)
 
@@ -100,6 +100,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
 
 <details close>
+	
 <!--
 24/06/2022
 "update repository ./itf-cybersecurity-apprenticeship (Exam - CompITA IT Fundamentals)"
