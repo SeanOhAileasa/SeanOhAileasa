@@ -87,9 +87,9 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 > PEN-103 (Kali/Linux)
 
-01/09/2024
+02/09/2024
 
-"update repository pen-103 ./klc/p.md - Configuring Kali Linux - Configuring the Network"
+"update repository pen-103 ./klc/p.md - Configuring Kali Linux - Managing Unix Users and Unix Groups"
 
 > SOC-200 (Linux)
 
