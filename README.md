@@ -89,7 +89,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 18/09/2024
 
-"update repository pen-103 ./klc/p.md - Securing and Monitoring Kali Linux"
+"update repository pen-103 ./klc/p.md - Debian Package Management"
 
 > SOC-200 (Linux)
 
