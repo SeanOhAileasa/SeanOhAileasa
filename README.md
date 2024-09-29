@@ -81,9 +81,9 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 > SOC-200 Labs
 
-18/08/2024
+29/09/2024
 
-"update repository OSDA ./soc-200 - [L] Week 2 - Phase 1"
+"update repository OSDA ./soc-200 - [L] Week 1"
 
 > PEN-103 (Kali/Linux)
 
