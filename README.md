@@ -103,7 +103,7 @@ MTU: Malware Investigations
 
 MTU: Computer Forensics
 07/10/2024
-"update repository mtu ./computer/forensics.md - Lab: Introductory File System Forensics - Create a forensic disk image"
+"update repository mtu ./computer/forensics.md - Lab: Introductory File System Forensics - Perform basic analysis using The Sleuth Kit"
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
