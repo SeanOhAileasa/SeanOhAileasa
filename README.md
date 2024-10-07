@@ -96,6 +96,15 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 "update repository OSDA ./soc-200 - [V] 9 Linux Endpoint Introduction - Linux Applications and Daemons"
 
 -->
+<!--
+MTU
+
+06/10/2024
+"update repository mtu ./malware/investigations.md - Lab: Analyzing Potential Malware"
+
+07/10/2024
+"update repository mtu ./computer/forensics.md - Lab: Introductory File System Forensics - Create a forensic disk image"
+-->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
 
