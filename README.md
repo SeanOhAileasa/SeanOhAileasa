@@ -103,7 +103,7 @@ MTU: Malware Investigations
 
 MTU: Computer Forensics
 07/10/2024
-"update repository mtu ./computer/forensics.md - Lab: Introductory File System Forensics - Recover deleted images and videos"
+"update repository mtu ./computer/forensics.md - Lab: Introductory File System Forensics - Generate an Autopsy report"
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
