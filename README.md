@@ -97,11 +97,11 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 -->
 <!--
-MTU
-
+MTU: Malware Investigations
 06/10/2024
 "update repository mtu ./malware/investigations.md - Lab: Analyzing Potential Malware"
 
+MTU: Computer Forensics
 07/10/2024
 "update repository mtu ./computer/forensics.md - Lab: Introductory File System Forensics - Create a forensic disk image"
 -->
