@@ -102,8 +102,8 @@ MTU: Malware Investigations
 "update repository mtu ./malware/investigations.md - Lab: Analyzing Potential Malware"
 
 MTU: Computer Forensics
-07/10/2024
-"update repository mtu ./computer/forensics.md - Lab: Introductory File System Forensics - Generate an Autopsy report"
+14/10/2024
+"update repository mtu ./computer/forensics.md - Lab: Windows Forensics Artifacts - Inspect the Windows Registry"
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
