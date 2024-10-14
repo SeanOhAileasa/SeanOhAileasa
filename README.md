@@ -103,7 +103,7 @@ MTU: Malware Investigations
 
 MTU: Computer Forensics
 14/10/2024
-"update repository mtu ./computer/forensics.md - Lab: Windows Forensics Artifacts - Forensic Analysis of the Recycle Bin"
+"update repository mtu ./computer/forensics.md - Lab: Windows Forensics Artifacts - Extract information from LNK Files"
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
