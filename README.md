@@ -81,9 +81,9 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 > SOC-200 Labs
 
-29/09/2024
+15/10/2024
 
-"update repository OSDA ./soc-200 - [L] Week 1"
+"update repository OSDA ./soc-200 - [L] Challenge 1"
 
 > PEN-103 (Kali/Linux)
 
@@ -103,7 +103,7 @@ MTU: Malware Investigations
 
 MTU: Computer Forensics
 14/10/2024
-"update repository mtu ./computer/forensics.md - Lab: Windows Forensics Artifacts - Explore information in JumpList Files"
+"update repository mtu ./computer/forensics.md - Lab: Windows Forensics Artifacts - Discover recently run programs"
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
