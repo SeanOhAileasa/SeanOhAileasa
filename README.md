@@ -83,7 +83,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 15/10/2024
 
-"update repository OSDA ./soc-200 - [L] Challenge 1"
+"update repository OSDA ./soc-200 - [L] SIEM"
 
 > PEN-103 (Kali/Linux)
 
