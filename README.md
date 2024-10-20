@@ -103,7 +103,7 @@ MTU: Malware Investigations
 
 MTU: Computer Forensics
 20/10/2024
-"update repository mtu ./computer/forensics.md - Lab: Windows Forensics Artifacts - Find accesses to file servers"
+"update repository mtu ./computer/forensics.md - Lab: Introduction to Memory Analysis with Volatility - Get Started with Volatility - Examine Running Processes, DLLs, and Commands"
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
