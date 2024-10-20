@@ -103,7 +103,7 @@ MTU: Malware Investigations
 
 MTU: Computer Forensics
 20/10/2024
-"update repository mtu ./computer/forensics.md - Lab: Windows Forensics Artifacts - [Review] Explore information in JumpList Files - [New] Discover recently run programs"
+"update repository mtu ./computer/forensics.md - Lab: Windows Forensics Artifacts - Get times of recently run programs"
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
