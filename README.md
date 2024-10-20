@@ -103,8 +103,7 @@ MTU: Malware Investigations
 
 MTU: Computer Forensics
 20/10/2024
-"update repository mtu ./computer/forensics.md - Lab: Windows Forensics Artifacts - [Review] Inspect the Windows Registry - Use RegRipper to Extract Information from Registry Hives - Forensic Analysis of the Recycle Bin - Extract information from LNK Files"
-
+"update repository mtu ./computer/forensics.md - Lab: Windows Forensics Artifacts - [Review] Explore information in JumpList Files - [New] Discover recently run programs"
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
