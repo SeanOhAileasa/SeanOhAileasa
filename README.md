@@ -102,8 +102,8 @@ MTU: Malware Investigations
 "update repository mtu ./malware/investigations.md - Lab: Analyzing Potential Malware"
 
 MTU: Computer Forensics
-20/10/2024
-"update repository mtu ./computer/forensics.md - Lab: Introduction to Memory Analysis with Volatility - Get Started with Volatility - Examine Running Processes, DLLs, and Commands"
+21/10/2024
+"update repository mtu ./computer/forensics.md - Lab: Introduction to Memory Analysis with Volatility - Analyze Network Activity"
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
