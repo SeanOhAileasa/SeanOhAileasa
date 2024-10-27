@@ -103,7 +103,7 @@ MTU: Malware Investigations
 
 MTU: Computer Forensics
 27/10/2024
-"update repository mtu ./computer/forensics.md - Lab: Search For Malware Artifacts - Find Potentially Malicious Memory Regions"
+"update repository mtu ./computer/forensics.md - Lab: Search For Malware Artifacts - Enumerate Drivers"
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
