@@ -103,7 +103,7 @@ MTU: Malware Investigations
 
 MTU: Computer Forensics
 27/10/2024
-"update repository mtu ./computer/forensics.md - Lab: Search For Malware Artifacts - Find Hidden Processes"
+"update repository mtu ./computer/forensics.md - Lab: Search For Malware Artifacts - Look for Hidden DLLs"
 -->
 <details close>
 	<summary><h4>ICT Associate Apprenticeship Programme (Cybersecurity) &#x21A9; </h4></summary>
