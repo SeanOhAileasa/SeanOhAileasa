@@ -91,6 +91,12 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 "update repository pen-103 ./klc/p.md - Kali Linux in the Enterprise"
 
+> SOC-200 (Windows)
+
+13/11/2024
+
+"update repository OSDA ./soc-200 - [V] windows-server-side-attacks \ credential-abuse \ brute-force-logins"
+
 > SOC-200 (Linux)
 
 "update repository OSDA ./soc-200 - [V] 9 Linux Endpoint Introduction - Linux Applications and Daemons"
