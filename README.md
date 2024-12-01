@@ -95,7 +95,7 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 01/12/2024
 
-"update repository OSDA ./soc-200 - [Windows] windows-endpoint-introduction\command-prompt-vbscript-and-powershell\command-prompt"
+"update repository OSDA ./soc-200 - [Windows] windows-endpoint-introduction\command-prompt-vbscript-and-powershell\visual-basic-script-vbscript"
 
 > SOC-200 (Linux)
 
