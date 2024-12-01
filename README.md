@@ -93,9 +93,9 @@ arcX Cyber Threat Intelligence Advanced - Status: Pass.
 
 > SOC-200 (Windows)
 
-13/11/2024
+01/12/2024
 
-"update repository OSDA ./soc-200 - [V] windows-server-side-attacks \ credential-abuse \ brute-force-logins"
+"update repository OSDA ./soc-200 - [Windows] windows-endpoint-introduction\command-prompt-vbscript-and-powershell\command-prompt"
 
 > SOC-200 (Linux)
 
